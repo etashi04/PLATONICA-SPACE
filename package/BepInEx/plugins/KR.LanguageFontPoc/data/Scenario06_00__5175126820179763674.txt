@@ -1,0 +1,4 @@
+@story	회상	Reminiscing
+	지금도 가끔 떠올린다.	I still reminisce about it sometimes.
+	아주 오래전──	It's been quite a while since then...
+	엘라라 일행과 그 기억의 공간을 헤매고 다녔던 때를.	When I was stuck in that strange place with Elara and the others.

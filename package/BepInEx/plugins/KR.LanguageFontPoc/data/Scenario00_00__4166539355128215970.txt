@@ -1,0 +1,231 @@
+@story	다섯 번째 각성	The Fifth Awakening
+	이번이 몇 번째일까.	How many times has it been?
+	눈을 뜨면 언제나 모르는 방에 있다.	Every time I wake up, I find myself in an unfamiliar room.
+	여기가 어디인지 모르겠다.	I don't know where I am.
+	내가 누구인지 모르겠다.	I don't even know who I am.
+	내가 살아온 삶에 대한 기억은 아무것도 없고,	I have no memories of the life I'm supposed to have lived.
+	하지만 이렇게 몇 번이나 깨어났다는 것만은 기억한다.	All I remember is waking up over and over in this strange place.
+	오늘로──그래, 다섯째 날이다.	And today... makes it the fifth day.
+	알고 있는 것은──	I know very little about this place.
+	눈을 뜰 때마다 방의 배치가 바뀐다는 것.	I know that every day, the rooms seem to switch places.
+	어디에도 출구가 없다는 것.	I know that there is no exit.
+	그리고──이곳에는 나 말고도 기억을 잃은 사람들이 있다는 것.	And also... I know that there are other people in here, and all of them have lost their memories.
+elara	……아.	Ah...
+elara	일어났어?	Are you awake?
+	방 안쪽에서 소녀가 말을 걸어온다.	I heard a girl call to me from the back of the room.
+@selection	일어났어.	I'm awake.
+@selection	…………	...
+elara	있잖아.	So...
+elara	재밌는 걸 찾았는데.	I found something interesting.
+elara	……재밌는 물건이라기보다. 재밌는 일? 이라고 해야 하나.	I call it a 'thing' but it's not that. Not exactly.
+elara	잠깐 얘기할래?	Can we talk for a bit?
+@story	삽	Shovel
+elara	아까 있잖아.	You see, earlier...
+elara	방 안에서 『삽』을 주웠거든.	I found a shovel in the room.
+elara	이 테이블에 『삽』을 올려 봤는데,	I brought it here and put it on this table.
+elara	뭐랄까……	And then...
+elara	이미지? 같은 게 보였거든.	I had some kind of...vision
+elara	그거…… 뭐였을까.	I wonder what that was.
+elara	…………	...
+elara	있잖아.	You know...
+elara	『삽』, 아직 이 방 어딘가에 떨어져 있을 것 같으니까,	I think the shovel is still in this room somewhere.
+elara	너도 한번 해 볼래?	Why don't you try it out too?
+@story	누군가의 기억	Someone's Memory
+elara	보였어?	Did you see it?
+elara	보였지?	You did, didn't you?
+elara	……그보다 삽도 사라졌고.	Huh...the shovel's disappeared.
+elara	이게 대체 뭘까.	What exactly was that?
+elara	누군가의 기억?	Could it be someone's memory?
+elara	그렇다면…… 누구 거지?	But... whose memory?
+elara	내 거?	Mine?
+elara	네 거?	Yours?
+elara	아니면……	Or...
+elara	음……	Hmmm...
+elara	또 뭔가 일어날까?	Maybe we could have other visions like that.
+elara	이 방 문을 열어 보니까 옆에 다른 방도 있는 것 같더라.	I tried opening the door, and there was another room on the other side.
+elara	여러 물건을 찾아서 여러 방에서 시험해 보자.	Why don't we try looking for more stuff and see what happens?
+@story	조이와 카트리나	Zoe and Katrina
+zoe	오. 일어났네.	You're awake.
+katrina	어머. 안녕하세요.	Oh, hello.
+zoe	이미지가 보인다는 얘기, 우리도 아까 엘라라한테 들었어.	You know that thing about having visions? Elara told us about it.
+zoe	확실히, 나도 그런 게 보였어.	I think I had some visions like that too.
+katrina	신기했어요. 모르는 기억이 되살아나는 것 같아서.	It's weird, isn't it? It's like remembering things you never even knew.
+katrina	그건 대체 뭘까요.	I wonder what it's all about.
+zoe	여러 가지를 시험해서 이미지도 몇 개 봤는데,	I tried out various objects and had a few visios...
+zoe	전부 누구의 시점인지 애매하더라.	But I can never quite tell who those "memories" belong to.
+zoe	성별 정도는 겨우 알 수 있는 것도 있었지만……	For some of them, I could guess whether they were a man's or a woman's.
+katrina	여기 있는 다섯 명 중 누군가의 기억……인 걸까요.	Could these memories...belong to the five of us?
+katrina	그게 뒤섞여서 누구 것인지 모르는 채 조각조각 떠오르는 거고?	Maybe they got mixed together and we are remembering them in bits and pieces?
+zoe	그런가.	Maybe...
+katrina	……내 생각에는,	I have a bit of a theory, actually.
+katrina	그 이미지들처럼 이 방도 실체가 없고,	These rooms aren't real. They're just like those visions.
+katrina	꿈이나 환상 같은 게 아닐까 싶어요.	Like some kind of dream, or illusion.
+katrina	여기는 우리 기억으로 만들어진 공간이고,	They're built from our memories.
+katrina	우리는 기억을 빼앗긴 채 여기에 갇힌 거예요.	Someone stole our memories and locked us up in here.
+zoe	…………	...
+katrina	……아.	Ah...
+katrina	미안해요. 혼자 멋대로 떠들었네요.	Sorry, sometimes I just can't stop talking.
+zoe	우린 기억의 세계에 갇혀 있다……	Locked up in a world of memories...
+zoe	만약 그렇다면,	If we assume that's really what's going on...
+zoe	누가, 무슨 목적으로 이런 짓을 하는 걸까?	Who in the world would do that to us? And why?
+@story	졸음	Sleepiness
+	또 시작이군──하고 생각한다.	Here we go again.
+	한동안 방을 걷다 보면 갑자기 거스를 수 없는 졸음이 밀려온다.	After walking for a while, I suddenly get so sleepy I can't even move anymore.
+	늘 그랬다. 갑자기 졸려지고 의식을 잃는다.	It's the same every single time. I get sleepy and basically pass out.
+	시간이 흐르고 다음 날 다시 눈을 뜨겠지.	Some time passes, and I wake up again.
+	실제로 얼마나 시간이 지났는지는 알 수 없다.	I have no idea how much time actually passes while I sleep.
+	방 안에는 움직이는 시계가 하나도 없다.	There's no clock in sight.
+	그래서 눈을 뜬 뒤 잠들 때까지를 하루라고 부르고 있다.	So I'm just calling "a day" the time between when I wake up and when I fall asleep.
+	내일 눈을 뜨면 또 모르는 방에 있겠지.	I'm sure that tomorrow I'll wake up in an unfamiliar room... again.
+	나는 누구일까.	Who am I?
+	여기는 어디일까.	Where am I?
+	여기서 벌어지는 일은 전부 꿈일까.	Is this some sort of dream?
+	그렇다기엔 너무 선명하고 또렷하다. 그런데도 아무 기억이 없다.	It all feels too real though. Too vivid... And then there's the amnesia thing too.
+	엘라라라고 이름을 댄 그 소녀는 누구일까.	That girl who calls herself Elara...Who is she?
+	이게 꿈이라면 그 소녀는 내 상상으로 만들어진 존재일 것이다.	If this were a dream, that'd make her just another figment of my imagination.
+	상상의 재료는 대개 기억일 텐데.	And imagination is fueled by memories.
+	하지만 나는 아무것도 기억하지 못한다.	Which is weird, seeing how I have no memories at all.
+	이 방에서 본 이미지 조각들도 내 기억이라는 실감이 없다.	The weird visions I've had here don't feel like they are from my memories.
+	나는 예전에 그 소녀를 만난 적이 있는 걸까.	Have I met that girl before?
+	지금은 아직 아무것도 알 수 없다.	I have no idea what is going on.
+@story	내 이름	Our Own Names
+	며칠 전, 정신을 차렸을 때 나는 이곳에 있었다.	A few days ago, I just woke up here.
+	낯선 방이 끝도 없이──부자연스럽게 이어진다.	These strange rooms seem to go on and on forever.
+	낯선 건 방뿐만이 아니다. 물에 비친 내 모습조차 기억에 없다.	And my own reflection in the water strikes me as unfamiliar too.
+	태어나서 이곳에 오기까지의 기억이 통째로 빠져 있다.	I can't remember anything from the time I was born until I got here.
+	이 공간에는 나 말고 네 명이 더 있고──	I'm in this place with four other people...
+	그들 모두 똑같이 기억을 잃었다.	And they've all lost their memory as well.
+	어떻게 이곳에 왔는지 아무도 기억하지 못하고 자신이 누구인지도 모른다.	Nobody remembers who they are or how they got here.
+	각자 자기 이름만은 간신히 기억하고 있어서 이름을 댈 수는 있었다.	The only things we all managed to remember were our own names.
+	리암. 그게 내 이름인 모양이다.	"Liam." That's my name.
+	하지만, 그런 생각이 든다.	I guess.
+	유일하게 기억한 이 이름조차 사실은 어딘가 어색하다.	But for some reason, it doesn't feel...right.
+@story	우리가 갇힌 이유	The Reason We're Here
+zoe	그 뒤로 여러 기억을 봤잖아.	I guess you've seen a bunch of memories now.
+zoe	……어때?	So, what do you think?
+elara	뭐가?	Of what?
+zoe	예를 들면……	Well, for example...
+zoe	이건 누구 기억인 것 같아?	Who do you think this one belongs to?
+zoe	……그럴까?	Do you think...?
+zoe	……그렇지.	Yeah...
+zoe	확신은 없지만 나도 이건 내 기억인 것 같아.	I can't prove it, but I feel like this memory belongs to me.
+zoe	이 방독면도 그렇고,	There's the respirator and everything.
+zoe	뭐랄까…… 그냥 딱 맞는 느낌이 들어.	And above all... it just feels like it's mine.
+zoe	너희 둘도 그런 기억 있었어?	Did you two see any memories like that?
+elara	음…… 나는 별로 없는 것 같아.	Hmmm...I don't think I did.
+katrina	나도 아직 그런 느낌은 없어요.	Me neither. None of those memories felt like mine.
+katrina	어느 것도 누구 기억인지 확실하지 않다는 인상이네요.	They all were too vague to be sure who they belonged to.
+zoe	그렇구나……	I see...
+katrina	정말 무슨 일이 벌어지고 있는 걸까요.	This sure is a puzzle.
+zoe	전에 카트리나가 했던 말이 맞는 것 같아.	I think what Katrina said before is true.
+zoe	여긴 물리적인 세계가 아니야…… 의식만 존재하는 세계랄까.	This can't be the real world... and maybe it's really made up of memories.
+zoe	이 공간 자체부터 이상하고,	I mean, everything about this place is weird.
+zoe	우리가 배고프지 않은 것도 이상해.	We never even get hungry or anything.
+zoe	누가, 무슨 목적으로 우릴 여기에 가둔 걸까?	Who would ever lock us in here, and why?
+zoe	왜 다들 기억이 없는 거지?	And why do we have no memories?
+elara	확실한 건 모르겠지만……	I can't answer any of those questions...
+elara	분명 우리에게 좋은 일은 아닐 거야.	But I get the feeling the reason we're here is nothing good.
+elara	우리 기억이 일부러 지워진 거라면……	Think about it. Why erase our memories?
+elara	우리가 알아선 안 될 무언가를 알아 버려서,	Maybe we found out something we shouldn't have.
+elara	그걸 잊게 만들려고 한 걸까?	And whoever did this wanted to keep our mouths shut.
+katrina	…………	...
+katrina	다들한테 말할지 고민했는데,	I wasn't sure whether to talk about this to everyone, but...
+katrina	보여 주고 싶은 게 있어요.	There's something I need to show you.
+elara	……그거.	That's...
+elara	ID 카드……?	An I.D. card?
+katrina	……네.	Yes...
+katrina	누구 것인지는 모르겠지만……	I don't know whose it is.
+katrina	……위조된 ID 카드인 것 같아요.	But it looks like a counterfeit I.D.
+katrina	어제 이걸 이용해서 기억을 봤어요.	And yesterday, using this, I got to see another memory.
+katrina	위조 ID 카드로 밀항을 시도한 사람이,	Someone used this fake I.D. to get on a ship.
+katrina	우리 중에 있는 것 같아요.	So... One of us is a stowaway.
+katrina	어쩌면 엘라라 말대로,	Maybe Elara is right.
+katrina	이 공간은──	This place...
+katrina	누구에게도 알려져선 안 되는 비밀을 감추려는 걸지도 몰라요.	The whole point of it is to make sure we keep our mouths shut about some secret.
+@story	주운 물건	A Thing I Picked Up
+elara	……있잖아.	Say...
+elara	이거 좀 봐 줄래?	Could you take a look at this?
+	엘라라가 품에서 무언가를 꺼냈다.	Elara took something out of her pocket.
+	──권총이었다.	It was a gun.
+elara	아까 이 방에서 주웠어.	I picked it up earlier...
+elara	이게 이 공간에 있다는 건……	And since I found it here...
+elara	이걸 사용했던 기억이 있다는 뜻……이겠지?	It's probably connected to someone's memory of firing it... isn't it?
+elara	…………	...
+elara	난 아직 어디에도 이걸 올려놓지 않았어.	I haven't tried placing it anywhere.
+elara	기억도 보지 않았고.	I haven't seen the memory it's a part of. 
+elara	다른 사람들한테는 말하기가 좀 그래서……	I couldn't talk about this to the others...
+elara	어딘가에서 이걸 쓴 사람이 있는 걸까.	Someone must have used this before...
+elara	우리 다섯 명 중에.	One of us five.
+@story	살인자의 기억	A Murderer's Memory
+	권총으로 소녀를 쐈다.	I shot a girl.
+	이미지가 사라진 뒤에도 그 감각이 남아 있었다.	Even after the vision faded, it still felt real.
+	화약 냄새도, 반동도, 흘러나오는 피도,	The smoke in my nostrils, the recoil of the gun, the flowing blood...
+	다른 이미지와는 비교할 수 없을 만큼 생생했다.	It all felt way more real than the other visions.
+	이건 결코 상상이 아니다.	This wasn't just the product of imagination.
+	보인 것은 과거에 실제로 일어난 일──기억이라고 그 순간 확신했다.	This was something that I knew, beyond al doubt, had actually happened.
+	누군가가 한 일이다.	But who did it?
+	이 다섯 명 중 누군가가 사람을 죽였다.	One of us five had killed someone.
+	어떤 상황이었는지는 그 이미지만으로 판단할 수 없다.	That vision wasn't enough for tell what was really going on. 
+	하지만 무슨 사정이 있었든 사람을 죽였다는 사실만은 의심할 수 없다.	But whatever the circumstances were, someone had been killed. There was no doubt about that. 
+	지금도 그 충격이 손에 남아 있다.	My hand still shook from the gun's recoil.
+	지금까지 본 어떤 기억보다도 강렬하게.	The memory lingered in my mind, more real than any other that came before.
+	누가 한 걸까.	Who did this?
+	누가 그런 짓을.	Who could do something so cruel?
+	하지만,	But...
+	혹시나 하는 생각이 든다.	Something nagged me.
+	이렇게까지 강하게 떠오르는 건,	Maybe, there was a reason it felt so real.
+	이렇게까지 화약 냄새가 나는 건,	A reason why I could smell the smoke.
+	그 일을 한 사람이──	Maybe, just maybe...
+	──나였던 건 아닐까?	I was the one who fired it.
+@story	월터의 추측	Walter's Hypothesis
+walter	……저기.	Hey...
+walter	카트리나 못 봤나?	Did you see Katrina?
+	뒤에서 목소리가 들렸다.	I heard someone call to me from behind.
+	돌아보니 월터가 바로 거기 서 있었다.	I turned around and saw Walter.
+	나는 반사적으로 손에 든 권총을 품속에 숨겼다.	I instinctively hid the gun in my pocket.
+@selection	……못 봤어.	I haven't seen her...
+walter	…………	...
+walter	……그렇군.	I see.
+	권총으로 본 기억을 다른 사람들에게 알리고 싶지 않았다.	I didn't want the others to know about the memory I found in the gun.
+	그 일을 한 사람이 나일지도 모른다.	Maybe it meant I was a murderer.
+	사람을 죽였다는 사실을 다른 사람에게 들키고 싶지 않았다.	And if that were true... I couldn't have the others find out.
+walter	……어제 카트리나와 이야기를 했는데,	I was talking about this with Katrina yesterday...
+walter	여기는 아마 우리 의식 위에 만들어진 공간일 거야.	I think that this place sits above our consciousness, somehow.
+walter	물리적인 세계가 아니라 누군가가 보여 주는 꿈 같은 것이지.	It's not a physical space. It's basically like a dream someone forced us into.
+walter	기억이 없으니 지식으로만 말할 수밖에 없지만……	I don't have any memories, but my knowledge is still intact. So...
+walter	잠든 사람의 꿈을 유도하는 기술이 있다고 들은 적이 있어.	I once heard that there's a kind of technology that can influence people's dreams.
+walter	완전히 마음대로 할 수 있는 건 아니지만,	It isn't as if you can show them anything you want.
+walter	본인의 기억을 재료로 꿈의 내용을 어느 정도 조작하는 기술이지.	But you can use their memories to shape their dreams to some extent.
+walter	여기가 정말 꿈속이라면 우리 몸은 현실에서 계속 잠들어 있다는 뜻이야.	And if this really is a dream, that'd mean we're fast asleep in the real world.
+walter	그리고 전혀 깨어날 기미가 없지.	And it looks like we aren't waking up any time soon.
+walter	왜 이런 일이 벌어지고 있는지가 문제지만,	Of course, I want to know why we're here.
+walter	그것과 별개로……	But there's something else to think about...
+walter	이게 꿈속이라면,	Assuming this is a dream...
+walter	여기 있는 나 이외의 사람들은 그저 꿈의 일부일지도 몰라.	Everyone in here except for me would just be something I dreamed up.
+walter	이게 누군가 한 사람의 꿈이라면,	If I'm dreaming...
+walter	너는…… 정말 살아 있는 인간인가?	Are you even a real, living, breathing human being?
+@story	습격	Firing
+	밀항자가 사용한 위조 ID 카드.	A fake I.D. used to illicitly enter a ship.
+	소녀를 쏜 권총.	A gun used to shoot a young girl.
+	여기가 꿈 같은 곳이라면 왜 우리는 갇혀 있는 걸까.	If this really were some sort of dream, why couldn't we wake up from it?
+	카트리나가 말한 것처럼 알려져선 안 될 비밀을 감추기 위해서일까.	If Katrina was right, somebody was trying to silence us.
+	우리를 여기에 가두고 기억을 지우려는 건가?	Maybe we had some memories that this "somebody" wanted to erase from our minds.
+	밀항이나 살인에 관한 기억을?	Memories about being a stowaway, or a murderer.
+	하지만 이 공간에 있으면 오히려 정반대라는 느낌이 든다.	But somehow, being here made me feel like the opposite was true.
+	이 공간은 기억을 보여 주고 싶어 한다.	It felt like this place was actively trying to make us remember.
+	실제로 이곳에 있었기 때문에 우리는 밀항자의 존재를 알게 됐다.	After all, it was thanks to this place's visions that we learned about the stowaway.
+	누군가가 소녀를 총으로 죽였다는 것도 알게 됐다.	And of course, about the murderer.
+	그게 다섯 명 중 누군가의 기억이라면 당사자 말고는 몰랐을 수도 있는 일이다.	If those memories belonged to one of us, the others didn't really need to find out.
+	비밀을 감추려는 게 아니라──	Maybe it wasn't about hiding some secret.
+	그 사람만 알고 있던 과거를 다른 사람들에게 보여 주려는 건 아닐까?	It could be about showing our secrets to others.
+	그렇다면 목적은 무엇일까.	But if that were true, what was the ultimate goal?
+	숨겨 둔 과거를 보여 줘서 뭘 하려는 걸까.	What was the point of showing around our pasts like that?
+	우리 중 누군가에게 비밀을 밝혀내게 하려는 건가?	Was one of us hiding something important from everyone?
+	그런 생각을 하며 걷고 있었다──	I reflected on that as I walked around the place.
+	그때 둔탁한 소리가 들렸다.	And then, I suddenly heard a bang.
+	총성이었다.	It was a gunshot.
+	잘못 들었을 리 없다.	There was no mistaking it.
+	기억 속에서 들었던 바로 그 총성과 같았다.	It was the exact same sound as I'd heard inside that memory.
+	문을 연다──	When I opened the door...
+	방 안쪽에,	There, in the back of the room,
+	카트리나가 피를 흘리며 쓰러져 있었다.	was Katrina, collapsed on the floor and bleeding.

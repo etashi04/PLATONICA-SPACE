@@ -1,0 +1,21 @@
+@story	기억 판정	Memory Judgement
+katrina	리암, 잠깐 물어보고 싶은 게 있는데.	Liam, can you help me out with something?
+katrina	이 기억…… 넌 누구 기억인 것 같아?	This memory here... Whose memory do you think it is?
+katrina	……그럴까.	I wonder...
+katrina	그렇지……	Right...
+katrina	나도 그렇게 생각했어.	That is exactly what I thought.
+katrina	고마워, 리암.	Thank you, Liam.
+@story	일반 대화	General Conversation
+katrina	안녕, 리암.	Hi, Liam.
+katrina	전기는 들어오는 것 같단 말이지……	This place seems to get electricity.
+katrina	그렇다면 방 밖에도 공간이 이어져 있는 걸까.	Which must mean that the rooms are connected to the outside somehow, right?
+@story	일반 대화	General Conversation
+katrina	리암, 너 몇 살이야?	How old are you, anyway?
+katrina	……라고 해도 기억할 리 없겠지.	Right... You can't remember.
+katrina	나도 내 나이는 모르겠어.	I don't remember either, of course.
+katrina	몇 살로 보여?	How old do you think I am?
+katrina	……후후, 좀 짓궂은 질문이었나.	Hehe... I'm just teasing you.
+@story	일반 대화	General Conversation
+katrina	어느 방이든 창밖은 안개가 낀 것처럼 잘 안 보여.	No matter what room I'm in, I can only see fog outside of the windows.
+katrina	창유리를 두드려도 꿈쩍도 안 하고.	And the glass panes won't even budge if you hit them.
+katrina	역시 현실의 공간은 아닌가 봐.	No way this place is real.

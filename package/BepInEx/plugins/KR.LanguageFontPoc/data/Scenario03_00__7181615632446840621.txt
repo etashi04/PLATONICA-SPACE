@@ -1,0 +1,426 @@
+@story	월터의 과거	Walter's Past
+walter	리암, 너는,	Hey, Liam.
+walter	자기가 어떤 사람이었는지 기억났나?	Remembered what kind of person you were yet?
+@selection	모르겠어.	Not yet.
+walter	……그렇군.	I see...
+walter	내 추측에 불과하지만,	This is nothing more than a guess but...
+walter	아마 너는 우리가 탄 우주선의 승무원일 거야.	I'm starting to think you're a crew member from the spaceship we're all on.
+walter	어릴 때 밀항자로 이 배에 숨어들었다가 붙잡혀, 그대로 일하게 된 거지.	You boarded it as a stowaway when you were young and were forced to work there as punishment.
+walter	좋은 환경이라고는 못 하겠지만……	Sure, I won't say it's an enviable position.
+walter	그래도 나은 편이겠지.	But it could be worse.
+walter	……적어도 나 같은 인간에 비하면.	Like... mine.
+walter	…………	...
+walter	……나는 아무래도 살인자인 것 같아.	I'm pretty sure I'm a murderer.
+walter	어린 소녀를 죽이고 그 뒤의 혼란을 틈타 죄에서 도망쳤지.	I killed a young girl and got away with it amid the confusion.
+walter	아마 지금도 심판받지 않았을 거야.	I imagine I still haven't been prosecuted either.
+walter	다른 별로 건너가며 계속 내 과거에서 도망치고 있겠지.	I'm probably hopping from planet to planet, running away from my past.
+walter	지금 이 우주선에 타고 있는 것도……	And the reason I'm in that spaceship...
+walter	아마 나를 쫓는 자들에게서 도망치기 위해서겠지.	Must be to run away too.
+walter	여기서 목숨을 끊으면,	I wonder what would happen if I died here.
+walter	현실의 나도 죽는 걸까.	Would I die in the real world too?
+walter	카트리나는 총에 맞고도 죽지 않았지만,	Katrina didn't really die when she got shot, but...
+walter	엄청난 충격을 받았어.	It really did a number on her psyche.
+walter	이 공간에서 죽음과 맞먹는 충격을 여러 번 받는다면,	Let's say I suffered a shock like that, comparable to dying, enough times.
+walter	현실의 내 정신도 멀쩡하진 않을지도 몰라.	I bet my brain in the real world wouldn't come out of it unscathed.
+walter	혹은──	However...
+walter	지금 이렇게 의식을 공유하고 있는 너희 정신도,	Our consciousnesses here are all connected, in a way.
+walter	어떻게 될지 알 수 없지.	It could be dangerous for all of you too.
+walter	…………	...
+walter	내 죄를 아는 사람은 많지 않을 거야.	It's safe to assume almost nobody knows about my crimes.
+walter	지금 여기서 심판을 받아야 할까.	Should I pay for them here, then?
+walter	아니면──	Or...
+walter	여기서 탈출하기 전에,	There's another option.
+walter	너희 네 명을,	Before we leave this place...
+walter	죽여 버려야 할까?	Should I kill the four of you?
+walter	……리암.	Liam...
+walter	너라면 어떻게 하겠나?	What would you do if you were in my shoes?
+@story	손에 남은 감각	Familiarity
+	또 누군가의 기억을 보고 있는 줄 알았다.	For a second, I thought I was seeing someone's memory.
+	누군가의──혹은 내 기억.	Someone's... maybe even mine.
+	월터는 그 기억이 자기 것이라고 말했다.	Walter insisted that the memory with the gun belonged to him.
+	하지만 그렇다면 기억을 봤을 때 느꼈던 그 생생한 감각은 대체 뭐였을까.	But then, I couldn't explain why the gun felt so familiar when I saw myself holding it.
+	그건 이 공간에서 재생된 기억의 일부 같은 게 아니었다.	It didn't feel like a strange memory simply shown to me by this place.
+	내 안에서 끌어낸 감각이었다.	It felt like something taken directly from my brain.
+	이 손은──총을 쏜 적이 있다.	I knew I had fired that gun before.
+	또 총성이 들렸다.	I heard yet another gunshot.
+elara	──저기!	Please!
+elara	제발, 그만해!	Please, stop!
+	그리고 엘라라의 목소리──	And then, Elara's screams.
+	그제야 이번에는 정말로 눈을 떴다.	After that, I was finally completely awake.
+@story	몰살	Slaughter
+elara	그만해요, 월터 씨……!	Please, Walter, stop!
+walter	…………	...
+walter	……미안하다.	I'm sorry...
+walter	너희에게 죄는 없어.	You don't deserve this.
+walter	이 우주선에 함께 타게 된 것도,	You just got unlucky...
+walter	이렇게 사고가 나서 기억이 뒤섞인 것도…… 어떤 우연이겠지.	You boarded the same ship as me, and got your memories mixed up with mine... It was all coincidence.
+walter	하지만……	But...
+walter	내가 나 자신을 저주하듯,	I'm blaming myself for what I did.
+walter	그 불운을 저주해 줘.	Blame your own bad luck.
+elara	저기, 그만해!	No, stop!
+elara	여기서 우리를 쏴서……	Even if you shoot all of us...
+elara	그래서 뭐가 달라져……?	What is that going to achieve?
+walter	여기서 죽여도 의미가 없을지도 몰라.	Maybe killing you won't do anything.
+walter	졸음이 오고 다시 깨어나는 것처럼 또 눈을 뜰 뿐일지도 모르지.	Maybe you'll just wake up tomorrow, like always.
+walter	하지만 죽음의 충격은 현실의 뇌에 적지 않은 손상을 줄 거야.	But the shock of experiencing death will definitely damage your psyche.
+walter	몇 번이고 죽이면 너희는 정말 죽을지도 몰라.	And if I kill you enough times, maybe eventually, you'll die for real.
+elara	왜 그런 짓을……	But... why...?
+walter	너희는 내 비밀을 알아 버렸어.	You found out about my secret.
+walter	내가 그날 그곳에서 소녀를 죽인 바로 그 월터라는 걸 알게 됐지.	You know that, on that day, I killed a girl.
+walter	알아 버린 이상 살려 둘 수는 없어……	I can't let you live, now that you know that.
+walter	그뿐이야, 엘라라.	That's all there is to it, Elara.
+elara	……월터 씨.	Walter...
+elara	당신은 그런 사람이 아니에요.	This is not who you are.
+elara	당신이 살인자일지도 모르지만, 그래도 그런 사람은 아닐 거예요……	Maybe you did murder a girl, but I know this isn't who you are...
+walter	네가 나에 대해 뭘 안다는 거지?	What do you even know about me?
+walter	네가 지금까지 만난 건 기억을 잃은 텅 빈 나였어.	The me you've been talking to was only an empty shell without any memories.
+walter	현실의 월터가 아니야.	It wasn't the real me.
+walter	현실의 월터는…… 이런 남자다.	The real me... is like this.
+elara	…………	...
+elara	아니……	No...
+elara	나도 당신의 기억을 봤어요.	I saw your memories too.
+elara	당신이 사람을 쐈을지도 모르지만…… 줄곧 그 일을 후회했어요.	Even if it really was you who shot that girl... you kept regretting it forever.
+elara	사람을 쐈다는 걸 잊지 못해서,	I know you couldn't forget it.
+elara	계속 악몽을 꿨다는 걸 알아요.	I know you kept having nightmares about it.
+walter	…………	...
+walter	……하지만 나는 죗값을 치르려 하지 않았어.	And yet... I never tried to atone for what I did.
+walter	인정하는 게 무서워서 도망쳤지.	I was so scared of admitting my crime, I kept running away.
+walter	후회해서 악몽을 꾼 게 아니야.	I didn't have those nightmares out of regret.
+walter	나는…… 그런 인간이야.	This... This is who I am.
+elara	아니──	No...!
+walter	……자, 도망쳐.	Go, run.
+walter	도망가 줘.	Run away.
+walter	죽고 싶지 않다면.	If you don't want to die...
+@story	도망치다	Escape
+	월터의 발소리를 피해 달아나다가 결국 의식을 잃었다.	As I kept running away from the sound of Walter's footsteps, I eventually lost consciousness.
+	아직도 머릿속 깊은 곳에서 총성이 울리는 것 같다.	I heard gunshots echoing in my head.
+	물론 그럴 리는 없다.	Of course, it was just an illusion.
+	월터도 곧 졸음에 쓰러지겠지.	Walter would eventually lose consciousness too.
+	다시 눈을 떴을 때 그는 또 같은 짓을 할까?	And once he woke up tomorrow... would he start doing the same thing?
+	아니면 이번에는 그 총구를 자기 자신에게 겨눌까.	Or would he aim the gun at himself?
+	눈을 떴을 때 눈앞에 총구가 들이밀어져 있을 각오를 했지만,	When I next opened my eyes, I expected the first thing I saw to be the barrel of a gun.
+	그 방에는 아무도 없었다.	But there was nobody else in the room.
+@story	둘만 남아	Two Left
+elara	……리암.	Liam...
+elara	괜찮아……?	Are you okay?
+elara	총 맞진 않았어?	Were you shot?
+elara	……나는 괜찮아.	I'm... fine.
+elara	도망치다가 졸음이 와서,	I ended up falling asleep while I was running away...
+elara	지금 막 눈을 떴어.	And I just woke up.
+elara	…………	...
+elara	……다들,	As for the others...
+elara	어딘가에 틀어박힌 걸까.	They all locked themselves in some room.
+elara	……우리,	What should we do?
+elara	이대로 기억을 찾아도 되는 걸까.	Should we keep looking for memories?
+elara	…………	...
+elara	……누구에게나,	Everyone has secrets...
+elara	남에게 알려지고 싶지 않은 일도 있잖아.	Ones that they don't want anyone to find out about.
+elara	월터 씨도 그렇고,	It's not just Walter.
+elara	조이나 카트리나 씨도,	I bet the same goes for Zoe and Katrina.
+elara	분명 다른 사람에게 알려지고 싶지 않은 과거였을 거야.	They all must have something they want to keep to themselves.
+elara	이게 냉동 수면 장치가 보여 주는 꿈이고,	If this place really is a dream created by the cryosleep pods...
+elara	우리가 자기 기억을 되찾기 위한 거라면,	And the whole point is for us to get our memories back...
+elara	기억을 찾고 떠올려서 탈출해야 해.	Then we must keep searching and remembering, and get out of here.
+elara	자기 기억이 아니어도 보게 되는 거고……	But this means that we'll end up seeing more memories that belong to someone else.
+elara	하지만……	But...
+elara	…………	...
+elara	……나한테도,	You know...
+elara	남에게 알려지고 싶지 않은 과거가 있을지도 몰라.	I could have some dark secret myself.
+elara	리암…… 너는 어때?	Liam... What do you think?
+@story	조이의 실의	Zoe's Despair
+zoe	……계속 생각해 봤는데,	I've been thinking...
+zoe	아마 카트리나가 한 말은 사실일 거야.	What Katrina said must be true.
+zoe	우리 조상들은…… 스스로 열악한 환경에서 살기로 선택한 거야.	My ancestors... They decided to put themselves under those harsh conditions.
+zoe	풍요와 번영 속에서 다툼이 생기거나 격차가 벌어지는 걸 피하려고,	They were worried that progress would lead to inequality and conflict.
+zoe	힘든 나날이 영원히 똑같이 이어지는 걸 선택한 거지.	So they chose a life of horrible days that never change.
+zoe	나는 엄마와 이모들 덕분에 빠져나왔지만,	I was able to escape that thanks to my mother and aunts...
+zoe	거기 사는 사람들은…… 지금도 똑같이 살고 있을 거야.	But... those who stayed behind are probably still living like that.
+zoe	그게 이해돼.	And I think I get it.
+zoe	그런 삶은…… 오늘 하루를 살아내는 것 외에는 아무것도 생각할 수 없게 만들어져 있어.	When you have that kind of life, all you can think about is how you will make it through the day.
+zoe	앞으로도 그렇게 계속되겠지.	They'll probably go on living like that, forever.
+zoe	…………	...
+zoe	나는 어떻게 해야 할까.	I don't know what I should do.
+zoe	엄마와 동생들을 두고…… 다른 별로 가서,	Leaving behind my mother and sisters, moving to another planet...
+zoe	정말 그래도 되는 걸까.	Is that really the right thing to do?
+zoe	하지만 내가 그 별을 어떻게 할 수 있을 것 같진 않아.	I know I couldn't fix our planet or anything like that.
+zoe	모두를 돕기 위해 뭘 해야 할지 모르겠어.	But I want to help them, and I don't know how.
+zoe	게다가……	And at the same time...
+zoe	그 별에 사는 사람들은 도움 같은 건 원하지 않을지도 몰라.	Maybe they don't want to be helped.
+zoe	풍요 같은 건 필요 없다고 생각하는 사람도 있을 거야.	Some people just don't want a comfortable life, I guess.
+zoe	그렇게 수백 년을 살아남아 온 거니까……	They've managed to survive for centuries in those conditions...
+zoe	……미안.	I'm sorry...
+zoe	리암한테 이런 얘길 해 봐야 소용없겠지.	It's not like I expect you to know what I should do.
+zoe	너는 내가 아니니까.	You're not me.
+zoe	카트리나가 나를 거부한 것처럼,	Just like why Katrina refuses to talk to me...
+zoe	내 마음은…… 나만 알 수 있어.	Only I know how I feel
+@story	월터의 실의	Walter's Despair
+walter	……여어.	Hey.
+walter	너도 그렇고 엘라라도 그렇고……	You...Elara...
+walter	그런 일이 있었는데도,	After all I did...
+walter	용케 나한테 말을 걸 생각이 드는군.	You still come to talk to me?
+walter	……엘라라도 아까 왔어.	Elara was here too earlier.
+walter	기억을 되찾고 여기서 나가겠다고 하더군.	She said she wants to get our memories back and leave this place.
+walter	……나는,	As for me...
+walter	이제 마음대로 하라는 기분이야.	I don't care what any of you guys do anymore.
+walter	너희를 죽이는 데 실패한 뒤 자살해 보려고 했어.	After I failed to kill you people, I tried killing myself.
+walter	권총으로 내 머리를 쏘려고 했지.	I pointed the gun at my own head.
+walter	하지만…… 못 했어.	But... I couldn't pull the trigger.
+walter	나한텐 자살할 배짱조차 없는 모양이야.	Turns out, I don't even have the guts to kill myself.
+walter	자기 죄에서 눈을 돌리고 몇 년이나 도망쳐 다닌 남자니까.	After all, I'm enough of a coward to run away from my past for years.
+walter	당연한 일이지.	I shouldn't be surprised.
+walter	여기서 나가 현실 세계에서 죄를 추궁받게 된다면,	If we do go back to the real world, and I get prosecuted for what I did...
+walter	순순히 따를 생각이야.	I think I'll just accept whatever punishment they give me.
+walter	결코 훌륭한 마음가짐이라서가 아니야.	I'm not trying to act like a saint here.
+walter	그냥…… 지쳤을 뿐이야.	I'm just... tired.
+walter	모든 것에.	I'm tired of it all.
+walter	나는 이제 아무것에도 저항하지 않을 거야.	I don't have it in me to fight anymore.
+walter	눈을 뜬 뒤의 일은…… 그때에 맡기지.	Whatever happens when we wake up... I'll take it.
+walter	너나 엘라라가 현실로 돌아가고 싶다면,	And if you and Elara want to go back to the real world...
+walter	마음대로 해.	You two can do just that.
+walter	내가 협력하진 않겠지만 방해도 하지 않겠어.	I won't help you, but I won't stop you either.
+@story	엘라라의 의문	Elara's Doubt
+elara	아직 되찾지 못한 기억, 얼마나 남았을까.	How many memories are we still missing, do you think?
+elara	분명 이제 얼마 안 남았겠지.	I bet we're almost there.
+elara	다른 사람들에 대해서도, 너에 대해서도,	We've learned so much already.
+elara	나 자신에 대해서도…… 대충 알게 됐어.	About you, the others... and even me.
+elara	아마 나는 지구에서 태어나 다른 행성으로 건너갔어.	I was probably born on Earth and then moved to another planet.
+elara	지구가 사람이 살 수 없는 별이 된 건 이미 수십 년 전일 테니까,	Earth has been uninhabitable for a long time, so at first I thought it didn't make sense.
+elara	내 나이와 앞뒤가 안 맞는 것 같았는데,	I couldn't have lived there and still be this young.
+elara	하지만 아공간 항행 때문에 수십 년씩 냉동 수면 장치 안에 있는 경우도 있는 것 같고.	But if people are put in cryosleep when they travel through space...
+elara	아주 오랫동안 나이를 먹지 않고 잠들어 있었을지도 모르겠네.	Then maybe I just spent a lot of time traveling in a cryosleep pod, without aging.
+elara	나는 지금…… 어떤 생활을 하고 있을까.	I wonder what kind of life I'm living now.
+elara	우주선을 타고 어디로 향하고 있을까.	And where was I trying to go by boarding that ship?
+elara	……그런데,	Anyway...
+elara	한 가지 잘 모르겠는 게 있어.	There's still something I don't get.
+elara	아이가 태어난 어머니의 기억이 있었잖아.	It's that memory about a woman with her child.
+elara	너와 처음 봤던 그 기억.	The first memory we saw.
+elara	그건…… 누구의 기억일까.	Whose memory could that be?
+elara	카트리나 씨인가 했는데 아닌 것 같고.	I thought it was Katrina's, but it turned out it's not.
+elara	나나 조이는 나이상 아니야.	It couldn't be mine or Zoe's either. We're too young.
+elara	물론 월터 씨나 너도 아니고.	And of course, it's not Walter's or yours either.
+elara	…………	...
+elara	……어쩌면,	Maybe, just maybe...
+elara	월터 씨가 봤다는 여섯 번째 사람은,	That sixth person that Walter was talking about...
+elara	정말로 있는 게 아닐까……?	That person really could exist.
+@story	여섯 번째 사람	The Sixth Person
+	여섯 번째 사람은 정말 있을지도 모른다──	Maybe, there really is a sixth person with us.
+	엘라라의 말을 듣고 보니 확실히 납득되는 부분이 있었다.	Elara's explanation had started convincing me of it.
+	그녀가 말한 어머니의 기억.	That would explain the memory about a mother.
+	그리고──	And...
+	지구에서 벌어진 테러를 피해 달아나는 누군가의 기억.	The memory about leaving Earth after a terrorist attack.
+	그 기억도 아직 누구 것인지 분명하지 않다.	We still don't know who those memories belong to.
+	그건 누구일까.	Who could it be?
+	엘라라는 아닐 것이다. 그녀는 훨씬 전에 지구를 떠났다.	It couldn't be Elara. She must have left Earth long before the attack.
+	조이도 아니다. 그녀가 지구에 와 본 적이 있을 것 같지 않다.	And it couldn't be Zoe. She probably has never been to Earth even once.
+	카트리나일 가능성은 있을지도 모른다.	It's possible that it's Katrina's.
+	그녀가 과거 어느 시점에 지구를 방문했을 가능성은 부정할 수 없다.	I can't rule out that she visited Earth at some point in her life.
+	월터일 가능성은 없을 것이다. 그는 모성에서의 삶을 위해 첩보 활동을 했다.	As for Walter, it wouldn't make sense. He was working as a spy on his home planet.
+	내가 과거 지구를 방문했을 가능성도 부정할 수는 없지만, 가능성은 낮겠지.	And while I can't say for sure that I've visited Earth before, it seems unlikely.
+	열악한 환경에서 태어나 밀항을 시도했다는 기억이 내 것이라면, 과거 지구를 방문했을 가능성은 낮다.	If the memory about boarding a spaceship as a stowaway to escape a horrible environment is mine, I can't be from Earth.
+	정말 이 공간에 한 사람이 더 있는 걸까.	Does this mean that really is someone here we still haven't met?
+	여섯 번째 사람이 있다면 어디에 있을까.	If so, where are they hiding?
+	그 누군가를 찾는 것이 여기서 탈출할 마지막 열쇠가 될지도 모른다.	Maybe, finding that person could be the key we're still missing in order to wake up.
+	눈을 뜨면 다시 그 이야기를 엘라라와 해 보자.	I should talk about it to Elara when I next wake up.
+	그렇게 생각했다.	That was my last thought of the day.
+	하지만 그러지 못했다.	But I couldn't follow through on it.
+	눈을 떴을 때──	The next time I woke up...
+	카트리나가 조이에게 총구를 겨누고 있었다.	I saw Katrina pointing a gun at Zoe.
+@story	인질	Kidnapping
+walter	……카트리나와 조이는 저 문 너머에 있어.	Katrina and Zoe are behind this door.
+walter	나와 엘라라가 둘을 발견했을 때는 카트리나가 조이를 쏘려 하고 있었어.	When I found them, Katrina was threatening to shoot Zoe.
+walter	엘라라가 막으러 들어갔지.	Elara went in to stop her...
+walter	하지만 엘라라는 총에 맞았고……	But she got shot.
+walter	카트리나는 조이를 데리고 저 문 안쪽으로 도망쳤어.	And then Katrina dragged Zoe into that room.
+walter	…………	...
+@story	찰과상	Scratch
+elara	아, 리암……	Oh, Liam.
+elara	난 괜찮아.	I'm fine.
+elara	총에 맞았다고 해도 옷에 구멍이 났을 뿐이고,	I did get shot, but the bullet just pierced my clothes.
+elara	상처 하나 없어.	I wasn't even grazed.
+elara	어깨가 조금 빨개졌지만…… 그뿐이야.	My shoulder's a bit red... but that's it.
+elara	…………	...
+elara	……카트리나 씨.	Katrina...
+elara	이번엔 또 왜 그러는 걸까.	What's got into her?
+@selection	카트리나는 뭐라고 했어?	Did she say anything?
+elara	……여기서 나가기 싫다고.	She said that she doesn't want to leave.
+elara	나가서 뭘 해야 하냐…… 그런 말을 했던 것 같아.	I think she mentioned not knowing what to do once we were back in the real world.
+elara	어쩌면 우리가 오기 전에 조이랑 뭔가 이야기했을지도 몰라.	Maybe Zoe was talking to her before we found them.
+elara	조이가 카트리나 씨를 설득하려 했을지도 모르고.	I guess Zoe tried to convince her that we should leave...
+elara	그러다 또 말다툼이……	And it turned into an argument.
+elara	……카트리나 씨는,	I don't get what Katrina's thinking.
+elara	왜 그렇게 여기서 나가기 싫은 걸까.	Why does she want to stay here so much?
+elara	현실에 뭔가 싫은 일이 있다는 건 알아.	I know that she has to deal with some bad stuff in the real world.
+elara	나도 카트리나 씨의 기억을 봤어.	I saw her memories too.
+elara	일 때문에 간 행성에서 끔찍한 일이 벌어지고,	A horrible thing happened on the planet she was supposed to protect...
+elara	그 책임을 지게 됐고.	And she had to take responsibility for it.
+elara	……하지만,	But still...
+elara	그게 죽는 것보다 싫은 일일까?	Is that worse than dying?
+elara	여기 계속 있으면 분명 언젠가는 죽을 거야.	If we stay here, I'm sure we'll die eventually.
+elara	그런데도 여기서 나가기 싫다니……	What could make you want to remain?
+elara	…………	...
+elara	……아니.	Hmmm...
+elara	나는 카트리나 씨가 아니야.	After all, I'm not her.
+elara	카트리나 씨의 기억을 봤으니 그녀에 대해 조금은 안다고 생각하지만,	By seeing her memories, I've learned a bit about Katrina.
+elara	카트리나 씨와 똑같이 생각할 수는 없어.	But I can't read her thoughts.
+elara	카트리나 씨에게는…… 죽는 것보다 더 괴로운 일일지도 몰라.	Maybe, for her... going back to the real world would really be worse than dying.
+elara	나는……	That's how she feels...
+elara	도저히 이해할 수 없을 뿐이고.	And I just can't understand it.
+@story	농성	Hostage situation
+katrina	……리암?	Liam...?
+katrina	너도 왔구나.	You're here too.
+katrina	여긴 열지 않을 거야.	But I'm still not opening the door.
+@selection	조이는 무사해?	Is Zoe okay?
+katrina	응.	Yeah.
+katrina	얌전히 있어.	She's started behaving.
+katrina	이제 저항할 기력도 없는 모양이야.	She must be too tired to struggle.
+katrina	……너도,	You should do the same.
+katrina	잠들 때까지 조용히 있어.	Just sit down quietly until you fall asleep.
+elara	……왜 이런 짓을 하는 거야?	Why are you doing this?
+elara	카트리나 씨도 언젠가는 잠들 텐데.	You'll fall asleep too eventually...
+elara	이런 짓을 해서…… 뭐가 달라져?	What's the point?
+katrina	……별거 아니야.	There's no point.
+katrina	화풀이야.	I'm angry.
+katrina	조이가 건방진 말을 했으니까.	You can blame Zoe for that. She went too far.
+elara	그런……	No way...
+elara	…………	...
+katrina	……난 너희에게 협력하지 않을 거야.	I have no intention to cooperate with you people.
+katrina	잠들어도 앞으로 몇 번이고 똑같이 할 거야.	This won't change no matter how many times I fall asleep.
+katrina	저항하면 입을 다물게 할 거고.	And if you can't accept that, I'll make you stop.
+katrina	그리고…… 시간이 지나길 기다릴 거야.	And... I'll wait.
+elara	기다린다고……?	Wait... for what?
+katrina	이게 냉동 수면 중 사고로 작동한 안전장치가 보여 주는 꿈이라면,	The cryosleep pods are showing us this dream because there was some kind of accident in the real world.
+katrina	우리에게 남은 시간이 그리 길 것 같진 않아.	If that's really what's happening, we don't have much time.
+katrina	언젠가 제한 시간이 오겠지.	I just need to wait for time to run out.
+katrina	지금 우리는 다섯 사람의 기억이 뒤섞여 구별할 수 없는 상태야.	Right now, our pasts are all jumbled together.
+katrina	의식은 서로 분리돼 있지만, 그 깊숙한 곳의 기억은 뒤섞인 채야.	Even though we all kept our own separate minds, we still haven't split up our memories correctly.
+katrina	이 상태로 눈을 뜨면,	What would happen if we woke up in this state?
+katrina	아마 지금 어렴풋이 되찾은 기억마저 무너져 버리겠지.	We'd probably lose even those fragments of memory we've got back so far.
+katrina	어쩌면 의식 자체가 붕괴할지도 몰라.	It's even possible our minds would simply break.
+katrina	기억과 의식은 서로 얽혀서 만들어지는 거니까.	Consciousness and memories can't exist without each other, after all.
+katrina	……그러니까 그걸 기다리는 거야.	That's what I'm waiting for.
+elara	…………	...
+elara	……그렇게 현실이 무서워?	Is reality that scary for you?
+katrina	…………	...
+katrina	……무서워.	It's terribly scary.
+elara	하지만 여기서 본 건 전부 과거야.	But all we saw here is the past.
+elara	현실의 카트리나 씨에겐 지금과 미래가 있어.	You still have your present... and your future.
+elara	그렇지 않아?	Isn't that right?
+katrina	…………	...
+katrina	……모르는구나.	You don't get it, do you?
+katrina	내가 두려워하는 건 그 미래야.	That future is what I'm scared of.
+katrina	그게 찾아오는 게 너무나 무서워서,	Thinking of what's to come is...
+katrina	……견딜 수가 없어.	Terrifying.
+@story	비밀	Secret
+elara	미래가 무섭다……	She's scared of the future...?
+elara	…………	...
+elara	……카트리나 씨는 뭘 두려워하는 걸까.	What's so scary for her?
+elara	일을 잃은 뒤의 일?	The fact that she's lost her job?
+elara	부임했던 행성 사람들에게 원망받는 것?	The people from that planet she couldn't save being mad at her?
+elara	많은 사람이 죽었다는 죄책감……?	The guilt for all the people who died?
+elara	…………	...
+elara	그게 그렇게까지 무서울까?	Scary, yes. But... terrifying?
+elara	……물론,	Well...
+elara	나는 카트리나 씨가 아니니까 무슨 생각을 하는지는 몰라.	I can't feel what she feels.
+elara	카트리나 씨가 어떤 기분인지 이해해 줄 수가 없어……	I wish I could understand what's going through her head, but I can't.
+elara	하지만……	But even then...
+elara	어쩌면 아직 우리가 모르는 게 있을지도 몰라.	Maybe, there's something more to this.
+elara	카트리나 씨가 미래를 두려워할 만한……	Some reason why she fears the future so much.
+elara	다른 이유가.	Something we haven't found out about yet.
+elara	있잖아.	Come on...
+elara	조금만 더 기억을 찾아보자.	Let's go look for more memories.
+@story	두려워하는 것	The Reason You're Scared
+elara	……카트리나 씨.	Katrina...
+elara	우리…… 봤어.	We... saw it.
+katrina	…………	...
+katrina	……뭘?	Saw what?
+elara	카트리나 씨가 두려워하는 것.	The reason you're scared.
+katrina	…………	...
+katrina	……그래.	Oh...
+katrina	그럼 알았겠네.	That should be enough, then.
+katrina	내가 뭘 두려워하는지.	Now you know why I'm too scared to go back.
+katrina	알았으면…… 이제 말 걸지 마.	If you get it, just leave me alone.
+katrina	……아니면,	Actually... wait.
+katrina	설마 엘라라.	Elara...
+katrina	너도 축하해 주려고?	Don't tell me you came to congratulate me.
+katrina	그 의사처럼.	Like that doctor did.
+elara	나는……	Well...
+elara	……응.	I... Yes.
+elara	카트리나 씨의 그 기억을 보고 처음 든 생각은,	When I first saw that memory, that's what I thought.
+elara	축하한다는 마음이었어.	I wanted to congratulate you.
+katrina	…………	...
+katrina	……역시.	I knew it.
+katrina	너와는 서로 이해할 수 없나 봐.	You'll never understand me.
+katrina	이 공간에서 이렇게 오래 함께 있었어도,	No matter how much time we spend together here...
+katrina	서로 기억을 공유했어도,	No matter how many of each other's memories we see...
+katrina	이렇게 서로에 대해 많이 알게 됐는데도,	And even though we've learned so much about each other's pasts...
+katrina	그래도…… 우리는 서로 이해할 수 없어.	We're just too different.
+katrina	그걸 보고,	You saw that memory...
+katrina	처음 드는 생각이 축하한다니.	And you felt like it was something to be celebrated?
+katrina	나라면…… 절대 그렇게 생각할 수 없어.	Something like that would never even cross my mind.
+elara	…………	...
+elara	……응.	I know...
+elara	카트리나 씨가 그런 건 알아.	I know that you couldn't feel that way.
+elara	카트리나 씨의 기억을 많이 봤고,	I've seen a bunch of your memories now.
+elara	그런 인생을 살아온 카트리나 씨가 그렇게 생각하는 것도 이해해.	After a life like that, you couldn't be happy about it.
+elara	이해할 수 있어.	It makes sense.
+elara	하지만 카트리나 씨 말대로,	But it's like you said...
+elara	그래도 모르겠어.	I don't really understand it.
+elara	카트리나 씨가 얻은 건…… 희망이 아니야?	To me, that looked like... hope.
+elara	그 행성에서 끔찍한 일이 벌어졌을지도 모르지만,	I won't deny that what happened on that planet was horrible.
+elara	아이의 아버지는…… 이미 이 세상에 없을지도 모르지만,	And... maybe the baby's father isn't alive anymore.
+elara	그래도 카트리나 씨 뱃속에는 지금도,	But the baby's still there.
+elara	……아기가 있잖아?	It's still inside you.
+elara	행성이 엉망이 되고 아버지가 죽었어도,	Even with the planet at war, even with the father dead...
+elara	그걸 미래로 이어 줄 희망으로──	It's a ray of hope for the fut—
+katrina	──그럴 리가 없잖아!	Of course not!
+katrina	……진심이야?	Are you serious?
+katrina	정말 그렇게 생각한 거야?	Is that what you really thought?
+katrina	내 기억을 보고?	After seeing all my other memories, no less?
+katrina	내 인생을 보고도 그렇게 생각할 수 있어?	That's the conclusion you drew after learning about my life?
+katrina	…………	...
+katrina	……서글프네.	That hurts.
+katrina	잔인해.	That's... just cruel.
+katrina	이제 화도 나지 않아.	I can't even get angry anymore.
+katrina	이렇게까지 이해받지 못한다니.	Feeling so misunderstood is just...
+katrina	……슬퍼, 엘라라.	Sad. That's what it is, Elara.
+katrina	나도 네가 무슨 말을 하고 싶은지는 알아.	And I do get what you're trying to say.
+katrina	이해는 할 수 있어.	It makes sense to me too.
+katrina	그래도…… 네가 생각하는 것처럼은 생각할 수 없어.	But... I could never feel like that myself.
+katrina	이게 희망이라니.	Hope?
+katrina	그렇게는…… 생각할 수 없어.	No... That's not what that baby is to me.
+katrina	나더러 어쩌라는 거야?	What am I supposed to do with it?
+katrina	몇 번이나 낙태할까 생각했지만…… 결국 그러지 못했어.	I thought about aborting it. I thought about it over and over... but I couldn't.
+katrina	하지만 어떻게 낳아야 하는지도 모르겠어.	How am I supposed to give birth to it?
+katrina	키우는 법도 몰라.	I don't even know how to raise a baby.
+katrina	돌아갈 곳도 없어……	I don't have any place I can call home anymore.
+katrina	나는…… 엄마가 될 수 있는 사람이 아니야.	I'm not the kind of woman who can be a mother.
+zoe	…………	...
+zoe	……내가 할게.	I'll help you.
+katrina	조이……?	Zoe...?
+zoe	내가 알려 줄게.	I know about that kind of thing.
+zoe	아이를 낳는 것도, 키우는 것도.	I'll be there when you give birth, and I'll teach you how to raise a child.
+zoe	나도 아직 아이를 낳아 본 적은 없지만……	I've never had a child myself, but...
+zoe	계속 여동생들을 돌봐 왔으니까.	I've spent enough time looking after my younger sisters.
+zoe	그러니까……	So...
+katrina	……조이.	Zoe...
+katrina	네 마음을 이해 못 하는 건 아니지만,	I get what you're trying to say too.
+katrina	그래도 그런 문제가 아니야.	But you're missing the point.
+katrina	그냥 키우기만 하면 되는 거라면 베이비시터를 고용하면 그만이야.	If the issue was just looking after the baby, I'd hire a babysitter, and that would be it.
+katrina	이건…… 그런 문제가 아니야.	The problem... goes much deeper than that.
+zoe	그럼 어떻게 할 거야?	What are you going to do, then?
+zoe	카트리나는 자기 아이를……	That child is still inside of you...
+zoe	……죽게 둘 거야?	Will you just let it die?
+katrina	…………	...
+katrina	……모르겠어.	I don't know...
+zoe	……그러면 안 돼.	You can't do that.
+zoe	카트리나가 무슨 생각을 하는지 모르겠어.	I don't get what you're thinking, Katrina.
+zoe	아무리 기억을 봐도 마음까지는 알 수 없어.	I can see your memories, but I can't feel the way you did.
+zoe	나와 카트리나는 느끼는 게 분명 전혀 다를 거야.	And my way of seeing things is totally different from yours too.
+zoe	하지만……	But...
+zoe	그래도,	Despite all this...
+zoe	생명의 가치는 똑같아야 하잖아.	A life's a life.
+zoe	아이의 생명만 무게가 다르다니……	A baby deserves to live just as much as anybody else.
+zoe	그건 이상해.	You're making no sense.
+katrina	…………	...
+zoe	……있잖아.	Really...
+zoe	카트리나.	Katrina...

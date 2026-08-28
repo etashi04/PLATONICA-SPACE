@@ -1,0 +1,443 @@
+@story	벽을 세운 사람들	The Wall-Builders
+<larry>	어떻게 생각해, <walter>?	What do you make of this, <walter>?
+	회의실 테이블에 발을 올린 채 <larry>는 별 관심도 없다는 듯 말했다.	<larry> asked without showing particular interest, with his feet up on the meeting room's table.
+	사람도 드문 데다, 그렇지 않더라도 <larry>의 태도를 나무랄 사람은 아무도 없을 것이다.	There weren't many people around, and certainly none that would reprimand him for his lack of manners.
+<walter>	어떻고 자시고…… 올 데까지 와 버린 거지, 우리는.	What do you want me to say? We're past the point of no return.
+	<walter>는 이어폰을 빼며 어깨를 으쓱했다.	<walter> shrugged.
+<larry>	이젠 못 멈추겠지. 정말 전쟁을 하게 될지도 모르겠군. 이런 시대에.	We surely can't stop it. I guess we're really going to have another war in this day and age.
+	<walter>와 <larry>가 태어난 행성에서는 지금 사람들이 두 클러스터로 나뉘어 대립하고 있었다.	The people of their native planet had long been split into two "clusters," two rival factions.
+	두 세력은 지리적으로도 갈라져 있어 그 사이에는 지금 아주 긴 벽이 세워져 있다.	They resided on different parts of the planet, physically separated by a long wall.
+###@selection-token	武力衝突	Armed Conflict
+	아직 무력 충돌까지 벌어지지는 않았지만 시간문제라고 했다.	Even though armed conflict still hadn't started, it was thought to be a matter of time.
+	양쪽 진영 모두 물밑에서 무기 생산을 서두르고 있다.	Both clusters were manufacturing weapons in underwater facilities.
+<larry>	이럴 땐 보통 어느 한쪽이 행성을 떠나지.	Normally, you'd expect one of the two to just leave the planet.
+<larry>	대개 의견이 다른 클러스터끼리는 규모 차이가 있으니까, 작은 쪽이 떠나는 거야.	And if one cluster was smaller than the other, they'd just shut up and pack their bags.
+<walter>	하지만 우리는 전체 주민이 정확히 반으로 갈라져 버렸지.	Too bad our planet is split almost exactly in two.
+<walter>	게다가 이 행성을 포기하고 싶지 않은 이유도 있고.	And you know we all have a good reason to stay.
+<walter>	어느 쪽이든 거슬러 올라가면 원래 하나의 민족이었으니까.	We all descend from the same people, after all.
+<larry>	조상님들 뵐 낯이 없겠군.	Gotta apologize to our ancestors, then.
+	사람들이 우주 곳곳에 흩어져 살게 된 뒤로 폭력을 동반한 분쟁은 줄었다.	When humans began scattering through the universe, violence and wars started becoming rarer.
+	인류가 처음 우주로 나갔을 때는 우주전쟁도 예상됐지만, 행성과 행성 사이를 채운 우주는 싸우기에는 너무 광대했다.	Some were worried about the possibility of interplanetary wars, but the distances were too large for that to happen.
+	생각이 다른 사람들과 굳이 함께 살 필요는 없다.	There was no need for people who disagreed to keep living together.
+	다른 행성으로 옮겨 같은 생각을 가진 사람들끼리 살아가면 된다.	Finding a new planet where everyone agreed with you was much easier.
+	그럴 수 있을 만큼 행성의 테라포밍도 우주여행도 쉬워졌다.	Space travel and terraforming had become so advanced as to make that a feasible, easy option.
+	하지만 이 행성에서는 이제 정말 전쟁이 벌어질지도 모른다.	But the threat of a real war loomed on this planet.
+	그것을 막는 것이 <walter>의 임무가 된다.	Preventing that from happening was <walter>'s mission.
+	물론 <larry>는 그 사실을 모른다.	And of course, <larry> knew nothing about it.
+@story	맞은편에 사는 소녀	The Girl Next Door
+	소형 단말기로 들어오는 정보를 눈으로 좇으며 노트를 넘긴다.	He scrolled through the information on his miniaturized terminal and flipped through his notes.
+	전자적으로 암호화된 통신이지만, 그것을 다시 손수 복호화해야 한다.	The data was entirely encrypted, and he had to piece it back together by hand.
+###@selection-token	諜報員	Spy
+	<walter>가 첩보원으로 신분을 속이고 적 진영의 아파트에 잠입한 지 한 달.	It had been a full month since <walter>, as a spy, had moved into an apartment on enemy territory.
+	상황은 나아지지 않았다. 이 곰팡이 냄새 나는 아파트에서 언제까지 살아야 할까.	Things were only getting worse. He wondered for how long he would have to live in that moldy place.
+	곰팡이 냄새야 얼마든 참을 수 있지만, 원래 하나였던 민족이 갈라져 대립하는 상황은 마음이 아팠다.	Mold, however, was the least of his problems. Seeing people split and fight each other was much more painful.
+	<walter>가 어렸을 때는 이 도시에 동서를 가르는 벽 같은 건 없었다.	When <walter> was a kid, there wasn't any wall dividing the eastern and western sides of the city.
+	<walter>는 통신으로 지시받은 장소에 도청 장치를 설치하기 위해 준비한다.	Now, he prepared to hide a listening device where the encrypted communication had instructed him to.
+	오늘은 조금 추울 것이다. 코트를 걸치고 현관문을 연다.	It was a cold day. He put on his coat before opening the entrance door.
+girl	아…… 옆집 분?	Oh... I'm... your neighbor?
+	그곳에서 맞은편 방에서 나오던 소녀와 마주쳤다.	He ran into a girl who was just coming out of the apartment in front of his.
+	아직 십 대인 학생으로 보이는 소녀였다.	She looked like a student, probably still a teenager.
+girl	최근에 이사 온 사람…… 맞죠?	You just moved in, right?
+<walter>	그래…… 한 달쯤 전이었나.	Yeah. About a month ago.
+<walter>	인사를 못 해서 미안하군. 계속 정신이 없어서.	Sorry I never introduced myself. Moving is a hectic affair.
+<walter>	나는 <walter>.	I'm <walter>.
+girl	내 이름은──	I'm...
+<chesca>	<chesca>. <walter> 씨는 어디서 왔어요?	<chesca>. Where are you from, <walter>?
+<walter>	……먼 시골에서. 일 때문에 왔지.	From far away. I came here from the country to work.
+<walter>	그래도 얼마 지나면 또 다른 곳으로 이사할 예정이야.	I won't stay here for long though.
+<chesca>	그렇구나. 모처럼 이웃이 생겼다고 생각했는데.	Oh, that's too bad. I was happy I finally had a neighbor.
+<chesca>	거기 계속 빈방이었거든.	Your apartment's been empty for ages.
+<walter>	그렇군.	I see.
+<chesca>	<walter> 씨, 어디 가요?	Where are you going?
+<walter>	역까지.	To the station.
+<chesca>	아, 나도.	Oh, me too.
+<chesca>	있잖아요, 같이 가도 돼요?	Would you mind walking there together?
+	소녀는 그렇게 말하며 뒤로 손을 뻗어 문을 닫았다.	As she made that suggestion, the girl closed the door behind her.
+@story	아버지가 준 인형	A Toy from Dad
+<chesca>	아, <walter> 씨.	Hey, <walter>, it's you.
+	근처 코인 세탁소에서 <chesca>와 마주쳤다.	He'd run into <chesca> in a coin laundry.
+	아파트는 세탁기를 놓을 공간조차 없는 싸구려라 이곳이 가장 가까운 세탁소였다.	Their cheap apartments were too small for a washing machine, and this was the nearest laundromat.
+	우연히 마주치는 일도 있었다.	Running into each other wasn't that rare.
+	그녀는 봉제인형을 안고 있었다. 아주 오래된 친구인지 꽤 때가 타 있었다.	She was holding a stuffed animal in her arms. Judging by how dirty it was, she must've had it since childhood.
+	이제 인형을 가지고 소꿉놀이를 할 나이는 아닐 텐데.	However, she looked too old to still be playing with stuffed animals.
+<chesca>	아. 유치하다고 생각했죠?	You think I'm childish, don't you?
+<walter>	아니……	No...
+<chesca>	괜찮아요. 나도 그렇게 생각하니까.	It's fine. I think I'm childish too.
+	<chesca>는 <walter>도 잘 볼 수 있도록 인형을 들어 올렸다.	She held up the stuffed animal for <walter> to see.
+###@selection-token	お父さん	Dad
+<chesca>	……이건 집을 나간 아빠가 준 거예요. 내 다섯 살 생일에.	My dad gave this to me before he left, for my fifth birthday.
+<walter>	아버지는 지금 어디에?	Where is he now?
+<chesca>	……저쪽. 엄마랑 싸우고 나가 버렸어요.	On the other side. He had an argument with Mom... and left.
+<chesca>	아빠는 원래 저쪽에서 태어났거든.	He was actually born on that side.
+<walter>	……그렇군.	I see...
+	여기에도 작은 분단이 있다.	Conflict happens at all scales.
+	이 소녀에게 부모가 다시 돌아오는 일은 이제 없을지도 모른다.	This girl's parents would probably never get back together.
+<chesca>	이거 그냥 세탁기에 넣고 돌려도 괜찮을까요?	But you know, I'm not sure I can put this in the laundry machine.
+<walter>	그건…… 글쎄.	I'm... not sure either.
+	그녀의 어머니가 낮에는 일 때문에 집을 비운다는 것을 <walter>는 사전 조사로 알고 있었다.	From his intel, <walter> knew that the girl's mother was always out working during the day.
+	그녀에게는 인형 세탁법을 알려 줄 사람조차 없다.	She didn't even have anyone to teach her how to wash a stuffed animal.
+@story	수업 참관	Parent Visitation Day
+<chesca>	있잖아요. 내일 학교에 와 주면 안 돼요?	Say, could you come to school with me tomorrow?
+	노크 소리에 문을 열자 <chesca>가 눈을 마주치지 않은 채 말했다.	<chesca> asked when <walter> opened the door. She avoided looking him in the eye.
+	그녀가 찾아오는 건 드문 일이 아니었다. 하지만 이날은 모습이 이상했다.	She came to his apartment relatively often, but something felt off that day.
+<chesca>	내일 부모님이 수업 보러 오는 날인데, 엄마는 일 때문에 못 와서요.	It's parent visitation day tomorrow, but my mom is too busy with work...
+<chesca>	<walter> 씨가 대신 와 주면 좋겠다고 생각했어요.	So I was wondering if you could come instead.
+<walter>	내가?	Me?
+<chesca>	네. 내 아빠인 척하고.	Yeah. Pretending to be my dad.
+<chesca>	……안 돼요?	So... you don't want to?
+<walter>	……안 될 건 없지만.	It's not that I don't want to...
+###@selection-token	配偶者	Spouse
+	<walter>에게는 아이는커녕 배우자도 없다. 부담스러운 부탁이었다.	<walter> didn't have a spouse, let alone children. To him, this was quite a heavy request.
+	일의 성격을 생각하면 너무 눈에 띄어서도 안 된다.	And given his job, he knew he should attract as little attention as possible.
+<chesca>	부탁이에요!	Please!
+	하지만 <chesca>가 물러서지 않아 결국 <walter>는 승낙했다.	But when <chesca> insisted, he finally accepted.
+	<chesca> 부모의 사정은 잘 알고 있었다. 그녀가 가엾다는 마음도 있었다.	He knew about her real parents, and he felt for her.
+	다음 주, <walter>는 부탁받은 대로 <chesca>가 다니는 학교를 찾았다.	The next week, as instructed, he showed up at <chesca>'s school.
+	오후 수업 한 시간을 학생들의 부모가 교실 뒤에 줄지어 서서 지켜봤다.	The parents were standing at the back of the classroom, looking at their children as they learned.
+	다른 부모들을 따라 사진도 찍었다.	Since the others were taking pictures, he did the same to blend in.
+	학교에서의 <chesca>는 <walter>가 아는 그녀와 달라 보였다.	While at school, <chesca> looked a bit different than usual.
+	조용하고 얌전했으며 쉬는 시간에도 혼자 책을 읽는 듯했다.	She was quiet, reserved, and spent her breaks reading by herself.
+	저녁부터 학부모 친목회가 시작됐지만 <walter>는 화장실에 가는 척 빠져나왔다.	After classes, the parents were supposed to all meet and chat, but <walter> pretended to go to the bathroom and left.
+	사람들의 눈을 피해 그대로 아파트로 돌아갔다.	He walked back to his apartment, trying not to be seen by anyone.
+<chesca>	와 줘서 고마워요. 기뻤어요.	Thank you for coming. It really made me happy.
+	그리 오래 지나지 않아 <chesca>가 찾아왔다.	After a short while, <chesca> showed up at his door.
+	평소의 그녀였다. 활기차고 수다스러우며 표정이 쉴 새 없이 바뀐다.	She had turned back into the girl he knew: cheerful, talkative, and expressive.
+<walter>	학교에서는 꽤 얌전하게 지내더군. 다른 사람인 줄 알았어.	You really looked like a strait-laced student there. I barely recognized you.
+<chesca>	후후. 맞아요. 학교에서는 얌전한 척하거든요.	Hehe. Yeah, I'm putting on a bit of an act at school.
+	그녀는 <walter>가 잘 아는 미소를 지었다.	As she said that, she showed him the smile he knew so well.
+@story	미래	The Future
+<chesca>	여기서 항상 잘 모르겠단 말이지.	I always get lost at this part.
+	아파트 복도에서 <chesca>가 자기 노트를 노려보고 있다.	<chesca> was staring holes into her notebook in the hallway between their apartments.
+<walter>	어디?	What part?
+<chesca>	여기요.	This part right here.
+<walter>	아, 이건……	Oh, this...
+	<walter>는 자신의 기억을 더듬어 설명한다.	<walter> tried to explain as best as he could, only vaguely remembering it himself.
+	학교에서 수학을 배운 건 이미 아주 오래전 일이었다.	Many a year had passed since he last studied math in school.
+	그래도 <chesca>의 노트와 교재를 보고 있으면 신기하게 기억이 되살아난다.	But strangely, looking at <chesca>'s textbooks and notes made him remember quite a lot of it.
+<chesca>	<walter> 씨는 학교 성적 좋았어요?	Did you get good grades in school?
+<walter>	어땠더라. 뭐, 평범했을 거야.	Not really. I was very average.
+<walter>	특별히 뛰어나지도 않았고 뒤처지지도 않았지.	I wasn't a genius, but I kept up with everybody else.
+<chesca>	나는 요즘 좀 뒤처지는 것 같아요.	I've been kinda struggling to keep up, recently.
+<walter>	수업에서 모르는 게 늘었어?	Are the lessons getting harder?
+<chesca>	뭐, 그렇죠.	I guess.
+<walter>	그래서 이렇게 공부하는 거군. 복도에서.	And that's why you're studying like this. In the hallway of all places.
+<chesca>	괜찮잖아요. 내 방은 질렸어요.	What's wrong with that? I got bored with studying in my room.
+<walter>	적어도 의자가 있는 곳이 낫지 않겠어?	You could at least find a place with chairs.
+<chesca>	서 있는 게 건강에 좋거든요.	Standing is good for your health, you know?
+<walter>	그런가.	Is it now?
+###@selection-token	勉強	Studying
+	그녀의 공부를 봐주는 건 이번이 처음이 아니었다.	It wasn't the first time he'd seen her studying like this.
+	가끔 <chesca>가 찾아와 <walter>에게 공부를 가르쳐 달라고 졸랐다.	Sometimes she would come to <walter>, asking him to explain some concept.
+<walter>	좋은 성적을 받아서 이루고 싶은 목표라도 있어?	Are you trying to get good grades for any special reason?
+<chesca>	네?	What do you mean?
+<walter>	졸업한 뒤 가고 싶은 대학이 있다든가?	Like, do you want to get in a good university?
+<chesca>	아뇨.	Nope.
+<chesca>	딱히 그런 건 생각 안 해 봤어요.	I'm not worried about anything like that.
+<chesca>	그냥 모두에게 뒤처지는 게 분할 뿐이에요.	I just don't want to feel like I'm being left behind.
+<walter>	그렇군. 좋은 동기야.	I see. That's a good motivation.
+<chesca>	그래요?	You think so?
+	하지만, 하고 <walter>는 생각한다.	<walter>, however, was worried about something else.
+	지금 그녀들에게는 앞으로의 일 같은 걸 생각할 여유가 없는지도 모른다.	Maybe planning for the future was a waste of time right now.
+	내년에 이곳이 어떻게 되어 있을지조차 상상할 수 없다.	He couldn't even imagine what would be of this place in a year's time.
+	그녀들이 꿈을 꿀 수 있는 곳이었으면 좋겠다──	He couldn't even imagine what this place would be like in a year's time.
+	<walter>는 조용히 그녀의 옆얼굴을 바라본다.	Like that, <walter> kept staring at the studying girl's profile.
+@story	스파이예요?	Are You a Spy?
+<chesca>	<walter> 씨는 말이죠, 스파이예요?	<walter>, are you a spy?
+	이날 <walter>는 <chesca>와 함께 근처 온실을 찾았다.	<walter> and <chesca> were visiting a greenhouse together.
+	그녀의 지인이 식물을 기르는 온실로, 가끔 놀러 오는 모양이었다.	An acquaintance of hers owned the place, and she liked to spend time there.
+	테이블에 앉아 커피를 마시던 중 <chesca>가 아무렇지도 않게 물었다.	While they were sipping coffee, peacefully sitting around a table in the greenhouse, <chesca> nonchalantly asked that question.
+<walter>	……왜 그렇게 생각하지?	What makes you think that?
+<chesca>	미안해요. 전에 들어 버렸어요.	Sorry... I overheard you.
+<chesca>	<walter> 씨가 누군가랑 통화하는 걸요. 그 아파트 벽이 얇아서.	I heard you on the phone with someone. The walls in that building are so thin...
+<walter>	흠…… 안타깝지만 나는 지극히 평범한 노동자야. 스파이가 아니지.	I see... but unfortunately, I have a normal, respectable job. I am not a spy.
+<chesca>	……그렇구나.	Oh, okay.
+	<walter>는 거짓말인 줄 알 수 있게 거짓말했다.	<walter> made sure to lie in the most obvious way possible.
+###@selection-token	密告	Report
+	그녀에게 들킨 건 <walter>의 실수였지만, <chesca>라면 알아도 누군가에게 밀고하지 않을 거라 생각했다.	She'd found him out, and that was a terrible failure. But he knew that <chesca> wouldn't report him to anyone.
+	그녀에 대한 신뢰이자 안일함이었다.	It was his way of showing his trust and kindness to her.
+<chesca>	그럼 <walter> 씨는 스파이가 아니니까 모를 수도 있지만……	So, since you're not a spy, you probably don't know, but...
+<chesca>	저쪽은 어떤 곳이에요? 여기보다 재밌어요?	How is it on the other side of the wall? Is it more fun?
+<walter>	……내가 알 리 없지. 하지만…… 분명 아무것도 다르지 않을 거야.	Of course, I couldn't possibly know. But... I bet it's the exact same as here.
+<walter>	음식은 저쪽이 조금 더 풍족할지도 모르고.	Maybe they eat a little bit better over there.
+<walter>	교육이나 학문은 이쪽이 더 중요하게 여기는 것 같아.	And education and research are slightly more advanced here.
+<walter>	하지만 그 정도의 사소한 차이뿐이야.	But they're just tiny differences.
+<chesca>	……그렇구나.	Oh...
+	<walter>는 지난 몇 달의 평온한 나날에 익숙해져 있었다.	Those peaceful days had made <walter> soft.
+	원래라면 그녀에게 정체를 들킨 순간 짐을 싸서 철수하거나, 아니면 그녀를 처리해야 했다.	Normally, as soon as he got found out, he would either have to pack up and leave, or kill her.
+	<walter>는 첩보원이라는 처지를 잊고 이 평온한 나날이 계속되기를 바랐다.	But rather than his duties as a spy, he chose the comfort of that pleasant tranquility.
+	물론 그런 일이 허락될 리 없었다.	And of course, this could not go unpunished.
+@story	분갈이	Repotting
+<chesca>	섞을 비료는 이 정도면 되려나.	Is this enough fertilizer?
+	<chesca>가 바닥에 펼친 시트 위에서 흙과 화학 비료를 섞고 있다.	<chesca> was mixing soil with a chemical fertilizer on a tarp laid out in front of her.
+<walter>	어…… 글쎄.	Hm... Let me see.
+	<walter>는 손에 든 단말기로 찾아본다.	<walter> checked his handheld device for information.
+<walter>	……지금 몇 그램 넣었어?	So, how many grams did you put in?
+<chesca>	몰라요.	No idea.
+<walter>	그러면 알아볼 방법이 없잖아.	No way to tell, then.
+<chesca>	아, 정말.	Sheesh.
+<chesca>	<walter> 씨는 너무 꼼꼼해요.	You're always so precise.
+	<chesca>가 질렸다는 듯 말했다.	She was appalled by his strictness.
+<chesca>	좀 더 대충 해도 된다니까요!	Just relax and wing it!
+<walter>	미안…… 원래 이런 성격이라.	Sorry... That's just the way I'm made.
+	이날 <walter>는 <chesca>의 부탁을 받고 그녀의 방에 와 있었다.	<chesca> had asked <walter> to come to her room.
+###@selection-token	鉢植え	Potting
+	새 모종을 샀으니 화분에 옮겨 심는 걸 도와 달라고 했다.	She wanted help with potting some seedlings she had bought.
+<walter>	그런데 이런 건 보통 밖에서 하는 거 아니야?	By the way, isn't this something you normally do outdoors?
+<chesca>	그렇긴 한데.	Yeah.
+<chesca>	<walter> 씨는 밖에 너무 안 나가는 게 좋을 것 같아서요.	But I thought that maybe you shouldn't leave the house.
+<walter>	배려해 줘서 고맙군.	I appreciate it.
+<walter>	하지만 괜찮아. 너무 눈에 띄지만 않으면.	I can go outdoors though, as long as I'm not drawing attention.
+<chesca>	저격당하거나 하진 않아요?	Won't they shoot you or something?
+<walter>	그럴 일 없어.	They won't.
+	소녀의 풍부한 상상력에 <walter>는 웃고 만다.	<walter> couldn't help but laugh at the girl's overactive imagination.
+<chesca>	그렇구나.	Oh.
+<chesca>	그럼 가고 싶은 곳이 있는데요.	In that case, there's a place I'd like to go...
+<chesca>	데려가 줄래요?	Could you take me there?
+<walter>	어디로?	What place?
+<chesca>	놀이공원!	The theme park!
+	아직 대답도 하지 않았는데 그녀는 벌써 기쁜 듯 웃는다.	She was already smiling before he had time to reply.
+	언젠가 갈 수 있으면 좋겠다고 <walter>는 생각했다.	<walter> hoped the day would come that he could take her there.
+@story	도청기	Bugs
+	부품이 도착해 도청기를 조립한다.	Now that he had all parts, he could start assembling the bugs.
+	소리를 줍는 것이 아니라 통신망에 접속해 통신을 가로채는 도청기다.	They wouldn't just record sound, but also directly broadcast it to the network.
+	내일 이것을 미리 정해 둔 장소에 설치하러 간다.	Tomorrow, he would plant these in the locations he'd been told to.
+	그런 지시와 부품은 본부에서 암호문으로 보내온다.	Both the parts and instructions came from headquarters, in encrypted messages.
+	하지만 아침부터 밤까지 일이 있는 날은 거의 없다.	However, dealing with those things almost never took up his whole working day.
+	평소에는 이 아파트를 빌려 사는 평범한 시민을 연기해야 한다.	Most of the time, he simply had to play the role of an everyday citizen living in his rented apartment.
+###@selection-token	チャイム	Doorbell
+	조립을 마치자 초인종이 울렸다.	Just as he was done with assembling the bugs, the doorbell rang.
+	이어서 현관문을 두드리는 소리가 났다. 작게 두 번.	Then, there were two faint knocks on the door.
+	그 소리에 <walter>는 경계를 풀었다.	Those knocks relieved all of <walter>'s tension.
+<walter>	또 너구나.	You again?
+	문을 열자 역시 그곳에는 <chesca>가 있었다.	When he opened the door, as expected, he found <chesca> on the other side of it.
+<walter>	가끔은 또래 친구들이랑 놀러 가는 게 어때?	Why don't you go meet with some friends your age every once in a while?
+<chesca>	가고 있어요. 걱정 마세요.	Oh, I do that all the time, don't you worry.
+<chesca>	……혹시 바빴어요?	Are you... busy?
+<walter>	아니, 그런 건 아닌데.	Not really.
+<chesca>	그럼 실례할게요.	I'll be coming in then'
+<walter>	어이, 어이.	Hey...
+<walter>	오늘은 또 무슨 일이야?	Anyway, what is it today?
+<chesca>	딱히 볼일은 없는데요.	Nothing in particular.
+<chesca>	<walter> 씨, 언제 놀이공원 데려가 줄 거예요?	Oh, by the way, when are we going to the theme park?
+<walter>	약속한 기억은 없는데……	I don't remember promising you we would...
+<walter>	하지만 현실적으로는 우선 네 어머니에게 허락을 받아야지.	And most importantly, I can't really do that without your mom's permission.
+<chesca>	그런 거 괜찮아요.	Nah, you don't need to worry about that.
+<chesca>	엄마는 며칠째 집에도 들어오지 않고 있고.	She hasn't come back home in days anyway.
+<walter>	그래도 그럴 수는 없지.	I definitely do need to worry about that.
+<chesca>	아아. 그러고 다니면 인기 없어요, <walter> 씨.	Aw, <walter>. Girls don't like sticklers, you know?
+<walter>	열 살도 넘게 어린 네가 그런 말을 해 봐야 별로 와닿지 않는군.	I'm not taking advice on that from a girl a decade younger than me.
+<chesca>	쳇.	Tch...
+	<chesca>는 제집처럼 의자에 앉았다.	<chesca> nonchalantly sat on one of <walter>'s chairs.
+	오늘은 또 뭘 하게 될까 싶어 <walter>는 가볍게 한숨을 쉰다.	He let out a small sigh, wondering what inane thing she'd drag him into this time.
+@story	백 년 전의 이주	A Hundred Years Ago
+<chesca>	엄청 오랜만이야.	It's been so long.
+	<chesca>는 기쁜 듯하면서도 흥분과는 다른 차분한 목소리로 중얼거렸다.	<chesca> sounded happy, but in a calm, rather controlled way.
+	<walter>와 <chesca>는 이날 오후 둘이서 박물관을 찾았다.	<walter> had taken her to spend an afternoon at the museum.
+<walter>	놀이공원은 조금 멀지만 저 박물관이라면 가까우니 어때?	The theme park is a bit far from here, but we could go to the museum. That's close enough.
+	오전 내내 장비를 정비하던 <walter>가 그렇게 제안했다.	<walter> had suggested it himself after spending the morning working on his surveillance devices.
+	두 사람이 사는 아파트에서 걸어서 15분 거리였다.	It was just a fifteen-minute walk from the apartment.
+	이 행성의 역사를 다루는 박물관이었다.	The museum was all about the planet's history.
+	시간 탓인지 원래 이런 건지 손님은 거의 없었다.	There were barely any visitors, possibly because of the time of day, or possibly because after all, it was a museum.
+<chesca>	전에 왔던 건…… 학교 애들이랑이었나.	Last time I came here was...with school, I guess.
+<walter>	현장 학습 같은 거?	Like a field trip?
+<chesca>	응. 맞아.	Yeah, like that.
+<walter>	그럼 오늘은 네 강의를 들어 볼까.	Great. You can lecture me then.
+<walter>	늘 나만 가르치는 건 불공평하잖아.	I can't always be the one teaching you stuff.
+<chesca>	그런 건……	But...
+<chesca>	……아니, 좋아요.	Okay, fine.
+<chesca>	그럼 강의를 시작하겠습니다. 잘 들으세요.	Listen carefully. You will be tested on this.
+	<chesca>는 으스대듯 전시된 사진을 올려다본다.	<chesca> tried to put on airs as she looked at the photographs on display.
+<chesca>	우리 조상들은 약 백 년 전에 이 행성에 왔습니다.	Our ancestors reached this planet about a hundred years ago.
+<chesca>	지구를 떠나 다른 행성에서 살고 있었는데……	After leaving Earth, they'd been living on a different planet for a while, but...
+###@selection-token	移住	Move In
+<chesca>	그곳에서 사이가 틀어져 여기로 이주해 왔죠.	They had a falling out with some of the people there, and decided to move here.
+<walter>	당시 이주 세대의 마지막 한 명이 얼마 전에 죽었다고 뉴스에서 봤어.	The last of those original immigrants just died recently, right? I think I saw that on the news.
+<chesca>	거기, 끼어들지 마세요.	Hey, don't interrupt.
+<walter>	……이런. 실례했군.	Sorry, ma'am.
+<chesca>	그 뒤 백 년 동안 우리는 평화로운 공동체를 만들어 왔습니다.	For the next century, we worked to build a new, peaceful community.
+<chesca>	…………	...
+<chesca>	……그런데 3년 전.	That all went well... until three years ago.
+<chesca>	두 클러스터로 갈라져 논쟁이 시작됐지.	Then we got split into two clusters that are constantly arguing with each other.
+<chesca>	있잖아요……	Say...
+<chesca>	왜 싸우는 거예요? 내가 어려서 이해를 못 하는 거예요?	What are they even fighting over? I don't get it. Is that because I'm too young?
+<walter>	……뉴스에서 말하는 그대로야.	It's like they say on the news, really.
+<walter>	이 행성의 현재와 미래를 두고 방침이 다른 거지.	They disagree on the planet's situation, and how to change it for the future.
+<walter>	우리가 전통을 이어 가야 하는가, 아니면 새롭게 변해야 하는가……	Whether we should keep following traditions or change the way we do things.
+<walter>	어디에나 있는 그런 논쟁이야.	It's a tale as old as time.
+<walter>	하지만 우리 안에는 백 년 전의 굴욕이 깊이 새겨져 있는 모양이야.	The problem is that we're dealing with a century's worth of humiliation.
+<walter>	물론 나는 당시 일을 직접 알지는 못하지만……	Not that I know about it first-hand, of course...
+<walter>	그래도 살던 행성에서 쫓겨났던 당시의 분함은 이해할 수 있어.	But I do get it. Getting exiled from your own planet can't feel good.
+<walter>	그 일을 한탄하던 노인들을 많이 봐 와서 그런가.	I've seen too many old geezers who could never get over it.
+<chesca>	……나는 그런 거 몰라요.	I... don't get it.
+<walter>	괜찮아. ……모르는 편이 나아.	That's good. It's better if you don't.
+	모른다면 그게 더 낫겠지, 하고 <walter>는 생각한다.	<walter> thought that it was better for her not to understand.
+	하지만 <walter>의 머릿속에는 어릴 적부터 주입된 굴욕감이 뿌리내리고 있었다.	But his heart had been filled up with frustration ever since his childhood.
+	그것을 떨쳐 내는 일은 아마 불가능할 것이다.	He'd probably never get over it either.
+	고개를 숙인 <chesca>에게 <walter>는 아무것도 해 줄 수 없었다.	And as he looked at <chesca>, sheepishly staring at her feet, he realized he couldn't do anything to help her.
+@story	플레잉 카드	Playing Cards
+<chesca>	에에! 또 내가 졌어!	What?! I lost again!
+	이날도 <walter>는 <chesca>의 놀이 상대가 되어 주고 있었다.	Once again, <walter> found himself playing with <chesca>.
+	아침부터 비가 내려 그녀의 방에서 카드놀이를 하고 있다.	It had been raining since morning, and the two were playing a card game in her room.
+<chesca>	<walter> 씨, 뭔가 속임수 쓰는 거 아니에요?	You sure you aren't cheating?
+<walter>	안 써.	Very sure.
+<walter>	넌 얼굴에 너무 다 드러나.	Your face is just too easy to read.
+<walter>	전술이니 정석이니 하기 전에 포커페이스부터 익혀야겠어.	Before thinking about strategies and tactics, you should work on your poker face.
+<chesca>	포커페이스가 뭐예요?	What's a poker face?
+<walter>	감정을 얼굴에 드러내지 않는다는 뜻이야.	It's when you don't let emotions show on your face.
+<chesca>	에이, 어렵다.	Oof, that sounds difficult.
+<chesca>	이 게임은 그만하고 다른 거 해요!	Let's play something else!
+<chesca>	저쪽 선반에 주사위랑 보드가 있었을 텐데……	I think I have a dice game there...
+	<chesca>는 <walter>에게 등을 돌리고 선반을 뒤진다.	With her back turned to <walter>, she started rummaging through the shelves.
+	<walter>는 카드를 정리하다 문득 그녀의 책상 위를 바라봤다.	As he picked up the cards, his eyes fell on something on her desk.
+	학교에서 쓰는 교재와 노트 아래에 카드 한 장이 끼어 있다.	Between the textbooks and notebooks, there was a peculiar card.
+###@selection-token	IDカード	I.D. Card
+	플레잉 카드가 아니다──그녀의 ID 카드였다.	Not a playing card. It was an I.D. card.
+	신분을 증명하는 물건이니 제대로 보관해 둬야지──	"This is important. Don't keep it lying around."
+	그렇게 말하려다 <walter>는 입을 다물었다.	<walter> almost said those words, but stopped.
+	슬쩍 가져가 볼까, 하고 생각했다.	He thought he'd take a look at it first.
+	이 모양이라면 <chesca>는 여기에 끼워 둔 사실조차 기억하지 못할 것이다.	He imagined that <chesca> probably didn't even remember that her I.D. was on the desk.
+	없어져도 누군가에게 도둑맞았다고는 생각하지 않겠지.	Most likely, she wouldn't even notice if he stole it.
+<chesca>	……아!	Oh!
+<chesca>	찾았다!	Here it is!
+	마침 그때 <chesca>가 찾던 보드게임을 발견해, <walter>는 ID 카드에 손을 뻗지 않았다.	Before he could take the card, however, she was already coming back with a board-game box in her hands.
+	아니, 그렇지 않았더라도 그녀에게서 훔치지는 못했을 것이다.	Or maybe, even if he'd had all the time in the world, he couldn't have taken the card anyway.
+<chesca>	이거라면 안 질 거예요!	I won't be losing this time!
+<walter>	흠. 처음 보는 게임이군. 이건 규칙이 어떻게 돼?	Hm, I've never seen this game before. What are the rules like?
+<chesca>	안 가르쳐 줄 거예요! 알려 주면 내가 지니까.	I'm not telling you! If you knew the rules, you'd win.
+<walter>	그렇게 이겨서…… 괜찮은 거야?	And... you're fine winning like that?
+<chesca>	괜찮아요! 한 번쯤은 이겨 둬야죠.	Yes, sir! I have to win at least once.
+<walter>	균형이 안 맞으니까?	Just to keep the score in balance?
+<chesca>	맞아요!	Exactly!
+<walter>	뭐, 좋아…… 그래도 안 져 줄 거야.	Fine, whatever... But I'm still not losing.
+	창밖에서는 계속 비가 내리고 있다.	The rain kept falling outside.
+	비는 좋아하지 않는다.	He never liked the rain.
+	하지만 이때만큼은 이 비가 영원히 계속되면 좋겠다고 마음 한구석으로 바랐다.	But in his heart, he wished that this rainy day would never end.
+@story	미행자	Tailing
+	늘 가던 카페, 늘 앉던 자리.	Usual café, usual seat.
+	하지만 이번 호출은 평소보다 훨씬 급했다.	But this time, he'd been summoned with way more urgency than usual.
+	그것만으로도 무슨 일이 생겼다는 건 분명했다.	It was clear that something important had happened.
+	약속 시간을 조금 넘기자, 이곳에서 만나기로 한 친구인 척 동료가 가게로 들어왔다.	Shortly after the agreed time, a man entered the café, pretending to be a friend who wanted to chat over coffee.
+	<walter>가 손을 흔든다. 동료는 꾸며 낸 미소를 보인다.	<walter> waved at him, and the man showed a well-rehearsed smile.
+	둘이 자리에 앉아 이야기를 나눈다.	They sat together and started talking.
+	연기뿐인 잡담. 그 사이 동료에게서 메모를 건네받는다.	Idle chat, fake and entirely pointless. And in the meantime, the man handed him a note.
+###@selection-token	暗号	Encrypted
+	손으로 쓴 암호문. <walter>는 머릿속으로 해독한다.	It was a handwritten, encrypted message. <walter> quickly reconstructed its meaning in his head.
+	──첩보 활동이 발각됐을 가능성이 있다. 내일 새벽에 철수하라.	"Cover possibly blown. Evacuate by end of tomorrow."
+	<walter>는 메모를 재떨이에 떨어뜨리고 성냥으로 담배에 불을 붙였다.	<walter> put the note into the ashtray and lit himself a cigarette with a match.
+	아직 불이 남은 성냥을 재떨이에 놓아 메모를 태운다.	Before the match burned out, he used it to set fire to the note.
+	담배 한 개비를 다 피우기도 전에 <walter>는 가게를 나왔다.	He left the café without even smoking the whole cigarette.
+	빠른 걸음으로 아파트로 돌아간다. 자료를 처분하고 짐을 꾸려야 한다.	He hurried back to the apartment. He had evidence to dispose of and belongings to pack.
+	어디서 첩보 활동이 발각된 걸까──	As he walked, he wondered how his cover had been blown.
+	가장 먼저 <chesca>의 얼굴이 떠올랐다.	The first person he thought of was <chesca>.
+	그렇게 생각하고 싶지는 않았지만 그녀가 밀고했을 가능성은 있다.	He didn't want to believe it, but it was possible that she had reported him.
+	걸음을 재촉한다.	He picked up the pace.
+	이때 <walter>는 뒤를 밟는 미행자를 이미 눈치채고 있었다.	He'd already noticed the men tailing him.
+@story	충돌	Clash
+	<walter>는 미행자를 눈치채지 못한 척 그대로 아파트로 돌아갔다.	<walter> walked back to his apartment, pretending not to notice that he was being followed.
+	어차피 아파트 위치는 이미 알아냈을 것이다. 미행자를 따돌릴 이유가 없다.	They probably knew where he lived anyway. There was no point in trying to shake them off.
+	이미 들켰다면 서둘러 방으로 돌아가 서류를 처분해야 한다.	Since he'd been found, his priority was to get back and destroy any incriminating documents.
+	이미 아파트에 침입당했다면 늦었겠지만, <walter>가 돌아왔을 때 문은 여전히 잠겨 있었다.	He was worried they'd already broken in, but he found his apartment's door still locked.
+	자물쇠 외에 경보 장치도 있었지만 작동하지 않았고 파손된 흔적도 없었다.	He also had a security system in place, but it hadn't gone off or been tampered with.
+	<walter>는 문을 열고 안으로 들어갔다.	He unlocked the door and walked in.
+	어질러지지 않은 방을 보고 안도한 뒤 컴퓨터의 데이터를 전부 삭제했다.	Relieved at the sight of his apartment exactly as he had left it, he quickly wiped all the data from his computer.
+	종이로 가져온 자료도 모두 태웠다.	Anything written down on paper, he burned.
+	몇 분이 지나자 문을 두드리는 소리가 났다.	A few minutes later, he heard a knock on the door.
+	조심스러운 노크였다. 우편배달부라면 훨씬 거칠게 두드린다.	It was a gentle, quiet knock. Nothing like a postman's rough rapping.
+	<walter>는 품속에 권총을 숨긴 채 문으로 다가갔다.	Holding onto the gun inside his jacket, <walter> approached the door.
+###@selection-token	音/空気/テーブル/記憶/瞳	Sound/Breeze/Table/Memory/Eye
+	소리를 내지 않도록 잠금을 풀고 천천히 문을 연다──	He unlocked it without making a sound and slowly opened it.
+	그곳에 있던 건 <chesca>였다. 봉제인형을 안고 있었다.	On the other side, he found <chesca>, hugging her stuffed animal.
+<chesca>	아, <walter> 씨…… 깨어 있었어요?	Uhm, <walter>... did I wake you up?
+	<walter>는 안도하며 주변을 살폈다.	Once again relieved, he looked around.
+	아파트 앞길에는 사람 그림자 하나 없다. 미행자들은 아직 어딘가에서 기다리고 있는 걸까.	There was nobody on the road right before his apartment. His pursuers were probably waiting somewhere else.
+<chesca>	있잖아요, 아까 이 사람이──	You see, this guy here...
+	그렇게 말하며 소녀가 뒤를 돌아봤다.	As she said that, she turned around.
+	그녀의 뒤, 문에서 보이지 않는 사각지대에서 덩치 큰 남자가 불쑥 튀어나왔다.	From behind her, in a spot that wasn't visible from inside the apartment, a large man jumped out at him.
+	<chesca>에게 신경이 쏠려 <walter>는 즉시 반응하지 못했다.	Distracted by <chesca>, <walter> didn't have time to respond.
+	정신을 차렸을 때는 덩치 큰 남자가 겨눈 총구가 눈앞에 있었다.	Next thing he knew, the man was holding a gun to his face.
+	<walter>가 총을 쐈다.	<walter> fired his gun.
+	덩치 큰 남자도 발포했다.	The man fired his too.
+	총격의 충격에 <walter>는 그대로 방 안으로 쓰러진다.	<walter> crumpled down on the floor.
+	폭음에 정신이 아득해진다.	The deafening sound washed away all of his thoughts.
+	다시 소리가 들리기 시작하자 다리에 극심한 통증이 밀려왔다.	By the time he could hear again, he noticed a sharp pain in his leg.
+	정강이에서 새빨간 피가 흘렀다. <walter>는 기듯 안쪽 방으로 도망쳤다.	He was bleeding from his thigh. He painfully crawled toward the inside of his house.
+	현관에서 총성이 들렸다.	He heard another gunshot from the entrance.
+	아파트 밖에서도 총성이 울리고 창문이 산산조각 났다. 상대는 한 명이 아니다.	Then another one from outside the apartment, shattering his window. His pursuer wasn't alone.
+	여기에 머물 수는 없다──	He couldn't stay here.
+	권총을 움켜쥔 <walter>는 현관으로 달렸다.	Gun in hand, <walter> ran toward the entrance.
+@story	총성	Gunshot
+	커튼이 불타오르고 불길이 책장으로 옮겨붙는다.	The flames jumped from the curtains onto the shelves.
+	연기가 방 안을 가득 채운다.	The whole room quickly filled up with smoke.
+###@selection-token	炎	Fire
+	깨진 창문으로 바람이 들어와 불길이 더욱 거세진다.	The wind coming in through the shattered window only fueled the fire further.
+	현관문 너머에서 소리가 났다.	<walter> heard a noise outside.
+	무언가 움직이는 것이 보였다.	He saw something moving.
+	<walter>는 반사적으로 총을 쐈다.	And then, he fired his gun.
+	한 발, 두 발──	One shot and then a second.
+	그리고 그 기세 그대로 <walter>는 현관문 밖으로 뛰쳐나갔다.	Without losing any more time, he went out through the entrance.
+	발밑에 무언가가 굴러 있었다. <walter>는 달리면서 한순간 그것을 봤다.	He noticed something at his feet. As he ran, he only had a moment to register what it was.
+	작은 인형이 찢기고 더럽혀진 채 바닥에 떨어져 있었다.	A small doll, torn to pieces and covered in blood. 
+	그 옆에는 사람이──	And next to it...
+	소녀가 머리에서 피를 흘리며 쓰러져 있었다.	A girl, bleeding from her head.
+	넘쳐흐른 피가 <walter>의 신발을 적셨다.	<walter>'s soles were already covered in her blood.
+	그녀의 눈은 이제 아무것도 보고 있지 않았다.	And her eyes stared out at nothing.
+@story	의족	Prosthetic Leg
+	<walter>의 다리 상처는 깊어 뼈와 신경까지 손상되어 있었다.	The wound in <walter>'s leg had damaged his bones and nerves.
+	병원 침대 위에서 대충대충인 설명을 들었다.	As he lay in his hospital bed, he listened to a half-hearted explanation of what that damage entailed.
+###@selection-token	生体/機械/動物/破壊/爆発	Biological/Mechanical/Animal/Destructive/Explosive
+	생체 조직으로 재생시키는 치료에는 돈이 많이 들고 시간도 걸렸다.	Regrowing a biological leg was expensive and time-consuming.
+	다른 선택지를 소개받자 <walter>는 망설이지 않고 그것을 택했다.	<walter> didn't think twice about choosing the alternative.
+	그 방법이라면 다음 주에는 퇴원할 수 있다.	That would let him leave the hospital by the following week.
+	당장 이곳에서 벗어나고 싶었다.	He wanted to run away from this place as soon as possible.
+	어디로, 무엇으로부터 도망치려는 건지 자신도 몰랐다.	He didn't know what he was running away from, or where he'd go.
+	그저 멀리 가고 싶었다. 아무도 자신을 모르는 곳으로.	All he knew was that he needed to get to somewhere far away, where nobody knew who he was.
+	그리고 그런 건 <walter>뿐만이 아니었다. 그 행성에 사는 많은 사람도 마찬가지였다.	And he wasn't alone in that. It also applied to all the other inhabitants of that planet.
+	단말기에는 매일 비슷한 뉴스가 흘러나왔다.	All the news he could read only talked about one thing.
+	그 사건──동서 첩보원들의 충돌이 원인으로 보이는 아파트 전소 사건 이후, 정세는 단숨에 급변했다.	A run-in between eastern and western spies. An apartment burned down to ashes. The political situation changing overnight.
+	양쪽 진영 모두 협상 테이블에 앉았다.	The two factions were already discussing things.
+	날마다 논의가 오갔고, 결론까지 이제 한 걸음 남았다.	They were only steps away from coming to an agreement.
+	무슨 특별한 일이 있었던 것은 아니다.	Nothing particularly spectacular had happened.
+	그저──사람들은 이제 싸움의 고통을 견딜 수 없었다.	The people were just tired of fighting.
+	인류의 생활권이 넓어지면서 사람들은 충돌을 피하게 되었다.	As humanity expanded its habitat into space, individuals started avoiding conflict.
+	다투기 전에 등을 돌리는 쪽을 선택해 왔다.	Rather than discuss, they would run away from those who disagreed.
+	그런 나날 속에서 사람들은 이제 더는 싸울 수 없게 되었다.	As such, they had lost all ability to entertain conflict for any length of time.
+	아파트 한 동 전소. 사망자 세 명.	A burnt apartment, and three dead people.
+	그것만으로 양쪽 진영 모두 『이제 지긋지긋하다』며 두 손을 들었다.	That had been enough for everyone to give up the argument.
+	고작 신념과 주장의 차이 때문에 사람이 죽는 것을 견딜 수 없었다.	They couldn't stand the idea of people actually dying for something as inconsequential as ideals.
+	전쟁을 준비하던 강경파조차 불타 버린 아파트를 보고 움츠러들었다.	Even the allegedly belligerent faction had lost any will to fight.
+	참 평화롭기도 하군, 하고 <walter>는 생각했다.	Look at them and their peace, <walter> thought.
+	기뻐할 일이면서도 한편으로는 한심하다는 생각이 들었다.	But rather than happiness, he could only feel pity.
+	<walter>는 인간의 어리석음을 저주했다.	He pitied humanity's foolishness.
+	<walter>의 한쪽 다리는 값싼 기계 의족이 되었다.	Now, <walter>'s right leg was a cheap mechanical prosthetic.
+	그리고 <walter>가 퇴원할 무렵, <walter>가 속한 진영은 이 행성을 떠나기로 방침을 굳혔다.	By the time he got out of the hospital, the faction he belonged to would be leaving the planet.
+	비용 대부분은 상대 진영이 부담했고, 양측 대표는 악수를 나눴다.	The opposing cluster paid for most of the expenses, and the two representatives parted ways with a nice handshake.
+	<walter>는 병원에서 매일 밤 악몽을 꾼다.	But <walter>, in his hospital bed, had nightmares every single night.
+@story	귀향	Return
+	지금도 가끔 그녀의 꿈을 꾼다.	He still dreamed of her sometimes.
+	즐거웠던 시절의 기억은 조금씩 흐려지는 것 같다.	Those happy memories felt as if they were fading little by little.
+	함께한 시간은 훨씬 많았을 텐데, 떠올릴 수 있는 건 그중 일부뿐이다.	He was sure they'd spent way more time together, but he could only remember a few days' worth of it.
+	그래도 마지막으로 본 그녀의 얼굴만큼은 잊을 수 없다.	The only thing he could never forget was the last time he saw her face.
+###@selection-token	命	Life
+	바로 지금, 새빨간 피와 함께 생명이 바닥으로 흘러나가고 그녀가 그녀가 아니게 되어 간다.	Life was seeping out of her, flowing into the puddles of blood on the ground, as she stopped existing.
+	그 눈은 이제 아무것도 보고 있지 않다.	Her gaze was dull and unfocused.
+	눈을 감으면 언제나 그녀가 죽던 모습이 떠오른다.	Every time he closed his eyes, he'd see her die again.
+	그녀를 쏜 것이 자신인지 아닌지는 알 수 없다.	He didn't even know whether he'd been the one who shot her dead.
+	상대도 수없이 총을 쐈다.	His pursuers had fired their guns quite a lot.
+	자신도 쐈다. 이제 와서는 알 방법이 없다.	But so had he. There was no way to be sure.
+	하지만 <walter>에게는 아무래도 상관없었다.	And after all, <walter> didn't even care anymore.
+	자신이 쏜 것이라고 생각한다.	He assumed it had been him.
+	자신이 그녀를 죽였다.	He assumed he'd been the one to kill her.
+	설령 그녀의 몸을 꿰뚫은 총알이 상대의 것이었다 해도, 그래도 결국 자신이 죽인 것이다.	Even if the bullet had been shot by someone else, it didn't change the fact that he'd been the one to kill her.
+	<walter>가 그 아파트로 이사 오지 않았다면 그녀는 휘말리지 않았을 것이다.	If he'd never moved into that apartment, she wouldn't have been killed.
+	당시 사정을 털어놓은 동료는 그녀가 적에게 정보를 흘렸을지도 모른다며 그를 위로했다.	When he talked about it to a colleague, he tried to comfort <walter> by saying that she'd probably reported him.
+	하지만 <walter>에게는 위로조차 되지 않았다.	That thought was anything but comforting.
+	그녀가 <walter>의 일을 눈치채게 된 것 자체가 <walter>의 실수였다.	The fact that she'd found out about <walter>'s real activities was a failure in itself.
+	그로부터 십 년 넘게 <walter>는 고향 행성을 떠나 동료들의 이주지마저 피해 아무 연고도 없는 행성에서 살아왔다.	It had been more than ten years since then. <walter> had left his native planet and moved away from everyone he knew.
+	고향에서 일어난 모든 일로부터 눈을 돌린 채 살아왔다.	He kept living, trying as hard as possible not to think about what had happened.
+	작년, 온몸에 병이 퍼져 있다는 사실이 밝혀졌다.	Last year, he got the news that he was harboring a fatal disease.
+	<walter>는 진심으로 기뻐했다.	He rejoiced from the bottom of his heart.
+	드디어 벌을 받게 되는구나 싶었다.	Finally, he was going to get the punishment he deserved.
+	그리고 안도하는 자신이 또다시 싫어졌다.	At the same time, he despised himself for feeling so contented about it.
+	이대로 죽어도 되는 걸까.	Dying as if nothing had happened would be too easy.
+	마지막으로 자신의 죄와 마주해야 한다.	He had to really face the consequences of his actions.
+	그는 고향으로 향하는 우주선 티켓을 샀다.	And so, he bought a spaceship ticket that would bring him back to his home planet.

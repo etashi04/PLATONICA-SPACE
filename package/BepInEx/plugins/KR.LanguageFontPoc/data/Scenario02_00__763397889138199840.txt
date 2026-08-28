@@ -1,0 +1,248 @@
+@story	여기서 벌어지는 일	Whatever is Going on
+elara	아! 리암!	Oh! Liam!
+	눈을 뜨자 엘라라의 목소리가 들렸다.	I woke up to Elara's voice.
+	여기가 꿈속이라면 꿈속에서 눈을 뜬다는 건 무슨 뜻일까.	If this whole experience is a dream, can I really say that I woke up?
+	꿈속에서 잠든다는 건?	What does "sleeping" even mean if you're already dreaming?
+	보통 잠에서도 꿈을 꾸는 시간과 그렇지 않은 시간이 있으니 그와 같은 걸까.	Maybe it's like the difference between sleeping with or without dreams.
+	의식을 잃고 있는 동안 내 안에서 무슨 일이 벌어지는 걸까.	I can only wonder what is happening to me while I'm unconscious.
+elara	이제 다 모였네.	We're all here now.
+	몽롱한 생각은 엘라라의 목소리에 사라져 간다.	Elara's voice dragged me out of my thoughts.
+	그녀 말대로 다섯 명이 모두 모여 있었다.	As she had just said, all five of us were there now.
+katrina	……리암.	Liam...
+katrina	너도 이미 어렴풋이 눈치챘을지 모르지만,	You've probably realized this already, but...
+katrina	우리가 어떤 상황에 놓여 있는지 알아냈어요.	We have a pretty good idea of what's going on.
+zoe	여긴 역시 꿈속인 것 같아.	We really are inside a dream.
+zoe	하지만 그냥 꿈이 아니라……	The thing is, it's not a regular dream.
+elara	현실의 우리는 지금──	In the real world, right now...
+elara	아마 냉동 수면 장치 안에 있어.	We're probably inside cryosleep pods.
+walter	아마도……	That's probably true...
+walter	냉동 수면 장치에 사고나 고장 같은 게 생긴 거겠지.	And something must've happened around us while we were sleeping in those.
+walter	냉동 수면 중 사고가 나면 최악의 경우 깨어나지 못하거나 기억을 잃을 수 있어.	That kind of thing can make you lose all of your memories, or even put you in a permanent coma.
+walter	실제로 우리는 지금 기억을 잃어서 자신이 누구였는지 떠올리지 못하고 있지.	If we just woke up normally right now, our whole memories would be totally screwed up.
+walter	이 상태로 깨어난다면 기억은 영원히 잃은 채일 거야.	We'd never be able to remember who we actually were.
+walter	아마 이곳은 그걸 막기 위해 안전장치가 보여 주는 꿈일 거다.	And this dream must be a safety mechanism in the cryosleep pods to avoid that.
+walter	너도 우주선 승무원의 기억을 봐서 알지도 모르지만,	You saw the memory from that spaceship crew member, right?
+walter	냉동 수면 장치에는 여러 안전장치가 있어서 사고가 나면 자동으로 안의 사람을 보호하게 되어 있어.	Cryosleep pods have all kinds of automatic safety mechanisms like this in case something happens.
+katrina	더 정확히는 안전장치의 치료 과정이 우리에게는 꿈으로 인식되고 있는 거죠.	So, to be exact, this is a memory-reconstruction mechanism that our brains are interpreting as a dream.
+katrina	냉동 수면 중의 사고…… 고장 같은 걸까요.	But... what happened to the pods? Could it be some kind of malfunction?
+katrina	어쨌든 예상치 못한 일이 생겨 우리 다섯 명의 기억이 뒤섞인 거예요.	Whatever it is, it led to our memories getting all jumbled up.
+katrina	지금은 조금씩 기억을 되찾으면서 어느 게 누구의 기억인지 분류하고 있는 거죠.	That's why we're being forced to piece them together little by little.
+katrina	여기에 다섯 명이 있고 어느 기억이 누구 것인지 모르는 것도 아마 그 때문이에요.	It would explain why we don't know which one belongs to whom.
+zoe	그러니까……	In other words...
+zoe	우리는 어느 게 자기 기억인지 확실히 하면 되는 거야?	We just need to remember which of those memories are ours?
+katrina	아마 그럴 거예요.	I would guess so.
+katrina	이 공간에서 기억을 되찾고 원래의 자신을 떠올릴 수 있다면,	If we got all of our memories back, and remembered who we are...
+katrina	안전장치의 치료가 완료되고 눈을 뜨게 될 거라고 생각해요.	The safety mechanism would probably be satisfied and let us wake up.
+elara	그럼……	In that case...
+elara	우리가 누군가에게 갇힌 건 아닌…… 걸까.	There isn't any evil mastermind keeping us locked in here.
+walter	현재로서는 그렇게 생각할 수 있겠지.	As far as we can tell right now, no.
+walter	냉동 수면 장치의 사고가 누군가에 의해 일어난 가능성은 부정할 수 없지만.	But of course, whatever accident happened to the cryosleep pods could've been caused intentionally.
+katrina	그렇다 해도 우리가 할 일은 같겠죠.	Even if that were true, it wouldn't change what we need to do.
+katrina	어쨌든 자기 기억을 되찾으면 돼요.	We need to get all of our memories back.
+elara	……그렇구나.	Right...
+elara	그럼 이대로 다 같이 협력해서 기억을 모으면,	If we work together to remember everything...
+elara	우리는 현실에서 깨어나는 거네.	We'll wake up in real life.
+zoe	…………	...
+zoe	다만……	But...
+zoe	눈을 떴을 때 기다리는 현실이,	We don't know what we'll wake up to.
+zoe	반드시 좋은 현실이라고는 할 수 없겠지만.	Maybe we won't like that reality.
+@story	조이의 과거	Zoe's Past
+zoe	……너도 그 기억 봤어?	You saw that memory, didn't you?
+zoe	…………	...
+zoe	나는……	I...
+zoe	밀항자였어.	I was the stowaway.
+zoe	분명 지금도 가짜 ID 카드로 우주선에 타고 있을 거야.	In the real world, I'm probably riding on that spaceship with a fake I.D.
+zoe	끔찍한 환경의 행성에서 도망치기 위해서.	And all to escape the terrible planet I was born on.
+zoe	…………	...
+zoe	난 내가 생각했던 만큼 결백한 사람이 아니었어.	I wasn't as innocent a person as I thought.
+zoe	가짜 ID 카드를 받았을 때,	When I got handed that fake I.D....
+zoe	나는 그걸 거절하지 못했어.	I couldn't refuse it.
+zoe	그 행성에서 계속 살겠다고 말하지 못했어.	I couldn't bring myself to stay on that planet.
+zoe	물론 그걸 마련해 준 엄마와 친척들의 마음을 헛되게 하고 싶지 않았던 마음도 있었겠지.	Part of it was gratitude. I knew my mother and other relatives had worked so hard to get me that I.D.
+zoe	그래도……	But still...
+zoe	내가 하는 건 범죄였고,	What I did was a crime.
+zoe	나는 내 의지로 죄를 저질렀어.	And even though I knew it was, I went ahead with it.
+zoe	냉동 수면에서 깨어나면 붙잡힐까.	Maybe, once I wake up from the cryosleep pod, I'll get arrested.
+zoe	……그래도 결론은 달라지지 않아.	Even then, I know what I have to do.
+zoe	내가 밀항을 하고 있다 해도,	Even if I'm a stowaway.
+zoe	내 인생을 바꾸려 해 준 엄마와 가족들을 위해 나는 살아야 해.	I need to live on. For my family, who worked hard so I could start a new life.
+zoe	죄값을 치르고 다른 행성으로 가고 싶어.	I want to start that new life on a new planet. After I've paid for my crime, of course.
+zoe	빨리 모두의 기억도 되찾고 여기서 탈출하자.	Let's get our memories back and leave this place.
+@story	비명	Scream
+zoe	저기, 열어 줘!	Open the door!
+	눈을 뜨자 조이의 목소리가 들렸다.	The first thing I heard as I woke up was Zoe's voice.
+	그리고 문을 두드리는 소리.	It was soon followed by knocks on the door.
+	웅얼거리는 누군가의 목소리.	Someone's muffled voice...
+	의식이 천천히 깨어난다.	Bit by bit, the fog in my brain cleared up.
+	무언가가 벌어지고 있다──	Something was happening.
+	그 사실을 조금씩 이해한다.	And I started understanding the situation.
+	방에는 세 사람이 모여 있었다.	There were three other people in the room.
+@story	농성	Locked Up
+elara	리암……	Liam...
+elara	카트리나 씨가 이 문 너머에 있는데……	Katrina is behind this door...
+elara	문을 열어 주지 않아.	But it's locked, and she won't open it.
+@selection	……카트리나?	Katrina...?
+katrina	……리암?	Liam...?
+katrina	누가 와도 똑같아.	It doesn't matter who it is.
+katrina	여긴 열지 않을 거야.	I'm not going to open the door.
+zoe	……아까부터 계속 그 말만 하고 있어.	She won't listen.
+zoe	우리랑 같이 있을 수 없대.	She keeps saying that she doesn't want to be around us.
+@selection	왜?	Why?
+katrina	……왜냐고?	Do you need to ask?
+katrina	당연하잖아.	It's obvious.
+katrina	살인자나 밀항자와 함께 있을 수는 없어.	I don't want to be around murderers and stowaways.
+katrina	너도 기억을 봤잖아.	You saw those memories too.
+katrina	누가 어떤 인간인지 이제 대충은 알았을 거야.	They give you a pretty good idea of what kind of people we're talking about.
+katrina	이 안에 나를 쏜 사람이 있어.	One of you has shot me.
+katrina	여섯 번째 사람이 있다는 건 월터가 지어낸 말이겠지.	That thing about there being a sixth person is probably Walter's invention.
+katrina	너희와 협력할 수는 없어.	I could never cooperate with you people.
+zoe	하지만 모두가 기억을 되찾지 않으면 여기서 나갈 수 없잖아.	But we can't get out of here if we don't find everyone's memories.
+zoe	지금은 협력해서 기억을 찾는 편이……	And if we don't work together...
+katrina	……조이.	Zoe...
+katrina	난 네 그런 점이 마음에 안 들어.	That's what annoys me so much about you.
+katrina	모두가 여기서 나가고 싶어 한다고 생각해?	What makes you think we all want to leave this place?
+katrina	정말?	Do you, really?
+katrina	넌 눈을 떠서 붙잡히고 싶어?	Do you want to wake up and get arrested?
+zoe	……그런.	But...
+zoe	카트리나는 나가기 싫은 거야?	Does that mean you don't want to wake up?
+katrina	……여기서 나가서,	Wake up...
+katrina	여기서 나가 봐야…… 나한테는 갈 곳이 없어.	Wake up... and what? There's nowhere I can go.
+katrina	…………	...
+@story	시간이 해결해 줄 것	Time Solves Everything
+walter	……곤란하게 됐군.	Things aren't looking great.
+elara	카트리나 씨, 왜 갑자기 저러는 걸까……	I don't understand why Katrina got like that all of a sudden...
+walter	떠올리고 싶지도 않은 기억을 봐 버렸거나,	Maybe she saw a memory she didn't want to remember.
+walter	그녀 안에 쌓여 있던 불안이 이제 와서 폭발한 걸지도 모르지.	Or maybe she was keeping all of her fear in, and it finally overflowed.
+elara	…………	...
+walter	하지만, 뭐……	In any case...
+walter	어느 쪽이든 시간이 해결해 주겠지.	We can only wait. Time solves everything.
+walter	우리 모두 언젠가는 졸음에 휩쓸리게 돼.	After a while, we'll all fall asleep.
+walter	방에 틀어박힌 카트리나도 마찬가지야.	That's bound to happen to Katrina too, even if she's holed up in that room.
+zoe	눈을 떠도 또 똑같은 짓을 반복할 수도 있잖아?	But maybe she'll do the same thing again when she wakes up tomorrow.
+walter	그녀가 얼마나 고집이 센지는 모르겠지만,	I don't know how stubborn she is...
+walter	그래도 그것 역시 큰 문제는 아닐지도 몰라.	But even if she keeps it up, maybe it's not the end of the world.
+walter	우리끼리 남은 기억을 모으면 돼.	We'll just need to find all the rest of the memories by ourselves.
+walter	카트리나의 협조를 얻지 못한다고 해서 크게 곤란하진 않겠지.	If she won't cooperate, that's too bad, but it's not a huge problem.
+elara	그럴지도 모르지만, 그래도……	I guess you're right, but...
+zoe	…………	...
+zoe	카트리나가 한 말은 사실이야?	Was what Katrina said true?
+zoe	여섯 번째 사람이 있었다는 건 거짓말이야?	The sixth person... Did you make it all up?
+walter	……아니.	No...
+walter	나는 분명히 봤어.	I'm sure I saw someone.
+walter	하지만…… 내가 잘못 본 거라고 하면 그것도 부정할 수는 없어.	Then again... it could've just been one of you, made unrecognizable by a trick of the light.
+zoe	…………	...
+zoe	……나, 카트리나랑 다시 이야기해 볼게.	I... will try to talk to Katrina again.
+zoe	이런 상황인데도 협력할 수 없다는 건 이상해.	We can't refuse to cooperate with each other.
+zoe	카트리나도 여기서 나가야 하잖아.	I'm sure she wants to get out too, deep down.
+zoe	……다 같이 탈출하는 거야.	We must all get out... together.
+@story	설득	Persuasion
+zoe	……저기, 카트리나.	Hey, Katrina...
+katrina	…………	...
+zoe	……나도 봤어.	I saw it too.
+zoe	카트리나의 기억.	That memory of yours.
+zoe	카트리나에겐…… 가족이 없었어.	Turns out... you didn't have a family.
+zoe	아이를 키우던 어머니는 아마 카트리나가 아니야.	And that memory of a mother with her children... that wasn't you.
+zoe	카트리나는 사람들이 다투는 행성에 가서 중재하는 일을 했고,	Your job was to go to different planets to prevent wars from starting, so...
+zoe	그 일을 하다가 분명,	I bet you saw a lot of things because of your job.
+zoe	많은 사람들이…… 죽는,	A lot of... people dying.
+zoe	끔찍한 일이 벌어진 거지.	A lot of horrible things happening.
+zoe	카트리나는 그 책임을 지게 됐고──	I imagine the feeling of guilt must be so...
+katrina	──알고 있다면,	You imagine...?
+katrina	그걸 알고 있다면……	If you can imagine it...
+katrina	내버려 둬.	Leave me alone.
+katrina	나 같은 건.	That's all I deserve.
+zoe	……싫어.	No... I don't want to.
+zoe	나는 밀항자였어.	I was a stowaway.
+zoe	위조 ID 카드는 엄마가 준 거였지만,	My mother gave me a fake I.D. card...
+zoe	지금 나는 신분을 속이고 우주선에 타고 있어.	And I used it to board the spaceship where my body is in the real world.
+zoe	그건 범죄고, 지금쯤 위조라는 게 들켰을지도 몰라.	That's a crime, and maybe people have already found out that my I.D. is fake.
+zoe	그러면 난 붙잡히겠지.	Which means I'll get arrested.
+zoe	그래도…… 어떻게든 죗값을 치를 거야.	But even if I do... I'm ready for it.
+zoe	죄를 갚고, 새로운 행성에 내려서 거기서 살아갈 거야.	Once I've paid for what I've done, I want to start a new life on another planet.
+zoe	한 번 죄를 지었다고 인생이 끝나는 건 아니잖아.	Doing something wrong doesn't mean your whole life is over.
+zoe	그렇지?	Right?
+katrina	…………	...
+katrina	……조이.	Zoe...
+katrina	나도 네 기억을 봤어.	I saw your memory.
+katrina	네가 어떤 환경에서 살았고 얼마나 힘들었는지 알아.	I know just how horrible a place your home planet was.
+katrina	네가 아는 것보다도…… 나는 더 많이 알아.	If anything... I know more about it than you do.
+zoe	……무슨 뜻이야?	What do you mean?
+katrina	네가 살던 행성은 독가스로 뒤덮여 있었어.	Your planet's atmosphere was full of poisonous gas.
+katrina	남자는 태어나지 않고, 여자들은 약으로 임신해서 아이를 낳았지.	Women got pregnant through a special drug, and they would only ever give birth to girls.
+katrina	아무리 일해도 삶은 나아지지 않았고.	No matter how hard everyone worked, things never improved.
+katrina	하지만 그건 전부──	And all of this...
+katrina	의도적으로 만들어진 환경이야.	It was all on purpose.
+zoe	…………	...
+zoe	……그게 무슨……	What was?
+katrina	이 일을 시작하기 전에 여러 행성을 조사했어.	Before starting my job, I studied a lot of different planets.
+katrina	환경과 문화, 역사까지 조사할 수 있는 건 전부 조사했지.	I learned all I could about their environments, their cultures, and their histories.
+katrina	그중에…… 여자들만 사는 행성이 있었어.	And... I knew about a planet with only women on it.
+katrina	그 민족은 어느 행성을 불법 점거하고 거기에 정착했어.	The people who first moved there took possession of the planet illegally.
+katrina	독가스가 퍼져 있고 거의 테라포밍되지 않은 별.	It was barely terraformed, and its atmosphere made it impossible to breathe normally.
+katrina	그곳에 거주지를 만들고 살아가는 동안, 그들은 자기 몸을 개조했어.	Those first pioneers altered their own genes.
+katrina	남자아이가 태어나지 않도록.	They made it so they couldn't give birth to male children.
+katrina	약물을 사용해 임신할 수 있도록.	And so that they could get pregnant by drug injections.
+katrina	그리고 한참 뒤, 그들의 거주를 사실상 인정한 행성 관리 기구가 도움의 손길을 내밀었어.	After a long while, the interplanetary administration eventually recognized their rights to the planet, and offered to help.
+katrina	행성에서 뿜어져 나오는 독가스를 막는 건 간단해.	Removing the poisonous gas polluting the atmosphere would've been easy.
+katrina	사람들의 수명이 극단적으로 짧은 것도 그 가스 때문이고.	And removing it would've improved the extremely short life spans too.
+katrina	기구는 그 행성을 테라포밍하자고 제안했어.	The administration offered to help with terraforming the planet properly.
+katrina	하지만……	But...
+katrina	그녀들은 거절했어.	The people refused.
+katrina	돈이 없어서가 아니야.	It's not that they couldn't afford it.
+katrina	스스로를 가혹한 환경에 두고, 번영에 한계를 두기로 선택한 거야.	They wanted their environment to be hostile, and progress to be impossible.
+katrina	……그 진짜 이유는 알 수 없어.	As for why... It's impossible to know.
+katrina	과거의 트라우마 때문이라고들 하지.	Some say it's because of the scars their history has left them with.
+katrina	남성이 권리를 독점하는 사회에 대한 거부감.	Their hatred for a society controlled by men.
+katrina	번영을 극한까지 이룬 문명이 부패하는 것에 대한 절망.	Their despair at the decline that inevitably follows progress.
+katrina	오늘 하루를 살아내는 것만으로도 벅찬──	A life of endless toil...
+katrina	그런 삶을 그녀들 스스로 원한 거야.	That's what they wanted.
+zoe	…………	...
+katrina	그게…… 조이.	That's it, Zoe.
+katrina	네 조상들이야.	Those are your ancestors.
+@story	타인의 생각	What Others Think
+	월터가 말한 대로, 이윽고 졸음이 찾아왔다.	Just as Walter had said, we all eventually started feeling drowsy once again.
+	이 졸음은 누구도 거스를 수 없다.	It wasn't the kind of sleepiness you could fight against.
+	카트리나도 문 너머에서 잠들고, 다시 눈을 뜨겠지.	Katrina would also fall asleep in the room she'd locked herself in.
+	다음에 눈을 떴을 때 그녀를 무슨 얼굴로 대해야 할지 모르겠다.	I had no idea how to talk to her the next time we all woke up.
+	그녀가 말을 해 줄까?	Would she even speak to us?
+	아니면 또 똑같이 틀어박힐까.	And would she lock herself in a room again?
+	모두가 이 공간에서 탈출하고 싶은 건 아니다.	She said that not all of us want to leave this place.
+	기억을 되찾으며 카트리나는 알아 버렸다.	Katrina got her memories back...
+	진짜 자신은 떠올리고 싶지도 않은 사람이었다.	And she remembered being someone she didn't like.
+	생각하고 싶지도 않은 상황에 처해 있었다.	It was painful just to think about.
+	그걸 받아들이고 현실로 돌아가는 건 두려울 것이다.	Going back to reality would probably be terrifying.
+	하지만 당연히 이 공간에 영원히 머물 수 있을 것 같지도 않았다.	But staying here forever isn't an option either.
+	여기는 냉동 수면 장치의 치료 과정이 보여 주는 꿈이고, 현실의 육체는 지금도 얼어 있다.	Our real bodies are frozen as the cryosleep pods force us to live through this strange dream to keep our brains intact.
+	해동 과정에서 사고가 난 거라면 이미 몸은 깨어나고 있을지도 모른다.	Depending on what happened in the real world, our bodies might be going out of hibernation already.
+	아마 치료에는 시간 제한이 있다.	Surely, the pods must have some kind of time limit.
+	오랫동안 의식이 돌아오지 않으면 결국 육체는 죽는다.	And if we don't wake up in time, our bodies will eventually die.
+	그래도 카트리나는 눈을 뜨는 걸 거부할까?	Would Katrina still refuse to do so, even if she knew that?
+	현실을 받아들이지 않고 여기서 죽음을 기다리는 것──	Would she choose to accept reality, or to die here?
+	카트리나만의 이야기는 아니다.	And it wasn't just Katrina's problem.
+	어쩌면 다섯 명 중 누군가가 그걸 선택할지도 모른다.	Any of us five could choose either of those options.
+	엘라라는, 월터는 어떻게 생각하고 있을까?	What would Elara think? And what about Walter?
+	카트리나에게 진실을 듣고 조이는 무슨 생각을 했을까.	And what did Zoe think now that Katrina had told her about her ancestry?
+	누가 무슨 생각을 하는지,	I tried to imagine what the others were thinking.
+	이제는 알 수 없었다.	But I had no clue.
+@story	엘라라의 마음	Elara's Feelings
+elara	아…… 리암.	Oh... Liam.
+elara	…………	...
+elara	다들 어디로 가 버린 걸까.	Where did everyone go?
+elara	가끔 발소리가 들리니까 어딘가에 있긴 하겠지만.	I can hear footsteps every once in a while, so I'm sure they're around somewhere...
+elara	사람들을 피하는 걸까……	Maybe they just want to be alone...
+elara	……나는,	And...
+elara	내가 어떤 사람이었는지 아직 잘 모르겠어.	I still don't really know who I was in the real world.
+elara	지구에서 살았던 기억이 있고,	You know that memory about someone who lived on Earth?
+elara	그게 나인가 싶기도 하지만,	I thought it could be mine.
+elara	지구는 이미 몇 년 전부터 출입 금지였을 테고,	But access to Earth has been closed off for years now, right?
+elara	지금의 나로 이어지는 기억을 찾을 수가 없어.	So, I still don't have a single memory I know for sure is mine.
+elara	아직 못 찾았을 뿐인지,	Maybe I'll find one eventually.
+elara	아니면……	Or maybe...
+elara	내가 뭔가 착각하고 있는 건지.	I'm getting it all wrong.
+elara	……어느 쪽이든,	But it doesn't matter.
+elara	일단 더 많은 기억을 모아 봐야겠지.	We still need to find more memories.
+elara	나도 카트리나 씨의 기억을 봤으니까 그 마음을 조금은 알아.	I saw Katrina's... and I think I know how she feels.
+elara	그래도 여기 계속 머물러선 안 돼.	But that's no excuse to remain here forever.
+elara	기억을 되찾고 현실로 돌아간 다음에 생각하는 게 나아.	We'll remember everything, go back to the real world, and then decide what to do next then.
+elara	……지금은 아직,	That's what I think...
+elara	나는 그렇게 생각해.	For now, at least.

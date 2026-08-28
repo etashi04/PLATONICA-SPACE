@@ -1,0 +1,52 @@
+character00-00	우주복을 입은 소녀.	A girl in a spacesuit.
+character00-01	오염되기 전의 지구에서 태어났다.	Born on Earth before it became contaminated.
+character00-02	스무 살 무렵 가족과 함께 지구를 떠났다.	Left Earth with her family around the time she turned twenty.
+character00-03	사람의 의식을 파괴하는 세균을 우연히 발견한다.	Stumbled upon a bacterium that can destroy human consciousness.
+character00-04	지구에서 바이오테러를 일으킨다.	Carried out an act of bioterrorism on Earth.
+character00-05	백 살을 넘긴 뒤 마지막으로 한 번 더 지구를 보기 위해 민간 우주선에 오른다.	Past the age of a hundred, she boards a private spaceship for one last look at Earth.
+character01-00	작업복 차림의 소녀.	A girl in work clothes.
+character01-01	독가스로 뒤덮인 행성에서 태어났다.	Born on a planet shrouded in poison gas.
+character01-02	열악한 환경에서 수많은 어른과 아이의 죽음을 목격한다.	Witnessed the deaths of countless adults and children in that harsh environment.
+character01-03	다른 행성에서 온 소년 쿠샤나와 만난다.	Meets a boy named Kushana, who came from another planet.
+character01-04	여성만 태어나는 일족에 의문을 품는다.	Begins to question the values of her planet, in which only women are ever born.
+character01-05	어머니에게 위조 ID 카드를 받아 우주선에 오른다.	Receives a forged ID card from her mother and boards a spaceship.
+character02-00	정장 차림의 여성.	A woman in a suit.
+character02-01	학대를 받으며 자랐지만 독학으로 공부해 행성을 관리하는 통치 기구에 들어간다.	Grew up enduring abuse but educated herself, and joined an interplanetary administration body.
+character02-02	두 클러스터가 충돌 중인 행성에 부임한다.	Is posted to a planet where two clusters are locked in conflict.
+character02-03	기술자 청년 이반과 만난다.	Meets a young engineer named Ivan.
+character02-04	행성에서 바이오테러가 발생해 많은 주민이 목숨을 잃고, 사태의 책임을 추궁받는다.	An act of bioterrorism strikes the planet, killing many of its residents, and she is held responsible.
+character02-05	임신 사실을 알게 되어 민간 우주선에 오른다.	Discovers she is pregnant and boards a private spaceship.
+character03-00	의족을 한 남성.	A man with a prosthetic leg.
+character03-01	클러스터 간 충돌이 벌어지는 행성에서 정보원이 된다.	Becomes an intelligence operative on a planet caught in conflict between two clusters.
+character03-02	잠입한 아파트 옆방에 사는 소녀 체스카와 만난다.	Meets a girl named Chesca, who lives next door to the apartment he is undercover in.
+character03-03	잠입 중인 아파트에서 적대 세력의 공격을 받는다.	Comes under attack from hostile forces at that apartment during his mission.
+character03-04	교전에 휘말려 체스카가 사망하고 월터도 다리를 다친다.	Chesca dies, caught in the crossfire, and Walter is wounded in the leg.
+character03-05	행성을 떠나 조용히 살고 있었지만 자신의 병을 계기로 우주선에 오른다.	Leaves the planet to live quietly, but boards a spaceship after finding out about his illness.
+character04-00	기억을 잃은 청년. 당신.	A young man who has lost his memory. You.
+character04-01	위조 ID 카드로 밀항하려다 선장 네리사에게 붙잡힌다.	Caught by the captain, Nerissa, while trying to stow away using a forged ID card.
+character04-02	우주선에서 허드렛일을 하게 된다.	Ends up doing menial work aboard the ship.
+character04-03	여러 행성을 돌아다니며 지금도 승무원으로 일하고 있다.	Has traveled to many planets and still works as a crew member today.
+character04-04	──라는 거짓 기억을 주입받은 수사관.	... But those are just false memories implanted in an investigator's mind.
+character04-05	테러리스트 혐의를 받는 엘라라를 수사하기 위해 우주선에 올라 냉동 수면 장치에 손을 댔다.	Boarded the ship to investigate Elara, suspected of terrorism, and tampered with the cryosleep equipment.
+character10-00	<elara>의 학창 시절 친구.	A friend of <elara>'s from their school days.
+character10-01	일족과 함께 지구를 떠났다. <elara>와는 그 뒤로 만나지 못했다.	Left Earth along with a few family members. Never saw <elara> again after that.
+character11-00	지구를 떠난 뒤 알게 된 <elara>의 친구.	A friend of <elara>'s from after leaving Earth.
+character11-01	<elara>와 같은 연구소에서 일하며 함께 테러 계획을 세웠다.	Worked at the same research institute as <elara> and helped plan the terrorist attack together.
+character11-02	테러 실행 때부터 현재까지 <elara>와 함께 행동하고 있다.	Has stayed by <elara>'s side from the moment of the attack up to the present.
+character12-00	<zoe>의 막내 여동생.	<zoe>'s youngest sister.
+character12-01	열악한 행성 환경 때문에 어린 나이에 목숨을 잃는다.	Lost her life at a young age due to the planet's harsh environment.
+character13-00	<zoe>가 만난 소년.	A boy <zoe> met.
+character13-01	부유한 행성 출신으로 부모의 일을 따라 <zoe>가 사는 행성에 왔다.	Came from a wealthy planet, brought along by his father for work to the planet where <zoe> lived.
+character13-02	부모의 일이 끝나자 <zoe>에게 연락하지 않고 행성을 떠났다.	Left the planet without contacting <zoe> once his father's work was finished.
+character14-00	부임한 행성에서 <katrina>가 만난 청년.	A young man <katrina> met while working on a new planet.
+character14-01	시골에서 수도로 올라와 전기 기술자로 일하고 있다.	Came to the capital from the countryside and works as an electrician.
+character14-02	수도의 바이오테러 이후 생사는 확인되지 않았다.	His fate remains unconfirmed after the bioterrorist attack on the capital.
+character15-00	<walter>의 전 동료.	A former colleague of <walter>'s.
+character15-01	<walter>가 정보원이 된 사실은 모른다.	Unaware that <walter> became an intelligence operative.
+character16-00	<walter>가 잠입한 아파트 옆방에 사는 소녀.	A girl who lives next door to the apartment <walter> is undercover in.
+character16-01	아버지는 없고 어머니도 집을 자주 비워 혼자 지내는 경우가 많다.	Has no father, and her mother is often away from home, so she spends most of her time alone.
+character16-02	<walter>와 적대 세력의 교전에 휘말려 목숨을 잃는다.	Loses her life, caught in the crossfire between <walter> and hostile forces.
+character17-00	<liam>이 밀항하려 했던 우주선의 선장.	The captain of the spaceship <liam> tried to stow away on.
+character17-01	원래 공영 운송 회사에서 일했지만 퇴직 후 민간 우주선을 운영하고 있다.	Formerly worked for a state-run shipping company before retiring to run a private spaceship.
+character17-02	──라는 것은 <liam>에게 주입된 거짓 기억이며, 선장은 네리사라는 인물이 아니다.	... This, however, is a false memory implanted in <liam>'s mind. Nerissa isn't actually the ship's captain.
+character17-03	<liam>의 수사관 시절 상사가 네리사라는 이름이며, 거짓 기억에 등장하는 그녀의 인격을 이루는 바탕이 되었다.	Nerissa is in fact <liam>'s superior as an investigator. The captain in <liam>'s false memories is modeled after her.

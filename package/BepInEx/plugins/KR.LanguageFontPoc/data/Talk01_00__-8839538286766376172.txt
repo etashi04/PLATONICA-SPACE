@@ -1,0 +1,22 @@
+@story	기억 판정	Memory Judgement
+zoe	있잖아, 리암.	Hey, Liam.
+zoe	이거 말이야, 누구 기억인 것 같아?	Who do you think this memory belongs to?
+zoe	……그래?	Really?
+zoe	응, 나도 그렇게 생각했어.	I was thinking the same thing.
+zoe	이걸로 또 한 걸음 탈출에 가까워졌으려나.	This brought us one step closer to escaping this place.
+@story	일반 대화	General Conversation
+zoe	지쳤어. 완전 녹초야.	Whew, I'm spent.
+zoe	오늘은 벽에 구멍을 내 보려고 했는데,	I was trying to punch a hole through the wall today.
+zoe	안 되네, 이거.	Total waste of time.
+zoe	철판보다 단단해. 이상해.	These walls are harder than steel. It's absurd.
+@story	일반 대화	General Conversation
+zoe	이 공간에서 음식 본 적 있어?	Say, have you seen any food in this place?
+zoe	뭐라도 먹을 수 없으려나~	Isn't there anything we can't eat?
+zoe	배는 안 고프지만 맛있는 건 먹고 싶어.	Even if we don't get hungry, I want to eat something tasty.
+zoe	배부르게 먹고 기절하듯 자고 싶어.	I want to stuff myself and sleep like a log.
+@story	일반 대화	General Conversation
+zoe	항상 『보통!』이라는 느낌의 몸 상태인데,	Since I've come here, I've always felt extremely 'fine.'
+zoe	여기서 다치면 어떻게 될까.	I wonder what'd happen if we hurt ourselves.
+zoe	자고 일어나면 나아 있으려나.	Would we be all healed up after waking up?
+zoe	만약 죽으면……	And if we died...
+zoe	그래도 다시 눈을 뜰 것 같아?	Would we still wake up the next day?

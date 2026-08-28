@@ -1,0 +1,424 @@
+jpn	일본어	日本語
+chs	简体中文	简体中文
+cht	繁體中文	繁體中文
+elara	엘라라	Elara
+zoe	조이	Zoe
+katrina	카트리나	Katrina
+walter	월터	Walter
+liam	리암	Liam
+sana	사나	Sana
+nora	노라	Nora
+kaya	카야	Kaya
+kushana	쿠샤나	Kushana
+ivan	이반	Ivan
+larry	래리	Larry
+chesca	체스카	Chesca
+nerissa	네리사	Nerissa
+father	아버지	Father
+mother	어머니	Mother
+son	아들	Son
+daughter	딸	Daughter
+grandfather	할아버지	Grandfather
+grandmother	할머니	Grandmother
+man	남성	Man
+woman	여성	Woman
+boy	소년	Boy
+girl	소녀	Girl
+oldman	노인	Old Man
+oldwoman	노파	Old Woman
+doctor	의사	Doctor
+parson-1	한 명	One Person
+parson-2	두 명	Two People
+parson-3	세 명	The three girls' or 'Elara, Zoe, and Katrina'
+parson-4	네 명	Four People
+parson-5	다섯 명	Five People
+sleepiness	의식	Vigor
+happiness	행복	Satisfaction
+fearfulness	공포	Fear
+sadness	비애	Sadness
+gold-key	금 열쇠	Golden Key
+silver-key	은 열쇠	Silver Key
+bronze-key	동 열쇠	Bronze Key
+blue-key	파란 열쇠	Blue Key
+yellow-key	노란 열쇠	Yellow Key
+red-key	빨간 열쇠	Red Key
+green-key	초록 열쇠	Green Key
+black-key	검은 열쇠	Black Key
+whilte-key	흰 열쇠	White Key
+memory-key	기억의 열쇠	Memory Key
+level-greenhouse	식물원	Greenhouse
+level-classroom	교실	Classroom
+level-western	서양식 방	Old-fashioned Room
+level-laundry	코인 세탁방	Coin Laundry
+level-kidsroom	아이 방	Children's Room
+level-train	전철	Train
+level-cafe	찻집	Café
+level-museum	박물관	Museum
+level-conferenceroom	회의실	Council Room
+level-apartment-corridor	복도	Hallway
+level-apartment-room	서재	Study
+level-hospital	병원	Hospital
+level-spaceship-hall	냉동 수면실	Cryosleep Hall
+level-spaceship-corridor	통로 모듈	Corridor Module
+level-spaceship-bridge	조종실	Ship Bridge
+item-helmet	헬멧	Helmet
+item-book	양장본	Hardcover Book
+item-seed	식물 씨앗	Plant seeds
+item-syringe	주사기	Syringe
+item-watch	손목시계	Wristwatch
+item-doll	인형	Doll
+item-coffee	커피	Coffee
+item-mask	방독면	Respirator
+item-audio	녹음기	Recorder
+item-pistol	권총	Gun
+item-computure	소형 단말기	Transmission Device
+item-shovel	삽	Shovel
+item-toolbox	공구함	Toolbox
+item-camera	카메라	Camera
+item-idcard	ID 카드	I.D. Card
+token-donut	도넛	Donut
+token-cleaner	청소 로봇	Cleaning Robot
+token-eat	식사	Food
+token-body	육체	Bodies
+token-earth	지구	Earth
+token-separation	이별	Separation
+token-culture	문화	Culture
+token-change	변화	Change
+token-friend	친구	Friends
+token-school	학교	School
+token-bacteria	세균	Bacteria
+token-vaccine	백신	Vaccines
+token-cluster	클러스터	Cluster
+token-subspace	아공간	Dimensional Pocket
+token-discord	불화	Discord
+token-grandmother	할머니	Grandmother
+token-resource	자원	Resources
+token-density	밀도	Density
+token-gardening	원예	Gardening
+token-responsibility	책임	Responsibility
+token-cold-sleep	냉동 수면	Cryosleep
+token-terrorist	테러리스트	Terrorist
+token-crock	폐인	Drones
+token-blood	피	Blood
+token-hospital	병원	Hospital
+token-light	빛	Light
+token-pollution	오염	Pollution
+token-job	일	Work
+token-kaya	카야	Kaya
+token-aging	노후화	Deteriorate
+token-dome	돔	Dome
+token-death	죽음	Death
+token-translation	번역	Translation
+token-kushana	쿠샤나	Kushana
+token-ministry	성청	Planetary Palace
+token-kiss	입맞춤	Kiss
+token-plant	식물	Plant seeds
+token-adaptation	적응 처치	Adaptation Procedure
+token-mask	마스크	Mask
+token-syringe	주사기	Syringe
+token-disgust	혐오	Hate
+token-photo	사진	Photograph
+token-face	얼굴	Face
+token-immigration	이민자	Immigrant
+token-emigration	이주	Move in
+token-funeral	장례식	Funeral
+token-lifespan	수명	Life Expectancy
+token-ear	귀	Ears
+token-surgery	수술	Surgery
+token-killing-time	시간 때우기	Killing time
+token-child	아이	Baby
+token-idcard	ID 카드	I.D. Card
+token-hometown	고향	Native Land
+token-star	행성	Planet
+token-governance	통치 기구	Administration
+token-conflict	분쟁	Strife
+token-sight	시선	Gaze
+token-ivan	이반	Ivan
+token-terraforming	테라포밍	Terraforming
+token-hand	손	Hand
+token-flower	꽃밭	Fields
+token-countryside	시골	Countryside
+token-coffee	커피	Coffee
+token-weapons	병기	Weapons
+token-cooking	요리	Meal
+token-birthday	생일	Birthday
+token-love	사랑	Love
+token-place	특별한 장소	Special Place
+token-artificial	의안	Prosthetic Eye
+token-train	전철	Train
+token-terrorism	테러	Terrorist
+token-spaceport	우주항	Space Port
+token-capital	수도	Capital
+token-ticket	티켓	Ticket
+token-pregnancy	임신	Pregnant
+token-father	아버지	Father
+token-terminal	종착점	Last Stop
+token-fare	운임	Fare
+token-collision	무력 충돌	Armed Conflict
+token-mission	임무	Mission
+token-spy	정보원	Spy
+token-chesca	체스카	Chesca
+token-mother	어머니	Mother
+token-spouse	배우자	Spouse
+token-smile	미소	Smile
+token-study	공부	Studying
+token-future	미래	Future
+token-betrayal	밀고	Report
+token-tranquility	안녕	Tranquility
+token-pot	화분	Potting
+token-amusement-park	놀이공원	Theme Park
+token-chime	초인종	Doorbell
+token-cryptography	암호	Encrypted
+token-humiliation	굴욕	Humiliation
+token-rain	비	Rain
+token-tailing	미행	Tailing
+token-fire	불길	Fire
+token-firing	발포	Gunshot
+token-nightmare	악몽	Nightmare
+token-life	목숨	Life
+token-punishment	벌	Punishment
+token-key	열쇠	Key
+token-treatment	치료	Therapy
+token-fake	가짜	Counterfeit
+token-spaceship	우주선	Spaceship
+token-failure	고장	Failure
+token-nerissa	네리사	Nerissa
+token-sadness	근심	Sadness
+token-discontinuation	단절	Gap
+token-space	우주	Space
+token-oldwoman	노파	Old Woman
+token-cockpit	조종석	Cockpit
+token-destination	목적지	Destination
+token-washing	세탁	Laundry
+token-promise	약속	Promise
+token-disease	병	Illness
+token-personal	사적인 감정	Personal Matters
+token-omnibus	합승 버스	Shared Bus
+token-satellite	정지 위성	Satellite
+token-lightspeed	빛의 속도	Speed of Light
+token-safety	안전장치	Safety Mechanism
+token-dream	꿈	Dream
+token-species	종족	Race
+token-memory	기억	Memory
+token-accident	사고	Accident
+token-keepout	출입 금지	Forbidden
+token-muttering	헛소리	Nonsense
+token-fake-memory	가짜 기억	Fake Memories
+token-investigator	수사관	Investigator
+token-brain	뇌	Brain
+tile-list	보유 인자	Figments Owned
+tile-house	인자 보관함	Figment Storage
+tile-locked	(인자 보관함으로 옮길 수 없습니다)	(Cannot be put into Figment Storage)
+tile-name	인자 「{0}」	Figment "{0}"
+tile-description	문을 열 때 보유한 인자 중 하나가 무작위로 선택되어 효과가 발동합니다.	When you open a door, a Figment is randomly selected and its effects activated.
+tile-empty	효과 없음	No effect
+tile-level	「{0}」에 연결	Connects to "{0}"
+tile-item	「{0}」 출현	"{0}" appears
+tile-sleepiness	의식 {0}	Vigor {0}
+tile-key	「{0}」 획득	Obtain "{0}"
+tile-inventory-capacity	아이템 소지 한도 +{0}	Inventory Size + {0}
+tile-memory-item	기억 관련 아이템 공개	Reveal Memory Item
+tile-memory-item-description	기억 스폿과 관련된 아이템을 공개합니다	Reveals an item related to a memory-watching spot.
+tile-unlock	잠금 해제	Unlock
+tile-unlock-description	모든 방의 잠금을 해제합니다	Unlocks all of the doors.
+tab-tile	인자	Figments
+tab-token	키워드	Keywords
+tab-character	인물	People
+tab-memory	기억의 조각	Memory Fragments
+tab-item	아이템	Items
+tab-option	옵션	Settings
+inventory-full	더 이상 들 수 없습니다	You can't bring any more with you.
+inventory-empty	[ 빈칸 ]	[ EMPTY ]
+inventory-sleep	하루 끝내기	End Day
+inventory-tile	보유 인자 목록	Figment List
+inventory-textlog	텍스트 로그	Text History
+inventory-trash	버리기	Throw Away
+access-find	{0} 줍기	Pick up "{0}"
+access-put	{0} 내려놓기	Put "{0}" down
+access-talk	말하기	Talk
+access-talk-progress	말하기 - 스토리 진행	Talk - Advance Story
+access-remember	기억 재생	Play Memory
+access-sit	앉기	Sit Down
+access-stand	일어서기	Stand Up
+access-open	열기 - {0}	Open - {0}
+access-open-passed	열기 - {0} - 통과 완료	Open - {0} (Already Passed)
+access-closed	이 문은 열리지 않는다	You can't open this door.
+access-locked-anomaly	지금은 열 수 없다	You can't open this right now.
+access-locked-memory	지금은 재생할 수 없다	You can't play this now.
+access-use	사용하기	Use
+access-determine	기억에 대해 이야기하기	Talk about the memory
+access-search	조사하기	Examine
+access-info-memory	기억의 조각「{0}」	Memory Fragment "{0}"
+access-info-memory-completed	재생 완료 - {0}	Played - {0}
+access-info-memory-disclosed	관련 아이템 : {0}	Related item: {0}
+access-info-bonus	확정 보너스 - {0}	Confirmed Bonus - {0}
+access-info-no-memory	떠올릴 수 있는 기억이 없다	There are no memories to see.
+access-info-item-failed	이 기억과는 관계가 없다	This has nothing to do with this memory.
+access-info-item-valid	보유 아이템 중 하나가 기억과 관련되어 있다	You have an item related to this memory.
+access-info-item-count	보유 수 : {0}	Found: {0}
+access-info-progress	스토리 진행	Progress Story
+selection-item-need	{0} 필요	You need "{0}"
+selection-item-use	{0} 소비	Use "{0}"
+selection-param-need	{0} {1}개 필요	You need "{0}" x {1}
+selection-param-use	{0} {1}개 소비	Use "{0}" x {1}
+selection-token-need	{0} 필요	You need "{0}"
+selection-token-use	{0} 소비	Use "{0}"
+condition-memory-count	재생한 기억 {0} / {1} 	Played Memories {0}/{1}
+condition-memory-completed	기억의 조각「{0}」 보기	Watch Memory Fragment "{0}"
+condition-floor-index	FLOOR {0}에 도달하기 (현재 : {1})	Reach floor {0} (Currently on {1})
+inference-cancel	기억나지 않는다	You can't remember.
+inference-error	잘못된 키워드가 있습니다	The sentence contains a wrong Keyword.
+inference-no-token	필요한 키워드를 보유하고 있지 않습니다 ( {0} / {1} )	You don't have all the necessary Keywords. ({0}/{1})
+inference-failed	더 이상 떠올릴 수 없다……	You can't remember any more...
+inference-miss	키워드를 모아 올바른 문장을 완성해야 합니다	You need to find the right Keywords to complete the sentence correctly.
+determine-title	기억의 조각「{0}」은 누구의 기억일까?	Who does the memory fragment "{0}" belong to?
+determine-submit	확정	Confirm
+determine-correct	기억의 조각「{0}」이<br><red>{1}</red><br>의 것임을 확정했습니다	The Memory Fragment "{0}"<br>was confirmed to be<br><red>{1}</red>'s
+choice-title	어느 쪽이 <red>{0}</red>의 기억일까?	Which memory belongs to <red>{0}</red>?
+choice-memory	기억의 조각 「{0}」 	Memory Fragment: "{0}"
+choice-select	선택	Select
+choice-correct	기억의 조각「{0}」이<br><red>{1}</red><br>의 것임을 확정했습니다	The Memory Fragment "{0}"<br>was confirmed to be<br><red>{1}</red>'s
+memory-cancel	더 이상 떠올릴 수 없다	You can't remember any more.
+memory-read	읽음	Read
+memory-getting	기억의 조각 「{0}」 발견	Found a memory fragment: "{0}"
+memory-overview	기억의 조각 목록 ( {0} / {1} )	Memory Fragment List ({0}/{1})
+memory-unknown	불명	Unknown
+memory-unresolved	키워드 미해결	Keyword part incomplete
+memory-success	기억 재생 성공	Memory played successfully
+memory-item-failed	{0} - 실패	{0} - Failed
+check-item-success	기억 재생 성공 - {0}	Memory played successfully - {0}
+check-item-failed	더 이상 떠올릴 수 없다……	You can't remember any more...
+check-item-miss	이 아이템은 기억과 관계없는 것 같다	This item seems to be unrelated to this memory.
+check-item-empty	기억과 관련된 아이템을 놓아야 할 것 같다	You need to place an item connected to the memory.
+toast-find-token	키워드 「{0}」 획득	Found a Keyword: "{0}"
+toast-find-item	「{0}」 획득	Found: "{0}"
+control-inventory	아이템 전환	Change Item
+control-skip	스킵	Skip
+control-unskip	스킵 중지	Stop Skipping
+control-unskip	스킵 중지	Stop Skipping
+control-select-memory	기억 확인	Check Memory
+control-item	아이템 정리	Move Items
+activity-clean	선을 피해서 숨어 있는 오브젝트를 찾는다	Avoid the lines and find the hidden object
+activity-tune	화살표의 값이 되도록 세 가지 파라미터를 조정한다	Adjust the three parameters to reach the correct value
+activity-circle	타이밍에 맞춰 버튼을 누른다	Press the button at the correct timing
+activity-word	같은 문자열을 찾는다	Find the similar words
+title-start	시작	Start
+title-option	옵션	Settings
+title-exit	종료	Quit
+title-endless	회상하기	Reminisce
+title-survey	설문에 응답	Answer Survey
+title-ending	엔딩	Ending
+prepare-quest-target	기억의 조각을 {0}개 재생한다	Play {0} memory fragment/s
+prepare-memory-count	떠올린 기억의 조각 : {0}	Remembered memory fragments: {0}
+result-message-success	──기억을 모아 탐색을 마쳤다.	... I found memories and explored as much as I could.
+result-message-failed	──강한 졸음이 덮쳐 의식을 잃었다.	... Taken by sudden drowsiness, I passed out.
+result-message-pistol	──소녀를 권총으로 쏜 건 나일지도 모른다.	... Maybe I was the one who shot the girl.
+result-message-end00	──총성이 들린 뒤, 움직이지 않는 카트리나를 발견했다.	... After hearing the gunshot, I found Katrina, looking unconscious.
+result-message-end01	──카트리나를 쏜 범인, 여섯 번째 사람은 정말 존재하는 걸까?	... Is there really a sixth person who shot Katrina?
+result-message-end02	──눈을 뜬 뒤 무엇이 기다리고 있을까. 모두가 그것을 두려워하고 있다.	... What will we have to face when we wake up? We're all scared of that.
+result-message-end03	──목숨의 무게. 조이의 말은 카트리나에게 닿았을까.	... Life is a responsibility. Did Katrina really understand Zoe's words?
+result-message-end04	──기억을 되찾고 잠에서 깨어난다.	... With my memories back, it's time to wake up.
+result-message-end05	──지구로.	... To Earth.
+result-next-floor	다음 층으로	Next Level
+result-next-day	다음 날로	Next Day
+result-exit	저장하고 타이틀로	Save and go back to title
+result-bonus	보너스 획득	Bonus Obtained
+result-tile	인자 보관함	Figment Storage
+item-effect-sleepiness	보유 중에만 의식 {0}	{0} to Vigor when in your possession
+item-effect-mitigation-door	{0} 문을 여는 비용 {1}	{1} cost to open {0} doors
+item-effect-mitigation-memory	기억 재생 비용 {0}	{0} cost to play memories
+item-effect-warp	{0}(으)로 워프 (존재하지 않으면 효과 없음)	Warp to {0} (only has effect if it exists)
+item-effect-inventory	아이템 소지 칸 {0}	Can hold {0} items
+item-effect-drop	{0} 출현율 {1}	{1} chance of {0} appearing
+bonus-title	획득할 보너스를 선택해 주세요 (남은 횟수 : {0})	Choose which bonus to get ({0} left)
+bonus-title-item	아이템 획득	Get item
+bonus-description-item	아이템「{0}」을 획득합니다.	You will get an item: "{0}"
+bonus-title-key	열쇠 획득	Get key
+bonus-description-key	「{0}」 1개를 획득합니다.	You will get 1 "{0}"
+bonus-title-sleepiness	의식 회복	Vigor
+bonus-name-sleepiness	의식 +{0}	Vigor +{0}
+bonus-description-sleepiness	의식을 {0} 회복합니다.	Restores {0} Vigor.
+bonus-title-tile	인자 획득	Obtain Figment
+bonus-description-tile	효과: {0}	Effect: {0}
+bonus-title-cancel	취소	Cancel
+bonus-name-cancel	취소	Cancel
+bonus-description-cancel	아무것도 받지 않고 종료합니다.	Cancel without receiving any bonus.
+graphic-mode-default	그래픽 부하: 표준	Graphics preset: Standard
+graphic-mode-low	그래픽 부하: 경량	Graphics preset: Low
+graphic-mode-verylow	그래픽 부하: 최경량	Graphics preset: Lowest
+option-bgmVolume	BGM 음량 : {0}	Music volume: {0}
+option-seVolume	SE 음량 : {0}	SFX volume: {0}
+option-textSpeed	텍스트 속도 : 	Text Speed: 
+option-textDistance0	텍스트 넘김: 가장 느림	Auto-scroll speed: Slowest
+option-textDistance1	텍스트 넘김: 느림	Auto-scroll speed: Slow
+option-textDistance2	텍스트 넘김: 보통	Auto-scroll speed: Medium
+option-textDistance3	텍스트 넘김: 빠름	Auto-scroll speed: Fast
+option-textDistance4	텍스트 넘김: 가장 빠름	Auto-scroll speed: Fastest
+option-scrollSpeed	스크롤 속도: {0}	Scroll speed: {0}
+option-cameraSpeed	카메라 감도: {0}	Camera sensitivity: {0}
+option-camera-invert-x	카메라 반전　상하 방향: {0}	Invert camera controls (vertical): {0}
+option-camera-invert-y	카메라 반전　좌우 방향: {0}	Invert camera controls (horizontal): {0}
+option-fullScreen	전체 화면	Fullscreen
+option-window	창 모드	Windowed
+option-title	타이틀로 돌아가기	Back to Title
+option-gameMode	모드 : {0}	Mode: {0}
+option-clearSave	세이브 데이터 삭제	Delete Save Data
+option-exit	종료	Quit
+confirm	확인	Confirm
+confirm-home	홈으로 돌아갑니다.<br>계속하시겠습니까?	Go back to the home screen?<br>Continue?
+confirm-title	저장하지 않고 타이틀로 돌아갑니다.<br>계속하시겠습니까?	You'll go back to the title screen without saving.<br>Are you sure?
+confirm-exit	게임을 종료합니다.<br>계속하시겠습니까?	Quit the game?
+confirm-openUrl	웹 브라우저에서 아래 URL을 엽니다.<br>계속하시겠습니까?<br><br>{0}	The following URL will be opened in your browser.<br>Do you want to proceed?<br><br>{0}
+confirm-clearSave	세이브 데이터를 삭제합니다. 계속하시겠습니까?<br><br>시스템 데이터(옵션 설정 등)는 삭제되지 않습니다.	Delete all save data?<br><br>Settings and other system data will not be deleted.
+confirm-reboot	설정을 적용하기 위해 재시작합니다.	Restarting to apply new settings.
+confirm-remember-title	기억 재생	Watch memory
+confirm-remember	이미 재생한 기억입니다.<br>기억의 조각을 다시 재생하시겠습니까?	You've already seen this memory.<br>Do you want to play it again?
+confirm-completed-title	기억 재생	Watch memory
+confirm-completed	이미 재생한 기억입니다.<br>장면 재생을 건너뛰시겠습니까?	You've already seen this memory.<br>Do you want to skip the story part?
+confirm-no-item-title	기억 재생	Watch memory
+confirm-no-item	아이템이 놓여 있지 않습니다.<br>이대로 기억의 조각을 재생하시겠습니까?	You haven't put down any items.<br>Do you want to play the memory like this?
+confirm-trash-title	아이템 버리기	Discard Item
+confirm-trash	{0}을(를) 버립니다.<br>계속하시겠습니까?	You are going to discard "{0}".<br>Are you sure?
+confirm-sleep-title	하루 끝내기	End Day
+confirm-sleep	의식이 0이 되어 하루를 끝냅니다.<br>계속하시겠습니까?	Your Vigor will drop to zero and the day will end.<br>Are you sure?
+dialog-yes	예	Yes
+dialog-no	아니요	No
+dialog-next	다음	Next
+dialog-cancel	그만두기	Stop
+dialog-close	닫기	Close
+dialog-confirm	확인	Confirm
+guide-memory	기억의 조각 재생 : {0} / {1}	Play memory fragments: {0}/{1}
+guide-talk	{0}와(과) 이야기하기	Talk to {0}
+guide-find-item	{0} 찾기	Find the {0}
+guide-play-memory	{0}의 기억 보기	Watch memory: "{0}"
+guide-enter-level	{0} 방문하기	Go to "{0}"
+guide-complete-memory	기억의 조각「{0}」 보기	Watch memory fragment: "{0}"
+guide-escape	뒤돌아보지 말고 도망친다	Run away and don't look back
+guide-walk	계속 걷는다	Keep walking
+guide-wander	누군가를 찾는다	Find someone
+guide-lookfor	{0} 찾기	Find: {0}
+guide-camera00	마우스를 움직여 둘러보기	Look around with the mouse
+guide-move00	[WASD] 키로 걷기 + [SHIFT]로 달리기	Move: [WASD] Run: [SHIFT]
+guide-camera00-pad	[R 스틱]으로 둘러보기	[R Stick] to move camera
+guide-move00-pad	[L 스틱]으로 걷기 + [L 버튼]으로 달리기	[L Stick] to walk + [L Button] to run
+guide-talk00	소녀와 이야기하기	Talk with the girl
+guide-item00	「삽」 찾기	Look for the shovel
+guide-memory00	「삽」을 테이블에 놓기 / 기억의 조각 보기	Put down the shovel / Watch memory
+tutorial-item-title	아이템	Items
+tutorial-item-text	실내에는 다양한 아이템이 떨어져 있습니다.<br>아이템은 최대 3개까지 주울 수 있습니다.<br><br>이 공간에서는 주운 아이템을 어딘가에 놓으면 무언가가 일어나는 것 같습니다.	You will find several items lying around.<br>You can keep up to 3 with you.<br><br>Strange things may happen when you put down items in specific places.
+tutorial-remember-title	기억의 조각	Memory Fragments
+tutorial-remember-text	방에는 기억의 조각을 재생할 수 있는 스폿이 있습니다.<br>재생하려면 기억과 관련된 아이템을 놓아야 합니다.<br><br>또한 기억을 보는 등 특정 행동을 하면 「의식」을 소비합니다.<br>「의식」이 0이 되면 강한 졸음에 휩싸여 하루가 종료됩니다.	There are certain spots in the rooms where you can watch "memory fragments."<br>To play them, you need to put down an item related to that memory.<br><br>Watching those memories, along with other actions, consumes your "Vigor."<br>When your Vigor drops to zero, you will become too tired to continue for the day.
+tutorial-quest-title	기억 3개 재생하기	Playing Three Memory Fragments
+tutorial-quest-text	기억의 조각 3개를 재생하면 탐색 성공이 됩니다.<br><br>탐색에 성공하면 출구가 나타나 다음 층으로 진행할 수 있습니다.<br>의식이 0이 되기 전에 가능한 한 깊은 층까지 진행해 봅시다.	If you manage to play three memory fragments, that day's exploration will count as a success.<br>Try finding three different fragments before your Vigor drops to zero.<br><br>On a day after a successful exploration, you'll get to keep some active bonuses.<br>Sometimes, the story will only progress after a successful exploration.
+tutorial-result-title	하루의 끝	A Day's End
+tutorial-result-text	「의식」이 0이 되면 강한 졸음에 휩싸여 하루가 종료됩니다.<br><br>다음 날 다시 눈을 뜨지만 방의 모습은 달라져 있습니다.<br>또 그날 획득한 아이템 등은 사라집니다.<br><br>방을 탐색하고 「기억」을 떠올려 진실을 밝혀내세요.	When your Vigor drops to zero, the day ends.<br><br>When you wake up the next day, the rooms may have changed.<br>You will also lose items you picked up on the previous day.<br><br>Look around the place to see as many memories as you can and find out the truth.
+tutorial-token-title	키워드	Keywords
+tutorial-token-text	기억의 조각 중에는 「키워드」를 사용해 문장을 완성해야 계속 읽을 수 있는 것이 있습니다.<br><br>키워드는 특정 기억의 조각 안에서 획득할 수 있습니다.<br>필요한 키워드가 부족하다면 다른 기억의 조각을 재생해 키워드를 얻으세요.	In order to progress through certain memories, you'll need to use "Keywords" to fill in incomplete sentences.<br><br>You'll find Keywords by watching other memory fragments.<br>If you find a sentence you can't complete, try looking at other memories to get more Keywords.
+tutorial-replay-title	재생한 기억의 조각	Replaying Memory Fragments
+tutorial-replay-text	평소와 다른 색의 스폿에서는 이미 재생한 기억의 조각을 다시 재생할 수 있습니다.<br>기억의 내용은 달라지지 않지만 보너스를 다시 획득할 수 있습니다.<br><br>특정 아이템을 찾지 못할 때는 보너스에 의지해 보는 것도 좋습니다.	Spots with a peculiar color allow you to rewatch memory fragments you've already seen.<br>The memory itself will be the same as the last time you watched it, but you can use it to get more bonuses.<br><br>If you're struggling to find a specific item, try relying on those bonuses.
+tutorial-anomaly-title	공간의 왜곡	Spacial Distortions
+tutorial-anomaly-text	이 공간의 일부 방에는 「왜곡」이 발생합니다.<br><br>「왜곡」이 발생한 방에서는 기억을 재생할 수 없는 등 평소와 다른 현상이 일어납니다.<br><br>「왜곡」을 발견했다면 빠르게 방을 나가는 편이 현명합니다.<br>오랫동안 머무르면 더 큰 위협이 발생할 수도 있는 것 같습니다.	Sometimes, spacial distortions may happen within rooms.<br><br>Spacially distorted rooms behave in strange ways. For example, you may be unable to watch memories inside them.<br><br>If you find a spacial distortion, it would be wise to leave as soon as possible, before anything dangerous happens.
+tutorial-tile-title	인자	Figments
+tutorial-tile-text	보너스 등으로 획득할 수 있는 「인자」는 탐색에 도움이 됩니다.<br><br>문을 열 때 보유 중인 인자 가운데 하나가 무작위로 선택되어 효과가 발동합니다.<br>유용한 인자를 모으며 탐색을 진행하세요.<br><br>※보유 중인 인자는 하루가 끝나도 사라지지 않습니다.	You can get useful "Figments" through bonuses and other means.<br><br>Whenever you open a door, one of the Figments you have on you will be chosen at random, and its effects will activate.<br>Try to find the best Figments to aid your exploration.<br><br>Note that you won't lose your Figments at the end of each day.
+tutorial-endless-title	회상하기	Reminiscing
+tutorial-endless-text	메인 에피소드를 완료했습니다.<br><br>그들의 이야기는 끝났지만 그 시절을 「회상」하듯 기억의 공간을 계속 탐색할 수 있습니다.<br>아직 보지 못한 「기억의 조각」을 모으거나 캐릭터들과 대화를 즐길 수 있습니다.	You have completed the game's main episode.<br><br>The characters' stories are over, but you can Reminisce about your time in that strange place to explore it some more.<br>You can look for more memory fragments and talk to the others.

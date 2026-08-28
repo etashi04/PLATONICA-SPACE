@@ -1,0 +1,529 @@
+@story	각성	Awakening
+	눈을 뜬 직후의 일은 잘 기억나지 않는다.	My memories from right after I woke up were hazy.
+	빛이 너무 눈부셨고 몸은 터무니없이 무거웠다.	I remember the lights being too bright and my body feeling too heavy.
+	물과 땀 냄새가 났다.	I also remember smelling water and sweat.
+	그래서 현실이라는 걸 알았다.	That made me realize I was back in the real world.
+	몽롱한 의식 속에서도 알 수 있을 만큼, 오감으로 느껴지는 자극은 그 공간과 달랐다.	Unlike that strange place, it was still sensory overload despite still being half-asleep. 
+	의식이 또렷하지 않은 채 냉동 수면 장치에서 꺼내져,	Barely conscious, I was taken out of the cryosleep pod.
+	다음에 정신을 차렸을 때는 의무실 침대 위였다.	The next thing I knew, I was lying down on a bed in the infirmary.
+	어딘가 기억 속에서 본 그 병원과 닮았다고 생각했다.	It reminded me of the hospital I'd seen in one of the memories.
+	이 배의 의무실에 들어온 건 처음이었다.	However, despite how familiar it looked, I'd never been in this ship's infirmary.
+	기억 속에는 없는 공간이었다.	I definitely had no memory of this place.
+	몸은 무거웠고, 우주선에 가득 밴 특유의 냄새에도 좀처럼 익숙해지지 않았다.	I felt exhausted, and I couldn't get used to the unique smell permeating the spaceship.
+	엘라라 일행은 근처에 없었다.	I didn't see Elara or the others anywhere around me.
+	이미 치료를 끝내고 각자의 객실로 돌아갔을지도 모른다.	Maybe they had already recovered and had gone back to their own rooms.
+	누군가가 와서 약을 주사했다.	Someone walked in and injected me with some kind of drug.
+	그리고 다시 한동안 잠들었다.	And then, I slept for a while.
+@story	카트리나의 현실	Katrina's Reality
+katrina	리암.	Liam.
+katrina	너도 눈을 떴구나.	You woke up too.
+katrina	다행이야.	I'm glad you managed to.
+katrina	의무실로 실려 갔다고 들었는데……	I heard they took you to the infirmary...
+katrina	몸은 이제 괜찮아?	Are you all right?
+katrina	……뭐?	Huh...?
+katrina	멋대로 의무실에서 나온 거야?	You just walked out of there yourself?
+katrina	괜찮은 걸까.	Is that really okay?
+katrina	뭐, 아무렇지도 않다면 됐지만……	Well, as long as you're fine, that's good, I guess...
+katrina	…………	...
+katrina	우리가 있던 그 공간은,	That space we were in...
+katrina	거기서 이야기했던 대로 냉동 수면 장치가 보여 준 꿈이었던 모양이야.	It really turned out to be just a dream concocted by the cryosleep pods, huh?
+katrina	이 우주선의 냉동 수면 장치는 컴퓨터 한 대가 다섯 명을 한꺼번에 관리한대.	It seems that the cryosleep-monitoring system on this ship uses one computer for every five people.
+katrina	그 컴퓨터에 오류가 생겨 다섯 사람의 기억이 뒤섞인 거지.	That's why when something went wrong, all of our memories got jumbled together.
+katrina	……어때?	So...?
+katrina	기억은 확실히 되찾았어?	Got all of your real memories back?
+katrina	나는…… 그 꿈속에 있을 때 잊고 있던 것도 많이 떠올랐어.	When I woke up... a lot of things I still hadn't remembered came back to me.
+katrina	버린 고향에 관한 것도──	Memories about my hometown...
+katrina	배 속 아기에 관한 것도.	And about the child inside of me.
+katrina	나는 당분간 이 우주선에 더 타고 갈 거야.	I think I'll be staying on the ship for a bit longer.
+katrina	그러다 마음에 드는 별이 있으면 내려 보려고.	If I find a planet that's to my taste, I'll get off there.
+katrina	잘 살아갈 수 있을지는 모르겠지만,	As for whether I'll be able to manage there, I don't know.
+katrina	어떻게든 되겠지 싶어.	But I can only try.
+katrina	……조이가 그렇게 말해 줬지만,	Zoe kindly offered to help me...
+katrina	그 아이의 도움을 받을 수는 없어.	But I can't accept.
+katrina	그 아이에겐 그 아이의 인생이 있어.	She has her own life to live.
+katrina	나 때문에 그걸 포기하게 하고 싶지 않아.	I can't have her throw that away for my sake.
+katrina	이 우주선에서 내리면 다시는 만날 일이 없겠지만.	Once we're out of this spaceship, we'll probably never meet again.
+katrina	……어딘가 먼 곳에서,	But on whatever faraway planet you all are...
+katrina	행복해졌으면 좋겠어.	I hope you'll find happiness.
+@story	조이의 현실	Zoe's Reality
+zoe	아, 리암.	Oh, Liam.
+zoe	좋은 아침.	Good morning.
+zoe	의무실로 실려 갔다고 들었는데, 이제 괜찮아?	They took you to the infirmary, right? Are you feeling better now?
+zoe	……뭐?	What?
+zoe	우리는 아무도 의무실로 가지 않았어.	No, none of us was taken to the infirmary.
+zoe	리암만.	Just you.
+zoe	검사 때문이라고 의사처럼 보이는 사람이 말하긴 했는데.	Someone who looked like a doctor told me it was just a check-up.
+zoe	뭐, 건강하면 괜찮은 거 아니야?	Well, you look fine now, so that's all good, right?
+zoe	……나는 말이야.	As for me...
+zoe	눈을 뜬 뒤 위조 ID 카드가 들켜서 붙잡혔어.	As soon as I woke up, I was detained for having a fake I.D.
+zoe	냉동 수면 장치에 오류가 난 동안 우리를 자세히 조사했던 모양이야.	Or rather, they'd been investigating us while we were stuck in the pods.
+zoe	그런데 카트리나가 감싸 줬어.	But then, Katrina stepped up to help me.
+zoe	카트리나가 돈을 내고 나를 풀어 줬어.	She paid them off so I could stay free.
+zoe	……그래서,	So...
+zoe	나는 카트리나를 따라갈 생각이었는데,	I wanted to stay with her and help her out with the baby...
+zoe	……거절당했어.	But she refused.
+zoe	마음대로 살래.	She wants me to "live my own life."
+zoe	카트리나는 배 속 아이를…… 자기가 제대로 키우겠대.	She said she'll give birth... and take care of the baby herself.
+zoe	…………	...
+zoe	나…… 어떡하지.	The question is what I'll do now.
+zoe	이 배에도 카트리나에게도 미안해서 되도록 빨리 내리고 싶고.	I feel bad for Katrina, and I'm sorry for what I did to get on the ship, but I want to get off as soon as possible.
+zoe	다음에 도착하는 별에서 살아 볼까.	I'll try making a new life for myself on the next planet we stop at.
+zoe	ID 카드도 돈도 없지만,	I don't have an I.D. or any money, but...
+zoe	어떻게든…… 되려나.	It'll all work out... right?
+zoe	……분명.	I'm sure it will.
+zoe	카트리나와도, 리암과도,	Both you and Katrina...
+zoe	이 배에서 내리면 다시는 만나지 못하겠지.	I'll probably never meet either of you again once I get off the ship.
+zoe	카트리나는 어느 별로 갈지도 알려 주지 않을 것 같고,	I bet she wouldn't even tell me what planet she plans on going to.
+zoe	알려 준다고 해도 아주 먼 별일 테고.	And even if she did, it'd be too far for me to reach anyway.
+zoe	이제 곧…… 작별이네.	I guess that very soon... it'll be goodbye.
+zoe	……엘라라는,	And Elara...
+zoe	아직 못 만났어?	Have you met her yet?
+zoe	뭐랄까……	How can I put this...?
+zoe	각오하고 만나 줬으면 해.	If you're going to see her... brace yourself.
+@story	월터의 현실	Walter's Reality
+walter	아, 리암.	Hey, Liam.
+walter	몸은 이제 괜찮은가?	Feeling better already?
+walter	너를 진찰하던 녀석…… 의사처럼 보이진 않던데.	That guy who did that "check-up" on you... didn't really look like a doctor to me.
+walter	아는 사람인가?	Is he a friend of yours or something?
+walter	……뭐, 됐어.	Well, whatever.
+walter	나는…… 내가 왜 이 우주선에 탔는지 기억해 냈어.	You know, I finally remembered why I got on this ship in the first place.
+walter	고향 별로 돌아가는 중이었던 모양이야.	I was trying to go back to my home planet.
+walter	충돌 끝에 우리 클러스터는 별을 떠났지만……	There was a huge conflict, and my cluster left it...
+walter	그래도 그 행성은 내 고향이야.	But that doesn't change that it's my home planet.
+walter	……체스카가 잠들어 있는 별이지.	It's the place where Chesca lies.
+walter	너도 기억을 봤을지 모르지만 나는 이제 오래 살지 못해.	You probably already know from watching my memories, but I don't have long to live.
+walter	온몸이 병들어 있어. 겉으로는 티가 안 나지만.	Even if you can't tell from the outside, disease is eating away at my body.
+walter	드디어 벌을 받을 때가 온 셈이지.	Looks like I finally got my punishment.
+walter	실컷 고통에 시달리며 죽을 생각이야.	I'll make sure I die as painfully as possible.
+walter	그리고 그때까지 그 별에서 속죄할 생각이고.	And in the meantime, I'll be atoning on my home planet.
+walter	이제 그 별의 사법 체계가 나를 심판해 주진 않겠지만,	I'm sure they won't be persecuting me for my crimes there.
+walter	뭔가…… 내가 할 수 있는 일을 찾아볼 거야.	I'll have to find a way... Find it myself.
+walter	그리고 그런 오만이 허락된다면,	And, I know this is rich, but...
+walter	나도 그 별에 묻히고 싶어.	I want to be buried there.
+walter	…………	...
+walter	……나는 쓰레기 같은 인생을 살아왔어.	I've been a piece of scum all my life.
+walter	하지만 체스카의 죽음을 죄라고조차 생각하지 않는 쓰레기는 아니었어.	But I wasn't cruel enough to shrug off Chesca's death.
+walter	그게 유일한 구원이야.	That's my salvation.
+walter	이 배에서 내리면 다시는 만날 일도 없겠지.	We'll probably never meet again after we get off this ship.
+walter	나 같은 건 잊어도 상관없지만,	I don't mind if you forget about me.
+walter	후회가 적은 인생을 살길 바란다. 리암.	But I hope you'll be able to live on without regrets, Liam.
+walter	……엘라라?	Elara...?
+walter	아직 못 만난 건가.	Oh, so you haven't seen her already.
+walter	그녀는…… 아직 냉동 수면 장치 안에 있어.	She's... still in the pod.
+walter	눈은 떴지만,	She's woken up already.
+walter	그 몸이니까.	But with a body like that...
+walter	……뭐, 만나러 가 봐.	Look, just go see her.
+walter	그럼 이만, 리암.	Bye, Liam.
+@story	기절	Unconscious
+	엘라라를 만나기 위해 냉동 수면실을 찾고 있었다.	I went to the cryosleep room to see Elara.
+	그녀를 만나야 한다.	I had to see her.
+	며칠 동안 꿈속에서 함께 지낸 친구로서 그녀와 이야기하고 싶었다.	After the days we spent together in that dream, I considered her my friend.
+	하지만 그것만은 아니었다.	But there was more to it.
+	현실의 내가 어떤 사람이더라도 나를 받아들여 줘──	She asked me to accept her however she was like in the real world.
+	눈을 뜨기 직전 엘라라는 그렇게 말했다.	That's the last thing she said before waking up.
+	그건 무슨 뜻이었을까.	What did she mean by that?
+	그녀는 무엇을 깨닫고 무엇을 알고 있었을까.	Did she realize something? And what could that something be?
+	현실 세계에서 그녀를 만나면 분명 모든 게 밝혀질 것이다.	I needed to meet her in the real world to make that clear.
+	엘라라에 대해서도,	To understand everything about her...
+	그리고 나 자신에 대해서도.	And about myself.
+	나는 아직 나 자신에 대해 또렷하게 떠올리지 못한 것 같았다.	I felt like I still hadn't quite remembered everything about myself.
+	밀항하려다 붙잡혀 이 우주선의 승무원이 된 청년.	I tried to get aboard the ship as a stowaway and was made to work here as punishment.
+	그게 기억 속의 나였다.	That, supposedly, was my past.
+	하지만 정말 그럴까?	But was it really?
+	그게 사실이라면 왜 이 우주선의 복도가 낯설게 느껴지는 걸까.	If it were, why do the ship's hallways all feel so unfamiliar?
+	매일 어떤 일을 했는지도 떠오르지 않는다.	I can't even remember what kind of work I used to do here.
+	이 배의 함장은 정말 네리사라는 이름이었나?	Was the captain's name really "Nerissa"?
+	리암이라는 이 이름에도 계속 위화감이 든다.	And this name of mine, Liam. I feel weird about that too.
+	여기는 정말 현실일까?	How can I be sure I'm in the real world?
+	이 기억은 정말 내 것일까──	And are those memories really mine?
+	그때 강한 현기증이 밀려왔다.	As I thought that, I suddenly started feeling dizzy.
+	꿈속에서 몇 번이나 덮쳐 왔던 그 졸음과 비슷했다.	It was similar to the drowsiness I felt at the end of a day inside the dream.
+	눈앞의 풍경이 급격히 멀어진다.	The scenery in front of me seemed to grow farther away by the second.
+	의식이 가라앉는다.	My consciousness started slipping away.
+	그 깊은 곳에서──	And from within the darkness...
+	누군가의 목소리가 들렸다.	I heard a voice.
+@story	리암의 기억	Liam's Memories
+<liam>	정말?	Really?
+<liam>	정말…… 그 테러리스트가?	That infamous terrorist... will be there?
+man	아직은 몰라.	We're not sure yet.
+man	그걸 밝혀내는 게 우리 일이야.	Our job is to confirm that.
+<liam>	법에 걸리는 일 아닌가.	This all sounds like it's against the law.
+man	법이라니, 어느 법 말이야. 결국 우주 전체에 적용되는 법 같은 건 생기지 않았잖아.	Against whose law? Last I checked, there are no laws covering the whole universe.
+<liam>	우주선 안이라면 함장이 법이지. 허락할까?	On a spaceship, the captain is the law. I wonder if they'll allow this.
+man	걱정 마. 두둑하게 쥐여 줬어.	Don't you worry. A hefty bribe has already made sure of that.
+<liam>	정말 끔찍한 직장에 걸렸군.	I sure work in a terrible place.
+man	위로 올라간 끝이 이거지. 미안하지만 해 줘.	That's what you get for climbing the ladder. So, sorry, but you have to do this.
+<liam>	할게. 일이니까.	I will. It's my job.
+<liam>	하지만……	But...
+<liam>	역시 믿기지 않네.	I still can't believe it.
+<liam>	정말 그 사람이,	Is it really them?
+<liam>	지구에서 바이오 테러를 일으킨 자들의 주도자라고……?	The mastermind behind Earth's bioterrorist attack?
+man	그럴 가능성이 높다더군.	They say there's a good chance.
+man	당시엔 아직 20대였다고 해.	At the time, our target was supposedly still only 20 or so.
+<liam>	…………	...
+man	뭐, 네가 할 일은 간단해.	In any case, your job isn't that complicated.
+man	첫째, 냉동 수면 장치에 손을 댄다.	Step one, tamper with the cryosleep pods.
+man	둘째, 이 여자의 옆 부스에서 잔다.	Step two, enter the pod next to this woman.
+man	셋째, 냉동 수면 장치에 오류가 생겨 기억이 뒤섞인다.	Step three, the pods will malfunction, and your memories will get mixed up.
+man	넷째, 기억을 보고 그녀가 정말 테러리스트인지 확인한다.	Step four, look at those memories and confirm she's the terrorist we're after.
+man	그다음 눈을 뜨고 나한테 보고하면 끝이야.	Then you'll just need to wake up and report back.
+<liam>	그러려면 나는,	But in order to do that...
+<liam>	미리 기억을 지워야 하는 거지?	I need to have my real memories erased, right?
+man	맞아.	Yes. There's no avoiding it. 
+man	네 기억도 상대에게 보이게 될 테니까.	You'll be able to see her memories, but she'll be able to see yours too.
+man	네가 수사관이라는 게 들키면 도망칠 수도 있어.	If she found out you're investigating her, she might run away.
+man	가짜 기억도 심어 둘 필요가 있겠군.	So we'll also need to give you some fake memories.
+<liam>	어떤 기억?	What kind?
+man	우주선 승무원이야.	We'll make you part of the spaceship's crew.
+man	거의 배에서 내리지 않는 가난한 잡역부. 기억의 세부가 흐릿해도 의심받기 어렵지.	A miserable worker who barely leaves the ship. Simple enough that we can get away with a few details here and there being wrong.
+<liam>	흐음.	Huh.
+<liam>	이름은?	And my name?
+man	리암.	Liam.
+man	괜찮지. 흔한 이름이고.	Not bad, right? Sounds average enough.
+<liam>	그럼 그 테러리스트──일지도 모르는 여자는,	And the terrorist... Well, the woman we think might be the terrorist...
+<liam>	아…… 맞다.	Right...it was that.
+<liam>	엘라라……	"Elara."
+<liam>	그런 이름이었지.	That was her name.
+@story	리암의 정체	Liam's Real Identity
+	눈을 뜨고 가장 먼저 느낀 건 바닥의 차가움이었다.	My first thought as I woke up was just how cold the floor felt.
+	딱딱한 바닥에 쓰러져 있었다.	I had collapsed onto the floor.
+	주위에는 아무도 없다.	There was nobody around.
+	그래도 이곳은 우주선 안이고 지금도 진공을 가로질러 나아가고 있다.	I was on a ship traveling through the empty vastness of space.
+	바닥 아래에서, 벽 너머에서 무언가가 계속 움직이고 있다.	The machinery below the floor and past the walls was still churning away.
+	그 미세한 진동이 뺨을 타고 울린다.	I could feel the vibration on my face.
+	이건 현실이라고 생각한다.	And I realized that this was reality.
+	기억났다.	I'd remembered everything.
+	내가 누구였는지.	Who I was.
+	왜 여기에 있는지.	Why I was here.
+	이제 무엇을 해야 하는지.	What I was supposed to do.
+	리암이라는 남자는 없었다.	There never was any "Liam."
+	밀항자 출신 승무원도 없다.	The stowaway boy turned crew member never existed.
+	이 배의 함장 이름은 네리사가 아니다.	The name of this ship's captain wasn't Nerissa either.
+	나는 수사관이었다.	I was an investigator.
+	범죄 조직을 쫓아 우주를 돌아다니는 일.	I was on a mission tracking down a criminal organization through space.
+	어떤 사람을 쫓아 이 우주선에 탔다.	And the reason I was on this specific ship was to get to a certain individual.
+	엘라라──	Elara.
+	그녀는,	Yes, Elara...
+	과거 지구를 사람이 살 수 없는 행성으로 만든 테러리스트였다.	The terrorist who made Earth uninhabitable for humans.
+@story	조이의 그 후	Zoe's Future
+zoe	……엘라라?	Elara...?
+zoe	아직 냉동 수면 장치 안에 있는 거 아니야……?	I think she's still in her cryosleep pod.
+zoe	그런 상태니까 다음 항구에 도착할 때까지 그대로 있는 게 낫다고……	I mean, in her condition, it's probably safer if she stays there until the next stop.
+zoe	그보다…… 리암, 괜찮아?	But more importantly... are you okay, Liam?
+zoe	안색이 안 좋은데……	You look terrible.
+@selection	우리는 함께 살아갈 수 있을 것 같아?	Do you think we can all live together?
+zoe	어……?	Huh...?
+zoe	저기, 무슨 얘기야……?	What's that supposed to mean?
+zoe	…………	...
+zoe	……나는 다음 행성에서 이 우주선을 내릴 거야.	I'm going to get off at the next planet we stop at...
+zoe	카트리나도, 월터도, 엘라라도 다른 별로 가겠지.	Katrina, Walter, and Elara will probably all go to different planets.
+zoe	너는 이 우주선에서 일하는 거지?	And you will keep working on the ship, right?
+zoe	그렇다면…… 적어도 우리는 함께 있을 수 없어.	So, at the very least, the five of us won't be living together.
+zoe	다음 행성에 도착하면 작별이야.	When the ship makes its next stop... it's goodbye for us.
+zoe	다시는 만나지 못할 것 같아.	I'm sure we'll never be able to meet again.
+zoe	우주는 넓고…… 우리는 그렇게 자유롭지 않으니까.	Space is so big... and we're not as free as we'd like to think.
+zoe	…………	...
+zoe	이걸로 대답이 됐어?	Does that answer your question?
+###@story	エララの捜索1	Investigating Elara, 1
+###@text-move	彼女はどうして、あんなことをしたのだろう？	Why would she do such a thing?
+###@text-move	そう考えて、しかし自分はその答えを知っている。	I was supposed to ask myself that question, but I already knew the answer.
+###@text-move	彼女は憂いていた。	She was scared.
+###@text-move	宇宙に散り散りになった人類のゆく先を。	Scared of the future of humanity, divided as it was among the stars.
+###@text-move	だから、地球から人々を隔離した。	Which is why she made sure people had to keep their distance.
+###@text-move	地球が、そのままの姿を保てるように。	So that it could remain as it was.
+###@text-move	それが、これからを生きる人々を繋ぎ留めてくれると信じて。	So that it could become an eternal cornerstone for humanity.
+@story	카트리나의 그 후	Katrina's Future
+katrina	엘라라라면 지금도 냉동 수면실에 있을 텐데?	If you're looking for Elara, she should still be in the cryosleep room
+katrina	……리암?	Liam...?
+katrina	너 왜 그래?	What's wrong?
+katrina	안색이 너무 안 좋아.	You look so pale...
+katrina	역시 아직 좀 더 누워 있는 게……	I think you should go lie down.
+@selection	인류는 앞으로도 하나의 인류로 남을 수 있을까?	Do you think humanity will be able to stay united?
+katrina	……뭐?	Huh...?
+katrina	무슨 얘기야?	What's this now?
+katrina	…………	...
+katrina	……예전에 지구에 세균을 퍼뜨린,	Come to think of it...
+katrina	테러리스트들이 했던 말 같은데.	It sounds like what those terrorists who spread the bacteria all over Earth said.
+katrina	그들은 우주로 나간 사람들이 뿔뿔이 흩어지는 걸 두려워했지.	They were scared about humanity splitting up or something like that.
+katrina	실제로 행성을 테라포밍해 정착한 사람들은 차츰 외부와의 교류를 피하게 됐고.	I guess they had a point. People tend to close themselves off once they get on a newly terraformed planet.
+katrina	물자는 행성 안에서 조달할 수 있고 고갈되면 또 다른 별로 옮기면 돼.	You can get all the resources you need on your own planet, and if they run dry... you can just go to a new one.
+katrina	행성 안에서 충돌이 일어나도 어느 한쪽 클러스터가 다른 행성으로 떠날 뿐이야.	If any conflict arises, you can just leave for another planet with the people who agree with you.
+katrina	다른 행성에 사는 사람들과 교류하는 건 대부분 위험만 따를 뿐이지.	Interacting with other planets is mostly just a pointless risk.
+katrina	하지만……	That being said...
+katrina	그 끝에 기다리는 건, 뿔뿔이 흩어진 인류가 조용히 조금씩 멸망해 가는 미래……	That will lead to humanity splitting up too much and eventually going extinct.
+katrina	그들은 그렇게 주장했어.	That's what the terrorists believed, at least.
+katrina	나도 일리가 있다고 생각해.	It's not completely wrong.
+katrina	테라포밍한 행성에 정착한 뒤 불과 수십 년 만에 인구가 급감한 별은 셀 수도 없이 많아.	People will move to a new planet only to see their population decimated in just a few decades. There are too many examples to count.
+katrina	전쟁도 기아도 없는 평온하고 변함없는 나날 속에서도 사람들은 무너져 가는 걸지도 몰라.	Maybe humans are just destined to perish like that, even without wars or famines.
+katrina	내가 속해 있던 행성 관리 기구조차 직접 파악하고 있는 건 극히 일부 우주 구역뿐이야.	Even the organization I worked for only managed a tiny portion of space.
+katrina	우주 전체의 지도를 그리는 건 이제 불가능하겠지.	Mapping out all the human colonies in the universe has long been impossible.
+katrina	우리는 분명 뿔뿔이 흩어졌어.	Humanity is already split up.
+katrina	하지만 예전에 모든 인류가 지구에서 살던 때보다는 훨씬 낫다고 생각해.	But I still think we're much better off like this compared to when we were all living on Earth.
+katrina	서로 미워하면서까지 함께 살 필요는 없어.	Why would we want to live our days fighting among ourselves?
+katrina	만약 그 결과 인류가 멸망한다면,	And if this leads to humanity going extinct...
+katrina	그게 인간의 한계라는 거겠지.	I guess we'll know the limits of humanity.
+###@story	エララの捜索2	Investigating Elara, 2
+###@text-move	エララを拘束しなければならない。	I need to apprehend Elara.
+###@text-move	彼女の記憶を盗み見るために、自分はこの宇宙船に乗り込み、意図的に冷凍睡眠装置に細工をした。	I got on this ship and tampered with the crysoleep pods just so I could peer into her memories.
+###@text-move	そして確かに、彼女の記憶を見た。	And peer I did.
+###@text-move	疑いようがない。彼女は首謀者だった。	Beyond any doubt, she was the leader of the terrorist organization.
+###@text-move	本当に、彼女は裁きを受けるべきだろうか？	Should she really be punished?
+###@text-move	エララがかつて地球でしたことは、許されることではない。	Obviously, what she did to Earth is unforgivable.
+###@text-move	しかし、彼女には正義がある。	But she did it out of her own sense of justice.
+###@text-move	あの空間で、記憶を共有したからこそ、それがわかる。	That is what I'd gathered after seeing her memories.
+###@text-move	記憶を消すことだってできただろう。	Memories that she could have easily erased, had she wanted to.
+###@text-move	彼女が本当に捜査から逃れたいなら、当時の記憶を消す方が安全だった。	If she really wanted to escape, it would've been safer to erase it all.
+###@text-move	それなのに、エララはそうしなかった。	But she hadn't done that.
+###@text-move	その理由が、今はわかる。	And now, I understood why.
+###@text-move	彼女は忘れたくなかった。	She didn't want to forget.
+###@text-move	自分がしたことを。	She wanted to remember what she did.
+###@text-move	そんな彼女を、どんな罪に問えるだろう。	What exactly could she be blamed for?
+###@text-move	今、私がすべきなのは──	I didn't know what I should do.
+###@text-move	彼女を逃がすことなのではないか？	Shouldn't I just let her escape?
+@story	월터의 그 후	Walter's Future
+walter	엘라라?	Elara?
+walter	아직 냉동 수면실에 있겠지.	She should still be in the cryosleep room.
+walter	다음 별에 도착할 때까지는 그대로 있을 거라고 들었는데.	I heard she'll stay there until we reach the next stop.
+walter	……무슨 일인가?	Is something wrong?
+@selection	우리는 서로를 이해할 수 있었을까?	Do you think we were able to understand each other?
+walter	……무슨 얘기지?	What are you talking about?
+walter	그 공간에서 있었던 일이라면……	If it's about the time we spent together in that dream...
+walter	서로를 이해했다고는 생각하기 어렵군.	I can't say we did.
+walter	…………	...
+walter	자네도 함께 겪었잖나.	You were there too.
+walter	굳이 내가 말로 설명할 일은 아닌 것 같지만……	I don't think I even need to say this, but...
+walter	우리는 처음에 거의 아무런 기억도 없는 상태로 만났어.	When we first met, none of us remembered anything.
+walter	그러다 조금씩, 때로는 착각도 하면서 기억을 되찾아 갔지.	We got our memories back, bit by bit, with a bunch of misunderstandings along the way.
+walter	생각해 보면 당연한 일일지도 모르지만,	Maybe this is going to sound obvious.
+walter	기억이 없을 때가 오히려 서로를 더 잘 이해했어.	But when we still didn't remember anything, we understood each other.
+walter	기억이 없는, 아무것도 덧씌워지지 않은 상태의 우리는 그리 큰 차이가 없었지.	Without our memories, we weren't really that different.
+walter	물론 선천적인 차이나 기억과는 별개인 감각에는 차이가 있었겠지만.	Of course, we had some differences that had nothing to do with our memories, like physical ones.
+walter	그래도 각자가 살아온 과거에 비하면 아주 작은 차이야.	But what really made us different were our pasts.
+walter	기억을 되찾을수록 우리는 서로를 이해하지 못하게 됐어.	The more we remembered, the less we understood each other.
+walter	서로의 기억을 보고 서로를 알고 있었을 텐데도, 오히려 상대를 이해할 수 없게 됐지.	That's even though people got to learn about each other's pasts.
+walter	아니…… 오히려 서로를 알게 됐기 때문일지도 모르겠군.	Actually, no... It's exactly because we got to learn about everyone's pasts.
+walter	내가 저 사람을 이해할 리 없다고,	How could you really understand another person?
+walter	저런 인생을 살아온 사람이 나를 이해할 리 없다고.	How could a person with a past like that understand me?
+walter	그렇게 생각하게 된 거야.	That's what we all ended up thinking.
+walter	하지만……	Still...
+walter	별것 아닌 일이야.	I don't think it's that weird.
+walter	누구나 그렇겠지.	That probably applies to everyone.
+walter	사람은 애초에 서로를 완전히 이해할 수 없는 법이야.	People can't really, truly understand each other.
+walter	……아닌가?	Am I wrong?
+@story	엘라라 수색 3	Investigating Elara, 3
+@text-move	エララの記憶を思い出す。	I thought back to Elara's memories.
+@text-move	彼女は確かに、テロリストだった。	She was the terrorist. There was no doubt left about that.
+@text-move	仲間を集めて、地球に細菌をばら撒き、人の住めない星にした。	She gathered allies, spread genetically modified bacteria on Earth, and made it uninhabitable.
+@text-move	それから八十年の間、逃げ続けている。	After doing so, she had been on the run for some eighty years.
+@text-move	私は捜査官であり、彼女の罪を明らかにし、拘束しなければならない立場にある。	As an investigator, I'm supposed to prove her crimes and arrest her for it.
+@text-move	偽の記憶は薄れ、本当の自分を取り戻していた。	I finally remember my mission, now that my fake memories have faded away.
+@text-move	覚醒後、医務室で打たれた注射のせいだろう。	It must be that injection I received in the infirmary.
+@text-move	あれは記憶を取り戻すための薬であり、打ったのは医師ではなく潜入していた仲間だった。	That was probably the drug meant to give me back my original memories, administered by an undercover colleague.
+@text-move	しかし──、と思う。	However...
+@text-move	本当に、彼女を捕らえるべきだろうか？	Should I really arrest her?
+@story	엘라라와의 재회	Elara Again
+elara	…………	...
+elara	……리암?	Liam...?
+elara	와 줬구나.	You came to see me.
+elara	……고마워.	Thank you.
+elara	미안해, 이런 데 있어서.	Sorry, I have to stay here.
+elara	……움직일 수가 없어서.	I can't move...
+elara	…………	...
+elara	……왜였을까.	I wonder...
+elara	왜 그 공간에서 나는──	Inside our dream, why did I look like that?
+elara	어릴 적 모습이었던 걸까.	Why did I look like a child?
+elara	어쩌면 내가 가장 소중하게 여기는 내 모습이었던 걸까.	Maybe it's the image of myself I care the most about.
+elara	아직…… 지구에 살던 시절의 내 모습.	The image of myself... when I still lived on Earth.
+elara	……현실의 나는,	But here, in reality...
+elara	벌써 백 살이 넘은 할머니인데 말이야.	I'm an old hag, over a hundred years old.
+elara	있잖아…… 리암.	Liam...
+elara	눈 감아 줄래?	Can you close your eyes for me?
+elara	이런 모습을 보여 주는 건 부끄러우니까.	I don't want you to see me like this.
+elara	거기서 만났던…… 어린 나를 떠올려 줘.	Please... Remember me as you saw me there. As a child.
+elara	눈을 감은 채로,	Let's have this conversation...
+elara	이야기하자.	With your eyes closed.
+@story	엘라라와의 대화 1	Conversation with Elara, 1
+elara	먼저 말해 둘게.	Let me tell you one thing straight off the bat.
+elara	나, 알고 있어.	I know everything.
+elara	리암이 나를 찾고 있던 수사관이라는 거.	I know you're an investigator.
+elara	리암이라는 이름도 가명이라는 거.	I know your real name isn't Liam either.
+elara	진짜 이름은 뭐야?	What's your real name, by the way?
+elara	…………	...
+elara	……말해 주기 싫다면 뭐, 됐지만.	If you don't want to tell me... that's fine too.
+elara	그럼 지금까지처럼 리암이라고 부를게.	I guess I'll keep calling you Liam.
+elara	리암은……	Now, Liam...
+elara	내 기억을 보고 어떻게 생각했어?	What did you think after seeing my memories?
+elara	역사상 최악의 테러리스트?	That I was history's worst terrorist?
+elara	아니면…… 지구의 미래를 생각한 다정한 사람?	Or maybe... that I was a kind person thinking of Earth's future?
+elara	…………	...
+elara	……나를 다정하다거나,	If you thought I was kind...
+elara	그런 식으로 생각한다면,	If you really thought that...
+elara	그건 아니야, 리암.	You were wrong, Liam.
+elara	나는 수많은 사람을 죽인 테러리스트야.	I'm a terrorist. I murdered countless people.
+elara	그냥 살인자야.	That's what I am. A murderer.
+@story	엘라라와의 대화 2	Conversation with Elara, 2
+elara	계기는…… 일하던 연구 시설에서 우연히 생겨난 세균이었어.	Those bacteria... They were created by coincidence.
+elara	그 우연이 없었다면 나는 분명 지금도 평범하게 살고 있었겠지.	Hadn't it been for that, I would still be living a normal, peaceful life.
+elara	지구가 더 이상 지구답지 않게 변해 가는 걸 보면서,	And I'd be watching Earth slowly losing its identity.
+elara	투덜거리기만 했을 거야.	Oh, I'd be complaining about it to myself, for sure.
+elara	내가 만들어 낸 그 세균은 사람의 뇌에만 작용해 의식을 파괴해.	Those bacteria I accidentally created destroy a person's mind.
+elara	감염력이 강하고 백신이나 특효약을 개발하기도 어려워.	Their effects can't be stopped or prevented, at least not easily.
+elara	한번 공기 중에 퍼지면 쉽게 제거할 수도 없고.	And once they're unleashed in the atmosphere, it's very hard to remove them.
+elara	우연히 생겨난 그 세균과, 또 함께해 준 동료들 덕분에,	I had those bacteria, and several loyal friends.
+elara	나는 계획을 실행하게 됐어.	It was only because of those things that I could carry out my plan.
+elara	책임을 떠넘기려는 건 아니지만,	I'm not trying to downplay my own responsibility in all of this.
+elara	그 자리에 서 있던 게 내가 아니었더라도,	But I'm sure that even someone else, in my shoes...
+elara	분명 같은 일이 벌어졌을 거라고 생각해.	Would have done the same thing.
+elara	그만큼…… 나처럼 지구가 문화적으로 오염되는 걸 싫어하는 사람이 많았어.	There were just so many people worried about Earth's culture rotting away.
+elara	놀랄 틈도 없을 만큼 일이 일사천리로 진행됐지.	Everything went so smoothly I didn't even have the time to be surprised about it.
+elara	정신을 차리고 보니 그 세균을 배양해서,	Before I noticed, I'd cultivated a huge amount of that bacteria...
+elara	지구에 퍼뜨리고 있었어.	And I spread it all on Earth.
+elara	수많은 사람이 죽었고,	Lots of people died.
+elara	동료들도 죽었고,	Many of my allies got killed.
+elara	나는…… 지구를 빠져나와 멀리 도망쳤어.	And... I ran away from Earth. Far away.
+@story	엘라라와의 대화 3	Conversation with Elara, 3
+elara	지구를 떠나 먼 별에 사는 동료에게 몸을 의탁한 뒤의 생활은 조용했어.	Some allies on a faraway planet took me in. Thanks to them, I got to enjoy peace and quiet.
+elara	한동안은 집 밖으로 나가지 않고 숨어 지냈지.	I barely left the house, as I was still in hiding.
+elara	그러다 몇 년이 지나 아이가 생겼고,	After a few years, I had a child...
+elara	그 뒤로는…… 정말 평범하게 살았어.	And after that... I really went on having a normal life.
+elara	테러 같은 건 없었던 것처럼.	As if I'd never committed a worldwide terrorist attack.
+elara	아이들과 행복한 시간을 보냈어.	Blissful years passed with my children.
+elara	……물론,	Now, to be clear...
+elara	내가 한 일을 잊은 적은 없어.	I never forgot for one second about what I'd done.
+elara	80년 전 그날…… 마지막으로 본 지구의 모습을,	That last look I had at Earth...
+elara	지금도 선명하게 기억해.	I still remember it even now, eighty years later.
+elara	그리고 시간은 순식간에 흘렀어.	But time passes so fast.
+elara	아이들은 훌쩍 자라 독립했고,	My children grew up and left.
+elara	그때의 동료들도 하나둘 먼저 세상을 떠났어.	My allies died before me, one after the other.
+elara	이웃에 사는 사람들 중에는,	Eventually, things changed.
+elara	내가 누군지도 모르는 사람이 많아.	Most people in the neighborhood didn't even know who I was.
+elara	나 자신도 이제 숨어 지낸다는 자각조차 없어.	I didn't feel like a fugitive terrorist anymore.
+elara	그리고 지금……	And now...
+elara	80년 만에 그 별을 떠나 우주선에 타고 있어.	Here I am on a spaceship, having left that planet for the first time in eighty years.
+elara	이제 내게 남은 시간도 길지 않아.	I don't have long left to live.
+elara	마지막으로 한 번만 더──	And I only have one wish left.
+elara	지구를 보고 싶어졌어.	I want to see Earth one last time.
+@story	엘라라와의 대화 4	Conversation with Elara, 4
+elara	우리가 왜 그런 짓을 했는지……	Why we did what we did...
+elara	내 기억을 본 리암한테는 설명할 필요도 없을지 모르지만,	Since you've seen my memories, I probably don't even need to explain this to you.
+elara	우리는 인류의 미래를 걱정하고 있었어.	But we were worried about the future of humanity.
+elara	사람들이 우주 곳곳으로 흩어져 서로 단절되어 가는 것.	People were splitting up and cutting ties with each other.
+elara	독자적인 문화가 생기고 육체마저 달라져서,	On different planets, new cultures were born and even people's bodies were different.
+elara	언젠가는 정말 다른 별의 사람들과 의사소통조차 할 수 없게 되겠지.	We realized that eventually, people from different planets wouldn't be able to communicate with each other. 
+elara	그 결과 행성 안에서 해결할 수 없는 문제가 치명상이 되는 것.	And then, if your planet couldn't manage on its own, you would be doomed.
+elara	점점 쇠퇴하는 것.	We would grow weaker.
+elara	서로 손을 잡을 수 없게 되는 것.	We would become unable to help each other.
+elara	그리고 천천히, 조용히 멸망해 가는 것.	And eventually, we would go extinct.
+elara	그렇게 되지 않게 하려면……	We had to prevent that.
+elara	우리에게는 쐐기가 필요했어.	We needed something to keep us united.
+elara	뒤돌아봤을 때 언제나 변함없이 그곳에 있는 고향.	An unchanging cradle that we could all look back to.
+elara	우리 인류 모두의 기반이 되는 것.	A cornerstone for all of humanity.
+elara	그게 지구였어.	And that was Earth.
+elara	그 시절 지구에는 다른 행성에서 돌아온 사람들이 늘어나고 있었고,	When I lived there, Earth had started changing. There were too many people who had come back from other planets.
+elara	원래 지구에 있던 관습과 문화가 짓눌려 사라지려 하고 있었어.	We were losing our own traditions and culture.
+elara	지구가 지구가 아니게 되어 가고 있었지.	It would soon stop being Earth as I knew it.
+elara	그래서──	That's why...
+elara	우리는 지구에서 사람을 떼어 냈어.	We had to remove people from the equation.
+elara	아무도 살 수 없는 곳으로 만들었어.	We made it uninhabitable to all humans.
+elara	모두의 마음속에 있는 지구를 그 모습 그대로 남겨 두기 위해서.	So that Earth would always be as people remembered it in their hearts.
+@story	엘라라와의 대화 5	Conversation with Elara, 5
+elara	그 공간에서의 나는 사실 굉장히 불안정했어.	When I was inside that dream space, my form was very unstable.
+elara	가끔은 지금 나이의── 할머니가 된 모습으로 눈을 뜨기도 했어.	On some days, I'd wake up in my real body... aged like I am right now.
+elara	그럴 때는 모두에게 숨어서 지나가길 기다렸지.	On those occasions, I'd hide from everyone.
+elara	월터 씨가 봤다는 『여섯 번째 사람』은,	The sixth person that Walter saw...
+elara	분명 그때의 나였을 거야.	That was probably me on one of those days.
+elara	그리고……	And...
+elara	카트리나 씨를 쏜 것도 나야.	It was also me who shot Katrina.
+elara	내가 누구인지── 어떤 사람인지 떠올린 건 비교적 초반이었어.	I actually remembered who I was quite early on.
+elara	그 테러가 일어난 날의 기억을 봤을 때 여러 가지가 떠올랐거든.	When I saw the memory of the terrorist attack, I remembered almost all of it.
+elara	그 기억을 보는 데 필요했던 게 마지막에 리암에게 건넨 헬멧이야.	And the helmet I gave you at the end is what you needed to watch that memory.
+elara	카트리나 씨가 그걸 쓰려고 하길래,	When I saw that Katrina was going to use it...
+elara	나도 모르게 쏴 버렸어.	I instinctively shot her.
+elara	내 정체를 들켜서는 안 된다고 생각해서.	I thought I couldn't let her find out who I really am.
+elara	하지만…… 나쁜 짓을 했어.	But... I feel bad for that.
+elara	사과할 수 있다면 사과하고 싶어.	I wish I could apologize to her.
+elara	리암.	Liam...
+elara	너는 분명 우주의 넓은 구역을 누비는 수사관이겠지.	I imagine that as an investigator, your jurisdiction covers quite a huge wedge of space.
+elara	우주 전체를 누비는 경찰 기관이 생겼다는 이야기는 들어 본 적 없지만.	As far as I know, there isn't any police corps that has jurisdiction over the whole universe.
+elara	지구 테러처럼 큰 사건이면,	But my crime was a terrorist attack on Earth specifically.
+elara	어느 행성에도 속하지 않은 기관이 수십 년 동안 수사를 계속하는 거구나.	Would an organization belonging to another planet, or no specific planet at all, keep looking for the culprit for so many decades?
+elara	……아니면,	Or...
+elara	지구 테러가 있었기 때문에 그런 기관이 생긴 걸까.	Could it be that such an organization exists only because of that terrorist attack?
+elara	…………	...
+elara	……리암은,	Liam.
+elara	내가 테러리스트인지 알아보기 위해,	You made the cryosleep pods malfunction, didn't you?
+elara	냉동 수면 장치에 손을 대 오류를 일으킨 거지.	So you could find out whether I really was a terrorist.
+elara	그리고 내 기억을 봤어.	And then, you managed to see my memories.
+elara	리암이 기억을 바꿔 놓은 수사관이라는 건……	I realized it all before even waking up.
+elara	눈을 뜨기 전에 알아챘어.	I knew you were an investigator with fake memories.
+elara	정작 리암 자신은 몰랐던 것 같지만.	I guess I realized it before even you did.
+elara	……어떻게 할 거야?	So... what comes next?
+elara	나를…… 체포할 거야?	Are you going to arrest me?
+@selection	체포한다	I'll arrest you
+@selection	도망치게 한다	I'll let you escape.
+elara	……그렇구나.	I see...
+elara	그게 리암의 일이니까.	That's your job, after all.
+elara	괜찮아.	It's okay.
+elara	이제 도망치지도 숨지도 않을게.	I won't run or hide.
+elara	너희와 함께 갈게.	I'll come with you.
+elara	…………	...
+elara	내가 저지른 죄를 전부 갚을 수 있다고는 생각하지 않아.	I know that I'll never be able to atone for this.
+elara	그만큼 끔찍한 짓을 했으니까.	What I've done is simply unforgivable.
+elara	셀 수도 없을 만큼 많은 사람을 죽였어.	I've killed too many people to even count.
+elara	전혀 부족하겠지만……	But... I'll at least try.
+elara	내게 남은 시간을 전부 써서 벌을 받을게.	I'll spend what little time I have left doing penance.
+elara	이 우주선에 있는 내 동료들에게도 투항하라고 전할게.	I'll talk with the other members of my group who are on the ship. I'll tell them to surrender.
+elara	우주 곳곳에 흩어져 있는 동료들에게도 전할 거야.	I'll try to tell the same to all the others out there.
+elara	모두가 내 말을 들어 주지는 않겠고,	Of course, I doubt they'll all comply.
+elara	저항하는 사람들도 나오겠지만.	Some will try to resist with force.
+elara	미안해.	Sorry...
+elara	가능한 한 모두가 받아들이도록 노력할게.	I can only promise you that I'll do my best.
+elara	당연한 말이지만,	This goes without saying, but...
+elara	내가 한 일이 옳았다고는 생각하지 않아.	I'm not deluded enough to think I did the right thing.
+elara	사람을 죽이는 일이 정당화될 수는 없고,	There's no excuse for killing people.
+elara	게다가……	And that's not even all...
+elara	지구는 사람이 살 수 없는 별이 됐지만,	I rendered Earth completely uninhabitable.
+elara	그 결과 세상이 더 좋아졌는지도 모르겠어.	Did that make the universe a better place? I'm not so sure.
+elara	내가 한 일은,	I changed things forever.
+elara	처음부터 전부 잘못된 거였겠지.	And I'm not sure I changed them for the better.
+elara	……그렇구나.	Oh.
+elara	그건 왜?	And why would that be?
+elara	동정해서?	You feel for me?
+elara	아니면……	Or maybe...
+elara	…………	...
+elara	하지만 리암.	However, Liam...
+elara	잊지 마.	You need to remember something.
+elara	그건 일시적인 거야.	But it won't last.
+elara	우리조차 서로를 완전히 이해할 수 없어.	Even the two of us can't truly understand one another.
+elara	서로 다른 인생을 살아온 서로 다른 사람이니까.	We're different people, with different pasts.
+elara	……그래도,	But...
+elara	그래도 나를 도망치게 해 주겠다면,	If you still are willing to let me go...
+elara	같이 가자, 리암.	Let's go together.
+elara	마지막으로 한 번만 더,	For one last time...
+elara	지구를── 보고 싶어.	I need to see Earth.
+@story	지구로	To Earth
+elara	나, 그렇게 생각해.	All in all...
+elara	이 배에 타서,	I'm glad I got on this ship.
+elara	리암 일행을 만나서 다행이야.	I'm happy I got to meet all of you.
+elara	조이와 카트리나 씨, 월터 씨.	You, Zoe, Katrina, Walter...
+elara	여러 사람이 살아온 과거를 볼 수 있었어.	I've seen the past of several different people.
+elara	역시……	And, just as I thought...
+elara	우리가 서로 손을 잡는 건 어렵고,	I realized that people can't ever truly see eye to eye.
+elara	그래도 모두 인간이었어.	But at the same time, we're all humans.
+elara	당연한 말이지만.	I know it sounds obvious.
+elara	그리고……	And also...
+elara	이 우주선도 그래.	Well, think about this spaceship.
+elara	리암의 기억은 가짜였고,	Your memories were all fake, sure.
+elara	너는 이 배의 승무원이 아니야.	And you were never a crew member here.
+elara	하지만 이 우주선에 관한 건 진짜였어.	But even in those memories, the ship was real.
+elara	저마다 사정이 있는 사람들이 조금씩 돈을 보태 운항하는 배.	A spaceship transporting people of all kinds with what little money they have.
+elara	출신도 목적지도 모든 게 제각각인 사람들이 우연히 한 배에 타서,	Travelers coming from all places, with different destinations, with almost nothing in common.
+elara	지금 이 순간을 함께 보내고 있어.	And yet, they get to spend a little time together.
+elara	결코 용서받을 수는 없겠지만,	I know I can never be forgiven.
+elara	이 목숨이 다할 때까지 벌을 받을게.	But I'll spend the rest of my life repenting.
+elara	……자, 리암.	Now... Liam.
+elara	너희의 별로…… 나를 데려가 줘.	Bring me with you... to your planet.
+elara	있잖아, 리암.	Liam...
+elara	마지막 부탁이야.	This is my last wish.
+elara	나에게 한 번만 더,	I want to see it one last time.
+elara	지구를 보여 줘.	I want to see Earth.

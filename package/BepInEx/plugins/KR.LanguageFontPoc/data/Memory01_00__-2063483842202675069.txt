@@ -1,0 +1,381 @@
+@story	막내 여동생	Youngest Sister
+<kaya>	언니, 안아 줘.	Sis, pick me up!
+	<zoe>가 일을 마치고 돌아오면 막내 <kaya>가 어리광을 부린다.	As soon as <zoe> came back from work, her youngest sister, <kaya>, would start nagging her.
+	다른 동생들은 모두 잠들었고 깨어 있는 건 <kaya>뿐이었다.	All of her other sisters were already asleep.
+<zoe>	또? 어쩔 수 없네.	Again? What am I going to do with you?
+	<zoe>도 막내에게는 약하다. 어린 동생을 손에 든 인형째 품에 안아 준다.	<zoe> was too fond of <kaya> to refuse, and she picked up her small, light body in her arms, doll and all.
+<kaya>	내일 분수 보러 가고 싶어.	I wanna go see the fountain tomorrow.
+<zoe>	미안, 언니 내일 일해야 해.	I'm sorry. I'm working tomorrow.
+<kaya>	모레는?	And the day after?
+<zoe>	모레도.	I'm working then too.
+<kaya>	그럼 엄마랑 갈래.	I'll go with Mom then.
+###@selection-token	仕事	Work
+<zoe>	엄마도 일하셔.	Mom will be at work too.
+<zoe>	<kaya>, 언니들 말 잘 듣고 착하게 있어야 해.	<kaya>, listen to your older sister and be a good girl, okay?
+<kaya>	……응. <kaya>도 빨리 밖에 나가고 싶어.	Fine...I want to go outside too though.
+<zoe>	……크면 나갈 수 있어.	You can when you're older.
+	<zoe>는 창밖을 바라본다.	<zoe> looked out of the window.
+	별이 보이지 않는다. 이 행성의 거주지는 약 백 가구마다 돔으로 덮여 있다.	She couldn't see the stars. They'd been hidden by the domes over the cities for centuries now.
+	돔은 반투명한 막이라 낮의 햇빛은 통과하지만 별빛은 닿지 않는다.	The domes were transparent enough to let the sun's light in, but not enough to see any stars at night.
+	돔 밖은 이 행성 본래의 대기──맹독성 가스로 가득하다.	Their purpose was to keep out the planet's atmosphere—the highly toxic atmosphere.
+	방독면 없이는 몇 분도 살아남을 수 없다.	Without a respirator, it could kill you in minutes.
+	막내 <kaya>는 아직 그 바깥에 나가 본 적이 없다.	<kaya>, being so young, had never been outside of the dome even once.
+@story	막다른 길	Dead End
+	빨래가 끝나기를 기다리는 동안 <zoe>는 자기 삽을 씻는다.	While she was waiting for the laundry to be done, <zoe> washed her shovel.
+	이미 해가 졌다.	The sun had already set.
+	돔으로 뒤덮인 이 도시에서도 낮인지 밤인지 정도는 알 수 있다.	Even from inside the dome, you could tell whether it was day or night.
+	밤 동안은 휴식 시간이다. 밤은 짧고 몇 시간 뒤면 다시 해가 뜬다.	Nights here offered but a very short rest from work.
+	이 행성에서는 몇 시간마다 낮과 밤이 반복된다.	On this planet, there were only a few hours between sunrise and sunset.
+	해가 뜨고 지는 일이 세 번 반복되는 것을 하루라고 부른다.	By convention, people referred to three such cycles as a single day.
+	지표와 대기를 테라포밍할 수는 있어도 행성의 움직임까지 바꿀 수는 없다.	Humans had managed to terraform the planet, but they couldn't change how fast it rotated.
+	해가 뜨면 <zoe>는 다시 일하러 간다.	When the sun came up, <zoe> would go to work once again.
+	평소 일은 새 돔을 짓는 것이지만, 이날은 긴급하게 다른 돔으로 호출되었다.	She usually worked on building a new dome, but now she had been tasked with emergency repairs on a different, old one.
+	노후화된 돔이 붕괴해 인근 작업자들이 소집되었다.	The dome was starting to fall apart, and they'd called workers from all the neighboring ones to fix it.
+	요즘 이런 일도 늘었다.	Lately, things like that have been happening more and more.
+###@selection-token	老朽化	Deteriorate
+	시설은 어디 하나 성한 곳 없이 낡아 가고 있다. 점검하고 정비할 여유는 어디에도 없다.	All the facilities were old and decaying. There was barely any time to perform inspections and maintenance.
+	새것을 만들면 낡은 것이 무너진다.	As soon as you build a new one, an old one starts breaking.
+	당연한 일인지도 모른다. 하지만 그렇다면 이 궁핍은 영원히 계속되는 걸까.	Maybe it was inevitable. But if so, would the days of constant emergency ever end?
+	해가 떠 있는 동안 줄곧 일하며 어떻게든 자신과 가족을 먹여 살린다.	She had to work for as long as the sun was up just to keep her family fed.
+	아무것도 나아지지 않는다.	Nothing ever improved.
+	막다른 현실과 희미한 체념이 이 행성을 가득 메우고 있다.	There was no hope or ambition to be found on the planet anymore.
+@story	가벼운 목숨	Cheap Lives
+	일을 마치고 돌아오자 복도 구석에 작은 그림자가 드리워져 있었다.	As she was coming back from work, she saw a shadow on the floor of the hallway.
+###@selection-token	倒れて/寝息を立てて/座って/父/飼っていた犬	Lying/Sleeping/Sitting/Father/Pet dog
+	사람이 쓰러져 있었다. 막내 여동생──<kaya>였다.	It was a human body. Her youngest sister, <kaya>, was lying there.
+	녹초가 된 몸으로 <zoe>는 동생을 일으켜 안았다.	<zoe> forced her tired body to pick up her little sister.
+	얼마나 오래 여기 있었던 걸까.	How long had she been lying there?
+	다른 누구도 이곳을 지나가지 않았던 걸까.	Had anyone else passed through the hallway?
+	아마 지나가지 않았을 것이다.	Probably not.
+	오늘은 엄마도 동생들도 모두 일하러 나가 <kaya>가 혼자 집을 지키는 날이었다.	Her mother and all the other sisters had been working today,  and <kaya> was the only one left at home.
+	<kaya>는 사흘 전부터 열이 났다. 그래도 아무도 곁에 남아 줄 수 없었다.	She had been running a fever for three days now, but nobody could afford to stay home to look after her.
+	<zoe>는 평소보다 세 시간 일찍 집으로 돌아왔다.	All <zoe> could do was to come back from work three hours earlier than normal.
+	하지만 이미 늦었다.	But it hadn't been enough.
+	가장 어린 막내의 작은 몸은 이미 차갑게 식어 있었다.	Her little sister's body was already cold.
+	<kaya>는 그날 바로 뒤편 묘지에 묻혔다. 가족끼리만 치른 작은 장례식이었다.	<kaya> was buried that very day, with a small funeral that only her family took part in.
+	<zoe>는 마지막으로 품에 안았던 동생의 몸을 떠올린다.	<zoe> remembered how <kaya>'s body felt in her arms.
+	차가웠다. 하지만 그만큼 <zoe>의 마음도 차갑게 식어 있었다.	It was as cold as ice. But so was <zoe>'s heart.
+<zoe>	<kaya>……	<kaya>...
+	눈물은 한 방울도 흐르지 않았다.	She didn't shed a single tear.
+	죽음은 너무나 일상적인 일이었다.	Death was just too normal, too familiar.
+	올해 들어 동생이 죽은 것은 벌써 세 번째였다.	In that single year, she had already lost three little sisters.
+	도시를 뒤덮은 돔 밖은 독가스로 가득하다.	Outside of the domes protecting the cities was highly toxic gas.
+	돔 안의 대기도 충분히 정화되었다고 할 수 없다. 어린아이들은 자주 몸이 아프다.	The atmosphere inside the domes was purified, but only to an extent. Young children would often get sick from it.
+	올해는 앞으로 몇 명이나 더 죽을까.	She wondered how many more deaths she would have to see before the end of the year.
+	묘지도 이제 곧 가득 차겠네──<zoe>의 생각은 이미 싸늘하게 식어 있었다.	<zoe> found herself concerned with the most practical of matters. Soon, they'd run out of space in the graveyard.
+@story	처음 만난 남자아이	First Boy
+man	저기, 너……	Excuse me...
+	전철 안에서 누군가 말을 걸어왔다.	Someone called out to her in the train.
+	드문 일이었다. 튜브 안을 달리는 열차는 언제나 고요했다.	That was a rare occurrence. The cabins on the pipe-system trains were usually dead silent.
+	게다가 그 목소리는 낮고 부드러우며, 황야처럼 탁 트인 울림이 있었다.	The voice was deep, gentle, and had a strange vastness to it.
+	말을 건 것은 십 대 중반의 남자아이였다.	It belonged to a young man in his teens.
+	<zoe>에게 남자와 말을 나누는 것은 처음이었다.	<zoe> had never spoken with a man before.
+<zoe>	어, 저. 네……	Uh, huh? Y-Yes?
+man	여기로 가고 싶은데…… 이 열차가 맞아?	I'm trying to get to this place... Am I on the right train?
+###@selection-token	翻訳	Translation
+	그의 목소리는 자동 번역기가 <zoe>가 알아들을 수 있는 언어로 바꿔 준다.	The automated translation device changed the man's words into ones that <zoe> could understand.
+	번역기는 음성까지 재현해 주지만, 그래도 본래 목소리로 들리는 말의 울림이 더 아름답다고 생각한다.	The device also read the translation aloud, but <zoe> liked the man's real voice better.
+<zoe>	보여 줘…… ……응, 맞아. 다음 역에서 내리면 금방일 거야.	Let me see... Yes, it's the right one. If you get off at the next station, it should be a short walk from there.
+man	그렇구나. 고마워. 어제 막 도착했거든.	Oh, perfect. Thank you. I just arrived here yesterday, see.
+<zoe>	다른 행성에서?	From another planet?
+<zoe>	왜…… 그, 너 같은 사람이 이런 외진 곳에 온 거야?	Sorry, but, why would... someone like you come to a planet like ours?
+	번역기의 모델과 옷차림만 봐도 그가 부유하다는 것을 알 수 있다.	From his clothing and the model of translation device he was using, she imagined that he was a wealthy man.
+	그리고──이 행성에서는 여자만 태어난다.	More importantly, men were never born on this planet. Only women.
+man	아버지 일 때문에. 나는 할 일이 없어서 조금 구경이나 해 볼까 하고.	I'm just tagging along with my dad, who's here for work. I have nothing to do, so I thought I'd go sightseeing.
+<zoe>	이 행성에 구경할 데가 있기는 해?	Are there even "sights" on this planet?
+man	있지. 밖에서 온 나한테는 도시가 돔으로 둘러싸여 있는 것조차 신기해.	Sure. For me, even the domes covering the cities are interesting.
+man	보통은 대기를 전부 정화하잖아. 왜 이 행성은 그렇게 안 하는 걸까.	Other planets just purify the whole atmosphere, right? It's weird that they wouldn't do that here.
+<zoe>	그렇구나……	I see...
+<kushana>	난 <kushana>야. 너, 이 행성 사람이 맞지?	By the way, my name is <kushana>. You're from this planet, right?
+<kushana>	괜찮으면 안내해 주지 않을래? 조금 이르긴 하지만 점심은 내가 살게.	Would you show me around? It's a bit early, but I'll buy you lunch.
+<zoe>	나는…… <zoe>.	My name is... <zoe>.
+<zoe>	미안하지만 이제 일하러 가야 해.	And sorry, but I have to go to work.
+<kushana>	그렇구나, 아쉽네. 그럼 다음에.	Oh, that's a shame. Maybe another time then.
+	그렇게 말하며 웃는 <kushana>를 보고 <zoe>는 어째선지 시선을 피하고 말았다.	As <kushana> said that with a smile, <zoe> did her best not to stare at his face.
+@story	첫 입맞춤	First Kiss
+<kushana>	입에 맞으려나. 내가 있던 행성에서 가져온 거야.	I brought this from my planet. I hope you'll like it.
+	처음 <kushana>를 만난 지 며칠 뒤,	It had only been a few days since <zoe> had first met <kushana>.
+	<zoe>는 어쩌다 보니 그와 식탁을 사이에 두고 마주 앉아 있었다.	Now, somehow, they were sitting together over a dining table.
+	그것도 책에서나 본 듯한 아주 고풍스러운 방이었다.	It was an old-fashioned room as you'd see in books.
+	이 행성에 이런 곳이 있는 줄은 몰랐다.	She didn't even know that a room like this one existed on her planet.
+###@selection-token	星庁	Planetary Palace
+	성청에 있는 귀빈 접대용 시설일 것이다. <zoe>가 살아가는 세계와는 너무나 동떨어진 곳이었다.	It probably was a place to host foreign visitors in the Planetary Palace. Something very far from <zoe>'s everyday life.
+	갑자기 끌려오다시피 한 탓도 있어 꿈을 꾸는 듯한 기분이었다.	It was like a dream to her,  and the fact that the invitation was so unexpected only added to it.
+<zoe>	<kushana>, 어떻게 나를 찾았어? 집까지 찾아오고……	How did you find me, <kushana>? You just showed up at my home...
+<kushana>	잘 모르겠는데, 담당자한테 물어보니까 알려 주던데. 오늘 네가 쉬는 날이라는 것도.	Oh, I just asked one of the staff here, and they told me. They also told me you'd be off work today.
+<zoe>	어떻게 그런 걸…… 뭐, 됐어. 왜 나를 데려온 거야?	But how... Never mind. Why did you invite me here?
+<kushana>	왜냐니. 저번에 다음에 또 보자고 했잖아?	Why not? I did tell you, "maybe another time," didn't I?
+<kushana>	<zoe>가 먼저 찾아오질 않으니까 내가 불러 버렸지.	Since you weren't looking for me, I just started looking for you instead.
+<zoe>	나, 난 그냥 인사치레인 줄 알았어……	I didn't think you actually meant that...
+<kushana>	내가 폐 끼쳤어?	Did I inconvenience you?
+<zoe>	민폐…… 그런 건 아닌데.	You... No, you didn't.
+<kushana>	그렇구나. 다행이다.	That's nice to hear.
+	<kushana>는 자리에서 일어나 테이블을 쓸어 보며 걸었다.	<kushana> stood up and started walking around the table, running his hand along it.
+	그리고 천천히 <zoe> 옆에 앉았다.	And then, he sat down next to <zoe>.
+<kushana>	너에 대해 더 알려 줘.	I want to know more about you.
+	그는 <zoe>의 뺨에 손을 대는가 싶더니 짧게 입을 맞췄다.	He put his hand on <zoe>'s cheek, and the next moment, he was kissing her.
+@story	과일	Fruit
+<kushana>	이거 <zoe> 줄게.	Here, <zoe>. It's for you.
+	<kushana>가 건넨 것은 무언가의 씨앗이었다.	<kushana> handed her some kind of seeds.
+<zoe>	이게 뭐야?	What's this?
+<kushana>	전에 있던 행성에서 가져왔어.	I brought them over from my planet.
+<kushana>	잘 키우면 달콤한 과일이 열려. 먹을 게 없을 때 먹으면 좋잖아.	If you can raise them right, they grow sweet fruit. Useful when you have nothing else to eat, right?
+<zoe>	……그거 합법이야?	Is this... legal?
+<zoe>	다른 행성에서 동물이나 식물을 가져오면 안 된다고 들었는데.	I heard you can't bring in animals or plants from other planets.
+<kushana>	어, 그래?	Really?
+<kushana>	글쎄. 뭐, 괜찮지 않을까?	I'm not sure, but, heh, it's probably fine.
+	이럴 때 보이는 <kushana>의 낙천적인 태도가 <zoe>는 무섭다.	<zoe> was genuinely scared of how optimistic <kushana> could be.
+<zoe>	……게다가 아마 이 행성에서는 자라지 않을 거야.	Well... They probably won't grow here anyway.
+###@selection-token	ドーム	Domes
+	돔 밖은 물론이고 돔 안이라 해도 이 행성의 대기는 식물이 자라기에 적합하지 않다.	The atmosphere outside the domes was highly toxic, but even inside of them, it wasn't really conducive to growing plants.
+	게다가 돔 안의 토양도 오염되어 있다.	And it wasn't just the atmosphere. The soil inside the domes was contaminated too.
+	이 행성에서 살아갈 수 있는 식물은 거의 없다.	There barely were any plants growing on the planet.
+<kushana>	에이. 그렇구나.	Aw... Shucks.
+<kushana>	<zoe>도 먹어 봤으면 했는데. 엄청 달아.	I really wanted you to try them. They're super sweet.
+<zoe>	뭐, 먹어 보고 싶기는 하지만.	Yeah, I wish I could.
+<kushana>	<zoe>는 이 행성 밖으로 나가 보고 싶다는 생각 안 해?	Don't you want to try going to other planets?
+<zoe>	……<kushana>는 여러 행성에 가 본 적 있지?	You've been to a bunch of them, right?
+<kushana>	응. 부모님이 그런 일을 하시거든.	Right. 'Cause my dad's always traveling for work.
+<zoe>	나는…… 글쎄.	As for me...
+<zoe>	잘 모르겠어. 가 보고 싶은 것 같기도 해.	I'm not sure. I guess I wouldn't mind trying.
+<zoe>	하지만…… 여기에는 가족이 있고.	But... my whole family is here.
+<kushana>	그럼 다 같이 가면 되잖아?	Can't you just bring them along?
+<zoe>	그렇긴 한데…… 음.	I guess so, but... Hmmm...
+	<zoe>는 자신의 마음을 제대로 말로 표현할 수 없다.	<zoe> couldn't quite put what she was feeling into words.
+@story	적응 처치	Adaptation Procedure
+	<kushana>의 연락을 받고 <zoe>는 돔 외곽에 있는 가게에서 그를 기다리고 있었다.	<kushana> had invited <zoe> to a shop near the edge of the dome, and she sat there alone, waiting for him.
+	이 가게 창문에서는 돔의 출입구가 잘 보인다.	You could clearly see outside the dome from the windows.
+	공기의 출입을 최소화하는 이중문식 에어록이 있고, 가끔 사람이나 차량이 드나든다.	An airtight double door kept contamination to a minimum, sometimes opening for people and vehicles to pass through.
+	마침 지금도 문이 열렸고, 할 일 없이 기다리던 <zoe>는 그쪽을 바라봤다.	<zoe>, having nothing better to do, was looking at it slide open.
+	마침 <kushana>가 들어오고 있었다.	And the one to walk through it was <kushana>.
+	<zoe>는 깜짝 놀랐다.	<zoe> was shocked to see him.
+	그는 맨얼굴이었다. 마스크도 아무것도 쓰지 않았다.	He was completely bare-faced. No respirator, no nothing.
+	<kushana>는 그대로 <zoe>가 기다리는 가게로 들어왔다.	Just like that, he walked into the shop.
+<kushana>	……아, <zoe>!	Oh, <zoe>!
+	그렇게 부르며 <kushana>는 <zoe>의 맞은편에 앉았다.	After greeting her, he took the seat in front of her.
+<zoe>	……<kushana>, 마스크는?	<kushana>... What about your respirator?
+<kushana>	마스크?	Respirator?
+	어디에도 마스크가 보이지 않았다.	She couldn't see one anywhere on him.
+	에어록 안에서 벗었다고 해도 보통 마스크는 주머니에 들어갈 만한 크기가 아니다.	Even if he'd removed it right before going through the airtight doors, respirators weren't small enough to fit in one's pocket.
+<kushana>	아아.	Oh, those...
+<kushana>	근데 너희는 왜 마스크 같은 걸로 몸을 보호하는 거야?	You people use respirators to protect yourselves?
+<zoe>	……뭐?	Huh...?
+<kushana>	계속 궁금했거든.	I'd been meaning to ask about that.
+<kushana>	뭔가 이유가 있나 해서.	Like, why bother with respirators?
+<kushana>	오래 밖에 있으면 위험하다거나?	Is it dangerous if you breathe in the air for too long, or...?
+<zoe>	<kushana>는 괜찮아? 밖에서……	Are you... fine? Just breathing outside?
+<kushana>	괜찮아.	Yeah, I'm fine.
+###@selection-token	適応処置	Adaptation Procedure
+<kushana>	이 행성에 내려오기 전에 적응 처치를 받았으니까.	I did that whole adaptation procedure before entering the planet.
+<zoe>	적응 처치……?	Adaptation procedure?
+<kushana>	응. 행성 밖에서 오는 우리는 어느 행성에 가든 반드시 받아.	Yup. We always do that before going to a new planet.
+<kushana>	그 행성 특유의 병원균이나 독소를 견딜 수 있게 백신이나 나노로봇을 몸속에 넣는 거야.	Vaccines, nanobots, the whole shebang. Gotta protect ourselves from that world's diseases, poisons, and whatnot.
+<zoe>	……마스크 없이 밖을 걸어도 괜찮은 거야?	And that lets you walk outside without a respirator?
+<kushana>	그러니까 그렇다고 했잖아.	Yeah, that's what I'm saying.
+	아무렇지도 않다는 듯 <kushana>는 말했다.	<kushana> spoke as if all he was saying was incredibly obvious.
+@story	약물	Drugs
+	<kushana>가 사람 없는 곳에 가고 싶다고 했다.	<kushana> said that he wanted to go someplace quieter.
+	한참 고민한 끝에 <zoe>는 도시 외곽의 코인 세탁소로 왔다.	After thinking about it long and hard, <zoe> settled on a coin laundry near the edge of the city.
+	다른 곳보다 시설은 낡았고 가격도 비싼 이 가게를 이용하는 손님은 적다.	It somehow was both run-down and expensive, and so had very few customers.
+	게다가 이 시간이라면 아무도 없을 것이다──<zoe>의 예상대로 가게 안에는 손님이 없었다.	In particular, she expected the place to be completely empty at this time of the day, and she was right.
+	돈을 쓰기가 그렇게 아까운지 감시 카메라도 없다.	The owners cared so little about the place that they hadn't even installed security cameras.
+<zoe>	여기서…… 뭐 하려고?	So... what did you want to do here?
+<kushana>	일단 저기 앉자.	For starters, sit down.
+	두 사람은 빛바랜 의자에 앉았다. 끼익, 하고 불쾌한 소리가 났다.	The old, discolored chairs squeaked as <zoe> and <kushana> sat on them.
+###@selection-token	ポケット/引き出し/天井裏/コンピュータ/ロケット	Pocket/Drawer/Attic/Computer/Rocket
+	<kushana>가 주머니에서 꺼낸 것은──은색 주사기였다.	Then, <kushana> took something out of his pocket. It was a silver-colored syringe.
+<zoe>	……그거 뭐야?	What's this?
+<kushana>	보면 알잖아.	Exactly what it looks like.
+	<kushana>는 설명하지 않았다.	<kushana> didn't give her any explanation.
+	그는 셔츠 소매를 걷고 자신의 팔에 바늘을 찔러 넣었다.	He rolled up his sleeve and pushed the needle into his arm.
+	<kushana>가 크게 숨을 내쉰다.	He let out a big, long sigh.
+	그게 무엇인지 <zoe>도 알 수 있었다.	<zoe> knew well enough what it was.
+<kushana>	<zoe>도 할래?	Want to join me?
+<zoe>	……안 할래.	No.
+<zoe>	그거…… 괜찮은 거야?	Can you just... do that?
+<kushana>	괜찮아.	Yeah, sure.
+<kushana>	이 행성에서는 어떤지 모르겠지만, 흔하게 유통되는 행성도 있어.	I don't know about here, but there are lots of planets where it's perfectly normal.
+<kushana>	부모님이 하지 말라고 해서 집에서는 못 하거든.	I just can't do it at home because my parents don't want me to.
+<kushana>	<zoe>도 하자.	C'mon, <zoe>. Try it.
+<kushana>	기분 좋아.	It feels great.
+<zoe>	…………	...
+<zoe>	……싫어.	I don't want to...
+	<zoe>는 설명할 수 없는 혐오감을 느낀다.	<zoe> felt a kind of disgust she couldn't explain.
+	그래도 그의 곁에서 떠나고 싶다는 생각은 들지 않는다.	And yet, she didn't even think of leaving <kushana>'s side.
+@story	사진	Photographs
+	네가 사는 집을 보고 싶어──	I want to see your house.
+	<kushana>가 그렇게 말해서 <zoe>는 그를 집으로 초대했다.	<zoe> promptly complied with <kushana>'s request.
+	그날은 가족들이 모두 외출해 있었다.	The rest of her family wasn't home that day.
+	부끄러움을 견디며 <zoe>는 집 문을 열었다.	Fighting with embarrassment, <zoe> opened the door.
+	잠자는 곳과 식사하는 곳 말고는 거의 아무것도 없는 집.	Except for the places where they sleep and eat, the house is mostly empty.
+	부유한 그의 눈에는 초라하게 보일 것이다.	She imagined that to a man as wealthy as him, it must have been the image of poverty.
+	하지만 <kushana>는 깔보거나 비웃지 않았다.	But <kushana> didn't make fun of her house in any way.
+<kushana>	여기서 네가 살고 있구나.	So this is where you live.
+<zoe>	……응.	Yes...
+	<zoe>는 그게 기뻤다.	<zoe> felt relieved.
+	테이블 위에 놓인 낡은 카메라를 집어 든다.	She picked up the old camera on the table.
+###@selection-token	写真	Picture
+<zoe>	있잖아. 사진 찍을래?	Say... why don't we take a picture?
+	돌아가신 이모에게 물려받은 것이었다.	That camera once belonged to her late aunt.
+<kushana>	……그만둘래.	Let's not.
+<kushana>	집에서 몰래 빠져나와 너랑 같이 있는 게 들키면 혼나거든.	If word gets out that I'm sneaking out of the house to meet you, I'd be in trouble.
+<zoe>	……그래?	Really...?
+<kushana>	공부 같은 거, 사실 해야 할 일이 여러 가지 있어.	There's stuff I'm supposed to be doing. Homework and such.
+<kushana>	그걸 전부 내팽개치고 이렇게 너랑 있는 거야.	But I'd rather be here with you.
+<zoe>	……왜?	Why?
+<kushana>	그런 건 알고 있잖아.	Do I really need to tell you?
+	자신도 모르게 입가가 풀리는 게 느껴진다.	<zoe> could feel a smile forming on her lips.
+	이런 기분은 처음이었다.	She had never felt like this before.
+	처음이라서 어떻게 해야 할지 <zoe>는 알 수 없다.	And she didn't know what to make of this entirely new feeling.
+<kushana>	있잖아, 이건 뭐야?	What's this, by the way?
+	흥미로운 듯 이것저것 묻는 <kushana>의 옆얼굴을 계속 바라보고 싶다고 생각한다.	<kushana> looked around with curious eyes, and she wished she could keep looking at him forever.
+@story	불법 이민자의 아이	Child of Illegal immigrants
+	더러워진 옷을 전부 집어넣고 세탁기를 돌린다.	She put all the clothes in the machine and turned it on.
+	세탁실 안은 언제나 숨이 막힐 정도로 세제 냄새가 가득하다.	The laundry room itself always smelt of detergent.
+	세탁이 끝날 때까지 멍하니 있는다. <zoe>는 이 시간을 좋아했다.	She loved sitting there, spacing out while the laundry machine did its work.
+	진한 세제 냄새조차 새 돔을 건설하는 작업장보다는 훨씬 낫다.	And even the sickeningly sweet smell of the detergent was much better than the dome construction sites.
+	물론 밖에서는 어떤 냄새도 느낄 수 없다.	Of course, there was no smell to speak of outdoors.
+	항상 마스크를 쓰고 있지 않으면 몇 분도 지나지 않아 죽고 만다.	If she took off her respirator, she would die within minutes.
+	유독가스로 가득한 행성. 두꺼운 마스크와 돔 없이는 살아갈 수 없는 행성.	It was an inhospitable planet, with a toxic atmosphere that one could barely keep at bay with domes and respirators.
+	<zoe>의 조상들도 좋아서 이 행성에 정착한 것은 아니었다.	People didn't come to live here out of choice.
+###@selection-token	移民	Immigrants
+	<zoe>의 조상은 원래 불법 이민자였다.	<zoe>'s ancestors were illegal immigrants.
+	살던 행성에서 쫓겨나 우주를 떠돌다 도착한 곳이 이 행성이었다.	They'd been exiled from their own planet, and wandered through space until they finally ended up here.
+	이 행성에는 아주 오래전에 지어진 뒤 오랫동안 방치된 작은 관측소가 있었다.	They found a small abandoned observatory on the planet.
+	처음에는 그곳에 정착했고, 그 뒤로 거주지를 늘려 갔다.	They took up residence in it and slowly expanded the area they inhabited.
+	가혹한 행성이었지만 달리 갈 곳이 없었다.	It was a harsh environment, but they had no alternative.
+	행성 전체를 테라포밍할 설비도 자금도 없었다. 행성의 거주권조차 사들일 수 없었다.	They didn't have the money and resources needed to terraform it, and they couldn't even buy residence permits.
+	그 뒤 세대가 바뀌어 최초의 이주민은 이제 한 명도 살아 있지 않다.	Many years had passed since then, and all the original settlers were long dead.
+	지금도 불법 점거인 채 흐지부지 넘어가며 <zoe> 일행은 살아가고 있다.	Their presence was still illegal, and their means still limited.
+	여성만으로 이루어진 일족이지만 아이만큼은 많이 태어났다.	There were only women in <zoe>'s family tree, but they all had many children.
+	그러지 않으면 현상 유지조차 할 수 없다. 어린아이들까지 일하게 하며 간신히 살아가고 있다.	Children were a necessity. Without that young labor, surviving would have been impossible.
+	나도 언젠가는 아이를 낳게 될까, <zoe>는 생각한다.	<zoe> wondered about whether, if not when, she'd have children of her own.
+	이 약을 맞으면 아이가 생긴다──	A single injection, and she'd get pregnant.
+	그런데도 어째서인지 <kushana>라는 남자아이의 얼굴이 머릿속을 스친다.	And as she wondered this, somehow, the face of the boy called <kushana> kept popping up in her head.
+@story	수명	Old Age
+	<kushana>의 연락을 받고 찾아온 곳은 의회실이었다.	<kushana> called her and invited her to a council room.
+	이 행성에 의회 같은 게 있었던가.	She was surprised to find out there was anything resembling a council on this planet.
+	그와 만나는 것은 이번이 네 번째였다.	This was the fourth time they had met.
+<zoe>	괜찮아? 이런 데 마음대로 들어와도?	Can we really go in here without permission?
+<kushana>	괜찮아. 지금은 안 쓰는 것 같고.	It's fine. Nobody's using it.
+	<kushana>의 말대로 테이블마다 먼지가 쌓여 있었다. 오랫동안 사용하지 않은 모양이다.	The dust on the table lent credibility to <kushana>'s words. The room looked like it hadn't been used in a long while.
+<kushana>	<zoe>, 오늘은 평소랑 다른 냄새가 나네. 흙냄새인가?	You smell different, <zoe>. What is it? Soil?
+	그가 얼굴을 가까이 가져온다. <zoe>는 왠지 모르게 몸을 피한다.	He brought his face closer, and she instinctively flinched back.
+@selection-token	叔母さん/飼い猫/死体/仕事/夢	Aunt/Cat/Corpse/Job/Dream
+<zoe>	아까까지 이모 장례식이었어.	I was attending my aunt's funeral.
+<zoe>	다 같이 묻어 드렸으니까, 그때 묻은 냄새일지도.	It must be from when we all dug up her grave together.
+<kushana>	그렇구나. 이런 때 불러내서 미안한 짓을 했나.	I see. I'm sorry. I shouldn't have invited you at a time like this.
+<zoe>	별로……	I don't mind...
+<kushana>	그렇게 친한 분은 아니었어? 이모는 몇 살이었는데?	Weren't you close? How old was she?
+<zoe>	스물여덟 정도였나.	28, I guess?
+<kushana>	젊네. 병이었어? 아니면 사고?	That's so young. Was she sick? Or was it some kind of incident?
+<zoe>	평범해. 수명 아니야?	No, she just died. That's age.
+<kushana>	수명……?	Age...?
+	이 행성에서는 어른이 대개 서른 즈음이면 갑자기 몸이 나빠져 목숨을 잃는다.	On her planet, people usually became ill and died around 30 years of age.
+	<kushana>의 반응을 보니 바깥에서는 평범한 일이 아닌 모양이다.	But judging by <kushana>'s reaction, that was not the case elsewhere.
+	독가스 때문일지도 모른다고 <zoe>는 생각한다.	<zoe> realized that it probably was the gas's fault.
+<zoe>	너도 그 정도 나이에 죽게 되는 걸까.	I worry you'll die that young too.
+	<kushana>가 <zoe>의 허리에 팔을 두른다.	<kushana> put his hand around <zoe>'s back.
+	어른이 되면 죽는다──그게 당연한 일이라고 <zoe>는 생각한다.	You become an adult, and then you die. For <zoe>, that was an obvious fact of life.
+@story	기계 귀	Mechanical Ears
+	눈을 떴을 때 천장이 너무 멀리 있어 시야가 일그러져 보였다.	When she woke up, the ceiling was so high above her that she doubted her own eyes.
+	여기가 어디인지, 자신이 왜 이곳에 있는지 알 수 없었다.	She had no idea where she was, or what had happened.
+	마지막으로 기억나는 것은 드릴로 땅에 구멍을 뚫고 있던 광경이었다.	The last thing she remembered was how she was on a construction site, drilling through the ground.
+	한동안 지나서야 계속 느껴지던 위화감의 정체를 깨달았다.	After a while, she realized why she felt so weird.
+###@selection-token	耳	Ears
+	귀가 들리지 않았다.	Her ears weren't working.
+	병실인 것 같다는 건 알았지만 이상할 만큼 조용하다고 생각했다.	She had noticed that she was in a hospital room, but it was unnaturally quiet.
+	조용한 게 아니었다. 양쪽 귀에 둔한 통증이 있었다.	Except it wasn't really quiet at all. And she could also feel a dull pain in both of her ears.
+<zoe>	아……	Aaah...
+	자신이 낸 목소리조차 예전처럼 들리지 않았다.	She tried speaking, and her voice didn't sound right either.
+	그제야 사고를 쳤다는 걸 알았다.	That is when she realized she had made a terrible mistake.
+	나중에 의사가 찾아와 글로 상황을 알려 주었다.	Later on, a doctor arrived and explained her situation in writing.
+	작업 현장에서 가스를 들이마시고 의식을 잃었다는 것.	She had accidentally breathed in some gas at work and lost consciousness.
+	목숨은 건졌지만 양쪽 귀의 청력을 잃었다는 것.	Thankfully, she had survived, but she had lost her hearing.
+	청력을 재생하는 수술을 받을 돈은 없었다.	The surgery to reconstruct her inner ears was too expensive for her to afford.
+	하지만 귀가 들리지 않으면 일도 제대로 할 수 없다. 동생들을 먹여 살릴 돈을 벌어야 한다.	However, she couldn't afford being deaf either. She needed to work and earn enough to feed her sisters.
+	가장 저렴한 방법은 기계 귀를 다는 것이었다.	The cheapest solution was to have mechanical ears implanted.
+	<zoe>는 수술을 받고 구시대적인 기계 귀를 달았다.	They were too old-fashioned to really count as "prosthetic" ears.
+	설마 부주의로 가스를 마시게 될 줄이야──<zoe>는 자조적으로 웃는다.	<zoe> couldn't help but laugh at herself for her own carelessness.
+	하지만 그 이유는 알고 있었다.	But she knew why she'd ended up breathing in the gas.
+	그날 이후 자나 깨나──	After that day, in each and every waking hour of her life...
+	<kushana>의 다정한 목소리가 머릿속에 울리고 있다.	<kushana>'s kind voice would constantly echo through her mind.
+@story	여자들만의 행성	A Planet of Women
+	한동안 <kushana>에게서 연락이 오지 않았다.	A few days passed without any contact from <kushana>.
+	연락은 언제나 그쪽에서 일방적으로 왔다. <zoe> 쪽에서 연락할 방법은 없었다.	<zoe> could only wait, as she had no way to contact him herself.
+	컴퓨터에 남은 수신 기록에서도 발신자 정보는 사라져 있었다.	Even the sender's information had disappeared from the message she'd received from him on her computer.
+	2주가 지났을 무렵, <zoe>는 참다못해 성청에 몰래 들어갔다.	After two weeks, unable to resist, she snuck into the Planetary Palace.
+	<kushana>와 이야기를 나눴던 장소들을 몇 군데 돌아다녔다.	She looked in various places she'd been with <kushana> before.
+	어디에도 아무도 없었다.	But she couldn't find him.
+	우연히 <kushana>와 함께 있을 때 마주친 직원을 발견했다. 상대도 <zoe>를 기억하고 있었다.	She happened to run into one of the staff she'd met while she was with <kushana>, and she remembered <zoe> too.
+	그녀에게 물어──	She asked the staff about him.
+	<kushana> 일행이 이미 이 행성을 떠났다는 것을 알게 되었다.	And she found out that <kushana> and his family had already left the planet.
+	의문은 없었다. 화도 슬픔도 솟아오르지 않았다.	There was no question in her mind, no anger, not even sadness.
+	처음부터 그들과는 사는 세계가 달랐다.	They'd always belonged to different worlds.
+###@selection-token	暇つぶし	A way to kill time
+	자신은 잠깐의 심심풀이 상대였을 뿐이라는 걸 <zoe>는 깨달았다.	<zoe> realized she'd never been anything more than a way to kill time to him.
+	태어나서 처음으로 이야기를 나눈 남자아이였다.	She'd never talked to a boy before meeting him.
+	이제 두 번 다시 만날 일은 없을 것이다.	And most likely, she'd never talk to another one thereafter.
+	그들은 지금쯤 분명 우주선을 타고 다른 행성으로 향하고 있을 것이다.	He was probably on a spaceship right now, travelling to a planet far away.
+	이 행성 밖에는 어떤 세계가 있을까.	She wondered what other planets there were out there.
+	지금껏 생각해 본 적 없는──생각하지 않으려 했던 의문이 떠올랐다 사라진다.	And then, she started wondering about that question she had avoided thinking about for so long.
+	왜 이 행성에서는 여자아이만 태어나는 걸까?	Why are only women born on this planet?
+	왜 어른들은 서른이 되면 죽는 걸까?	Why do people die at thirty?
+	왜 약으로 아이를 갖는 걸까?	Why does everyone use drugs to get pregnant?
+	그에게 물었다면 알려 주었을까.	Maybe, had she asked, he would have had answers to those questions.
+	그와의 추억은 기억 속에만 있다. 사진 한 장조차 남아 있지 않다.	But now, all she had were her memories of him. She didn't even have a single picture.
+	<zoe>는 혼자 집으로 돌아갔다.	<zoe> went back home, all by herself.
+@story	이민자의 후예	Immigrant Descent
+	다시 한번 <kushana>를──남자아이를 만나고 싶다.	She wanted to see <kushana>, that boy, once again.
+	<zoe>는 아무도 없는 방에서 임신약 카트리지를 쥐고 있었다.	<zoe> was alone in an empty room, a pregnancy cartridge in her hand.
+	이걸 배꼽 아래에 주입하면 아이가 생긴다.	She just needed to inject it under her navel, and she'd have a baby.
+	여자밖에 없는 이 행성에서는 이것이 임신할 수 있는 유일한 방법이었다.	In this planet of only women, it was the only way to become pregnant.
+###@selection-token	年齢/料理/ガスマスク/時代/素材	Old/Cooking/Respirator/Era/Ingredient
+	이제 아이를 가져도 될 나이일 텐데. 하지만 어머니는 아무것도 가르쳐 주지 않는다.	She believed she was more than old enough to have a baby, but her mother wouldn't tell her anything about it.
+	이 약으로 남자아이가 태어나는 일은 없는 걸까. 그렇다면 왜?	She wondered whether the cartridge could produce male babies. And if so, why.
+	얼마나 그렇게 있었을까.	She also wondered how much it had cost.
+	이윽고 방으로 어머니가 들어와 주사기를 빼앗았다.	Eventually, her mother walked into the room and took it from her.
+	어머니는 울고 있었다.	She was crying.
+<zoe>	……있잖아, 엄마.	Mom...
+<zoe>	왜 이 행성에는 여자아이밖에 없어?	Why are there only girls on this planet?
+	물어도 대답해 주지 않는다.	She didn't answer.
+	대신 어깨를 감싸 안아 준다.	Instead, she just grabbed <zoe>'s shoulders.
+mother	<zoe>, 넌 아이 같은 거 낳지 않아도 돼.	<zoe>. You don't need to have babies.
+mother	이제 지긋지긋해…… 이런 건.	I don't want this to go on any longer.
+	어머니가 무슨 말을 하는지 <zoe>는 이해한다.	<zoe> could tell what her mother meant.
+	이 가혹한 행성에서 살아가기 위해 사람들은 아이를 낳고, 일을 시키며 살아남아 왔다.	Women kept having babies and making them work just to survive on this inhospitable planet.
+	이 행성에서 사람의 목숨은 너무나 가볍다. 아이도 어른도 금세 죽어 간다.	Life mattered little here. Both adults and children died as if it were nothing.
+	아무리 돔을 지어도 대지는 끝없이 이어진다. 독가스는 어디에나 가득하다.	You could build all the domes you wanted, but the toxic atmosphere was too large to ever be contained in its entirety.
+	목숨을 이어 가 봐야 그곳에는 영원히 계속되는 지옥만 있을 뿐이었다.	The longer you survived, the longer you'd have to endure it all.
+	조상들이 이 행성에 이주한 지 백여 년. 그 후손들의 마음은 이미 지쳐 있었다.	Their ancestors had first moved there around a century ago. Generations later, they were all just too tired.
+	어쩌면 <zoe> 일행이 마지막 세대가 될지도 모른다.	Maybe, <zoe>'s generation would be the last.
+@story	고향을 떠나다	Leaving Home
+	어느 아침, <zoe>는 아무 설명도 듣지 못한 채 차에 태워졌다.	One morning, <zoe> was made to get in a car without any explanation.
+	돔 밖을 달릴 수 있는 차는 손에 꼽을 정도였고, <zoe>도 타 본 것은 평생 두 번째였다.	Cars outside the domes were few and far in between, and this was only the second time in her life she'd ridden on one.
+	운전하는 어머니에게 물어도 아무것도 알려 주지 않았다.	She tried asking her mother, who was driving, but she wouldn't say anything.
+	이윽고 차가 도착한 곳은 이 행성 유일의 우주항──그 뒷문이었다.	When they finally stopped, they were next to a back entrance to the planet's only spaceport.
+	어머니는 커다란 짐을 차에서 꺼낸 뒤 주변을 살피며 걷기 시작했다.	Her mother took a large bag out of the car and then started walking, constantly glancing left and right.
+	메인 플랫폼이 아니라 그 옆의 낡은 시설로 향했다.	Instead of the port's main platform, she walked to a structure by the side, old and battered.
+mother	<zoe>, 자. 이거……	<zoe>, come on. Here...
+	<zoe>는 무언가를 건네받았다.	She gave <zoe> something.
+###@selection-token	IDカード	I.D. Card
+	ID 카드였다.	It was an I.D. card.
+mother	가렴. 적어도 너만이라도.	Go now. At least you...
+	어머니가 무슨 말을 하는지 <zoe>도 알았다.	<zoe> realized what her mother meant.
+	고개를 저으려 했다.	She tried shaking her head.
+	하지만 바로 직전에 망설였다.	But right before she could, something inside her stopped her.
+	머릿속에 <kushana>의 얼굴이 떠올랐다.	The image of <kushana>'s face flashed into her mind.
+	정식 ID 카드를 마련할 수 있을 리 없었고, <zoe>가 받은 것은 정교하게 만든 위조 카드였다.	Of course, her mother couldn't have gotten her a real I.D. card. What she'd handed her was a well-crafted counterfeit.
+	그래도 우주선을 타고 다른 행성으로 건너갈 때까지는 속일 수 있을 것이다.	It was probably good enough to board the spaceship and reach a new planet unquestioned.
+	<zoe>만이라도 이 지옥 같은 행성에서 빠져나가라고, 어머니는 그렇게 말하고 있었다.	Her mother wanted at least <zoe> to escape from this hell.
+	<zoe>는 어머니를 끌어안았다. 떠나면 이제 두 번 다시 만날 수 없을 것이다.	<zoe> hugged her. She understood that if she got on the ship, they'd never meet again.
+	<zoe>는 홀로 우주항 외곽에 정박한 민간선──아마 불법일 작은 우주선에 올라탔다.	She boarded a small, probably unauthorized spaceship waiting in a hidden corner of the spaceport.
+	티켓도 비쌌지만, 이쪽은 진짜였다.	The ticket, expensive as it had been, was actually real.
+	어머니와 친척들이 얼마 되지 않는 재산을 모아 겨우 한 장 마련한 것이었다.	Her mother and other relatives had scraped together all the money they owned and barely managed to buy it.
+	<zoe>는 모두의 얼굴을 한 사람도 빠짐없이 떠올렸다.	<zoe> thought about everyone in her life, one by one, without exception.
+	이미 세상을 떠난 사람들,	Those who had already died.
+	두고 온 여동생들,	Her little sisters, whom she would leave behind.
+	물론 막내 <kaya>도.	And of course, <kaya>, the youngest one too.
+	이윽고 우주선은 예정된 시각에 출항했다.	The spaceship departed right on schedule.
+	우주선 창문 너머로 내려다본 고향은 빈말로도 아름답다고 할 수 없었지만,	Seen from above, her planet was anything but beautiful.
+	그래도 <zoe>가 태어난 행성이었다.	Nevertheless, it had been <zoe>'s birthplace.

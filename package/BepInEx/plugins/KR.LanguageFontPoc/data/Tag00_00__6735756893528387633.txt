@@ -1,0 +1,8 @@
+<sana>	사나	Sana
+<nora>	노라	Nora
+<kaya>	카야	Kaya
+<kushana>	쿠샤나	Kushana
+<ivan>	이반	Ivan
+<larry>	래리	Larry
+<chesca>	체스카	Chesca
+<nerissa>	네리사	Nerissa

@@ -1,0 +1,423 @@
+@story	비인가 우주선	Unauthorized Spaceship
+<nerissa>	이거 가짜지?	You know that this is fake?
+	키 큰 여성──이 우주선의 선장 <nerissa>는 좁고 어두운 방에서 담담하게 말했다.	The tall woman's matter-of-fact voice echoed coldly in the dark room. She was <nerissa>, the ship's captain.
+	방에는 둘뿐이고 문은 잠겨 있다.	It was just the two of them in there, and the door was locked.
+	책상 위에는 <liam>이 가지고 있던 ID 카드가 놓여 있다.	On the desk lay <liam>'s I.D. card.
+	사진도 이름도 <liam>의 것이지만, 그녀의 말대로 위조품이었다.	Both the picture and name matched, but as the woman had said, it was fake.
+<liam>	네.	I do.
+<nerissa>	이건 어디서 구했지?	And where did you get this?
+<liam>	어머니에게 받았습니다.	My mother gave it to me.
+	<liam>이 그렇게 말하자 <nerissa>는 『흠』 하고 위조 ID 카드를 집어 든다.	With an uninterested grunt, <nerissa> picked up <liam>'s fake I.D. card.
+###@selection-token	偽物	Counterfeit
+	어떻게 가짜라는 걸 들켰는지 <liam>은 아직 모른다.	<liam> had no idea how the other woman could tell that it was counterfeit.
+	승선할 때 검사는 통과했는데, 출항한 뒤에 불려 왔다.	After the immense relief of being able to board without any issue, <liam> was summoned by the captain after they had departed.
+<nerissa>	이게 불법이라는 건 알고 있겠지?	You do understand that this is a crime, don't you?
+<nerissa>	승선하려면 티켓과 신분을 증명할 ID 카드가 필요해.	To board, you need a ticket and a valid I.D. card.
+<liam>	네. 하지만 이 배는 정식 행성 간 항행선이 아니라고 들었습니다.	I do understand. But I heard that this ship isn't an official one.
+<nerissa>	그래. 이 배는 정식 허가를 받은 우주선이 아니야.	That is true. We don't have a proper interplanetary travel license.
+	<nerissa>는 당연하다는 듯 대답했다.	<nerissa> spoke very matter-of-factly.
+<nerissa>	하지만 그래도 캄캄한 우주를 안전하게 항해하려면 승객의 신원은 파악해 둬야 한다.	But we're still traveling the dark expanses of space. We need to know who our passengers are.
+<nerissa>	ID 카드에 기록이 남을 정도의 범죄를 저지른 사람이라면 승선을 거부할 때도 있어.	And if our background checks on someone's I.D. show that they're a criminal, we might refuse to let them in.
+<liam>	이 배도 불법인데요?	Even though your ship is also illegal?
+<nerissa>	하지만 아무 제재도 받지 않고 우주항에 정박해 있었잖아?	Noticed how we kept it docked at the port, and nobody said a word?
+<nerissa>	법을 어기는 게 아니야. 법에 구멍이 있을 뿐이지.	We aren't committing any crime here. Just exploiting loopholes in the law.
+	그녀의 말대로 이 우주선은 행성 유일의 우주항에 정박해 있었고, 옆에는 반짝반짝 닦인 정식 우주선도 서 있었다.	Indeed, her ship had been docked right alongside the official ones, in broad daylight, and received no complaints.
+<nerissa>	사람은 배우고 기술은 발전했지만, 그래도 우주는 너무 넓다.	People have learned much and built wonderful things, but the universe is still too large.
+<nerissa>	인간이 만든 법 따위로는 도저히 다 메울 수 없을 만큼.	Way too large for humans to cover it all with their little laws.
+	이 광대한 우주에서 그녀는 무엇을 봐 왔을까──	What has this woman seen in her travels through that large, large universe?
+	<liam>은 이 심문의 결말보다 그쪽이 더 궁금해지기 시작했다.	Rather than the interrogation, <liam> couldn't help but think about that.
+<nerissa>	자──	Now...
+<nerissa>	네 처분을 정해 보자.	Time to think about how we'll punish you.
+@story	잡일	Odd Jobs
+	<liam>에게 위조 ID 카드를 주고 밀항시키려 한 것은 <liam>의 친척들이었다.	It had been well-meaning relatives who had given <liam> that counterfeit I.D.
+	그들은 그저 <liam>이 이 생지옥에서 벗어나길 바랐을 뿐이다.	Their only wish was for <liam> to run away from that hellscape.
+	가난한 행성의 가난한 집에서 태어난 <liam>에게 애초에 행성 밖에서 통용되는 ID 카드 같은 건 없었다.	How could one get a proper I.D. on that poor planet in that poor star system?
+	친척들이 돈을 마련해 우주선 티켓과 위조 신분증을 구해 <liam>을 떠나보냈다.	They'd scraped together just enough money to get a fake one, along with a spaceship ticket, to send <liam> off.
+	물론 언젠가 들통날 거라는 건 알고 있었을 것이다.	They probably didn't expect that to fool everyone forever.
+	하지만 어쨌든 <liam>을 그 행성에서 빼내 다른 행성으로 보내기만 하면 됐다.	But it should've been enough to get <liam> to another planet.
+	목숨만 붙어 있다면 어디에 버려져도 지금보다는 나았다.	Any planet, really. Surely it couldn't be worse than their own.
+	그런 일은 드물지 않다. 그리고 <liam>은 그중에서도 운이 좋은 편이었을 것이다.	It wasn't even a rare kind of scheme, and one could say <liam> had been relatively lucky.
+	선장 <nerissa>의 제안으로 이 우주선에서 잡일을 하게 되었다.	The punishment captain <nerissa> had come up with was relatively tame: working odd jobs on the spaceship.
+	이 우주선은 수십 년도 더 된 것을 계속 수리하며 쓰고 있는 모양이다.	As it turned out, that spaceship had been held up together for decades through constant maintenance.
+###@selection-token	故障	Failure
+	곳곳에서 자잘한 고장이 난다.	There was always a mechanical failure to take care of somewhere.
+	<liam> 같은 인간을 거의 무급으로 부리는 편이 싸기 때문에 수리 로봇도 없다.	On a normal ship, this would be a job for robots, but employing people like <liam> for a pittance was much cheaper.
+<nerissa>	자동 항행 시스템과 엔진, 그리고 냉동 수면 장치……	The autopilot system, the engines, and the cryosleep pods.
+<nerissa>	이 세 가지만 돌아가면 뭐, 어떻게든 되는 법이야.	As long as those three work, we're golden.
+	<nerissa>는 자랑스럽게 말했다.	<nerissa> seemed very proud of her own pragmatism.
+@story	근심	Sadness
+<liam>	선장님은 왜 이런 변두리 우주선이나 몰고 있는 겁니까?	Why are you flying this old wreck, captain?
+<nerissa>	창밖으로 던져 버린다, 식객.	Do you want to get thrown out of a window?
+	투덜거리면서도 선장은 <liam>에게서 커피를 받아 든다.	The captain took her coffee from <liam> and spat some venom in return. 
+	값싼 인스턴트커피. 이런 데서도 이 배의 빠듯한 형편이 엿보인다.	It was cheap instant coffee. Yet more proof of how little money the ship had to spare.
+<liam>	선장님, 예전에는 정식 행성 간 항행선에 타고 있었다고 들었습니다.	I heard you used to fly on a proper, official ship.
+<liam>	무슨 짓을 해서 잘린 겁니까?	Why did they fire you?
+<nerissa>	잘린 게 아니야. 내가 그만둔 거다.	They didn't fire me. I quit.
+<liam>	왜요?	Why?
+<nerissa>	내가 왜 너한테 설명해야 하지?	Why do I need to tell you?
+###@selection-token	責任	Responsibility
+<nerissa>	……라고 하고 싶지만, 이것도 사회 공부지. 널 거둔 책임이 나한테 있으니까.	Well... I guess I do need to tell you. It's my responsibility as your captain to teach you about life.
+<liam>	선장님은 늘 그런 말 하시네요.	You seem to love talking about responsibility.
+<nerissa>	사실이니까.	Because it's true.
+<nerissa>	……사업으로 계획적으로 운용되는 정식 우주선으로는 실어 나를 수 없는 것들이 있다.	Anyway, authorized spaceships need to protect their bottom line. That means there are things they can't transport.
+<nerissa>	대부분의 사람은 그들이 알아서 실어 나르지만, 세상은 『대부분의 사람』만으로 이루어진 게 아니야.	Most people can ride on those, sure. But "most" is different from "all."
+<liam>	이 배도 사업 아닌가요?	Don't we also have a bottom line to protect?
+<nerissa>	당연하지.	We sure do.
+<nerissa>	하지만 돈만 생각한다면 더 좋은 방법이 있어.	But if that's all you care about, there are easier ways to get there.
+<nerissa>	그리고 그것만으로는 굴러가지 않는 세상이 되어 버렸지.	If money's your only priority, some travelers just aren't worth it.
+<liam>	저도 그런 경우였던 것처럼요?	Travelers like me?
+<nerissa>	넌 또 조금 특수한 경우지만…… 그래도, 그렇지.	You're a bit of a special case, but... Yeah, pretty much.
+<nerissa>	세상이 너무 넓어졌다──아니, 오히려 작아졌다고 해야 할지도 모르겠군.	The world's gotten too big. Or too small, should I say?
+<nerissa>	한 가지 방식만으로는 사람들을 모두 건져 올릴 수 없게 됐어.	Can't pile up everyone and save them all at once anymore.
+	나는 그게 걱정되는 거야, 선장은 말했다.	And this saddens me to no end, the captain said.
+	이때의 <liam>은 아직 그녀가 무슨 말을 하는지 이해하지 못했다.	<liam> still had no idea what she meant.
+@story	우주의 크기	The Vastness of Space
+	사람들이 우주 곳곳으로 흩어진 지 수백 년.	It had been centuries since mankind first moved into space.
+	아공간 항행과 행성 테라포밍 기술, 그리고 냉동 수면 장치를 손에 넣은 인류는 조금씩 외우주로 떠났다.	Through interdimensional travel and cryosleep, they'd slowly crawled out of their own solar system.
+	우주 전체에 인류가 어떻게 분포해 있는지 파악하는 것은 어렵다.	By now, no one knew the full extent of people's distribution through space anymore.
+	통상 공간과 다른 아공간을 이용해 『지름길』을 타면서 우주선은 겉보기에는 광속을 넘어설 수 있었다.	Interdimensional travel allowed spaceships to technically move faster than the speed of light, taking "shortcuts" through space.
+	하지만 아공간을 지나는 동안에도 시간은 흐른다.	But time would still flow while taking those shortcuts.
+	어떤 아공간을 통과하느냐에 따라 다르지만, 대부분 수백 광년의 거리를 몇 년 만에 이동한다.	In the best case, you could travel through hundreds of light-years in just a few years.
+	통신도 마찬가지라 수백 광년 떨어진 행성의 『지금』을 아는 것은 역시 불가능하다.	That also applied to communications. It had all become much faster, but far from instantaneous.
+###@selection-token	断絶	Gap
+	이것이 하나의 커다란 단절이 되었다.	This created a huge gap between different people.
+	아공간은 어디에나 균일하게 펼쳐져 있는 것이 아니다.	What's more, those interdimensional pockets weren't quite ubiquitous.
+	출발지와 목적지에 따라서는 아공간을 이용한 항행이나 통신이 불가능한 경우도 있다.	Some routes simply didn't have any shortcuts you could use to travel or ways you could communicate.
+	아공간을 이용해도 이동에 수백 년이 걸리는 우주 영역과의 교류는 사실상 불가능했다.	If it took centuries to go from one planet to another, those two basically couldn't interact at all.
+	메시지를 보내도 도착하는 것은 수백 년 뒤.	Any message sent from one would only reach the other after hundreds of years.
+	답장이 오는 것은 다시 그로부터 수백 년 뒤.	And it took just as much time for a reply to make it all the way back.
+	인류의 수명은 그다지 달라지지 않았다. 아무리 수명을 연장해도 이백 년은 살 수 없다.	Human lifespans had increased somewhat, but only up to a point. People still couldn't live for two hundred years.
+	게다가 테라포밍 기술이 이 단절을 더욱 가속한다.	Terraforming technology had only made that gap wider.
+	자가 증식 나노로봇과 세균 공장으로 행성 표면은 몇 년이면 인류가 살 수 있는 환경으로 바뀐다.	Self-replicating nanobots and biological factories meant that a planet could be made habitable in just a few years.
+	비가 내리고 강이 흐른다. 작물이 자라고 가축을 기를 수 있게 된다.	Soon enough, you'd get rain falling and rivers flowing, and you could grow plants and raise cattle.
+	이는 그 행성 안에서 사람들의 생활이 완결된다는 뜻이었다.	By that point, you had everything you needed to sustain life without help from other planets.
+	행성 밖에서 자원을 수입할 필요는 거의 없다.	Importing resources from elsewhere was almost never necessary.
+	그리고 새 행성을 테라포밍해 이주하는 사람 대부분은 이전에 살던 행성에서 어떤 이유로든 추방된 이들이다.	After all, people who colonized a new planet usually did so because they'd been exiled from their old one.
+	자신들만의 행성을 만들어 낸 사람들은 하나의 행성 안에 틀어박히게 되었다.	If they could keep to themselves in their new home, they happily did.
+	우주는 끝이 없고, 인간은 너무나 연약하다.	Space was just too vast, and mankind was just too feeble.
+@story	추억 이야기	Old Stories
+	어떻게 이곳에 도착했는지 기억나지 않는다.	How did I get here? <liam> couldn't remember.
+	우주항에서 출발하는 셔틀을 타고 지나쳐 버린 뒤, 내린 역 근처에 있었기 때문일지도 모른다.	There was only a vague memory of getting off the ship and riding a shuttle train there.
+###@selection-token	学校	School
+	<liam>은 지금은 더 이상 쓰이지 않는 학교 안에 있었다.	But whatever the reason, <liam> was now in an old school.
+	예전에는 이곳에서 아이들이 배웠다. 지금은 유적으로 보존된 박물관인 모양이다.	Students used to take classes here, but at some point it had  been turned into a museum.
+	왜 폐교가 되었는지 안내가 있었던 것 같지만 기억나지 않는다.	There was a sign explaining why it stopped being used as a school, but <liam> couldn't remember that either.
+	그러면서도 ID 카드──선원이 되었을 때 <nerissa>에게 받은 정식 카드──는 제대로 제시하고 입장했다.	However, the real I.D. he card received from <nerissa> as a new crew member had been enough to get in.
+	이곳에는 어떤 삶이 있었을까.	Who knew what kind of things used to happen in this place.
+	<liam>은 학교라는 곳에서 교육을 받아 본 적이 없다.	<liam> had never been to a school before.
+woman	그립구나.	It really brings me back.
+	정신을 차리니 휠체어에 탄 노파가 바로 옆에 있었다.	The old lady in a wheelchair beside <liam> spoke up.
+woman	내가 젊었을 때 다니던 교실이랑 꼭 닮았어.	The classrooms here are so similar to the ones I used to go to.
+woman	지구의 전통적인 구조지.	They're just like we build them on Earth.
+<liam>	……그런가요.	Is that so?
+<liam>	저는 학교에 다녀 본 적이 없어서요.	I've never gone to school in my life.
+woman	그렇구나.	Really?
+<liam>	학교는 재미있나요?	Is school fun?
+woman	글쎄.	That's a hard one.
+woman	돌이켜 보면 즐거웠던 것 같지만,	In hindsight, I guess it was fun.
+woman	그때는 그렇게 생각하지 않았을지도 모르지.	But at the time, that's not really how I saw it.
+woman	여러 사람이 있었거든.	There were a lot of people there, you see.
+woman	마음이 맞는 사람도, 안 맞는 사람도.	Some I went along with, some I didn't.
+woman	그래도 그런 사람들이 다 모여 한 교실에서 수업을 받는 거야.	But we'd all be there, in the same classroom, learning together.
+<liam>	……그게 전통이겠지만,	I know it's an old tradition...
+<liam>	효율은 별로 좋아 보이지 않네요.	But it sounds very inefficient.
+woman	공부만 하러 오는 곳은 아니니까.	Well, the classes weren't the whole point.
+woman	세상에는 여러 사람이 있다는 걸 배우는 것도 중요하잖니.	We also went there to learn about how people can be different from us.
+<liam>	……아.	Oh...
+<liam>	그건 알 것 같아요.	I think I get that.
+<liam>	최근에야 알게 됐어요.	I've been learning that myself.
+woman	여러 사람이 있지?	There are all kinds of people there too, huh?
+woman	그 우주선에도.	On that old ship.
+<liam>	네.	Yes.
+<liam>	……실례지만, 승객이신가요? 그 배의?	Excuse me, but... were you a passenger there?
+woman	그럼, 그렇지.	Of course I am.
+woman	당신이 여기까지 데려다준 거잖아?	You brought me all the way here.
+<liam>	그랬던가요.	Is that so?
+<liam>	……그랬을지도 모르겠네요.	I guess I did...
+woman	그럼.	You definitely did.
+woman	고마워. 와 볼 수 있어서 좋았어.	And thank you. I'm glad I could come.
+woman	이제 슬슬 돌아갈까.	Should we go back now?
+<liam>	네.	Yes, let's go.
+	어떻게 이곳에 왔는지는 기억나지 않는다.	The memory of coming to this place still hadn't come back.
+	노파의 전동 휠체어 뒤를 따라 <liam>은 돌아가는 길에 오른다.	And now, following the woman's motorized wheelchair, <liam> was already leaving.
+@story	공기가 깨끗한 행성	Lovely Air
+	조종실 문이 열리고 여성이 들어온다.	The cockpit's door opened, and a woman walked in.
+	아직 소녀라고 불러야 할 나이일지도 모른다.	Maybe she was too young to be called a "woman."
+	멍하니 있는 모습에 잠이 덜 깬 건가 하고 <liam>은 생각했다.	<liam> looked at her, thinking she still looked half-asleep.
+<liam>	……저기.	Excuse me...
+<liam>	여기는 출입 금지입니다.	This room is off-limits.
+###@selection-token	コックピット	Cockpit
+	당연히 승객을 조종실에 들일 수는 없다.	Obviously, passengers couldn't enter the cockpit.
+woman	아……	Oh...
+woman	죄송합니다.	Sorry.
+	그렇게 말하면서도 그녀는 떠나지 않았다.	Despite her answer, she didn't leave.
+woman	……물어봐도 될까요?	Can I ask you something?
+<liam>	뭔가요?	Yes...?
+woman	다음에는 어디로 가나요?	What's our next stop?
+	<liam>은 손목 단말기를 보고 다음 목적지인 행성의 이름을 알려 줬다.	<liam> read out the name of the next planet they would stop at from a portable device.
+woman	……어떤 곳인가요?	And... what kind of place is it?
+woman	가 본 적 있어요?	Have you ever been there?
+<liam>	네, 뭐……	Well, yes...
+<liam>	지상에 내려가 본 건 한 번뿐이지만 좋은 곳이에요.	I've only been on the surface once, but it's a nice planet.
+<liam>	공기가 깨끗하고요.	The air is lovely.
+woman	공기……	The air...?
+woman	마스크 없이도 숨을 쉴 수 있나요?	Can you breathe without a respirator there?
+<liam>	네……	Yeah...
+<liam>	방호 마스크가 필요한 행성이 오히려 훨씬 드뭅니다.	I'd say that applies to most planets though.
+woman	그렇군요……	Really...?
+woman	그럼 공기가 깨끗하다는 건?	What makes the air "lovely" then?
+<liam>	그러니까…… 산소가 많아서 숨쉬기 편하다…… 같은 걸까요?	Um... There's... lots of oxygen? Makes it easy to breathe? I guess?
+woman	…………	...
+<liam>	……죄송해요. 저도 잘 설명을 못 하겠네요.	Sorry. I'm not quite sure myself.
+woman	……아뇨.	Oh, don't apologize...
+woman	제가 더 미안해요.	Sorry to bother you.
+woman	숨쉬기 편하다는 건…… 지금까지 생각해 본 적도 없어서.	It's just that... "it's easy to breathe" is something I've never felt before.
+	그녀는 그렇게 말하고 조용히 조종실을 떠났다.	After that last comment, she left the cockpit without another word.
+@story	여기서 가장 먼 행성	The Most Distant Planet
+	세탁은 당번제로, 우주선이 항구에 정박해 있는 동안 한꺼번에 한다.	The crew would take turns doing laundry while the ship was docked on a planet.
+	냉동 수면 장치에 들어가 있는 시간을 제외하면 항구를 떠나 다음 항구에 들어갈 때까지 며칠에서 몇 주.	The only time passengers weren't in cryosleep were those few weeks.
+	그동안 나온 빨랫감을 정박 중에 전부 처리한다.	And they took care of all of the laundry then.
+	여러 당번 중에서도 세탁은 편한 편이었다.	Of all the tasks on the ship, this was one of the easiest ones.
+###@selection-token	洗濯機	Laundry Machine
+	세탁기에 넣고 나면 나머지는 기다리기만 하면 된다.	You just had to fill up the laundry machine and wait.
+	<liam>이 꾸벅꾸벅 졸고 있자 가게 문이 열렸다.	While spacing out, <liam> heard the shop's door open.
+woman	……전부 사용 중이야?	Are they... all being used?
+	여성은 가게 안을 한 바퀴 둘러보며 의아한 듯 중얼거렸다.	The woman muttered to herself as she looked around at the machines.
+<liam>	아……	Uhm...
+<liam>	죄송합니다. 저건 곧 끝날 것 같아요.	Sorry. But I think that one's almost done.
+woman	……당신.	You...
+woman	그 우주선 사람이지?	Are you from that spaceship, by any chance?
+<liam>	네…… 뭐.	Well... yes.
+	자세히 보니 어디선가 본 듯한 얼굴이었다.	On second glance, the woman seemed somewhat familiar.
+	우주선 승객일까. 손에는 카메라를 들고 있다.	Judging by the camera she was holding, she was probably a passenger on the ship.
+woman	그래…… 끝날 때까지 여기서 기다릴게.	I see... Anyway, I'll wait here until one of the machines is done.
+<liam>	그러세요.	Sure.
+woman	…………	...
+woman	……당신, 그 배의 승무원 맞지?	You're a crew member there, right?
+<liam>	네.	Yes.
+woman	얼마나 먼 곳까지 일정이 잡혀 있어?	How far's the journey planned to go from here?
+<liam>	여기서부터는…… 다섯 행성 뒤까지일 겁니다.	From here... at least five other planets.
+woman	그다음은?	And after that?
+<liam>	새로 타는 손님들에 따라 달라집니다.	Depends on how many people get in.
+woman	그럼 새 손님이 있는 한 계속 운항하는 거네.	So, as long as more people do get in, you'll keep going forever?
+<liam>	네. 수익이 나는 동안은요.	Yes. Assuming it makes us enough money.
+woman	이 행성으로 다시 돌아올 수도 있어?	And will you be coming back to this planet eventually?
+<liam>	앞으로 타는 손님에 따라서는요.	If a passenger asks us to, sure.
+<liam>	종종 있습니다. 되돌아가는 일도.	It's not that rare for us to retrace our steps.
+<liam>	행성 밖과 교류가 활발한 행성은 한정되어 있고,	Only a limited number of planets care about interplanetary exchange to begin with.
+<liam>	저희도 우주 어디든 갈 수 있는 건 아니니까요.	And it's not like we can cover the whole universe anyway.
+<liam>	아공간을 통해 갈 수 있는 범위는 사실 그렇게 넓지 않습니다.	Interdimensional travel can only take you so far.
+woman	……그래.	Huh...
+woman	그럼 갈 수 있는 범위 안에서 여기서 가장 멀 것으로 보이는 행성에 도착하면 알려 줘.	In that case, let me know when we reach the farthest point from here we'll ever get to.
+woman	거기서 내릴 테니까.	I'll get off there.
+	승객 한 명에게 그런 서비스를 제공할 수는 없다──	Doing favors like that for individual passengers wasn't allowed.
+	그렇게 말하려다 <liam>은 생각을 바꿨다.	But <liam> couldn't refuse.
+	그녀의 옆얼굴이 너무나 쓸쓸해 보였기 때문이다.	The woman's face just looked too melancholic to ignore.
+<liam>	……약속은 못 하지만, 노력해 보겠습니다.	I can't make any promises... but I'll do my best.
+@story	여행의 목적	Ultimate Destination
+man	당신…… 그 배 승무원이지?	Hey, you... You're in the crew, right?
+	우주항과 바로 연결된 시설에서 쉬고 있던 <liam>에게 한 남자가 말을 걸었다.	<liam> was resting in a facility next to the spaceport when a man suddenly spoke up.
+<liam>	네…… 무슨 일이시죠?	Yes... May I help you?
+man	아니. 딱히 용건이 있는 건 아니고.	It's nothing important, really...
+man	여기 앉아도 될까?	Can I sit here?
+<liam>	그러세요.	Sure.
+	남자는 <liam>의 맞은편에 앉았다.	The man sat right in front of <liam>.
+man	나는 여기로 가고 싶은데.	You see, I'm planning to go here.
+	그렇게 말하며 그는 티켓을 꺼냈다. 목적지 행성 이름이 인쇄되어 있다.	The man took out his ticket. On it, you could see the name of his destination planet.
+man	얼마나 걸릴지 알 수 있을까?	Do you happen to know how long it'll take until we get there?
+<liam>	어디 보자……	Let's see...
+<liam>	거기 도착하기 전에 적어도 행성 세 곳을 더 경유합니다.	We're going to stop by at least three other planets before we reach that one.
+<liam>	앞으로 합승할 손님에 따라 바뀔 수도 있지만……	It could also change depending on how many new passengers we get, but...
+<liam>	시간으로는 대략 이십 년 뒤가 될 것 같습니다.	I'm guessing it'll be at least twenty years.
+man	이십 년……인가.	Twenty years...? Whew.
+###@selection-token	持病	Illness
+	지병 약일까. 그의 짐 속에 작은 주사기가 보였다.	<liam> noticed a syringe inside the man's bag. He probably had some illness that required him to always take that with him.
+<liam>	……급하신 거라면,	If you're in a hurry...
+<liam>	추가 운임을 지불하시면 우선적으로 안내해 드리는 것도 가능합니다.	We could prioritize that planet for a little extra fee.
+	막힘없이 튀어나오는 <nerissa>에게 배운 영업 멘트에 <liam>은 스스로도 어이가 없었다.	It was <nerissa> who had instructed <liam> to always upsell passengers like that.
+man	아니, 괜찮아.	Nah, it's fine.
+man	급한 건 아니야.	I'm not in a hurry or anything.
+man	이십 년이면…… 아이가 어른이 되겠군.	Still, twenty years. That's enough for a kid to turn into an adult.
+<liam>	……역시 급하신 거 아닌가요?	Are you sure you're not in a hurry?
+man	정말 아니야. 미안하네.	Yeah, no, sorry.
+man	나이를 먹으면 괜히 감상적이 돼서 말이지.	It's age, you know. Makes you all emotional about things.
+	그 뒤로 그는 한동안 말이 없었다.	Then, the man remained silent for a while.
+	이윽고 주문한 테이크아웃 샌드위치를 받아 들고 자리에서 일어났다.	After receiving the take-out sandwich he'd ordered, he stood up from his seat.
+man	방해했군.	Sorry to bother you with that stuff.
+man	안전한 여행을 부탁하네.	Fly us safely, okay?
+	그는 무엇을 위해 저 우주선에 타고 있는 걸까.	Why was that man on the spaceship?
+	목적지 행성에는 무엇이 있는 걸까.	What awaited him once he'd reach his ultimate destination?
+	승객에게 사적인 감정을 품어서는 안 된다──<liam>은 스스로 되뇌며 맛없는 빵을 베어 문다.	"Never get attached to passengers." Thinking back to those words, <liam> bit on a tasteless piece of bread.
+@story	함께 탄 사람들	Fellow Travelers
+<liam>	저기, 이거 떨어뜨리셨어요.	Excuse me. You dropped this.
+	<liam>이 주운 것은 식물의 씨앗처럼 보였다.	<liam> had picked up what looked like plant seeds.
+woman	어머, 고마워.	Oh, my. Thank you.
+	중년 여성──이 우주선의 승객은 웃으며 받아 든다.	The old lady, one of the ship's passengers, took the seeds with a smile.
+	물론 <liam>과 그녀가 쓰는 언어는 다르다.	Of course, the language she spoke was nothing like <liam>'s.
+	자동번역기가 그런 사실조차 느껴지지 않을 만큼 자연스럽게 번역해 준다.	They could only communicate seamlessly because of their translation devices.
+	그녀를 배웅하고 <liam>은 선내를 걸어간다.	After seeing her off, <liam> went on walking through the ship.
+	정면에서 덩치 큰 남자가 걸어온다.	Then, a large man came in.
+	저 거구로 문을 통과할 수 있을지 걱정될 정도였다.	He was so tall, in fact, one had to worry whether he'd fit through the door.
+	좁다는 느낌을 받으며──물론 기분 탓일 뿐 선내는 충분히 넓지만──거구의 남자 옆을 지나자,	<liam> walked past him, thinking of how he made even that huge ship look cramped.
+	이번에는 구분하기 어려울 만큼 꼭 닮은 소녀 세 명이 걸어온다.	And then, three young girls who looked pretty much identical to each other walked in.
+	이 우주선에는 온갖 사람들이 올라탄다.	The ship really had all kinds of passengers in it.
+	다른 행성으로 향하는 이유도 목적지도 제각각인 사람들.	They were all traveling to different places, for wildly different reasons.
+	아공간 항행에 들어갈 수 있는 우주 영역까지 나아가는 며칠 동안 그들도 선내에서 저마다 시간을 보낸다.	You could see them spend the few days until their next cryosleep period in a variety of ways.
+###@selection-token	チケット	Ticket
+	이 우주선은 그들이 조금씩 낸 티켓값으로 운용된다.	Each one, with what they paid for their ticket, managed to keep the spaceship running.
+	정식 행성 간 항행선보다 훨씬 싸다.	The fare was much cheaper than on a proper, officially authorized ship.
+	대신 선내는 늘 빽빽하게 붐비고, 각자의 목적지를 경유하느라 그만큼 시간이 더 걸린다.	However, you had to put up with a constantly crowded ship and a longer journey, as they'd be stopping several times along the way.
+	<liam>은 지난 몇 년 동안 이 우주선에서 수많은 사람을 봐 왔다.	<liam> had met many people in the past few years.
+	다양한 사람들.	People of all types.
+	이 배 안에서 교류가 생기는 일은 거의 없다.	And yet, they almost never interacted with each other during their journey.
+	말은 통해도 서로의 마음까지 이해하는 일은 드물다.	They could understand each other's languages, but not each other's feelings.
+	사람이 사는 세계는 너무 넓어졌다.	Mankind's world had become too large.
+	온갖 사람이 있고, 모든 사람이 모든 사람을 이해할 수는 없다.	Total mutual understanding was no longer possible.
+	행성이 다르면 모든 것이 다르다.	Everything was different on other planets.
+	그런 사람들을 태우고 이 우주선은 행성과 행성 사이를 건넌다.	And all those people, with all their differences, traveled from place to place on that ship.
+	쓰는 말도 처지도 사상도 다르지만,	They had their own languages and their own feelings.
+	다른 행성으로 건너간다는 목적만큼은 지금 이곳에서 일치한다.	But they had one thing in common: they wanted to get to another planet.
+@story	빛의 속도	Light Speed
+	우주선이 행성의 우주항에 들어가면 정비와 보급을 하는 동안 승무원에게도 배 밖으로 나갈 시간이 주어진다.	Whenever the spaceship entered a spaceport, the crew would perform maintenance, restock supplies, and then take some time off.
+	이 행성의 우주항은 행성 표면과 연결된 궤도 엘리베이터 꼭대기에 있었다.	This particular spaceport was at the top of a long elevator connecting it to the planet's surface.
+	지상까지 몇 시간이면 내려갈 수 있다.	With that elevator, you could reach the ground in just a few hours.
+###@selection-token	静止衛星	Satellite
+	하지만 <liam>은 끝에 있는 정지궤도 위성에서 느긋하게 쉬기로 했다.	However, <liam> chose to stay on that geostationary satellite instead.
+	헬멧을 벗고 아무도 없는 의자에 앉는다.	There was nobody else around, so one could sit down in peace without their helmet on.
+	부유한 행성인 모양인지 우주항을 포함한 정지궤도 위성도 전철을 타고 이동해야 할 만큼 넓다.	The satellite itself was so big that it had trains running across it, hinting at the planet's wealth.
+	이전 행성을 출발한 지 몇 년이 지났다.	It had been a few years since their last stop.
+	그동안 대부분의 시간 배는 아공간을 자동 항행했고 승무원과 승객도 냉동 수면 장치 안에서 보냈다.	For most of those years, the spaceship had been on autopilot, with the passengers and crew fast asleep in the cryosleep pods.
+	체감상 냉동 수면 장치 안에 있는 시간은 한순간이고 몸도 거의 늙지 않는다.	It felt like taking a short nap, and your body basically didn't age during cryosleep either.
+	그래도 바깥에서는 몇 년이 흐른다.	However, those years had definitely passed.
+	이 행성을 목표로 우주선에 탄 사람들은 기대했던 그대로의 행성에 도착했을까.	Maybe this planet had changed from what the passengers going here had been expecting.
+	몇 년이면 행성의 정세가 크게 바뀔 수도 있다.	A few years was time enough for geopolitical situations to change.
+	어쩌면 이 전철도 최근 몇 년 사이 생긴 것일지도 모른다.	It was very possible that even those trains had only started operating very recently.
+	기술은 발전했지만 결국 인류는 빛의 속도를 넘어설 수 없었다.	Despite all of their technological advancements, mankind still couldn't really travel faster than the speed of light.
+	통상 공간과 다른 아공간을 이용해 『지름길』을 타면서 겨우 겉보기 광속을 넘어선다.	Interdimensional travel was just a little sleight of hand that made distances appear shorter.
+	하지만 아공간은 어디에나 이어져 있는 것이 아니고 아공간을 이동하는 동안에도 시간은 흐른다.	However, you still needed a conveniently placed interdimensional pocket, and time would still pass while you traveled through it.
+	행성 간 항행이 손쉬워져도 여전히 우주는 넓다.	That new technology had made space more navigable, but no smaller.
+	사람이 아무리 늘어나도 우주를 채우기에는 턱없이 부족하다.	People, too, kept growing in number, but they were nowhere near close to filling up the universe.
+	우주의 반대편 끝에서는 지금 무슨 일이 벌어지고 있을까. 그것을 알 방법은 없다.	They could never even find out what was going on in the faraway recesses of the cosmos.
+	그리고 지금의 <liam>에게는 관계없는 일이다.	And all in all, none of this mattered to <liam>.
+	정신론의 문제가 아니라 빛의 속도가 가로막는다.	More than any ethical concern, the speed of light was the biggest obstacle that humans faced.
+@story	냉동 수면 장치	Cryosleep Pods
+	우주선이 아공간 항행을 마치고 사람들이 냉동 수면에서 깨어난 뒤 <liam>은 냉동 수면 장치를 정비한다.	Once the ship had been docked and the people had woken up, <liam> started working on the cryosleep pods' maintenance.
+	이 우주선은 낡았다. 냉동 수면 장치도 물론 낡았다.	It was an old ship. Obviously, the cryosleep pods were just as old.
+	요즘 냉동 수면 장치라면 깨어난 뒤 정비 같은 건 거의 필요 없을 것이다.	Modern ones barely required any maintenance at all between uses.
+	게다가 이 우주선에는 로봇도 없어 인간이 직접 해야 한다.	And since there were no robots on the spaceship, the human crew had to take care of that job.
+	들러붙은 자잘한 얼음을 긁어 낸다. 시트 커버를 교체한다.	Changing the sheets, scraping the ice off the walls.
+	발전기를 시험 가동해 이상이 없는지 확인한다.	Running the generator and making sure everything worked as intended.
+	이만큼 확인해도 낡은 물건이라 드물게 사고가 난다.	Despite all the tests and checks, old things did what old things do: break.
+	냉동 수면 장치 사고는 우주에서의 교통사고와 함께 행성 간 항행의 양대 위험이었다.	After collisions with other ships, a cryosleep pod malfunction was the second biggest risk in interplanetary travel.
+	냉동 수면 중 장치가 고장 나면 최악의 경우 안에서 자던 사람이 목숨을 잃는다.	In the worst-case scenario, the people sleeping inside the pod would simply die.
+	혹은 몸은 살아 있는데도 깨어나지 못하게 되기도 한다.	Sometimes, their body would survive, but they would remain in a permanent coma, unable to ever wake up.
+	냉동 수면은 단순히 육체를 얼리는 것이 아니다.	Cryosleep was more complex than simply freezing a person's body.
+	신진대사를 극한까지 낮춘 뒤 뇌에 미세한 자극을 계속 준다.	It involved lowering their metabolism to a hibernation state, while continuously providing baseline stimuli to their brains.
+	그렇지 않으면 깨어났을 때 기억을 잃거나 자아가 붕괴할 수 있다는 사실이 알려져 있다.	Without those stimuli, people could lose their memories, or worse yet, their sanity.
+	그래도 운이 좋게 이 우주선에서는 지금까지 냉동 수면 장치와 관련된 사망 사고가 한 번도 없었다.	Thankfully, nothing like that had ever happened on this ship.
+###@selection-token	安全装置	Safety Mechanism
+	장치에 이상이 생겨도 어떻게든 안의 사람을 깨우기 위한 안전장치가 여러 개 마련되어 있다.	There were several safety mechanisms in place to wake up the people in the pods in case of malfunction.
+	그중 하나가 어떻게든 사람의 목숨을 이어 준다.	At least one of them would manage to keep the person inside alive.
+	예를 들어 냉동 수면 뒤 뇌에는 이상이 없는데 깨어나지 않는 경우가 있다.	For example, sometimes, people would be unable to wake up despite their brains being seemingly unharmed.
+	그럴 때 냉동 수면 장치는 강제로 꿈 같은 것을 보여 주고 자신의 상황을 이해시켜 각성하도록 유도한다.	In such a case, the pod would force that person to have a sort of dream, helping them remember their situation.
+	<liam>도 과거 한 번 기묘한 꿈을 꾸고 깨어난 적이 있었다.	Even <liam> had had such a weird dream once, right before waking up.
+	그 꿈이 없었다면 두 번 다시 깨어나지 못했을지도 모른다──선장은 그렇게 말했다.	The captain said that had it not been for that dream, that little nap could have become an irreversible coma.
+	<liam>은 냉동 수면에 들어갈 때마다 이것이 마지막일지도 모른다고 생각한다.	<liam> always entered the cryosleep pod thinking that it may well become a coffin.
+	이대로 다시 눈을 뜨지 못할지도 모른다.	Maybe, there'd be no waking up.
+	깨어난 자신의 모습은 예전의 자신과 다를지도 모른다.	Maybe, the person waking up would have no memories whatsoever.
+	아무런 고통도 없이 잠들듯 죽을 수 있다면 그것도 괜찮다──<liam>은 그렇게 생각한다.	But on the other hand, dying painlessly while unconscious wasn't that bad of a prospect for <liam>.
+@story	오염된 지구	Tainted Earth
+	<liam>이 태어났을 무렵 지구는 이미 사람이 살 수 없는 행성이었다.	By the time <liam> was born, Earth was already unhabitable.
+	어머니 행성. 인류의 고향.	Mother Earth, the cradle of humanity.
+	사람들이 우주로 진출한 뒤에도 지구에는 많은 주민이 남아 있었다.	Even after mankind moved into space, many opted to remain on their home planet.
+	낡은 체제의 국가들은 해체되고 작은 콜로니로 나뉘어 살아갔다.	Old nations were disbanded, and people organized themselves in small colonies.
+###@selection-token	テロ	Terrorist
+	그 지구에서 과거 테러가 일어났다.	But a terrorist attack changed everything.
+	유전자 조작 세균을 이용한 무차별 테러.	It was an indiscriminate attack, unleashing genetically modified bacteria upon the whole of the planet.
+	사람의 뇌에 자리 잡아 의식을 파괴하는 세균이 지구 곳곳에 살포되었다.	Every corner of Earth was taken over by them. They ate their way into people's brains, destroying their consciousness.
+	세균은 사람에서 사람으로 전염되고 동물이 옮기며 바람을 타고 지구 전역으로 퍼졌다.	They spread quickly from person to person, carried by animals and the wind, until no place was safe anymore.
+	겉모습은 변하지 않은 채 지구는 사람이 살 수 없는 행성이 되었다.	Earth still looked exactly the same, but humans couldn't live on it any longer.
+	현대 기술로도 지구를 정화해 다시 사람이 살 수 있게 되려면 얼마나 걸릴지 알 수 없다.	Even with state-of-the-art technology, it was anyone's guess how long it would take to make the planet safe again.
+	물론 방독면과 전용 장비를 착용하면 지구에 내려갈 수는 있다.	Of course, assuming you had a respirator and a space suit, you could technically walk on Earth's surface.
+	하지만 아무도 그런 환경에서 살고 싶어 하지는 않았다.	But nobody in their right mind would want to live there.
+	냉동 수면 장치 안에서 잠깐 잠들기만 하면 훨씬 살기 좋은 행성이 얼마든지 있었다.	Much more hospitable planets were just a short cryosleep away.
+	지구를 오염시킨 테러리스트들의 주범은 지금도 도주 중이다.	The head of the terrorist group responsible for all of this was still on the run.
+	테러 이후 상당한 시간이 흘러 이미 죽었을지도 모른다.	Given how long it had been since the attack, it was very plausible that they were already dead.
+	그들은 주장한다──인류를 하나로 유지하기 위해 지구는 변하지 않아야 한다.	"For humanity to stand as one, Earth must be a universal land." So said their cryptic manifesto.
+	우주 곳곳으로 흩어진 인류는 각자의 행성에서 저마다의 문화를 만들게 되었다.	Humanity, spread throughout the universe, was split up between different planets, each with their own culture.
+	주민의 특성도 행성 환경도 다르다. 당연히 그곳의 생활도 다르다.	They had different environments that made them live in different ways.
+	그 결과 사람들은 지구에 살던 시절과는 비교도 되지 않을 만큼 다양해졌다.	This allowed for much more diversity than when everyone lived on Earth.
+	언어는 자동번역기가 번역해 줘도 관습과 문화까지 서로 맞추기는 어렵다.	Translation devices had removed all language barriers, but cultural differences had become that much steeper.
+	머지않아 인류는 하나의 『종』이라는 틀마저 넘어설 것이라고 한다.	Some thought that sooner or later, man would even stop being a single species.
+	지구를 오염시킨 테러리스트들은 그 흐름에 일격을 가하려 했다.	That was what the terrorists were trying to avoid.
+	인류는 하나의 종이며 서로 손을 맞잡고 공존해야 한다고.	They insisted that humanity should remain a single, united species.
+	그것을 위해 그들은 지구 문화를 동결했다.	That's why they prevented Earth's culture from ever changing again.
+	그 시절의 지구를 하나의 축으로 삼아 인류 공통의 기반으로 만든 것이다.	It would remain there, frozen in time, as an eternal flagpole for all of mankind to revolve around.
+	그들의 계획은 부분적으로 성공했다.	In some ways, they had succeeded.
+	지금도 지구식──당시의 지구식──생활양식을 이어 가는 사람은 많다.	Many people still clung to the customs of Earth. Of old Earth, that is.
+	충격적인 테러와 함께 지구라는 쐐기는 분명 사람들의 마음속에 박혔다.	That terrorist attack had brought people together in mourning their ancestral home.
+	<liam> 역시 지구를 방문한 적도 직접 본 적도 없지만 그 행성의 풍경을 잘 알고 있다.	Even <liam>, despite having never been there, had a very good idea of what Earth looked like.
+	고향이며 자신들의 근간에 있는 것이라는 실감이 있다.	Therein lay their roots, their very origin.
+@story	잠입	Infiltration
+<liam>	정 안 되면 살해도?	So, if push comes to shove... shoot to kill?
+	<liam>은 품속 권총의 무게를 확인하며 작게 말했다.	<liam> asked, weighing the pistol inside his pocket.
+man	허가되지 않았어. 어디까지나 사고로 위장해야 해.	That's not permitted. It has to look like an accident.
+	어두운 가게. 옆에 앉은 남자는 <liam> 쪽을 보지도 않고 대답했다.	In the poorly lit shop, the man sitting next to <liam> spoke without even looking at him.
+	그는 계속 말했다.	He went on giving instructions.
+man	본인이 맞더라도 다음 우주항에 도착할 때까지는 손대지 마.	Even if you can confirm the target's identity, don't do anything until you reach the next spaceport.
+man	승무원 전원이 그놈의 동료일 가능성도 있어.	It's possible the whole crew is in cahoots with the terrorists.
+<liam>	그렇다면 타는 순간 벌집이 될 수도 있겠군.	So it's possible I'm stepping right into the hornets' nest.
+man	아니길 빌어야지.	Here's hoping you're not.
+###@selection-token	記憶	Memory
+man	기억이 사라지는 게 무섭나?	Are you worried about losing your memory?
+<liam>	무서운 건 기억이 사라진 뒤의 내가 제대로 임무를 수행할 수 있느냐는 거지.	I'm worried about being able to get on with the mission after losing it, mostly.
+man	그럴 수도 있지. 꿈속에서 실패하면 최악의 경우 두 번 다시 깨어나지 못해.	Makes sense. If you screw up inside the dream, worst-case scenario, you'll never wake up again.
+<liam>	기억은 나중에 제대로 돌아오는 거겠지?	But I will get my memories back in the end, right?
+man	엄밀히 말하면 지우는 게 아니야.	It's not like we're erasing them, technically.
+man	머릿속에 있는 기억에 접근하지 못하게 막는 것뿐이지. 일시적으로.	Just shutting off your brain's access to them. Temporarily.
+man	약을 주사하면 언제든 원래대로 돌아와.	All it takes to get them back is a single syringe's worth of drugs.
+<liam>	쉽게 말하네.	You make it sound so simple.
+	<liam>은 어깨를 으쓱하고 남자에게 건네받은 주사기를 바라본다.	<liam> shrugged doubtfully and looked at the syringe the man had handed him.
+@story	지구의 씨앗	Earth's Seeds
+	우주선은 곧 아공간 항행에 들어간다.	The ship would soon enter an interdimensional pocket.
+	승객들에게 냉동 수면 장치에 들어가라는 안내 방송이 흘렀다.	The loudspeakers instructed the passengers to enter their cryosleep pods.
+	<liam>은 노파가 장치 안 침대에 들어가는 데 애를 먹는 것을 발견했다.	<liam> found an old lady who was having some trouble climbing inside hers.
+	그녀에게 말을 걸어 도와준다.	He offered to help.
+oldwoman	미안하구나. 워낙 오랜만이라.	Sorry, dear. It's been a while since last time.
+	그녀는 그렇게 말하며 <liam>에게 몸을 맡긴다.	Thanking him for the trouble, she let <liam> raise her inside the pod.
+	노파가 캡슐 같은 냉동 수면 장치 안에 자리를 잡고 뚜껑이 닫히기까지는 조금 더 시간이 걸릴 듯했다.	It looked like getting her inside that little capsule and closing the lid would take a little longer.
+	<liam>은 그녀와 이야기를 나눈다.	<liam> decided to spend that time talking.
+<liam>	전에 우주선을 탄 건 언제쯤이었어요?	How long has it been since you last rode one?
+oldwoman	젊었을 때지. 지구를 떠나 처음 다른 행성으로 갔어.	Oh, I was still young back then. I left Earth for the first time.
+<liam>	지구요? 지구에 사셨어요?	Earth? You lived on Earth?
+oldwoman	그럼. 그리고 이제 다시 지구로 갈 거야.	I sure did. And that's where I'm going now.
+<liam>	지구로요?	On Earth...?
+oldwoman	그렇고말고.	Yes, sirree.
+	그녀는 힘차게 고개를 끄덕였지만 <liam>은 노파의 허튼소리라고 생각하기로 했다.	She nodded with conviction, but <liam> was just as convinced that the old lady was insane.
+###@selection-token	立ち入り禁止	Forbidden
+	테러로 오염된 뒤 지구와 그 주변 우주 영역은 출입 금지 구역이 되었다.	After the terrorist attack, entry on Earth and all the surrounding area had been forbidden.
+	이 우주선이 비인가 선박이라 해도, 아무리 그래도 지구까지 갈 수는 없다.	Even an unauthorized spaceship like this wouldn't risk so much.
+	억지로 접근하려 하면 경비선에 쫓기게 될 것이다.	If they got too close, they'd instantly get chased out by patrol ships.
+	<liam>은 다른 이야기를 꺼내기로 했다.	So, <liam> changed the subject.
+<liam>	이 씨앗은요? 전에 있던 행성의 식물인가요?	What are these seeds? Are they from your planet?
+oldwoman	아주 오래전 지구에서 가져온 거야. 내 할머니가 주셨지.	No, I got them from Earth. My grandmother gave them to me a long, long time ago.
+<liam>	그렇게 오래된……	They must be pretty old...
+oldwoman	지구에 도착하면 심어 보려고.	I'm planning to plant them once I'm back on Earth.
+<liam>	아직도 살아 있을까요?	Are they even still alive?
+oldwoman	글쎄다.	Who knows?
+	그녀는 먼 곳을 바라본다.	She stared off in the distance.
+	지구에 간다──지금까지 그런 생각은 해 본 적이 없었다.	The thought of going to Earth had never even crossed <liam>'s mind.
+	혹시 그녀는 진심으로 말하고 있는 걸까.	Could it be that this old woman was actually serious?
+	그러고 나서 <liam>은 자신이 왜 그녀에게 말을 걸었을까 생각한다.	Moreover, <liam> wondered why he'd felt the impulse to chat with that lady.
+	평소라면 승객에게 먼저 말을 거는 일은 절대 없었을 텐데.	He'd never been much the type for conversations with passengers.
+@story	가짜	Counterfeit
+	주사를 맞고 침대에 눕는다.	<liam> injected the drug and lay down on the bed.
+	처음에는 아무렇지도 않았지만 점점 의식이 흐릿해진다.	It took a while, but then things started getting hazy.
+	이대로 곧 의식을 잃겠지 생각하며 <liam>은 멍하니 생각한다.	<liam> expected to lose consciousness very soon.
+@selection-token	ナノロボット/細菌/ワクチン/細胞/心臓	Nanobots/Bacteria/Vaccines/Cells/Hearts
+	주입된 나노로봇이 혈류를 타고 뇌로 침입한다.	The nanobots in the drug would swim through the arteries, eventually reaching the brain.
+	로봇은 신경에 달라붙어 기억을 지운다──정확히는 기억에 대한 접근을 차단한다.	They attached themselves to various nerves to delete, or rather block, all memories.
+	그리고 <liam>은 동시에 가짜 기억을 심기 위한 시술을 받는다.	At the same time, they were implanting fake memories inside <liam>'s brain.
+	몽롱한 상태에서 기억의 바탕이 될 영상을 반복해서 보는, 얼핏 원시적인 방식이지만 물론 여기에서도 뇌 속 나노로봇이 작용한다.	It was a primitive method: repeatedly showing the subject footage of the fake memories with the help of the nanobots.
+	이번에 <liam>에게 심어질 기억은──	These were going to be <liam>'s new memories...
+	어릴 때 비인가 우주선에 거둬져 승무원이 된 남자──그런 기억이었다.	Those of a young stowaway who became an unsanctioned spaceship's crew member.

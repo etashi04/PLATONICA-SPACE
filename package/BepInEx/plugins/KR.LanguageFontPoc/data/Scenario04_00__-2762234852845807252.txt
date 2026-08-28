@@ -1,0 +1,249 @@
+@story	카트리나와의 재회	Katrina is Back
+katrina	…………	...
+katrina	리암.	Liam.
+katrina	너한테도 폐를 끼쳤네.	I've been causing a lot of trouble for you too, huh?
+katrina	……그래.	Yeah...
+katrina	사과하려는 건 아니야.	I'm not trying to apologize.
+katrina	뭘 사과해야 할지도 모르겠어.	I wouldn't even know what to apologize for.
+katrina	하지만…… 고생시킨 건 맞아.	But... I made it hard for you.
+katrina	그건 사실이니까.	I know I did.
+katrina	……이제 지쳤어.	I'm just tired of it all.
+katrina	생각하는 것도,	I'm tired of thinking.
+katrina	계속 두려워하는 것도.	Tired of being scared.
+katrina	…………	...
+katrina	앞으로 어떻게 될지는 모르겠어.	I have no idea what's going to happen to me.
+katrina	조이가 그렇게 말해 줬지만…… 그걸 곧이곧대로 받아들일 수도 없어.	I'm grateful for what Zoe said, but I can't accept things that easily.
+katrina	……될 대로 되라는 기분이야.	I guess I can only let things fall where they may.
+katrina	이제 우리 기억도 충분히 모였겠지.	We already have enough of our memories back, don't we?
+katrina	너와 엘라라가 바라던 대로,	Just as you and Elara wanted.
+katrina	우리는 현실에서 눈을 뜰 수 있을 거야.	We should be able to wake up and go back to reality soon.
+katrina	……난 이미 충분히 제멋대로 굴었어.	I... caused enough trouble for all of you already.
+katrina	너도 네가 원하는 대로 해.	Do as you wish now.
+@story	조이의 과거	Zoe's Past
+zoe	……그때 사실은,	When Katrina dragged me into that room...
+zoe	카트리나한테 협박당한 게 아니었어.	She wasn't really threatening me or anything.
+zoe	직접 그런 말을 들은 것도, 내가 뭔가 말한 것도 아니지만,	Neither of us really said anything to each other, but...
+zoe	뭐랄까…… 협력하고 있었어.	We knew we had a kind of...understanding.
+zoe	내가 스스로 인질 같은 역할을 한 거야.	I basically decided to made myself a hostage.
+zoe	카트리나가 진심으로 나를 쏘려던 건 아니라는 걸 알고 있었고.	I knew she wasn't serious about shooting me.
+zoe	카트리나가…… 외로워 보였으니까.	She just looked so lonely.
+zoe	그리고 나도 그랬고.	And, well, I was too.
+zoe	내 기억도 이제 거의 다 찾았지.	I've found most of my memories now.
+zoe	남의 일처럼 느껴지던 기억이 이제야 내 기억이라고 느껴져.	They don't feel like a stranger's anymore. I can tell they're mine.
+zoe	이게 나야.	This is who I am.
+zoe	이렇게 추하고 더러운 게…… 나야.	A filthy, disgusting person...
+	#판정판정실패시	#Test Failed
+zoe	……나는 조금 다르게 생각하는 것 같아.	That's... not the way I see myself.
+	#판정성공시	#Test Passed
+	#판정판정실패시	#Test Failed
+zoe	……나는 조금 다르게 생각하는 것 같아.	That's... not the way I see myself.
+	#판정성공시	#Test Passed
+	#판정판정실패시	#Test Failed
+zoe	……나는 조금 다르게 생각하는 것 같아.	That's... not the way I see myself.
+	#판정성공시	#Test Passed
+zoe	고향 별로 돌아가고 싶다는 생각은 해.	I do want to go back to my home planet.
+zoe	하지만 그럴 수 없어.	But I can't.
+zoe	나를 밖으로 보내 준 엄마와 가족들을 볼 면목이 없어.	How could I face my family after all they've done to send me away?
+zoe	게다가 돌아간다고 해도 아무것도 해 줄 수 없어.	And even if I went back, what would I do then?
+zoe	그렇다고 앞으로 갈 곳이 있는 것도 아니야.	On the other hand, I really have nowhere to go.
+zoe	다른 별에 가도 거기서 뭘 해야 할지 모르겠어.	I don't know how I'd be able to manage on a new planet.
+zoe	아는 사람도 아무도 없고……	I don't have friends anywhere...
+zoe	…………	...
+zoe	……쿠샤나를 다시 만나고 싶긴 해.	Well... I want to meet Kushana again.
+zoe	하지만 어떻게 찾아야 할지도 모르겠어.	But first of all, I wouldn't even know where to look for him.
+zoe	게다가…… 쿠샤나가 나를 기억하고 있을지도 모르겠고.	And also... I'm not sure he remembers me anymore.
+zoe	쿠샤나에게 나는 그저 심심풀이 상대였을 테니까.	I probably wasn't anything special to him.
+zoe	분명 만나 봐야 슬퍼질 뿐이겠지.	If we met again, I bet it'd just turn into one more sad memory.
+zoe	뭐, 그래도.	For the time being...
+zoe	우선은 카트리나의 아기를 돌봐야 하니까,	I have to help Katrina raise her baby.
+zoe	카트리나를 따라갈 생각이야.	I'll go with her for a while.
+zoe	그다음 일은 그때 생각할래.	And what will happen after that...we'll see.
+zoe	그럼,	Till later, then.
+zoe	현실에서 만나자, 리암.	See you in the real world, Liam.
+@story	월터의 과거	Walter's Past
+walter	내 기억도 거의 다 모인 것 같군.	I guess I got most of my memories back.
+walter	처음에 상상했던 내 모습과 크게 다르지는 않았어.	I was pretty much the type of person I thought I'd be.
+walter	이런 다리니까. 애초에 떳떳한 인간일 리도 없지만.	I mean, look at this leg. No way I'd be a respectable citizen.
+walter	……리암.	Liam...
+walter	네 생각도 들려주지 않겠나.	Could you tell me what you thought?
+walter	네가 본 기억 속에서 내가 어떤 인간이었는지.	What did I look like to you in those memories?
+	#판정판정실패시	#Test Failed
+walter	……네 생각은 나와 조금 다른 모양이군.	Interesting. But it's not quite what I thought.
+	#판정성공시	#Test Passed
+	#판정판정실패시	#Test Failed
+walter	……네 생각은 나와 조금 다른 모양이군.	Interesting. But it's not quite what I thought.
+	#판정성공시	#Test Passed
+	#판정판정실패시	#Test Failed
+walter	……네 생각은 나와 조금 다른 모양이군.	Interesting. But it's not quite what I thought.
+	#판정성공시	#Test Passed
+walter	나는 어떤 인간일까.	Who am I, exactly?
+walter	기억을 되찾아 과거는 분명해졌다.	I remembered my past through those memories, sure.
+walter	하지만 그래도 나는 월터라는 사람이 어떤 인간인지 모르겠어.	But I still don't understand how this "Walter" person I'm supposed to be thinks and feels.
+walter	아니……	Or rather...
+walter	그저 받아들이고 싶지 않은 걸지도 모르지.	I don't want to understand.
+walter	나라는 인간이 저질러 온 일을 받아들이고 싶지 않은 거야.	Understanding myself would mean accepting the things I did.
+walter	죄 없는 사람을 죽였다.	I killed an innocent girl.
+walter	그게 사고였다고 한다면 그럴지도 모르지.	You could say it was an accident.
+walter	내가 쏜 총알에 맞은 게 아닐 수도 있어.	You could even say it wasn't a bullet I shot that killed her.
+walter	하지만……	But...
+walter	내가 그 아파트에 살지 않았다면,	If I hadn't moved into that apartment...
+walter	내가 좀 더 조심했다면,	If I had noticed sooner...
+walter	체스카는…… 죽지 않았을 거야.	She... Chesca wouldn't have died.
+walter	…………	...
+walter	나는……	And now...
+walter	지금 여기 있는 나는 그 일을 몹시 후회하고 있어.	Here, inside this dream, I'm left with endless regret.
+walter	하지만 현실의 나는 어떨까?	But what about the me in the real world?
+walter	계속 그 죄에서 도망치고 있지.	That version of me is running away from his crime.
+walter	다른 별로 달아났고 지금도 우주선에 타고 있어.	He's on a spaceship to get to some faraway planet.
+walter	나는 지금도 눈을 뜨는 게 무서워.	I'm still scared of waking up.
+walter	현실의 내가 그 일을 죄라고조차 생각하지 않는 인간이라면,	What if in the real world I'm the kind of person who doesn't even feel guilty for what he did?
+walter	체스카를 죽이고도 아무렇지 않게 살아가는 쓰레기라면…… 어떡하지.	I could be some piece of scum who sleeps easy at night despite having Chesca on his conscience...
+walter	……그게 무서워. 계속.	That thought is terrifying.
+walter	……하지만 언제까지나 여기 틀어박혀 있을 수도 없지.	But I can't let fear keep me here forever.
+walter	현실의 내가 쓰레기 같은 인간이라면, 적어도 경멸해 줘.	If I really turn out to be as vile as I fear, feel free to despise me. Actually, please do.
+walter	그럼 이만, 리암.	See you, Liam.
+walter	먼저 가 보지.	It's time I go.
+@story	카트리나의 과거	Katrina's Past
+katrina	…………	...
+katrina	아마 이제 카트리나라는 사람이 누군지 기억해 낸 것 같아.	I think I've finally remembered who I really was.
+katrina	있잖아, 들려줘.	I want to hear it from you.
+katrina	내 인생을.	Tell me what you know about my life.
+	#판정판정실패시	#Test Failed
+katrina	……내 생각과는 조금 다르네.	That's not quite what I was picturing...
+	#판정성공시	#Test Passed
+	#판정판정실패시	#Test Failed
+katrina	……내 생각과는 조금 다르네.	That's not quite what I was picturing...
+	#판정성공시	#Test Passed
+	#판정판정실패시	#Test Failed
+katrina	……내 생각과는 조금 다르네.	That's not quite what I was picturing...
+	#판정성공시	#Test Passed
+katrina	고향을 떠나고 싶어서 필사적이었어.	I was ready to do everything in order to leave my hometown.
+katrina	행성 관리 기구에 들어가 처음 부임한 별에서 테러를 당했지.	I finally joined the planetary administration, got assigned to a planet, and... let a terrorist attack happen.
+katrina	충돌을 막지 못했어. 그게 내 일이었는데.	I couldn't stop those people from fighting each other. Even though that was my job...
+katrina	그리고 아이가……	Then there's the baby inside my womb...
+katrina	이반과의 아이가 지금 이 배 속에 있어.	Ivan's baby.
+katrina	……어떻게 해야 할지는,	What am I supposed to do?
+katrina	아직 판단이 서지 않아.	I still can't decide.
+katrina	하지만……	But...
+katrina	기억을 되찾고 나서 생각났어.	Getting my memory back let me remember one thing.
+katrina	이 왼쪽 눈을 쓰는 법.	How to use this left eye of mine.
+katrina	기계 의안이지만 시각을 위해서만 달아 둔 건 아니야.	It's a prosthetic eye, but it's not just to help me see.
+katrina	기록을 위해 근무 중에는 항상 내 시야를 녹화했어.	It was recording everything I saw while I was on the job.
+katrina	그 별의 풍경도…… 이 안에 남아 있었어.	The data is still all in here... It has everything I saw on that planet.
+katrina	조금이지만 이반과의 추억도.	It's not much, but there's a bit of Ivan in here too.
+katrina	나는……	As for me...
+katrina	새로운 별로 가 볼 생각이야.	I think I'll try going to a new planet.
+katrina	어차피 돌아갈 곳도 없으니까.	It's not like I have a home to go back to.
+katrina	거기서…… 어떻게 할지 생각해 보려고.	And then... Well, I'll cross that bridge when I come to it.
+katrina	결국 그때 누가 나를 쐈는지는 모르는 채지만,	You know, I still have no idea who shot me.
+katrina	그래도 이제 누군지는 상관없어.	But I don't really care anymore.
+katrina	나는 그보다 훨씬 더 끔찍한 일을 했으니까.	Come to think of it, what I've done is even worse.
+katrina	그 사람도…… 나처럼,	And that person... must've felt just like I did.
+katrina	분명 뭔가를 두려워하고 있었겠지.	I bet they were scared.
+katrina	그럼,	I'll be going.
+katrina	나 갈게.	See you.
+@story	엘라라의 과거	Elara's Past
+elara	이제 우리 둘뿐이네.	It's just the two of us now.
+elara	다들 무사히 현실에서 눈을 떴을까.	I hope everyone's woken up safely.
+elara	나도…… 전부 기억났어.	After all... I remember everything.
+elara	나는 지구에서 태어난 여자아이였어.	I remember how I was born on Earth.
+elara	지금은 지구를 떠나 다른 별에서 살고 있고.	I remember how I moved to another planet.
+elara	지구에 있던 할머니를 정말 좋아했어.	And I remember how much I loved my grandma.
+elara	……리암이 본 나도,	But, I want to know...
+elara	그런 느낌이야?	What was I like in your eyes?
+	#판정판정실패시	#Test Failed
+elara	……그럴까?	You think so?
+elara	한 번 더 생각해 줬으면 좋겠어.	Maybe you don't quite get me yet...
+	#판정성공시	#Test Passed
+	#판정판정실패시	#Test Failed
+elara	……그럴까?	You think so?
+elara	한 번 더 생각해 줬으면 좋겠어.	Maybe you don't quite get me yet...
+	#판정성공시	#Test Passed
+	#판정판정실패시	#Test Failed
+elara	……그럴까?	You think so?
+elara	한 번 더 생각해 줬으면 좋겠어.	Maybe you don't quite get me yet...
+	#판정성공시	#Test Passed
+elara	나는…… 다른 사람들과 비교하면 분명 복받은 편이고,	In a way, I'm much better off than everyone else here.
+elara	현실로 돌아가기 싫다거나 무섭다거나 하는 마음도 없어.	Going back to the real world doesn't feel scary or anything.
+elara	눈을 뜨면 나를 걱정해 주는 사람이 분명 있을 거야.	And I know that when I wake up, there'll be people waiting for me.
+elara	……하지만,	But...
+elara	그래서 나는 모두의 괴로움을 몰라.	Because of that, I can't feel the pain all of the others do.
+elara	이렇게 많은 기억을 봐도 그들의 진짜 마음까지는 이해할 수 없어.	Even after seeing so many of their memories, I don't really understand them.
+elara	그게…… 무섭다고 생각해.	And... that's a bit scary.
+elara	겨우 다섯 명이야.	There were only five of us.
+elara	기억을 공유하고 이렇게 오래 함께 있었는데,	We spent so much time together and even shared our memories with each other.
+elara	그래도…… 이렇게 서로를 이해하지 못해.	And yet... we couldn't understand each other.
+elara	그건 우리가 완전히 다른 별에서 자랐기 때문일까?	Is it because we were born on different planets?
+elara	살아온 환경이 달라서?	Because we were raised in different environments?
+elara	지구를 떠나 여러 별로 뿔뿔이 흩어졌기 때문일까?	Because we left Earth to go live so far away from each other?
+elara	…………	...
+elara	……겨우 다섯 명인데도 이렇게 서로를 이해하지 못하는데,	Only five people and we struggled this much to understand each other....
+elara	현실 세계의 우리는 어떻게 살아가고 있을까.	Think how much worse it must be in the real world.
+elara	모두 제각각 흩어져 사는 걸까.	Mankind is scattered throughout the universe, isn't it?
+elara	다른 별의 사람들과 손을 잡을 일은 이제 없고,	And each planet keeps to its own...
+elara	인류는 뿔뿔이 흩어진 걸까.	Humanity must be in pieces.
+elara	……그건 외로워.	That's so, so lonely.
+elara	외로운 채로……	We'll forever be lonely...
+elara	인간은 언젠가 멸망하게 되는 걸까.	And maybe humans will go extinct, lonely like that.
+elara	…………	...
+elara	아, 맞다. 리암.	Oh, right...
+elara	전에 여섯 번째 사람이 정말 있을지도 모른다고 했었지.	Remember how I said there really could be a sixth person?
+elara	그건 아마 내 착각이야.	I've changed my mind on that.
+elara	여기 있던 건 다섯 명뿐이야.	It was just the five of us.
+elara	월터 씨는 분명 누군가를 잘못 본 거야.	I'm sure Walter must've seen one of us without recognizing them.
+elara	나와 네가 눈을 뜨면 그걸로 전부 해결돼.	And when you and I wake up, it'll all be over.
+elara	누구의 것인지 모르겠다고 했던 기억도 이 안에 있는 누군가의 기억이야.	Those memories we couldn't quite place still must belong to one of us.
+elara	조금 전에 그걸 알았어.	I'm sure of it now.
+elara	…………	...
+elara	……있잖아, 리암.	By the way, Liam...
+elara	약속해 줬으면 해.	I want you to promise me something.
+elara	네가 눈을 뜬 뒤,	Soon, we'll both wake up in the real world.
+elara	내가 지금과 전혀 다르더라도,	And if we meet there, and I end up being totally different from what I am now...
+elara	현실의 내가 어떤 사람이더라도……	Whatever the real me is like...
+elara	나를 받아들여 줘.	Don't hate me for it.
+elara	……부탁이야.	Please.
+elara	……이거.	Here...
+elara	리암한테 필요할 것 같으니까.	I think you'll need this.
+elara	줄게.	Take it, please.
+elara	그럼,	So...
+elara	나는 먼저 갈게.	Off I go.
+elara	또 보자, 리암.	See you later, Liam.
+elara	현실에서 기다릴게.	I'll be waiting for you in the real world.
+@story	리암의 과거	Liam's Past
+	나는 누구인가.	Who am I?
+	어떤 인간이었는가.	What kind of person was I?
+	이제 생각할 필요도 없다.	There was no need to think about it anymore.
+	다섯 사람이 떠났고 남은 기억이 내 것이었다.	With the others gone, all the memories still left had to be mine.
+	#판정판정실패시	#Test Failed
+	……아니야. 이건 내가 아니야.	No... That's not who I am.
+	#판정성공시	#Test Passed
+	#판정판정실패시	#Test Failed
+	……아니야. 이건 내가 아니야.	No... That's not who I am.
+	#판정성공시	#Test Passed
+	#판정판정실패시	#Test Failed
+	……아니야. 이건 내가 아니야.	No... That's not who I am.
+	#판정성공시	#Test Passed
+	어릴 때 밀항하려다 들켜,	A young boy tried to board that spaceship as a stowaway when he was still a kid.
+	이 우주선의 승무원이 된 리암이라는 청년.	And then he had to become a member of the crew.
+	그게 나였다.	That's who I am.
+	과거의 기억과 현재의 의식에서 비롯된 자아가 분명히 존재한다.	Now, I had both a sense of my past and a conscious feeling of who I am.
+	처음 이곳에서 눈을 떴을 때의 텅 빈 나와 비교하면 이제는 완전히 다른 사람이었다.	The first time I woke up in this strange place, I was nothing but an empty shell, but that shell had now been filled.
+	나도 모두와 마찬가지로 현실 세계에서 눈을 뜰 수 있을 것이다.	Whether I could wake up in the real world with all the others, though, was a different question.
+	여기서 찾은 기억 중에는 아직 깊숙한 부분까지 떠올리지 못한 것도 있다.	There still were some parts of my past I didn't quite understand.
+	하지만 모든 걸 기억해야 하는 건 아닐 것이다.	But surely, I didn't need to remember every single detail.
+	이 공간에 내가 살아온 모든 순간의 기억이 담겨 있다고도 생각하기 어렵다.	This place surely couldn't store someone's memories in their entirety.
+	20년치 기억을 전부 되찾는 데 20년이 걸린다면 아무도 살아남지 못한다.	And if you had to live through twenty years' worth of memories to remember every second of your past, it'd be a pretty useless safety mechanism.
+	하지만 그래도 아직 모르는 게 있다.	But the thing I was most confused about was a different one.
+	아이를 낳은 어머니의 기억.	There still was that memory of a mother with her child.
+	테러가 일어났을 때 지구에서 탈출한 기억.	And the memory of leaving Earth after the terrorist attack.
+	그건 누구의 것일까.	Who did those belong to?
+	『여섯 번째 사람』은 없다고 엘라라는 말했다.	Elara said she didn't believe in a sixth person anymore.
+	현실의 자신이 어떤 모습이든 받아들여 달라고도 했다.	She also implied that she'd be very different in the real world.
+	그건 무슨 뜻이었을까.	I wasn't quite sure what she was getting at.
+	그녀는 무엇을 알아낸 걸까.	What secret did she uncover?
+	혹시──	What if—
+	떠오르는 의심과 함께,	As a terrible doubt started taking shape in my mind...
+	의식이 희미해져 갔다.	I started losing consciousness.
+	지금까지의 졸음과는 달랐다.	It didn't feel like the sleepiness I'd become accustomed to.
+	다시는 이곳에서 눈을 뜨지 않을 것이다.	I knew I'd never wake up in this place again.
+	눈앞 가득 눈부신 빛이 퍼졌다.	Suddenly, a bright light flooded my vision.

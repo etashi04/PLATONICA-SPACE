@@ -1,0 +1,23 @@
+@story	기억 판정	Memory Judgement
+walter	저기.	Hey.
+walter	이 기억 말인데…… 누구 기억일까?	I was thinking about this memory. Whose could it be?
+walter	……그런가?	You think so?
+walter	아……	Oh...
+walter	나도 같은 생각이야.	I thought so too.
+walter	섣불리 단정하면 안 되겠지만 아마 맞을 거야.	We can't be sure, but I'd say we're onto something.
+@story	일반 대화	General Conversation
+walter	떠넘기는 것 같아 미안하지만, 모두의 이야기를 들어 줘.	Look, I don't want to force this on you, but please, try to be there for the others.
+walter	나는 별로 환영받지 못하는 것 같아서 말이야.	I feel like they can't open up to me.
+walter	나만 나이가 많이 차이 나서겠지. 어쩔 수 없어.	I guess it's because I'm so much older.
+walter	기억은 없지만…… 이런 상황에는 익숙한 느낌이 드는군.	Even though I can't remember... this kind of situation feels familiar.
+@story	일반 대화	General Conversation
+walter	여기가 꿈속 같은 곳……	This place is like a dream...
+walter	그러니까 정신적인 공간이라고 한다면,	Like something that's happening entirely inside our minds.
+walter	현실의 내 육체는 어떻게 되어 있을까.	But if that were true, what about our bodies?
+walter	의식이 있다는 건 적어도 살아 있기는 하다는 뜻이겠지만……	If this really is a dream, that'd mean we're fast asleep in the real world.
+@story	일반 대화	General Conversation
+walter	우리는 의도적으로 모인 다섯 명일까.	Did someone choose us five specifically?
+walter	아니면 이 다섯 명이 된 건 그저 우연일까.	Or did we just end up here by coincidence?
+walter	나이도 성별도 제각각.	Both men and women, young and old...
+walter	원래는 지인이나 친구였던 걸까……?	Maybe we knew each other at some point.
+walter	기억을 되찾지 않는 한 아무것도 알 수 없겠군.	There's no figuring this out until we get our memories back, huh?

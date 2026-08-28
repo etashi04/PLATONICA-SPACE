@@ -1,0 +1,221 @@
+@story	범인	The Culprit
+elara	리암……!	Liam...!
+elara	다행이다, 무사했구나.	You're all right... I'm so glad.
+elara	어제 카트리나 씨가……	Katrina, I heard that yesterday...
+elara	누군가에게 총을 맞았다고 들었어.	You were shot.
+katrina	…………	...
+katrina	……그래.	Yes...
+katrina	리암, 넌 어제 총을 맞은 뒤의 나를 본 거구나.	Liam... You saw me bleeding out yesterday, didn't you?
+katrina	그렇다면……	In that case...
+katrina	역시 그건 꿈이 아니었어.	It wasn't just a dream.
+katrina	…………	...
+zoe	리암, 그때 다른 사람은 없었어?	Did you see anyone else there, Liam?
+zoe	리암 혼자였어?	Or was it just you?
+@selection	다른 사람은 아무도 없었어.	It was just me.
+zoe	그렇구나.	I see...
+zoe	그럼 카트리나를 쏜 사람은 리암이 오기 전에 도망친 걸까.	So the culprit must've run away before you got there.
+katrina	그런 모양이네……	Yeah...
+katrina	총에 맞은 건 틀림없는 것 같지만,	There's no doubt I got shot...
+katrina	뒤에서 맞아서 상대 얼굴은 못 봤어.	But it was from the back, so I have no idea who did it.
+katrina	……누구였을까.	Who could the culprit be?
+elara	누가 그런 짓을……	Yes, who would do something like that?
+elara	그리고 왜 카트리나 씨를 쏜 걸까.	And why would they ever shoot you?
+katrina	모르겠어……	I have no clue...
+katrina	총에 맞기 직전에 내가 뭔가를 발견했던 것 같긴 한데……	I seem to remember that, right before I got shot, I was looking for something, but...
+katrina	…………	...
+katrina	……미안해. 아직도 몸이 안 좋아.	Sorry, I still don't feel great.
+katrina	충격 때문일까……	I guess the shock still hasn't worn off.
+katrina	총을 맞기 전후의 기억이 흐릿해서 잘 떠오르지 않아.	My memories are a bit unclear leading up to that point.
+katrina	나는 뭘 하고 있었던 걸까.	What was I even doing yesterday?
+zoe	아무튼…… 무사해서 다행이야, 카트리나.	In any case... I'm just happy to see you're alive and well.
+zoe	여기서는 죽지도 않는 걸까.	Maybe we can't die in here.
+katrina	……글쎄.	Who knows...
+katrina	기분은 정말 끔찍해.	It still feels awful.
+katrina	이번에는 괜찮았지만,	And sure, I'm still alive...
+katrina	그런 충격을 몇 번이나 겪으면…… 언젠가 정신이 망가질지도 몰라.	But going through a shock like yesterday's again... I feel that it would make me go insane eventually.
+katrina	몸이 다치지 않더라도 두 번 다시 깨어나지 못할 수도 있어.	My mind could end up dying before my body does.
+zoe	…………	...
+katrina	다들…… 조심해.	Please... be careful.
+@story	조이의 기억	Zoe's Memory
+zoe	누가 카트리나를 쐈을까.	I'm still trying to figure out who shot Katrina.
+zoe	살인자와 밀항자……	If we have a murderer and a stowaway among us...
+zoe	그 기억의 주인일까.	That could be the culprit.
+zoe	……어쩌면,	But...
+zoe	기억을 잃었다는 것 자체가 거짓말일 수도 있어.	What if we hadn't all lost our memories?
+zoe	사실은 전부 기억하고 있는 사람이 있고,	What if one of us actually remembers everything...
+zoe	어떤 목적 때문에 우리를 가둬 둔 걸까……?	And they're keeping us all in here for some reason?
+zoe	그럴 가능성도 있겠지.	I think that's possible.
+zoe	…………	...
+zoe	……그래도,	That being said...
+zoe	지금은 아직 모두를 믿고 싶어.	I still want to trust everyone.
+zoe	나 혼자 여기서 나갈 수 있을 것 같지도 않고,	I don't think I could ever escape this place by myself.
+zoe	다 같이 협력해서 탈출할 방법을 찾아야 해.	Our only chance is working together to find an exit.
+zoe	카트리나를 쏜 건 물론 내가 아니지만,	I know I haven't shot Katrina.
+zoe	내가 살인자나 밀항자였을 가능성도 아직 있고.	But I can't be sure those memories of being a stowaway or a murderer don't belong to me.
+zoe	나 자신도 기억이 없으니까 절대 아니라고 단정할 수는 없어.	I don't remember enough to deny that possibility.
+zoe	……그래도 아마 나는 아닐 거야.	Still... I feel like they're not mine.
+zoe	이 방독면이 나오는 기억이 몇 개 있었어.	This respirator came up in some of the memories.
+zoe	독가스로 뒤덮인 가난한 행성에서 어린 여동생들과 힘들게 사는 기억.	Memories of living with little sisters on a horrible planet covered in poisonous gas.
+zoe	그건 분명 내 기억인 것 같아.	I don't know why, but I'm sure those memories are mine.
+zoe	사람을 죽이거나 위조 ID 카드를 마련할 수 있을 만한 생활이 아니야.	It's not the kind of life where you could kill someone or get fake I.D.s.
+zoe	현실의 나는 분명 힘든 삶을 살고 있겠지만,	I'm sure that in the real world, I live that kind of terrible life.
+zoe	그래도…… 난 빨리 현실로 돌아가고 싶어.	But even then... I want to go back.
+@story	카트리나의 기억	Katrina's Memory
+katrina	나는 어떤 사람이었을까.	I wonder what kind of person I was.
+katrina	내가 총에 맞은 것과 기억을 잃은 건 무슨 관계가 있을까?	And could the fact that I got shot and the fact that I don't remember be related in some way?
+katrina	원래 기억을 되찾으면 내가 왜 총에 맞았는지도 알 수 있을까.	If I remember everything, would I also find out why somebody shot me?
+katrina	이상하지. 내가 어떤 식으로 말했는지는 알고 있는데,	It's so weird. I still perfectly know the way I've always talked...
+katrina	기억은 하나도 떠오르지 않아.	But I can't remember anything at all.
+katrina	이 왼쪽 눈도 기계 의안인 것 같은데……	This left eye, for example, looks like some kind of mechanical prosthetic eye.
+katrina	사용법을 잊어버려서 그런 걸까.	But I must have forgotten how to use it.
+katrina	지금은 아무것도 보이지 않아.	I can't see anything through it.
+katrina	……전에 어린아이들을 돌보는 기억을 봤어.	I saw this memory of looking after some small children.
+katrina	분명 어머니의 기억이겠지.	It must've been a mom's memory.
+katrina	나이를 생각하면 아마 내 기억일 거야.	Judging by the mom's age, that memory probably belonged to me.
+katrina	엘라라나 조이는 아직 아이가 있을 나이로는 보이지 않으니까.	Elara and Zoe don't look old enough to have kids.
+katrina	내게는 가족이 있나 봐.	So, I have a family.
+katrina	빨리 기억해 내고 싶어.	I really want to get out of here as soon as possible.
+katrina	여기서 탈출해서 가족에게 돌아가고 싶어.	I want to get out and go back to my family.
+katrina	탈출하는 방법은 모르지만……	I have no idea how to escape this place...
+katrina	그래도 기억을 되찾아 가다 보면 단서를 찾을 수 있겠지.	But by piecing together those memories, maybe we'll find a hint.
+katrina	이 상황에 빠지기 직전의 기억도 어딘가에 있을 테니까.	I bet there are also memories of right before we ended up here.
+katrina	어쩌면…… 나를 쏜 범인에 대한 단서도.	And maybe... we'll also find some clue as to who shot me.
+katrina	……그 뒤로 계속 무서워.	After that happened... I'm constantly scared.
+katrina	또 총에 맞을지도 모른다는 생각이 들어서.	I feel like I could get shot at again at any moment.
+katrina	다시는 그런 일을 겪고 싶지 않아.	I really, really don't want to live through that again.
+katrina	빨리 눈을 뜨고 현실로 돌아갈 방법을 찾자.	We need to find a way to wake up and go back to reality.
+@story	월터의 기억	Walter's Memory
+walter	카트리나가 총에 맞았다는 이야기를 본인에게서 들었다.	Katrina told me she got shot.
+walter	뭔가를 꾸미는 자가 있는지도 모르겠군.	You wouldn't shoot someone if you didn't have a clear objective in mind.
+walter	우리 다섯 명 중 누군가라면……	And if the culprit is one of us...
+walter	서로 의심하게 되는군.	That means we can't trust each other anymore.
+walter	……그렇다고 지금 범인 찾기를 할 생각은 없다.	That being said, looking for the culprit would probably be a fool's errand.
+walter	아마 증거는 남아 있지 않을 테고,	I bet there's no evidence left anyway.
+walter	우리끼리 싸워 봐야 답이 나오지도 않을 거야.	And of course, accusing each other won't help.
+walter	……물론 카트리나를 쏜 건 내가 아니다.	Before you ask, I didn't shoot her.
+walter	하지만……	But...
+walter	현실의 나는 어떨까 하는 생각이 든다.	What about the real me, the one I've forgotten about?
+walter	나는…… 어떤 사람이었을까.	What kind of person was I?
+walter	나도 권총으로 소녀를 쏴 죽인 기억을 봤다.	I saw that memory of shooting a young girl.
+walter	그 일을 한 건……	Could that...
+walter	……나였던 걸까.	Could that have been me?
+walter	…………	...
+walter	미안하군. 이런 이야기를 들어도 곤란하겠지.	Sorry. I know you don't have the answer to that.
+walter	확신은 없어. 내가 아닐지도 몰라.	And I have no reason to believe it either. Maybe it was someone else.
+walter	다만…… 그 기억을 봤을 때는 다른 기억들과는 다른 감각이 있었어.	The issue is... That memory felt different from the others.
+walter	이 팔이 그때의 충격을 기억하고 있는 것처럼.	It's like my hand remembers what it felt like to shoot that gun.
+walter	만약 그게 내 기억이었다면,	And if the shooter in that memory happened to be me...
+walter	어린 소녀를 죽였다는 사실을 어떻게 받아들여야 할까.	How do I come to terms with having killed a young girl?
+walter	현실의 나는 왜 그런 짓을 했을까.	Why would I do something like that to begin with?
+walter	여기서 내가 죽을지도 모른다고 두려워하는 것보다,	Thinking that someone could shoot me in this strange place is scary, sure.
+walter	현실의 내가 형편없는 인간이었을지도 모른다고 생각하는 게	But thinking that I might have been a cold-blooded criminal back in the real world...
+walter	훨씬 더 무섭다.	That's way scarier.
+@story	여섯 번째 사람	A Sixth One
+katrina	……정말?	Really...?
+walter	미안해. 확신은 없어.	Sorry... I'm not one hundred percent sure.
+walter	내가 잘못 본 걸지도 몰라.	Maybe I was just seeing things.
+walter	다른 누군가를 착각했을 수도 있지만……	Or it could've been one of us and I just got confused.
+katrina	…………	...
+walter	……그런데 아까,	But...
+walter	저 문 너머로──	I'm pretty sure I saw it.
+walter	내가 모르는 사람이 걸어가는 걸 봤어.	Someone I don't know, walking away past that door.
+walter	엘라라, 조이, 카트리나, 리암……	Elara, Zoe, Katrina, Liam...
+walter	너희 중 누구와도 닮아 보이지 않았어.	It didn't look like any of you.
+walter	바로 쫓아갔지만 건너편 방에는 아무도 없었어.	I chased after the figure, but when I went through the door, there was nobody there.
+zoe	정말 엘라라가 아니야?	Are you sure it wasn't Elara?
+zoe	오늘 아직 못 만났으니까 엘라라를 잘못 본 건 아닐까……	We still haven't seen her today. Maybe it was...
+walter	엘라라는 아니었던 것 같아.	No, I'm positive it wasn't her.
+walter	그녀보다 키가 컸어.	The figure I saw was much taller.
+walter	확실하진 않지만……	And, I can't be sure of this either, but...
+walter	거기 있던 건──나이 든 노인이었던 것 같아.	I think that person looked really old.
+katrina	……우리가 모르는 여섯 번째 사람이 있는 걸까.	So... is there a sixth one of us?
+walter	그럴지도 몰라.	Maybe, yeah.
+walter	여기서 눈을 뜬 지 며칠 됐지만 아직 만나지 못한 사람이 있을 수도 있어.	It's been a few days since we woke up in here, but maybe we still haven't met everybody.
+zoe	그럼 그 사람이 카트리나를……?	In that case, the person you saw might be the one who shot Katrina...
+katrina	……그럴지도 모르겠네.	That's possible...
+zoe	…………	...
+zoe	……하지만 말이야.	Look...
+zoe	이런 말은 하고 싶지 않지만,	I don't really want to say this, but...
+zoe	월터가 그냥 지어낸 이야기일 수도 있잖아?	Who says Walter isn't just making all of this up?
+katrina	조이……	Zoe...
+walter	……그렇군.	No, she's right.
+walter	내 말을 믿지 못할 수도 있어.	You have no reason to believe what I said.
+walter	괜찮아. 나라도 입장이 반대라면 똑같이 생각했을 거야.	If I were in your shoes, I probably wouldn't believe it either.
+walter	나도……	And to be honest...
+walter	나 자신조차 믿을 수가 없어.	I don't even believe my own eyes anymore.
+walter	카트리나를 쏜 건 내가 아니지만,	I'm sure I didn't shoot Katrina...
+walter	현실의 나는…… 살인자였을지도 모르지.	But maybe, in the real world... I'm a murderer.
+katrina	……월터.	Walter...
+katrina	당신은 권총으로 소녀를 죽인 그 기억이 자기 것일지도 모른다고 생각하는 거군요.	You think that memory of shooting a girl belongs to you, don't you?
+walter	…………	...
+katrina	난 당신을 믿어요, 월터.	I trust you, Walter.
+katrina	그렇게 자신을 탓하는 건 괴롭겠죠…… 분명.	Feeling guilty like that... It can't be easy.
+katrina	어쩌면 정말 월터의 기억일지도 모르지만,	You know what? Maybe that really is your memory...
+katrina	그래도 그건 기억이에요. 과거죠.	But that's all it is. A memory. Something from the past.
+katrina	현실의 당신은 후회하고 죗값을 치르고 있을지도 몰라요.	Maybe, in the real world, you've already repented and atoned for it.
+katrina	당신이 그렇게까지 끔찍한 사람이라고는 생각하지 않아요.	I can't imagine you being such a horrible person.
+walter	……그래도 그게 내 과거라면,	That wouldn't change the fact that it's in my past.
+walter	죽였다는 사실은 변하지 않아.	And the fact that I'm a murderer.
+walter	지금의 나는 기억이 없을 뿐이야.	Right now, I don't remember anything.
+walter	기억을 되찾으면 극악한 인간일지도 몰라.	For all I know, I'm the worst human to ever live.
+walter	현실의 내가 어떤 사람인지 모르겠어.	I have no way of knowing for sure right now.
+walter	나는……	I'm...
+walter	현실로 돌아가는 게 무섭다.	I'm scared of going back.
+@story	엘라라의 기억	Elara's Memory
+elara	정말 여섯 번째 사람이 있는 걸까……	I'm not sure about there being a sixth person here...
+elara	월터 씨를 의심하고 싶지도 않고,	But I don't want to doubt Walter either.
+elara	우리 중 누군가가 카트리나 씨를 쐈다고 생각하고 싶지도 않지만,	And I don't want to think that one of us shot Katrina.
+elara	그래도……	Still...
+elara	우리 말고 한 명이 더 있고,	Let's say there really was a sixth person here.
+elara	그 사람이 카트리나 씨를 쏜 거라면,	And that this person shot Katrina.
+elara	우릴 피해서 숨어 있는 걸까?	Is that person hiding from us right now?
+elara	그 사람을 찾으면…… 이 이상한 공간에 대해서도 뭔가 알 수 있을까?	If so... maybe, if we found that person, we could find out what the deal is with this strange place.
+elara	…………	...
+elara	……정말 그런 걸까.	I don't know what to believe anymore...
+elara	그 뒤로 나도 여러 기억을 보고 생각해 봤는데……	I've thought about things a lot, and I've seen all those memories...
+elara	나, 밀항자인 걸까.	And now, I wonder if I'm the stowaway.
+elara	이런 차림이기도 하고.	It'd explain this outfit.
+elara	넌 어떻게 생각해?	What do you say?
+elara	여러 기억을 보고 뭔가 느낀 게 있어?	Did seeing all those memories give you any idea?
+@selection	모르겠어.	I can't say for sure.
+@selection	밀항자는 나일지도 몰라.	Maybe, I'm the stowaway.
+elara	그렇구나.	I see...
+elara	나도…… 그래.	It's the same for me.
+elara	나일지도 모른다고 생각하지만 확신은 없어.	I guess I could be it, but I can't be sure.
+elara	……네가?	You?
+elara	그 기억을 보고 뭔가 느꼈어?	What did that memory make you feel, really?
+elara	조이는 말이야,	Zoe told me something...
+elara	자기 것 같은 기억을 봤을 때는 알 수 있다고 했어.	She said that when she watched certain memories, she could tell they were hers.
+elara	다른 기억과는 다른 특별한 느낌이 든대.	That she felt something different.
+elara	하지만…… 나는 그런 걸 느낀 적이 없어.	But I've never felt anything like that yet.
+elara	이 공간에서 보이는 이미지가 정말 우리 기억이라면,	I don't even know whether all these visions really are our memories.
+elara	내 기억도 그 안에 있을 텐데……	If they are, mine should be in here too.
+elara	난 한 번도 『아, 이건 내 거다』라고 느낀 적이 없어.	But I've never felt, like, "oh, this is definitely mine."
+elara	전부 모르는 누군가의 기억처럼 느껴져.	They all feel like some stranger's memories.
+elara	나는…… 어떤 사람일까.	I... really wonder what kind of person I am.
+elara	뭐, 그래도.	Oh, well...
+elara	여기서 나가면 알게 되겠지.	I guess I'll find out when we get out of here.
+elara	카트리나 씨를 쏜 범인이 있거나, 우리가 모르는 여섯 번째 사람이 있을지도 몰라.	Either one of us shot Katrina, or there is a sixth person we don't know here.
+elara	그 사람이 무슨 일을 꾸미는지는 모르겠지만……	I have no idea what the culprit is planning, but...
+elara	적어도 난 모두를 의심하고 싶지 않아.	I want to trust everyone.
+elara	또 끔찍한 일이 생기기 전에,	Before anything bad like that happens again...
+elara	다 같이 협력해서 빨리 탈출하자.	We must work together and get out of here.
+@story	위화감	Unease
+	모르는 누군가의 기억처럼 느껴진다──	"They all feel like some stranger's memories."
+	엘라라는 그렇게 말했다.	That's what Elara said.
+	그 감각은 잘 안다.	I know that feeling.
+	나도 내 것이라고 확신할 수 있는 기억은 거의 없었다.	I don't feel that any of the memories I watched were mine.
+	권총으로 누군가를 쏜 그 기억을 제외하면.	Any of the memories... except for the one from the gun.
+	소녀를 쏜 사람은 누구일까.	Who shot that girl?
+	월터도 자기 기억일지 모른다고 생각하는 듯했다.	Walter apparently thought it could've been him.
+	나도 마찬가지다. 그때의 충격을 손바닥이 기억하는 것 같다.	But the feeling of shooting a gun felt familiar on a physical level.
+	총을 쏜 적이 있다. 틀림없이.	I'm sure of it. I've shot a gun before.
+	카트리나를 쏜 범인과 월터가 봤다는 노인.	I still didn't know who shot Katrina, or if Walter had really seen some unknown old person.
+	물론 그것도 신경 쓰였다.	I couldn't ignore those questions either.
+	아직 아무것도 밝혀지지 않았고 단서도 없다.	We were all stumbling in the dark, without a single clue.
+	하지만 그것과 별개로 여기 있는 모두가 혼란스러워한다.	But the question weighing down the most on everyone was a different one...
+	현실의 나는 어떤 사람이었을까?	"What kind of person was I in the real world?"
+	떠올리고 싶지도 않은 비밀을 가진 사람이 나인 건 아닐까?	We couldn't be sure that we weren't the ones hiding a terrible, forgotten secret.
+	기억을 되찾았을 때 뜻밖의 무언가와 마주하게 되는 건 아닐까?	Once we remembered everything, we might have to face that.
+	잊고 있던 자기 자신의 진실을 알게 되는 것.	The prospect of remembering the truth about ourselves loomed above all of us...
+	모두가 그것을 두려워하기 시작했다.	And it was terrifying.

@@ -1,0 +1,376 @@
+@story	지구의 학교	Schools on Earth
+<sana>	<elara>, 방과 후에 슬리피 들렀다 갈래?	Hey, <elara>, wanna go to Sleepy after school?
+	점심시간이 끝나갈 무렵, 갑자기 말을 걸어왔다.	Just as lunch break was about to end, <sana> suddenly invited her.
+<elara>	역 앞에 있는 데?	The one in front of the station?
+<sana>	응. 최근에 생겼다던데?	Yeah. It just opened, right?
+<elara>	음, 좋아.	Sure, sounds good.
+###@selection-token	ドーナツ	Donuts
+<sana>	좋았어. 도넛이 맛있대.	Great. I heard their donuts are delicious.
+<elara>	도넛?	Donuts?
+<sana>	설마, 몰라?	What, you've never heard of donuts?
+<elara>	알긴 아는데.	Of course I have.
+<sana>	요즘 세상에 도넛? 이라고 생각했지?	I get it, you probably think donuts are too oldfashioned.
+<sana>	요즘 유행이래. 레트로해서 좋다고.	But that's the cool part. They're retro.
+<elara>	흐응.	Uh-huh.
+<sana>	와, 관심 없어 보인다. 그래도 갈 거야.	Wow, talk about unimpressed! We're still going though.
+<sana>	그럼 방과 후에 데리러 올게.	I'll come get you after school!
+	<sana>는 올해부터 다른 반이 되어 자기 교실 쪽으로 돌아갔다.	<sana> went back to her classroom. They had been in different classes since the beginning of the year.
+	도넛이라…… 하고 생각하며, <elara>도 다음 수업을 준비한다.	<elara>, still unimpressed with the idea of donuts, started preparing for the next class.
+	복도를 청소 로봇이 천천히 지나가는 소리가 들린다.	A cleaning robot could be heard slowly making its way through the hallway.
+	이윽고 교사──이쪽도 로봇이지만──가 교실로 들어올 것이다.	Then the teacher, a robot as well, walked into the classroom.
+	이 학교는 수백 년 전부터 이어져 온 고전적인 방식을 따르고 있다.	This school still embraced the classic, centuries-old way of doing things.
+	특히 지구에서는 평이 좋은 모양이다.	People on Earth tended to prefer that.
+	물론 아직 십 대인 <elara>는 지구 밖의 사정 따위 알지 못한다.	<elara>, still a teenager, knew nothing about life on other planets.
+	<elara>는 지구에서 태어나 지구에서 자랐다.	<elara> was born and raised on Earth.
+	전 인류가 우주 곳곳으로 흩어진 시대.	In that era, humanity was scattered throughout the universe.
+	그런 시대에 인류의 모성에서 태어난 건 감사해야 할 일인 모양이다.	People said that being born on the very planet that started it all was something to be grateful for.
+	하지만 <elara>는 아직 잘 모르겠다.	However, <elara> didn't really get it.
+	아주 먼 옛날──아직 인간이 우주에 가 본 적 없던 시절과 같은 마음으로, <elara>는 하늘을 올려다본다.	To <elara>, the starry sky looked the same as it must have looked to the ancient humans who had never been there.
+@story	입을 열지 않는다	Mouths Shut
+	왜 그런지는 <elara>도 아직 모르지만, 가끔 손님이 집을 찾아온다.	<elara> still had no idea why, but sometimes they would get visitors.
+	그런 손님들은 함께 식사조차 할 수 없는 경우가 많다.	But they could never eat anything with them.
+	그들은 문화나 관습뿐 아니라 신체적으로도 <elara> 같은 옛 방식의 인류와 다르다.	It wasn't just their culture. Their bodies worked in a different way from those of old-fashioned humans like <elara>.
+man	미안하지만, 우리는 음료를 마시지 않아서요.	I'm sorry. We don't really drink this kind of thing.
+	이날도 모처럼 내린 커피가 헛수고가 됐다.	Once again, <elara>'s carefully brewed coffee went to waste.
+<elara>	저기, 아저씨는 뭘 마셔?	Well, what do you drink then?
+father	얘, <elara>. 죄송합니다, 제 딸이……	<elara>, don't be rude. I'm sorry, my daughter doesn't get it...
+man	아닙니다. 아가씨, 신기하게 느껴질 수도 있겠지만.	Oh, don't worry. This must be strange for you, young lady.
+###@selection-token	食事	Food
+man	우리는 입으로 식사하는 걸 그만뒀단다.	We simply stopped using our mouths to consume food.
+<elara>	왜?	But why?
+man	우리 행성에서는 입을 벌리고 있을 수 없는 사정이 있어서 말이지.	On our planets, we have very good reasons to keep our mouths shut all of the time.
+	흐응, 하고 <elara>가 말한다.	I see, said <elara>.
+<elara>	아깝다. 맛있는데.	Sounds like a waste. Coffee is delicious.
+<elara>	아, 설탕이랑 우유를 듬뿍 넣으면 말이지만.	When you put enough milk and sugar in it, that is.
+	중년의 손님은 하하하, 하고 웃는다.	The old visitor broke into laughter.
+	자세히 보니 그의 입은 지금까지 한 번도 열린 적이 없다.	But come to think of it, he hadn't opened his mouth even once.
+@story	뿔뿔이 흩어진 인류	Scattered Mankind
+<elara>	이렇게 하면 돼?	Did I do it right?
+grandmother	그래, 잘했단다.	You sure did.
+	할머니가 준비한 화분에 <elara>는 씨앗을 심었다.	<elara> was planting seeds in a pot prepared by her grandmother.
+<elara>	이거, 할머니 친구가 준 거야?	Did your friend give you these?
+grandmother	그래. 멀리 간다면서 주더구나.	That's right. She said she's going very far away.
+<elara>	다른 별로?	To another planet?
+grandmother	그렇단다.	That's right.
+<elara>	왜 다들 우주로 가 버리는 거야?	Why does everyone go into space?
+grandmother	……글쎄, 왜일까.	I wonder, darling.
+	할머니는 안락의자에 몸을 깊숙이 기댄다.	Her grandmother leaned back into the chair.
+grandmother	옛날에, 할머니의 할머니가 아직 건강하셨을 때는 말이야.	Back in the day, when my own grandma was still young and healthy...
+###@selection-token	地球	Earth
+grandmother	사람은 모두 지구에서 살았단다.	Everyone just lived on Earth.
+<elara>	지구에서만?	Just on Earth?
+grandmother	그래, 지구에서만. 하지만 사람이 많으면 여러 가지 일이 생기지.	Yes, just on Earth. But when there are so many people around, unpleasant things can happen.
+grandmother	<elara>, 학교에 친한 친구가 있니?	<elara>, dear, do you have any friends at school?
+<elara>	응. 많아.	Sure. Lots of them.
+grandmother	친하지 않은 친구는?	And are there any people you don't get along with?
+<elara>	……조금.	Well... a few.
+grandmother	그게 보통이란다.	That's normal.
+grandmother	하지만 사람이 너무 많으면 가끔 정말 곤란한 일이 생기기도 한단다.	But sometimes, when there are too many people, things can go south.
+	할머니는 느긋하게 설명해 준다.	Her explanation was calm and relaxed.
+	한때 지구에서 번영의 절정을 누렸던 인류는 몇 차례 세계적인 충돌을 겪은 뒤 큰 위기감을 품게 되었다.	Mankind, after achieving incredible progress on Earth, had been left scarred by one too many global conflicts.
+	이대로라면 인류는 언젠가 내전으로 멸망한다.	They realized that, if they didn't take action, they were on the path to extinction.
+	지구가 불타 버리는 건 시간문제처럼 여겨졌다. 지금이 아니더라도 언젠가 그때가 올 것이다.	People thought that sooner or later, a war big enough to destroy the Earth would happen. It was only a matter of time.
+	그래서 사람들은 지구를 떠나 서로 떨어져 살아가기로 했다.	So some people chose to leave Earth and go their own, separate ways.
+grandmother	모두와 친해질 수는 없는 법이란다.	You can't be friends with everyone.
+grandmother	친해질 수 없다면 잠시 거리를 두는 것도 좋아.	And when there's someone you don't get  along with, sometimes it's just better to leave for a while.
+<elara>	그럼 할머니 친구도 언젠가 돌아와?	A while? So your friend will come back eventually?
+grandmother	……글쎄, 어떨까.	That's hard to say.
+	그렇게 되지는 않을 것이다.	It was, to put it mildly, unlikely.
+	수많은 별로 뿔뿔이 흩어진 인류는 이제 두 번 다시 하나가 되지 못한다.	Mankind, having scattered itself throughout the cosmos, was never going to be united again.
+@story	단 하나의 인류	United Mankind
+	한때 이 지구에 살았던 생물들이 당시 모습 그대로 전시되어 있다.	Life forms that had once walked the Earth were on display, perfectly preserved.
+	인간도 언젠가는 그렇게 될까.	Maybe, one day, humans would join their ranks too.
+	박제가 되어 박물관에 전시되고, 과거의 존재가 된다.	They would be taxidermized and become the stuff of museums.
+	그때 전시될 인간의 모습은 지금 자신이 생각하는 인간과 같을까.	The question is whether those displays would actually look like humans do today.
+	<elara>는 가끔 그런 생각을 한다.	Sometimes, <elara> would ask herself questions like those.
+###@selection-token	文化	Culture
+	사람들은 우주 곳곳으로 흩어져 각자의 행성에서 독자적인 문화를 이루게 되었다.	Mankind was divided. Different people lived on different planets, with different cultures.
+	행성 사이를 오가는 우주선은 비싸고, 아공간 항행을 이용해도 시간이 걸린다.	Interplanetary travel was costly and, despite the development of spaceships that could travel through different dimensions, took a long time.
+	냉동 수면으로 한숨 자는 것뿐이라 해도 그사이 수십 년이 지나면 행성에 남은 친구들은 죽고 만다.	Cryosleep meant it felt like no more than a nap, but decades would pass. Long enough for one's friends to age and die.
+	행성과 행성을 오가는 일은 지금도 여전히 쉽지 않았다.	Even now, moving between planets was no small feat.
+	지구의 인구는 전성기의 10분의 1 정도. 지금도 지구를 떠나는 사람들이 있다.	The population on Earth had declined to one tenth of its peak, and people were leaving all the time.
+	그리고 가끔, 한 번 우주로 나갔던 사람들이 지구로 돌아온다.	However, sometimes, there were people who wanted to come back.
+	그들도 원래는 같은 인간인데, 자동 번역기를 통하지 않으면 대화조차 할 수 없다.	But once back, they would need to use translation devices just to communicate with their fellow humans.
+	문화도, 심지어 신체적 특성마저 다른 경우가 있다.	Their cultures, or even their very bodies, may be different.
+	우주로 진출한 뒤 사람들은 이전과는 비교도 되지 않을 만큼 서로 달라졌다.	Expanding into space had divided people like nothing else in their history.
+	이들을 하나의 '인류'라고 묶어 불러도 되는지 의문이 들 정도로.	Covering all of them under the single moniker of "mankind" arguably didn't make sense anymore.
+	그리고 그들로 인해 지구에 사는 사람들 역시 조금씩 변해 갈 것이다.	And at the same time, those who had remained on Earth would keep changing too.
+	우리는 언제까지 인류로 남아 있을 수 있을까, <elara>는 생각한다.	And those people on Earth would forever be humans, forever be "mankind." So <elara> thought.
+@story	소꿉친구	Childhood Friends
+	<sana>는 인형 놀이를 하던 시절부터 함께한 친구였다.	<elara> and <sana> became friends back when they both still played with dolls.
+	태어난 병원도 같았고, 둘보다 먼저 부모들끼리 친구가 되었다.	They were born in the same hospital, and their parents became friends before they did.
+	십 대 중반이 된 지금도 둘은 같은 학교에 다니는 단짝 친구였다.	Now, as teenagers, they went to the same school, and they were best friends.
+<sana>	<elara>, 시험공부 하고 있어? 벌써 다음 주야.	Hey, <elara>, have you been studying for the test? It's only a week away.
+<elara>	으음. 별로.	No, not really.
+<sana>	뭐, <elara>는 괜찮겠지. 똑똑하니까.	Guess you don't even need to, with how smart you are.
+<elara>	그렇지도 않은데.	I'm not that smart.
+<sana>	아니거든. <elara>는 똑똑해.	You absolutely are.
+	<sana>는 자랑스럽다는 듯 말했다.	<sana> sounded proud as she said that.
+###@selection-token	学校/職場/駅/上司/家族	School/Workplace/Station/Boss/Family
+	이 학교에 다니기 시작한 뒤 친구는 늘었지만, 그래도 <sana>와 가장 많이 이야기한다.	Despite making new friends since joining this school, <sana> still was the one that <elara> spoke to the most.
+<sana>	근데 요즘 정기시험 같은 거 보는 곳, 우리 학교 정도밖에 없다더라.	I've heard most schools don't really have tests anymore though.
+<elara>	그래?	They don't?
+<sana>	<elara>도 곱게 자라서 모를 수도 있겠지만.	I know you're too fancy to preoccupy yourself with such matters...
+<sana>	이렇게 웃길 정도로 전통적인 방식의 수업을 아직도 하는 곳은	But having "classes" and stuff like that is considered old-fashioned pretty much everywhere.
+<sana>	지구에서도 이 학교 정도뿐이야.	Only schools on Earth do it anymore.
+<elara>	나 그렇게 곱게 자란 것도 아니거든.	I'm not fancy or anything.
+<elara>	알아…… 이 학교가 엄청 보수적이라는 것 정도는.	I know that our school is... very conservative and all that.
+<sana>	국어나 수학 같은 거……	I mean, we still study literature and mathematics.
+<sana>	이런 걸 공부해서 어디다 쓰려는 걸까. 이런 시대에 말이야.	What's the point nowadays?
+<elara>	……분명 중요할 거야.	I bet they're important.
+<sana>	그럴까아.	Are they though?
+<elara>	옛날 사람들이 어떤 식으로 생각해 왔는지 알아 가는 거	We can understand how people back in the day used to think.
+<elara>	재밌지 않아?	Isn't it fun?
+<sana>	……그건 <elara>가 똑똑해서 그런 거야.	It's just fun for smart people like you.
+<elara>	그렇지는…… 않은 것 같은데.	I... don't think that's the case.
+@story	예방접종	Vaccine
+<sana>	들었어? 내일 또 예방접종이래.	Did you hear? We'll get another vaccine shot tomorrow.
+	방과 후, 거의 아무도 남지 않은 교실에서 <sana>가 말했다.	<sana> spoke in the almost empty classroom. Classes were already over.
+<elara>	들었어. 또 새로운 거라던데.	I heard. They say it's a new one.
+<sana>	올해 들어 몇 번째야? 싶다니까.	How many times has it been this year alone?
+<elara>	요즘 늘었지.	It feels like there are more every year.
+<sana>	그러게. 외부에서 지구로 돌아오는 사람이 늘고 있다잖아.	Yeah. Must be because of all the people coming back to Earth.
+	다른 행성에서 살던 사람들이 지구로 돌아오는 일도 가끔 있다.	Sometimes, people who live on other planets come to live on Earth.
+	그들 대부분은 지구에서 태어나지 않았다.	Most of them are not actually Earth natives to begin with.
+	그런데도 인류가 탄생한 지구를 고향이나 성지처럼 여기는 이들도 있다.	To some, as the birthplace of humanity, Earth is something of a holy ground.
+	죽기 전에 한 번쯤 지구에서 살아 보고 싶다는 이야기도 들린다.	Many insist on living on Earth at least once before they die.
+	하지만 그들은 지구와는 다른 환경에서 살아온 사람들이다.	However, they were born and raised in very different environments.
+	지구에는 없는 세균이나 바이러스를 몸속에 지니고 있는 경우도 많다.	They often carry bacteria and viruses that do not normally exist on Earth.
+	대부분은 검역 과정에서 발견되어 미리 약물이나 수술을 통한 적응 처치를 받거나, 최악의 경우 강제 송환된다.	Usually they are discovered during the mandatory quarantine. Usually they are cured or, if that is impossible, sent back to their planet.
+	그래도 가끔 검역에서 놓친 세균이나 바이러스가 지구로 유입되어 퍼지는 일이 있다.	But sometimes, bacteria and viruses can slip through the cracks and start multiplying on Earth.
+	그때마다 지구에 사는 사람들에게 백신 접종이 이루어진다.	When that happens, Earth natives protect themselves with vaccines.
+###@selection-token	学生/教師/スパイ/基地/宇宙船	Students/Teachers/Spies/Bases/Spaceships
+	<elara> 같은 학생들은 학교에서 단체로 접종을 받는다.	Students such as <elara> get all of their vaccines at school.
+<sana>	지구에 매력을 느껴서 돌아와 주는 건 왠지 기쁘긴 한데.	It's nice that they like Earth so much that they come all the way here though.
+<elara>	……그런가.	I'm not so sure...
+<elara>	나는…… 조금 무서워.	Honestly... I find it scary.
+<sana>	왜?	How so?
+<elara>	여러 사람들이 제각각의 언어와 문화로 살아가고 있고	Their cultures and languages spread everywhere...
+<elara>	내가 알던 지구가 아니게 되어 가는 것 같아서.	It's like the Earth I know is disappearing.
+<sana>	여러 사람이 있어도 다 같이 사이좋게 지내자는 게 요즘 흐름이잖아?	Isn't "peaceful coexistence" the whole point? Everyone's talking about it.
+<elara>	……그렇긴 하지만.	I get it but...
+<elara>	예방접종도…… 내가 내가 아니게 되어 가는 것 같아서.	When I take those vaccinnes...it's like I'm not myself anymore.
+<elara>	사실은 싫어.	Honestly, I hate it.
+@story	친구와의 이별	Parting Friends
+<sana>	<elara>, 나 있잖아.	<elara>...
+	집으로 돌아가는 길, 승객이 거의 없는 차 안에서 <sana>가 말했다.	<sana> and <elara> were on their train home. There were barely any other passengers.
+<sana>	이사 가게 됐어. 다음 달에.	I'm moving to a new place next month.
+<elara>	아. 그렇구나.	You are?
+<elara>	……어디로?	And... where is that?
+	<sana>는 말없이 창밖을 바라보고 있었다.	<sana> was staring out of the window.
+<elara>	혹시 서해안? <sana>, 동경한다고 했었잖아.	To the west coast? You always said you'd like to live there.
+<sana>	아니. 있잖아, <elara>.	Well... no. <elara>...
+<sana>	우리 가족 모두 다른 행성으로 가게 됐어.	We're all moving to another planet.
+<elara>	뭐……?	What...?
+	<elara>는 놀란 표정을 지었다. 하지만 마음 한구석에서는 어렴풋이 알고 있었다.	<elara> looked surprised, but deep down, she knew this was coming.
+###@selection-token	クラスター	Clusters
+	<sana>네 가족은 <elara>와 다른 클러스터에 속해 있었고, 최근 그들 사이에 내부 갈등이 있었다.	<sana>'s and <elara>'s families belonged to different "clusters," the relationship between which had recently started to turn sour.
+	서로 타협할 수 없다면 함께 살아갈 수 없다. 어느 한쪽이 떠나야 한다.	If there is no harmony, people cannot live together. Someone has to leave.
+	이곳을 떠나도 갈 곳은 얼마든지 있다. 이 광대한 우주에는 말 그대로 별의 수만큼이나.	Thankfully, there was always space to live apart. Space, with a capital S.
+<elara>	……그렇구나.	Oh...
+<elara>	먼 곳이야?	Far away?
+<sana>	……응.	Yeah.
+<sana>	여기서 수백 광년이나 떨어진 행성이야.	Hundreds of light years from here.
+<elara>	…………	...
+<elara>	……그렇구나.	I see...
+	<elara>는 단말기를 만지작거리며 최대한 평소처럼 말했다.	<elara> tried to act unconcerned, fidgeting with her portable device.
+	다른 행성에도 컴퓨터로 메시지를 보낼 수는 있다.	Even if they were light years apart, they could message each other.
+	하지만 아마 이제 그녀에게 메시지를 보내는 일은 없을 것이다.	But <elara> knew she probably would never message her friend again.
+	아공간 항행 덕분에 우주선은 겉보기에는 빛보다 빠르게 이동할 수 있게 되었다.	Spaceships could travel through dimensions and technically travel faster than the speed of light.
+	그래도 한순간에 워프할 수 있는 것은 아니다. 아공간을 이동하는 동안에도 시간은 흐른다.	But it still wasn't an instantaneous process, and time passed as normal while they warped from point A to point B.
+	수백 광년의 거리를 몇 년 만에 이동할 수는 있지만, 그 시간을 0으로 만들 수는 없다.	Hundreds of light-years could be covered relatively quickly, but it still took a few years.
+	아공간 통신을 사용해도 메시지가 도착하는 것은 몇 년 뒤다.	Communications followed the same principles. Messages would take a few years to arrive.
+	지구를 떠나 버리면──이제 이야기할 수도, 만날 수도 없다.	As soon as <sana> left Earth, they wouldn't be able to speak, let alone meet, anymore.
+@story	지구를 떠나다	Leaving Earth
+	<elara>가 스무 살이 되었을 무렵,	It was around the time <elara> turned 20.
+	<elara>의 일족은 지구를 떠나게 되었다.	Her family decided to leave Earth.
+	<elara>는 처음으로 우주복 헬멧을 썼다.	It was her first time putting on a spacesuit helmet.
+	다른 행성에서 지구로 돌아온 사람들과 끝내 어울려 살아갈 수 없었다.	They couldn't live together with those who had come back to their home planet anymore.
+	그들은 <elara>가 태어날 무렵부터 지구에 정착해 지금까지 어떻게든 함께 살아왔지만, 이제 한계였다.	They'd come back years ago, when <elara> had just been born. Attempts were made, but peaceful coexistence had proven impossible.
+	손을 잡을 수 없다면 무시하면 된다. 아니면 지구의 다른 곳으로 이사하면 된다.	If you can't get along, ignore them. If you can't ignore them, leave for somewhere else on Earth.
+	<elara>는 그렇게 생각했지만, 그렇게 단순한 문제도 아니었다.	It sounded so simple to <elara>. And yet, it wasn't.
+###@selection-token	不和	Discord
+	계속 서로를 무시하고 불화를 이어 가기에는 지구가 너무 좁았다.	Earth was too small a place to just ignore conflict.
+	게다가 불화를 해결할 수 없는 사람들이 굳이 함께 살아야 할 필요도 없었다.	What's more, there was absolutely no need to endure any of it.
+	마음이 맞는 사람들끼리만 다른 행성에서 살면 된다.	Just find another planet where you can get along with everyone.
+<elara>	정말 이래도 되는 걸까?	Is this really the right thing to do?
+	<elara>가 그렇게 말해도 대답해 주는 사람은 아무도 없었다.	<elara> asked, but nobody replied.
+	할머니라면 이야기를 들어 주셨을지도 모른다. 하지만 이제 할머니는 세상에 없다.	Maybe, had she still been alive, her grandmother would have considered her question.
+	<elara>는 이제 아공간을 지나는 우주선에서 몇 년간 여행하게 된다.	<elara> would soon embark on a years-long journey through space.
+	냉동 수면 장치 안에서 잠들 테니 한순간처럼 느껴진다고 하지만, 아직은 믿기지 않는다.	She still found it hard to believe that the cryosleep would make it feel like it only lasted an instant.
+	할머니가 잠든 지구를 떠나는 것이 <elara>는 슬프다.	And she was sad to leave Earth, the place where her grandmother rested.
+@story	창문으로 내려다본 지구	Blue Marble
+	카메라의 파인더 너머로 지구가 보인다.	Through the lens of her camera, she saw Earth.
+	조금 전까지만 해도 저곳에 있었다고 생각한다.	She thought about how she'd been there just earlier.
+	푸르고 아름다운 행성.	What a beautiful blue planet it was.
+	그래도 수백 년 전──아직 전 인류가 지구에서 살던 시절과 비교하면 모습이 달라졌을까.	But had it always looked like this? Even centuries ago, when everyone still lived there?
+	급격한 사막화가 진행되었다고 한다. 인구가 줄어도 사람들의 경제 활동은 달라지지 않는다.	They said deserts had grown exponentially larger since then. There were fewer people, but still the same economic activity.
+###@selection-token	資源	Resources
+	예전과 같은 양의 자원과 에너지를 적은 수의 사람들이 물 쓰듯 소비하고 있다.	Energy and resources were still being exploited, even by a reduced population.
+	그래도 부족해서 다른 행성에서 자원을 수입하고 있다.	They weren't enough. The people of Earth had to rely on imports from other planets.
+	그런 짓을 하는 곳은 지구뿐이다.	No other planet had to resort to measures like those.
+	행성의 자원이 고갈되면 다른 행성으로 옮기면 그만이다. 수입하는 것보다 훨씬 싸게 먹힌다.	Why stay on a planet where resources have dried up, when it's so easy and cheap to move to a new one?
+	<elara> 일행을 태운 우주선은 천천히 지구에서 멀어지며 아공간 항행이 가능한 지점을 향하고 있다.	The spaceship with <elara>'s family on it slowly left Earth behind, heading toward a point where they could enter interdimensional space.
+	멀어져 가는 지구를 바라보며 <elara>는 우주의 광대함을 생각한다.	As Earth grew smaller in her field of view, she started realizing just how immense space was.
+	우주는 너무나도 넓다.	Space was just that large.
+	어쩌면 사람들은 언젠가 자기 행성 밖에도 인류가 살고 있다는 사실을 잊어버릴지도 모른다.	Maybe, one day, people would even come to forget that other planets, with other people on them, existed at all.
+	이 지구도 언젠가는 잊어버릴지도 모른다.	And maybe, they would even forget about Earth.
+@story	지구의 씨앗	Earth's Seeds
+	돌아가신 어머니가 관리하던 창고에서 식물 씨앗을 발견했다.	She found some seeds in the warehouse her late mother had once looked after.
+	병으로 돌아가셨다.	Her life had been cut short by illness.
+	아직 젊었다. 자식도 다 키웠으니 앞으로 수십 년은 더 인생을 즐기실 거라 생각했다.	Too short, perhaps. Done raising her daughter, she could still have enjoyed so many more years of her life.
+	걸린 병은 이 행성 특유의 질병이었다.	The illness that had taken her was unique to this planet.
+	<elara> 일행이 이 행성에 왔을 때 모두 함께 적응 처치를 받았다.	When they moved in, <elara>'s whole family had undergone all the necessary medical procedures.
+	그러면 병에 걸리지 않을 거라고 했고, 실제로 어머니를 제외한 모두가 멀쩡했다.	That was supposed to keep them safe from all diseases, and indeed, her mother was the only one to get sick.
+	왜 어머니만 쓰러졌는지는 알 수 없다. 의사는 개인차라고만 설명했다.	They didn't know why the vaccine hadn't worked. The doctors said that it came down to each individual's immune system.
+<nora>	……그거, 어떻게 할 거야?	What are you doing with those?
+	창고 정리를 도와주던 <nora>가 <elara>의 손에 들린 것을 바라본다.	<nora>, who had offered to help with cleaning the warehouse, was staring at the seeds in <elara>'s hands.
+###@selection-token	祖母	Grandmother
+	이 씨앗은 아마 원래 할머니의 것이었을 것이다. 어머니에게는 원예 취미가 없었다.	They had once probably belonged to her grandmother. Her mother had never been much of one for gardening.
+<elara>	한번 키워 볼까.	I think I'll try growing them.
+<nora>	이 행성에서? ……자랄까?	Here? On this planet? Will they even grow at all?
+<elara>	글쎄.	No idea.
+<elara>	사실은…… 지구에서 키우고 싶었어.	If I'm being honest... I wish I could grow them on Earth.
+<nora>	……그렇구나.	Yeah...
+<nora>	<elara>는 지구로 돌아가고 싶어?	Do you want to go back there?
+	<nora>와는 이 행성에서 만났다. 그녀는 지구에 가 본 적이 없다.	The two had met on this planet. <nora> had never even been to Earth. 
+<elara>	이 행성이 싫은 건 아니야.	I do like this place.
+<elara>	하지만…… 지구가 그리워. 언제나.	But... I miss Earth. I always do.
+<nora>	그렇구나아.	Oh...
+<nora>	……가자. 언젠가.	Then... let's go there sometime.
+	그녀가 손을 잡아 준다.	She took <elara>'s hands in her own.
+	<elara>는 상상한다. 기억 속 지구의 모습을 떠올린다.	<elara> thought about Earth, in the way it still existed in her memory.
+	하지만 언젠가 지구로 돌아갔을 때──	Even if she could go back there...
+	지구는 기억 속 모습 그대로 아직 그곳에 있을까?	Would it still be the same planet she remembered?
+@story	작전 회의	War Council
+<nora>	……정말 하는 거구나.	So... we're really doing this.
+	둘만 남은 회의실에서 <nora>가 말했다.	<nora> broke the silence in the assembly room. The two of them were the only people there.
+<elara>	무서워졌어?	Are you getting scared?
+<nora>	……무서워. 처음부터 계속.	Getting? I've been scared from the start.
+<elara>	도망치고 싶으면 그래도 돼.	If you want out, that's okay.
+<elara>	나도, 누구도 널 막지 않아.	Nobody's going to stop you, least of all me.
+<nora>	……할 거야. 여기까지 왔으니까.	No, I'm doing it. We've come so far.
+	<elara>의 마음은 변하지 않았다.	<elara> still felt the same way about this plan.
+###@selection-token	細菌	Bacteria
+	연구실에서 그 세균을 만들어 냈을 때부터 이렇게 될 것은 정해져 있었다.	Her intentions were set from the moment she had created those bacteria in the lab.
+	스스로 결정했다는 느낌은 없다. 세균이 변이한 것도 우연이었다.	However, it didn't feel as if it had been her idea. That random mutation in the bacteria was just a coincidence.
+	하지만 그것을 본 순간, <elara>의 의지와는 상관없이 해야 할 일이 정해져 버렸다.	And when she noticed it, <elara> felt that destiny had decided everything for her.
+<elara>	……나도.	I mean, I'm not sure either.
+<elara>	정말 하고 싶은 거냐고 물으면, 잘 모르겠어.	I don't know whether I'm really supposed to do this.
+<nora>	그래도 모두 <elara>를 지지하고, <elara>를 믿어서 여기까지 온 거잖아.	But we all came this way because we believe in you, and because we wanted to go along with your plan.
+<elara>	그래. 그 책임은 질게.	I know. And I'll take responsibility for that.
+	이 행성뿐 아니라 우주 곳곳에 동지가 있다.	She had allies all over the planet, and on other planets too.
+	<elara>처럼 미래를 걱정하는 사람들이 있다.	Many shared her doubts about the future.
+<elara>	이걸로 정말 뭔가 달라질까.	I just wonder if this will really change anything.
+<nora>	달라지기는 할 거야. 우리가 바라는 모습으로 달라질지는 모르겠지만.	It definitely will. No doubt about that. Whether things will change the way we want them to is another question.
+<nora>	그리고……	And also...
+<nora>	넓은 우주 속 단 하나의 행성에서 벌어지는 일이야.	It's just about one little planet in the vast expanse of space.
+<nora>	큰일인 건 맞아. 하지만 아주 작은 일이기도 해.	It's a huge deal, sure, but it's also a tiny, insignificant thing.
+<elara>	……그거, 나 용기 북돋아 주는 거야?	Is that supposed to cheer me up?
+<nora>	후후. 당연하지.	Haha. 'Course it is.
+	<elara>도 웃고 만다.	<elara> ended up laughing along with her.
+	하지만 <nora>의 말은 옳다.	Still, what <nora> had said was true.
+	아주 작은 것일 것이다. 앞으로 벌어질 일도, <elara> 자신도.	It was insignificant. The plan was insignificant, and <elara> herself was too.
+	지구로 출발할 날이 이제 일주일 앞으로 다가왔다.	And now, there wasn't even a week left before she'd leave for Earth.
+@story	지구로	To Earth
+	다음에 눈을 떴을 때는 헬멧 너머로 지구가 보일 것이다.	She knew that the next time she woke up, she'd see Earth through the glass pane on her helmet.
+<nora>	슬슬 자야지.	It's about time we went to sleep.
+<elara>	조금만 더.	Just a bit longer.
+<nora>	아무것도 안 보이잖아?	But you can't see anything.
+<elara>	응…… 그렇긴 한데.	I know... but still.
+	여기서 기다려 봐야 지구는 보이지 않는다.	Waiting there to see Earth wouldn't make any sense.
+	지구에 도착하는 것은 수십 년 뒤다.	They wouldn't get anywhere close to it for decades.
+###@selection-token	冷凍睡眠	Cryosleep
+	<elara> 일행은 냉동 수면 장치 안에서 잠들겠지만, 우주선 밖에서는 그만큼의 시간이 흐른다.	<elara> would be fast asleep in her cryosleep pod, but time in the spaceship would advance as normal.
+	그때 지구가 어떻게 되어 있을지 알 방법은 없다.	There was no way to know what Earth would look like by the time she got there.
+	지금 받을 수 있는 태양계의 신호조차 수십 년 전의 것이다.	All the "new" information she could receive from the solar system was decades old, after all.
+	모든 일이 헛수고로 끝날──그럴 가능성도 있다.	She had to contend with the possibility that her trip would be entirely meaningless.
+<elara>	미안해, <nora>.	I'm sorry, <nora>.
+<nora>	됐어. 이제 와서.	We've been there already.
+<elara>	다시는 여기로 돌아오지 못할지도 몰라.	It's possible we'll never be able to come back.
+<nora>	지구에서 죽을 수 있다면, 그것도 나쁘진 않겠네.	I guess dying on Earth wouldn't be so bad.
+<nora>	……하지만, <elara>.	But... <elara>.
+<nora>	너는 살아야 해.	You can't die.
+<nora>	살아서 우리가 이제부터 할 일이 어떻게 끝나는지 지켜봐.	You need to live and see how this plan of ours unfolds.
+<elara>	……힘들 거야.	Like it's easy...
+<elara>	테러리스트로서 온 우주의 추적을 받게 될 테니까.	I'll have the whole universe coming after me as a terrorist.
+<nora>	분명 괜찮을 거야. 동료도 있고.	It'll be fine. You're not alone.
+<nora>	게다가…… 사람 하나를 찾기에는 우주가 너무 넓잖아.	And also... the universe is too big to find someone who really wants to hide.
+<elara>	……그러네.	You have a point...
+<elara>	몸을 숨길 행성은 이미 찾아뒀어.	I've already found the perfect planet to hide.
+<elara>	숨겨 줄 사람들도 있어……	There are people there who'll help.
+<nora>	그 사람들도 위험한 걸 알면서 협력해 주는 거잖아.	I'm sure they know just how dangerous helping us would be.
+<nora>	헛되게 할 순 없지.	Can't let their kindness go to waste.
+<elara>	응.	You're right.
+<elara>	할게.	I'll do it.
+<elara>	지구는……	Earth...
+<elara>	우리에게 하나의 쐐기가 되어야 해.	Is what must keep us all united.
+	<elara> 일행을 태운 우주선은 곧 아공간 항행에 들어간다.	Very soon, the spaceship would enter the interdimensional space.
+@story	비상경보	Emergency Broadcast
+	비상경보가 끊임없이 울려 퍼지고 있다.	The emergency broadcast blared on without pause.
+	해야 할 일은 했다. 모든 것이 계획대로 된 것은 아니지만 목적은 이미 달성했다.	What had to be done had been done. It didn't all go according to plan, but she had reached her goal.
+<nora>	빨리 나가자. 이 우주항도 곧 오염될 거야.	Let's get out of here. The spaceport will get contaminated too pretty soon.
+<elara>	응. 하지만 조금만 더.	Yes... Just give me a bit longer.
+	<elara>는 창밖으로 지구를 내려다본다. 이것이 마지막일지도 모른다.	<elara> looked at Earth through the window, possibly for the last time.
+	겉보기에는 아무런 변화도 없다.	It didn't look any different.
+	하지만 지구는──	However...
+	──곧 사람이 살 수 없는 행성이 된다.	It would soon become unhabitable to humans.
+	인간의 뇌에 작용하는 세균이 살포되었다. 전 세계 곳곳에서 동시다발적으로.	They had spread neurotoxic bacteria all over it, from various points across the globe.
+	유전자 조작으로 만들어진 특수한 세균이었다.	A new kind of genetically modified bacteria.
+###@selection-token	廃人	Mindless
+	인간의 뇌에 기생해 의식을 파괴하고, 결국 폐인으로 만든다.	They entered the brain, destroyed consciousness, and turned their victims into mindless drones.
+	감염자를 치료하는 것도, 지구상에서 세균을 완전히 없애는 것도 적어도 앞으로 수백 년은 불가능할 것이다.	Finding a cure or exterminating all of them from the atmosphere would probably remain impossible for hundreds of years.
+	수 세기에 걸쳐, 혹은 영원히 지구는 사람이 살 수 없는 행성이 된다.	Mankind wouldn't be able to live on Earth for centuries, if not forever.
+	우주항 복도에는 화약 냄새가 감돌고 있었다.	The smell of gunpowder already filled the spaceport's corridor.
+	<elara>의 손에는 권총이 들려 있다.	<elara> had a gun in her hand.
+	복도 구석에는 직원 몇 명이 피를 흘리며 쓰러져 있다.	A few of the port's staff were lying in a corner, bleeding.
+	여기까지 오는 동안 몇 명이나 죽였을까.	How many people did she kill to get here?
+	앞으로 얼마나 많은 사람이 미처 탈출하지 못해 뇌를 갉아먹힐까.	And how many more people would fail to escape in time and have their brains destroyed by the bacteria?
+	그래도 해야만 했다.	Those were necessary sacrifices.
+	지구가 앞으로도 지구로 남기 위해.	They would make sure that Earth remained Earth.
+	사람들이 앞으로도 하나의 인류로 함께 나아가기 위해.	They would make sure that mankind could forever stay as one.
+@story	새로운 생명	New Life
+<nora>	잠들었니?	Did she fall asleep?
+<elara>	응.	Yes.
+	가족들이 지켜보는 가운데 아기를 품에 안고 있다.	Surrounded by her family, she was holding a baby in her arms.
+	첫딸. 꿈에도 바라지 못했던 행복.	Her first daughter. A joy she had never imagined she could feel.
+	창문으로 따뜻한 햇살이 들어온다.	Warm sunrays trickled in through the window.
+###@selection-token	地球/風/匂い/海/宇宙	Earth/Wind/Smell/Sea/Space
+	하지만 이 빛은 지구의 햇빛과는 다를 것이다.	But that light wasn't the same as the light you got on Earth.
+	이 아이가 언젠가 지구를 볼 날이 올까.	She wondered if her baby would ever get to see Earth.
+<nora>	퇴원하면 뭐 하고 싶어?	What do you want to do when you leave the hospital?
+<elara>	음. 맛있는 거 잔뜩 먹고 싶으려나.	Well... stuff myself with good food.
+<nora>	그럼 맛있는 걸 준비해야겠네. 고기가 좋아?	I'll have to prepare something nice then. How about meat?
+<elara>	음…… 과일이려나. 머스캣.	Hmmm... I was thinking more about fruit. Grapes.
+<nora>	그렇구나. 맡겨 둬.	Sure thing. I'll get it.
+	그녀는 웃으며 침대에서 멀어진다.	Her mother smiled and left the bedside.
+	이제 곧 퇴원해서 집으로 돌아갈 수 있을 것이다.	Soon, she would leave the hospital and go back home.
+	병원은 별로 좋아하지 않는다.	She didn't like the hospital much.
+	방 밖으로 간호사가 빠른 걸음으로 지나간다.	The nurses were hurrying through the hallways outside her room.
+	이렇게 사람이 많은 곳에 온 것은 오랜만이라 마음이 편치 않다.	She hadn't been in a place with so many people in it for a very long time, and she couldn't relax.
+	어제 막 태어난 아이가 어서 정원을 뛰어다닐 수 있게 되면 좋겠다고 생각한다.	She already looked forward to seeing her newborn baby run around in the garden.
+	사실은 지구의 그 들판을 마음껏 뛰어다녔으면 한다.	Oh, how much better it would have been to see her run around on Earth's fields.
+	하지만 그것이 이루어질 수 없는 소원이라는 것을 <elara>는 누구보다 잘 알고 있다.	But <elara> knew better than anyone that this wish would never come true.
+@story	식물 모종	Seedlings
+daughter	엄마, 이렇게 하면 돼?	Mom, am I doing it right?
+	흙과 비료를 섞던 어린 딸이 고개를 든다.	The little girl stopped mixing the dirt and fertilizer and looked up.
+	친구가 보내 준 모종을 이 온실의 화분에 옮겨 심는 중이었다.	They were repotting seedlings a friend had given them, so they could grow them in the greenhouse.
+<elara>	응. 고마워.	Yes. Good job.
+daughter	여기에 씨앗 심는 거야?	We'll put seeds in this?
+<elara>	아니. 아까 그 모종을 여기에 다시 심는 거야.	No, we'll put those seedlings from before in here.
+daughter	흐응?	Oh?
+	아이는 신기하다는 표정을 짓는다. <elara>는 웃으며 쏟아지는 빛에 눈을 가늘게 뜬다.	The girl made a confused face. <elara> laughed and squinted at the light pouring in.
+	이 빛은 진짜 햇빛이 아니다.	It wasn't real sunlight.
+###@selection-token	地球	Earth
+	천장 전체가 조명으로 되어 있어 지구의 자연광을 흉내 낸 빛을 쏟아낸다.	It was a ceiling light that gave off the same kind of natural light you'd see on Earth.
+	이곳은 지구가 아니다. 지구일 리가 없다.	Still, this isn't Earth. There's no way it could be.
+	지구가 사람이 살 수 없는 행성이 된 지도 벌써 10년이 지났다.	People haven't been able to live on Earth for a decade now.
+daughter	엄마, 머스캣 나무 심자. 좋아하잖아?	Hey, Mom. Let's plant grapes. You like grapes.
+	지난주에 막 네 살이 된 둘째 딸.	Her second daughter had turned four last week.
+	첫째보다 손이 많이 가지만, 그만큼 귀여워 어쩔 줄 모르겠다.	Looking after her was more difficult than with her firstborn, but somehow that made her even more adorable.
+<elara>	좋네. 그렇게 할까.	That sounds nice. Let's do that.
+	모종이 줄기를 뻗고 잎을 내고 열매를 맺을 즈음에는 딸도 많이 자라 있을 것이다.	By the time the seedlings grew and bore fruit, her daughter would be an adult.
+	그래도 아직 지구에서 살 수 있게 되지는 않을 것이다.	But even then, life on Earth would still be impossible.
+	지구의 오염은 고작 수십 년으로 회복되지 않는다.	A few decades wouldn't be enough to clear up Earth's atmosphere.
+	분명 딸은 지구의 땅을 한 번 밟아 보지도 못한 채 죽어 갈 것이다.	Her daughter was likely to die without ever setting foot on Earth. Her daughter was likely to die without ever setting foot on Earth's soil.
+	그러기를 바란다──사랑스러운 딸의 얼굴을 바라보며 <elara>는 생각한다.	And that's what <elara> wished for her daughter, as she looked at her cute, small face.

@@ -1,0 +1,399 @@
+@story	박물관의 책상	Museum's Desk
+	어린 시절의 기억에서는 언제나 피 맛이 난다.	Her childhood memories were full of the taste of blood.
+	집에 있으면 아버지에게 맞았다. 그래서 <katrina>는 늘 박물관 열람실에서 공부했다.	<katrina> would study in the museum's room. If she stayed home, her dad would beat her.
+	직원들은 사정을 눈치채고 폐관할 때까지 있게 해 주었지만, 도와주지는 않았다.	The staff, realizing something was wrong, would let her stay there until closing hours, but they didn't help her besides that.
+	처음에는 공부에 딱히 목적 같은 건 없었다. 그 밖에 할 일이 없었을 뿐이다.	At first, she didn't study for any particular reason. She just didn't have anything better to do.
+	하지만 이윽고 집을 떠나기 위해 책상 앞에 앉게 되었다.	But at some point, she realized she was sitting at that desk with the clear goal of leaving her house forever.
+	십 대 중반에는 학비 전액 면제 특기생으로 기숙학교에 들어갔다.	By her mid-teens, she was admitted to a boarding school, with her tuition fully waived.
+	생활비는 스스로 벌었다. 집에도 몇 번 돌아갔을 텐데 기억에는 없다.	She worked to cover her other expenses, and despite being sure she'd gone back home a couple of times, she couldn't remember any of it.
+	사실은 여학교에 다니고 싶었지만 조건이 가장 좋은 학교가 남녀공학이라 어쩔 수 없이 그곳을 택했다.	If possible, she would have liked to attend a girls-only school, but the best school happened to be a mixed one.
+	재학 중 남학생과 이야기하는 일은 거의 없었다.	That being said, she almost never spoke to boys throughout her years there.
+###@selection-token	星	Planet
+	언젠가는 이 행성에서도 떠날 거야──	"One day, I'll leave this planet too."
+	십 대 후반에는 확실한 자신감과 함께 그렇게 생각하게 되었다.	As she approached her twenties, that had become her new goal.
+	이 넓은 우주 어딘가에 여자들만 사는 행성이 있다면 그곳으로 가고 싶었다.	And if there was a planet with only women on it, that would be her destination.
+	졸업 후 하나는 이루어졌고, 하나는 이루어지지 않았다.	After graduating, half of her wish was granted.
+	<katrina>는 특정 우주 구역의 행성들을 관리하는 통치 기구에 취직했다. 더할 나위 없는 엘리트였다.	<katrina> was hired by the administrative body ruling over a large number of planets. An elite job if there ever was one.
+	아쉽게도 여자들만 있는 직장은 아니었다.	However, she wasn't going to a women-only planet.
+	여자들만 사는 행성이 몇 군데 존재한다는 것도 알게 되었지만, 다른 조건이 마음에 들지 않았다.	She knew a few of those existed, but their overall conditions made them places she wouldn't have wanted to live in.
+	<katrina>는 정식 우주선에 정당한 절차로 탑승해 고향 행성을 떠났다.	After going through all the necessary paperwork, <katrina> boarded the spaceship that would take her off her native planet.
+	그리고 두 번 다시 그 행성으로 돌아가지 않았다.	And she would never come back again.
+@story	물의 행성	Water Planet
+	냉동 수면에서 깨어나 우주선에서 내려다본 행성은 푸르고 물이 풍부한 행성이었다.	When she woke up from the cryosleep, she saw a planet covered in beautiful blue waters.
+	그 모습을 처음 본 순간, <katrina>는 이제야 자신의 인생이 시작된다고 생각했다.	With that one glance, <katrina> realized that this was when it all started.
+	여기서부터가 진짜 인생이라고 진심으로 생각했다.	She truly believed that this was the beginning of her real life.
+	<katrina>는 행성 통치 기구의 직원이 되면서 새 ID 카드와 그 행성의 영주권을 받았다.	As part of the planet's administration, <katrina> was granted a permanent residence permit.
+	테라포밍에 성공한 행성이었지만 그래도 행성마다 차이는 있다. <katrina>가 태어나 자란 행성과는 조금 달랐다.	Even terraformed planets weren't necessarily alike. This one, too, was different from the one that <katrina> had been born on.
+###@selection-token	手術	Surgery
+	<katrina>는 이 행성의 환경과 문화에 적응하기 위한 수술을 받았다.	<katrina> underwent the surgery she needed to fit the new planet's environment and culture.
+	그 행성에서는 인공 자궁을 통한 태아 양육이 기본이었다.	Here, reproduction mostly happened through artificial, external uteri.
+	어머니가 직접 출산하는 일은 거의 없다.	Almost no women directly bore their children.
+	문화적 배경에 따른 것이었지만, 이 행성 주민의 절반은 생식 기능이 퇴화했다고 한다.	Possibly because of this culture, about half of the people on the planet had lost their reproductive abilities.
+	<katrina>에게는 이상적인 세계였다.	To <katrina>, it was like a dream.
+	아이를 갖고 싶다고 생각한 적은 없지만, 남성과 가정을 꾸린다는 건 상상할 수 없었다.	She had never really wanted children, but even if she did, the idea of sharing a home with a man was simply unthinkable to her.
+	<katrina>의 임무는 분쟁 상태에 있는 행성으로 가서 충돌을 피하도록 하는 것이었다.	Her mission here was to stop the ongoing conflict threatening the planet.
+	행성 테라포밍이 간편해진 시대라고 해도 다른 행성으로 이사하는 데는 돈도 들고 고생도 따른다.	Even in this age of easy terraforming, moving to another planet was a difficult and expensive undertaking.
+	행성에 애착이 있으면 대립하는 여러 클러스터가 한 행성에 남아 분쟁 상태가 되기도 한다.	And if they were particularly attached to a planet, different clusters would stay on it and fight each other rather than avoid conflict.
+	그런 사람들 사이에 개입해 어느 한쪽이 새 행성을 사서 이주하도록 하는 것이 <katrina>의 일이었다.	People like <katrina> were tasked to intervene. They'd convince one of the clusters to buy a new planet and move there.
+	반년간의 연수를 마친 뒤 <katrina>는 처음으로 현장에 나가게 된다.	After half a year of training, she had now been assigned to her first real job.
+@story	행성 내 분쟁	Intraplanetary Conflict
+	<katrina>가 처음 부임한 행성은 아주 오래전에 개척된 오래된 행성이었다.	Her first assignment was on a planet that had been found and explored a long time ago.
+	수백 년 전 테라포밍된 이 행성에는 그때부터 줄곧 같은 일족이 살아왔다.	After being terraformed centuries ago, it had always been inhabited by the same tribe.
+	그런데 몇 년 전 이 일족이 두 클러스터로 갈라져 항쟁을 시작했다.	However, a few years ago, the tribe split into two factions who ended up going to war with each other.
+	<katrina>의 일은 양쪽의 주장을 듣고 어느 한쪽이 다른 행성을 사서 이주하도록 하는 것이었다.	<katrina> had to listen to both, and convince one of them to buy a new planet and move there.
+###@selection-token	離別	Distance
+	평화로운 결별. 이 행성에서 다시 손을 맞잡는 해결책을 찾을 필요는 없다.	Distance would bring peace. There was no need to actually resolve the conflict on this planet.
+	호신용이라며 권총을 건네받았다.	They had given her a pistol for protection.
+	총을 가져 보는 것은 처음이었다. 그만큼 상황이 긴박하다는 뜻이었다.	She'd never held one before. That showed just how dangerous the situation was.
+	<katrina>는 손에 든 컴퓨터를 바라본다.	She stared at the portable computer in her hands.
+	사전 조사에서 양쪽 진영 모두 무력 충돌에 대비하고 있다는 사실을 알고 있었다.	The research she'd done before reaching the planet showed that both clusters were already armed.
+	이 시대에 전쟁이라니──	War was, if anything, old fashioned.
+	그렇게 생각하면서도 <katrina>는 무슨 일이 있어도 그것을 막아야 하는 입장이었다.	Still, <katrina> had to prevent it at any cost.
+	불안과 긴장, 적당한 고양감이 <katrina>의 발걸음을 재촉한다.	The anxiousness and slight excitement made her walk faster than usual.
+@story	작업복 차림의 남자	Workwear Man
+man	그래, 여기다. ……고마워.	Yes, here will do. Thanks.
+	전기 설비 공사를 하던 작업복 차림의 남자가 점주에게 전자 서명을 받고 있었다.	A workwear-clad man, presumably an electrician, had just asked the shop owner for his digital signature.
+	발밑에는 커다란 공구함이 놓여 있다.	At his feet was a large toolbox.
+man	저기. ……여기 자리 비었어?	Hey. Is this seat taken?
+	그 남자가 <katrina> 옆에 앉았다. 기계 기름 냄새가 난다.	He sat next to <katrina>. He smelled of motor oil.
+	가게는 정말 만석이었고 빈자리는 <katrina> 옆밖에 보이지 않았다.	She looked around and, indeed, that seemed to be the only empty seat in the shop.
+<katrina>	네, 앉으세요. ……일하는 중 아니에요?	No, go ahead... Aren't you working?
+man	끝났어. 당신은?	I was. Just finished. What about you?
+<katrina>	……일하는 중이에요. 일단은.	I'm still working, more or less.
+	<katrina>는 이 행성의 실정을 알아보기 위해 신분을 숨기고 거리를 돌아다니고 있었다.	<katrina>'s job involved going around the town undercover, gathering information.
+	업무 중이기도 하고, 그저 평범한 손님이기도 하다.	So she was working, but she also was just a regular customer.
+man	그래? 무슨 일인데?	Really? What do you do?
+<katrina>	말할 수 없어요.	Can't say.
+man	흐음?	Huh?
+	남자는 가만히 <katrina>를 바라보았다.	The man stared at her.
+###@selection-token	視線	Gaze
+	기분 좋은 시선은 아니다. 하지만 아버지가 자신을 깔보던 그 시선과는 다르게 느껴졌다.	It felt uncomfortable. It reminded her of her father's gaze.
+man	여기 자주 와?	Do you come here often?
+<katrina>	처음이에요.	First time.
+<katrina>	그래도 좋은 가게네요. 또 오려고요.	I like it though. I think I'll come again.
+man	그래?	Do you?
+	그는 그렇게 말하고 점주에게 커피를 주문했다.	After that rhetorical question, the man ordered a coffee from the shop owner.
+	그리고 다시 <katrina>를 돌아보며 웃는다.	Turning back to <katrina>, he smiled at her.
+<ivan>	난 <ivan>. 당신은?	By the way, I'm <ivan>. What's your name?
+	왜일까.	It felt strange.
+	<katrina>는 그 미소에서 눈을 떼지 못한다.	For some reason, she couldn't take her eyes off that smile.
+@story	개인적인 시간	Off Time
+	그 뒤로 몇 번인가 <katrina>는 <ivan>과 만났다.	<katrina> and <ivan> met several times after that.
+	그 카페에서, 밤의 바에서. 그리고 오늘은 박물관이었다.	They'd meet in that same café, in bars... And today, in a museum.
+	박물관에서는 이 행성의 역사를 소개하고 있었다.	It was a museum on that planet's history.
+###@selection-token	地球化	Terraforming
+	처음 발견됐을 당시의 모습, 테라포밍 기술로 급격히 변한 환경, 사람들이 정착한 뒤의 역사.	It showed what it looked like when it was found, how terraforming changed it dramatically, and how it evolved after people started living on it.
+	<katrina>는 가끔 카메라로 전시물을 찍었다.	Every once in a while, <katrina> would take out her camera to snap pictures of the exhibit.
+<ivan>	당신 그 눈으로는 사진 못 찍어?	Can't you take pictures with that eye of yours?
+	<ivan>이 <katrina>의 의안──기계화된 왼쪽 눈을 들여다봤다.	<ivan> stared into her left eye, a prosthetic one.
+<katrina>	이건 업무용으로 달고 있는 거예요.	This is a work tool.
+<katrina>	기록 때문에 근무 중에는 항상 녹화돼요. 하지만 지금은 개인 시간이니까.	It records everything when I'm on the job, but I'm off the clock right now.
+<ivan>	흐음.	Huh.
+<ivan>	나랑 만나는 건 현지 조사를 위해서인 줄 알았는데.	I thought you were meeting me for research purposes.
+<katrina>	당연히 아니죠.	Why would you think that?
+	<katrina>는 웃었다.	<katrina> laughed.
+	<ivan>도 웃는다. 덧니가 보인다.	<ivan> laughed too, showing his slightly crooked teeth.
+	남자와 이렇게 이야기를 나눌 날이 올 줄이야, <katrina>는 생각한다.	She was genuinely surprised that she was enjoying a conversation with a man.
+<katrina>	그래도 그렇네요. 당신들 이야기를 들려줘요?	Still, it's true that I'd like to learn more about you.
+<katrina>	가족 이야기, 조상 이야기…… 그리고 당신 자신의 이야기.	Your family, your ancestors... and yourself.
+<ivan>	그건 일이야? 아니면 개인적인 관심?	For work? Or for personal interest?
+<katrina>	알고 있잖아요.	Do I need to say it?
+<ivan>	좋아. 하지만 장소를 옮기고 싶은데.	Fine, I don't mind. But not here.
+<ivan>	좀 더 북적이는 곳으로 가자.	Let's go somewhere with more people.
+	<ivan>이 <katrina>의 손을 잡는다.	<ivan> took <katrina>'s hand into his.
+	그 거칠고 두툼한 손길에 <katrina>의 심장이 빨라진다.	The rugged feel of his calluses made her heart beat faster.
+@story	식물학자	Botanist
+<ivan>	웃지 마라? 어릴 때는 식물학자가 되고 싶었어.	Don't laugh, but when I was a kid, I wanted to become a botanist.
+	<katrina>는 그만 웃음을 터뜨리고 말았다.	<katrina> couldn't hold it in.
+<ivan>	야, 말했잖아. 웃지 말라고.	Hey, I told you not to laugh.
+<katrina>	미안해요…… 비웃은 건 아니에요.	Sorry... I'm not making fun of you.
+<katrina>	그냥, 너무 귀여워서.	It's just so... cute.
+<ivan>	……그게 비웃는 거랑 뭐가 달라.	That's making fun of me alright.
+	<ivan>은 쑥스러운 듯 머리를 긁적였다.	<ivan>, embarrassed, scratched his head.
+	그가 얼굴을 붉히는 건 드물다. 방금 한 말은 진심인 모양이다.	It was rare to see him blush, so he was probably telling the truth.
+<ivan>	아, 괜히 말했다.	Hah, I know I shouldn't have said it.
+<katrina>	미안해요, 정말.	I'm sorry.
+<katrina>	있잖아요, 좀 더 들려줄래요?	But tell me more.
+<katrina>	왜 식물학자였어요?	Why a botanist?
+<ivan>	별거 없어…… 대단한 이유도 아니고.	Well... No real reason.
+<ivan>	예전에 살던 집이 시골의 꽤 높은 곳에 있었거든.	It's just that I used to live in a house pretty high up, in the countryside.
+###@selection-token	花畑	Fields
+<ivan>	근처에 예쁜 꽃밭이 있었어. 여러 가지 꽃이 피어 있었지.	There were a lot of fields, full of gorgeous flowers.
+<katrina>	이른바 『꽃밭』이라는 거군요.	Oh, flower fields.
+<ivan>	그런 옛날 표현을 잘도 아네.	I'm surprised you know about them.
+<katrina>	뭐, 그렇죠.	Heh.
+<katrina>	예전에 지구 문화도 대충 배운 적이 있으니까.	I studied Earth's culture once.
+<katrina>	그래도 실제로 본 적은 없어요.	I've never seen the real thing though.
+<ivan>	내가 데려가 줄게. <katrina>가 긴 휴가만 낼 수 있다면.	I'll take you there then. You just need to get yourself a long vacation.
+<katrina>	멀어요?	Is it that far?
+<ivan>	멀지. 첫날은 하루 종일 이동만 해야 해.	Oh, yeah. It takes a whole day just to get there.
+<katrina>	……그렇군요.	I see...
+	분명 그런 긴 휴가는 낼 수 없다. <ivan>도 알고서 하는 말이다.	She probably couldn't take that much time off, and <ivan> no doubt knew.
+<ivan>	뭐, 그냥 꿈일 뿐이야.	It's just an old dream.
+<ivan>	큰맘 먹고 수도까지 왔는데, 지금은 보잘것없는 수리공이지.	I came to the capital ready to take on the world, but now I'm just a lowly technician.
+<katrina>	그것도 훌륭한 일이에요.	I think it's a very important job.
+<ivan>	뭐, 그렇긴 하지.	I guess it is.
+	그렇게 말하며 풀과 꽃을 바라보는 <ivan>의 눈은 잔잔한 수면처럼 부드럽고 다정하다.	As he said that, <ivan>'s eyes stared at the grass. They were as soft and kind as a still pond.
+@story	적대 세력	Opposed Factions
+<katrina>	당신은 그들이 미워요?	Do you hate them?
+<ivan>	그들? ……아, 당신들이 말하는 『적대 세력』 말이야?	Them? Oh, you mean the "enemy?"
+<katrina>	네.	Yes.
+<ivan>	……당신들, 역시 조금 오해하고 있어.	You people got the wrong idea.
+<ivan>	우린 딱히 서로 미워하는 게 아니야. 물론 눈엣가시처럼 여기는 사람도 있겠지만.	We don't hate each other. I mean, sure, there are individual people who do.
+	<ivan>이 이야기하는 동안 <katrina>는 눈을 감고 듣는다. 낮은 목소리가 편안하다.	<katrina> listened to <ivan> with her eyes closed. His deep voice was comforting.
+###@selection-token	コーヒー	Coffee
+	커피 향.	The smell of coffee filled her nose.
+	이 행성의 음식은 그다지 입에 맞지 않았지만, 커피만큼은 각별했다.	She didn't really like the food on this planet, but the coffee was amazing.
+<ivan>	나처럼 평범하게 사는 평범한 사람들은 그렇게 관심 없어.	People like me who are just living normal lives don't care all that much.
+<ivan>	특정한 논쟁에서 의견이 맞지 않을 뿐이야. 그렇다고 상대를 죽이고 싶다고 생각하진 않아.	We just have different opinions on certain things. Nothing that we'd kill each other over.
+<katrina>	……그렇군요. 잘 알겠어요. 당신이 다정한 사람이라는 건.	I see... I understand. You're a kind man.
+<ivan>	뭐야, 그건.	What's that supposed to mean?
+	<katrina>는 알고 있다. 이 행성에서 대립 중인 양쪽 진영 모두 물밑에서 무기를 조달하기 시작했다.	<katrina> knew that both factions on this planet were already stockpiling arms.
+	생물병기 실험 시설에 대한 보고도 있다.	There were even reports of biological weapon tests.
+<katrina>	당신이 계속 다정한 사람으로 남았으면 좋겠지만……	And I want you to always be this kind...
+<katrina>	정말 그런 때가 오면 어느 쪽을 따라갈지는 정해 둬요.	But please decide who you'll side with if the worst comes.
+<ivan>	겁주지 마. 그런 일이 안 생기게 하려고 당신이 있는 거잖아.	C'mon, don't scare me like that. Isn't your job making it so the worst never comes?
+<katrina>	……그랬으면 좋겠네요.	I hope we'll be able to...
+	<katrina>는 자신의 임무가 정확히 무엇인지 그에게 말하지 않았다.	<katrina> had never told him the specifics of her job.
+	<katrina>의 일은 어느 한 진영을 행성에서 내보내는 것이지, 화해시키는 것이 아니다.	She wasn't there to bring peace to the two factions. She was just supposed to drive one of them away.
+<ivan>	하지만 그렇게 되면 <katrina>는 자기 행성으로 돌아가 버리는 거야?	But once you're done, won't you go back to your own planet?
+<katrina>	후후. 외로워요?	Hehe. Feeling lonely, are we?
+	<ivan>은 대답 대신 <katrina>의 몸을 끌어안는다.	Instead of answering, <ivan> drew <katrina>'s body closer to him.
+@story	저녁 식사	Dinner
+<ivan>	저기…… 나 이런 데서 지켜야 할 예절 같은 거 진짜 하나도 몰라.	Seriously though... I really don't know how you're supposed to eat in places this fancy.
+	테이블 맞은편에 앉은 <ivan>이 작은 목소리로 말했다.	<ivan> whispered at her from the other side of the table.
+<katrina>	괜찮아요.	Don't worry about it.
+<katrina>	무례한 짓만 안 하면 쫓겨나진 않을 거예요.	Just don't do anything rude and they won't throw us out.
+<ivan>	뭐가 무례한 건지를 모르겠다니까.	That's the issue. I don't know what counts as "rude" here.
+<katrina>	평소처럼 하면 괜찮아요.	Just act normal. It's fine.
+<ivan>	진짜냐……	Really?
+###@selection-token	料理	Meal
+	이윽고 종업원이 음식을 가져온다.	The waiter finally came with their meal.
+<ivan>	이거, 어떻게 먹는 거야……	What even is this...?
+	이 와중에도 <ivan>은 어쩔 줄 몰라 했지만, 보고 배운 대로 식사를 시작한다.	<ivan>, although still awkward, was working his way through his dish by imitating her.
+<ivan>	대체 왜 이런 데를……	Why did we come here?
+<katrina>	어머.	Why?
+<katrina>	당신 오늘 생일이잖아요?	Isn't it your birthday?
+<ivan>	……내가 말했었나?	Wait, did I tell you my birthday?
+<katrina>	말했어요. 취해 있긴 했지만.	You did. I'll admit you were drunk at the time.
+<ivan>	……젠장. 그랬구나.	Dammit. That explains it.
+<katrina>	그러니까, 자.	On that note...
+	<katrina>는 짐 속에서 작은 상자를 꺼낸다.	<katrina> took a small box out of her bag.
+	작은 손목시계.	It was for a small wristwatch.
+<katrina>	생일 축하해요.	Happy birthday.
+<ivan>	……아.	Oh...
+<ivan>	고마워.	Thank you.
+<ivan>	생일 축하를 받아 본 게…… 얼마 만인지 모르겠네.	How long has it been since I celebrated my birthday?
+<katrina>	기뻐요?	Does it make you happy?
+<ivan>	응. 나쁘지 않아.	Yeah. I don't mind it.
+<ivan>	아니…… 기뻐.	No, actually... I really enjoy it.
+<katrina>	후후. 다행이네요.	Haha. I'm glad you do.
+<ivan>	당신이 태어난 날도 알려 줘.	You should tell me your birthday too though.
+<ivan>	늘 자기 얘기는 안 해 주지만…… 그 정도는 괜찮잖아?	You never talk about yourself, but... That much would be fine, right?
+<katrina>	안 돼요.	Nope.
+<katrina>	그런 식으로 물으면 안 되죠.	Not if you ask like that.
+<katrina>	제대로 한번 꼬셔 봐요.	You have to smooth-talk me into it.
+<ivan>	……그래. 알았어.	Well... I'll try.
+	<ivan>이 눈을 가늘게 뜬다.	<ivan> squinted at her.
+	<katrina>는 그 눈을 좋아했다.	<katrina> loved it when he squinted.
+@story	특파원	Special Officer
+<ivan>	그럼 당신은,	Let me get this straight.
+<ivan>	정말 이 행성에서 앞으로 전쟁이 일어날 거라고 생각하는 거야?	You think that there's really going to be a war on this planet.
+<katrina>	네.	I do.
+<katrina>	그리고…… 난 그걸 막으러 온 거예요.	And... I'm here to prevent that.
+	음악을 끄고 <katrina>는 <ivan>에게 이야기했다.	<katrina> stopped the music and explained her job to <ivan>.
+	왜 이 행성에 왔는지. 자신이 어떤 입장인지.	She explained the whole reason why she'd come to his planet.
+	이대로 내버려 두면 이 행성에서 무력 충돌이 일어난다.	She explained that at this rate, war was inevitable.
+	<katrina>는 그것을 막아야 한다.	And she explained that her whole mission was preventing it.
+<ivan>	……정말 무기를 모으는 놈들이 있어?	They're really arming themselves?
+<katrina>	그래요.	They sure are.
+<ivan>	……믿기 힘드네.	Unbelievable...
+	어떻게 해야 그를 납득시킬 수 있을까, <katrina>는 생각한다.	<katrina> started thinking of how to convince him that this was the truth.
+@selection-token	諜報員/敵性組織/惑星外/薬剤/自動車	Intelligence officers/Enemy organizations/Extraterrestrials/Drugs/Cars
+	정보원에게 받은 사진이 있다. 창고로 무기 부품이 반입되는 모습이 찍혀 있다.	Intelligence officers showed me the pictures. They have warehouses full of weapon parts.
+<ivan>	……아니.	Wait...
+<ivan>	믿을게.	I do believe you.
+<ivan>	당신은 분명 거짓말하지 않았어.	I know you're not lying.
+<ivan>	……그냥 내가 믿고 싶지 않은 것뿐이야.	It's just that I don't want to believe it.
+<ivan>	내가 태어난 행성에서 그런 일이 일어난다는 게.	I don't want to see this happen on my planet.
+<ivan>	이 행성 사람들은…… 그렇게까지 몰려 있는 건가.	I didn't know the people here were so desperate.
+<katrina>	……그만큼 이 행성에 애착이 있는 거예요.	They just... care too much about this planet.
+<katrina>	아무도 여길 떠나려고 하지 않아요.	They don't want to leave.
+<ivan>	……이해해.	I get it.
+<ivan>	나도 그 산을 내려올 때 정말 많이 망설였거든.	For me, it wasn't easy to leave the mountains.
+<ivan>	난 거기서 태어나고, 거기서 살았어.	I was born and raised there.
+<katrina>	당신들 문화의 특성이기도 하고요.	Your planet's culture is a bit unusual.
+<katrina>	어쩌면 본능이나 뇌에 새겨진 무언가일지도 몰라요.	Maybe it's some kind of instinctual response sculpted into your brain.
+<katrina>	당신들은 땅을 사랑하는군요.	You people... You get attached to places.
+<ivan>	……그렇지.	That's true...
+<ivan>	<katrina>, 난 당신이 좋아.	I love you, <katrina>.
+<ivan>	하지만…… 언젠가 당신이 이 행성을 떠난다고 해도,	But... even if you had to leave this planet...
+<ivan>	난 따라갈 수 없어.	I couldn't come with you.
+<katrina>	……알고 있어요.	I know...
+<katrina>	그래도 괜찮아요.	I'm fine with that.
+<katrina>	하지만……	But...
+<katrina>	약속해 줘요.	Promise me this.
+<katrina>	무슨 일이 생기면…… 그때는 제발.	If it ever comes to that...
+<katrina>	당신 목숨을 소중히 해요.	Put your own life first.
+<ivan>	……그래.	I... will.
+<ivan>	하지만 그런 일이 안 생기게 하려고 <katrina>가 있는 거잖아?	But you're here to prevent that, aren't you?
+<katrina>	……그렇네요. 네, 물론이죠.	I am. Of course.
+<katrina>	그런 일은 절대 일어나게 두지 않을 거예요.	I won't let it happen.
+	평소보다 작아 보이는 <ivan>의 어깨를 <katrina>가 살며시 끌어안는다.	<katrina> put her arms around <ivan>'s shoulders. He had never looked so small before.
+@story	태어난 곳	Hometown
+<ivan>	여기가 특파원 나리의 방인가.	Foreign admins sure get amazing rooms.
+<katrina>	빈정거리듯 말하지 마요.	Stop it.
+<katrina>	멋대로 배정된 방이에요.	I didn't even ask for it.
+<katrina>	돌아와 봐야 잠만 자는걸요.	All I do in here is sleep, anyway.
+<ivan>	허. 아깝네.	Really? What a waste.
+<katrina>	당신이 여기서 살래요? 난 상관없는데.	Want to live here then? I wouldn't mind.
+<ivan>	사양할게. 마음이 안 놓여.	No, thank you. It's too much room for me.
+<katrina>	나도 그래요.	Same for me.
+<ivan>	그래도 정말 높은 사람이긴 하구나.	Still, you really are a big shot.
+<ivan>	처음 만났을 때부터 그런 느낌은 들었지만.	To be honest, I thought that the first time we met.
+<katrina>	그랬어요?	You did?
+<ivan>	당연하지. 행동하는 걸 보면 알아.	It's easy to tell. From the way you move and talk and such.
+<ivan>	그 자동 번역기의 품질도 그렇고.	And that translation device you're using is a bit too good too.
+<katrina>	……조심해야겠네요.	I'll have to be careful then.
+	웃으며 <katrina>는 <ivan> 옆에 걸터앉는다.	With a laugh, <katrina> sat down next to <ivan>.
+###@selection-token	新人/管理職/無給/地球/宇宙船	Junior/Administrative/Unpaid/Earth/Spaceship
+<katrina>	그래도 딱히 높은 사람은 아니에요. 기구에서는 저도 신입이고.	But, I'm not quite a "big shot." By the organization's standards, I'm still a junior employee.
+<ivan>	그래?	Wow.
+<katrina>	본사 직원이 지사에 파견 나온 것 같은 거죠.	I'm just like an H.Q. employee sent to a regional branch.
+<ivan>	아. 그렇게 말하니까 이해하기 쉽네.	Oh, you're good with analogies.
+<katrina>	그렇죠?	Right?
+<ivan>	……있잖아.	Hey...
+<katrina>	왜요?	What?
+<ivan>	이제 슬슬 알려 줘.	Hasn't it been long enough?
+<ivan>	당신 이야기를.	I want to know more about you.
+<ivan>	이젠 숨길 것도 없잖아.	You got nothing left to hide, right?
+<katrina>	……그러네요.	You're right.
+<katrina>	그럼 뭐부터 듣고 싶어요?	So... what do you want to know?
+<ivan>	우선…… 글쎄.	Hm, let's see...
+<ivan>	태어난 곳 이야기부터.	The place you were born, for example.
+<katrina>	……끔찍한 곳이에요.	It's... a horrible place.
+<ivan>	말하고 싶지 않아?	You'd rather not talk about it?
+<katrina>	……아니요.	No...
+<katrina>	괜찮아요. 당신에게라면.	I'm fine telling you.
+	<katrina>는 오랜만에 떠올린다.	<katrina> hadn't thought about it in a very long time.
+	자신이 태어난 집을.	About the house she was born in.
+	무거운 뚜껑으로 덮어 두었던 자기 자신의 과거를.	About the past that she had sealed away.
+@story	무장한 남자	Armed Man
+	<katrina>가 <ivan>과 함께 전철에 올라탔을 때, 차량 안쪽에 서 있는 남자가 눈에 들어왔다.	When <katrina> and <ivan> got on the train, a man standing in a corner caught her eye.
+	그저 평범하게 서 있는 승객처럼 보였다.	At first glance, he was a normal standing passenger.
+	따뜻한 날씨인데도 긴 코트를 입고 있다는 것 말고는 이상한 점이 없었다.	Apart from wearing a coat on this hot day, he was doing nothing weird.
+	그래도 <katrina>의 눈에는 보였다.	But that was enough for <katrina> to tell.
+	아마 무장하고 있다──	He was probably armed.
+@selection-token	スキャン/盗聴/ハッキング/義足/カメラ	Scanned/Eavesdropped/Hacked/Prosthetic leg/Camera
+	눈치채지 못하게 <katrina>는 의안으로 그를 스캔했다.	She secretly scanned him with her prosthetic eye, making sure he couldn't tell.
+	데이터와 대조해 컴퓨터에 계산시킨다.	She let the computer analyze him and compare it with its data.
+	1초 뒤, 무장했을 확률 80퍼센트라는 결과가 돌아왔다.	After a single second, she got the result: 80% probability that he's armed.
+<ivan>	……무슨 일 있어?	Something wrong?
+<katrina>	아니요, 아무것도……	No, it's nothing...
+	그렇게 대답하면서도 <katrina>는 남자에게서 눈을 떼지 못한다.	Despite saying that, <katrina> couldn't take her eyes off the man.
+	이 행성에서는 무기 소지가 금지되어 있지 않다.	Carrying weapons wasn't forbidden on that planet.
+	하지만 컴퓨터가 예측한 그의 무장은 호신용이라고 하기에는 지나쳤다.	But the type of weapon the computer had predicted wasn't a simple self-defense one.
+	다음 역에서 남자가 전철에서 내렸다.	He got off the train at the next station.
+<katrina>	……미안해요.	I'm sorry...
+<ivan>	아, 야!	H-Hey!
+	<katrina>는 <ivan>을 두고 전철에서 내렸다.	<katrina> left <ivan>'s side and followed the man.
+	<katrina> 바로 뒤에서 문이 닫힌다. <ivan>을 태운 채 전철이 출발한다.	The door shut right behind her, leaving <ivan> behind as the train departed once again.
+	수도의 인구 밀집 지역이었다.	It was a densely populated area within the capital.
+	불길한 예감이 든다──	<katrina> had a bad feeling about it.
+	<katrina>는 남자의 뒤를 쫓았다.	She kept going after him.
+@story	최악의 결말	Worst Case Scenario
+	어디를 가도 경보음이 울려 퍼지고 있다.	Alarms were going off everywhere.
+	방호 마스크 때문에 숨쉬기가 힘들다. 의식이 몽롱해진다.	The respirator made it hard to breathe, and she was getting light-headed.
+	하지만 여기 있을 수는 없다. 서둘러 우주항에 도착해야 한다.	But she had no time to lose. She had to get to the spaceport as soon as possible.
+<katrina>	<ivan>……	<ivan>...
+	마스크 안에서 <katrina>는 자신도 모르게 그의 이름을 부른다.	<katrina> found herself calling out to him through the respirator.
+	그는 무사할까. 어딘가로 대피했으면 좋겠다. 그렇게 바란다.	Was he safe? Had he managed to escape? She could only wish he had.
+###@selection-token	テロ	Terrorist
+	두 시간 전──수도의 인구 밀집 지역에서 테러가 발생했다.	Two hours earlier, a terrorist attack had taken place in the most populated area of the capital.
+	<katrina>도 마침 그 근처에 있었다. 단말기가 경보를 울리며 대피 명령을 알렸다.	That is exactly where <katrina> was at the time. Her computer started issuing warnings and instructing her to evacuate immediately.
+	방호 마스크를 착용하라는 지시도 있었다.	The warning also said to put on a respirator.
+	테러에 사용된 것은 과거 지구에서 사용된 것과 같은 종류의 세균이었다.	The terrorists had spread the same bacteria that had once been used to pollute Earth.
+	사람의 뇌에 침입해 의식을 파괴한다.	A biological weapon that destroyed its victims' brains.
+	세균은 증식하며 퍼져 나가 몇 시간 뒤면 수도 전체를 오염시킨다──	The bacteria would spread and spread, and soon the whole capital would be covered in it.
+	단말기에는 지금도 최신 정보가 계속 들어온다.	Her computer kept sending her updates.
+	어느 진영이 이런 짓을 저질렀는지는 아직 알 수 없었다.	They still didn't know who was behind this.
+	이 행성 전체가 사람이 살 수 없는 곳이 될지도 모른다.	What they knew was that there was a very good chance the whole planet would become unhabitable.
+	그들은 이 행성을 사랑했기에 충돌한 것인데, 어째서?	Wasn't their attachment to this planet the whole reason for the conflict?
+	어찌 됐든 <katrina>의 임무는 실패했다. 최악의 경우였다.	In any case, <katrina> had failed her mission. The worst-case scenario had come true.
+	이런 일이 벌어지지 않도록 중재하는 것이 <katrina>의 일이었다.	Preventing this kind of thing from happening was her job.
+	경보 단계는 최고 수준까지 올라갔고 즉시 행성에서 대피하라는 명령이 내려졌다.	The warning levels kept getting raised until they reached the highest possible point: "immediate evacuation from the planet."
+	이 앞에서 우주선이 대기하고 있다. 몇 시간 안에 직원들을 태우고 출항할 것이다.	A spaceship was waiting for her and her colleagues, and in a few hours, it would leave.
+	이제 두 번 다시 이 행성에 올 일은 없을 것이다.	Most likely, none of them would ever set foot on this planet again.
+	이곳에서 살던 사람들은 어떻게 되는 걸까.	What about the people who lived here?
+	살아남은 사람들은 다른 행성으로 건너가게 될까. <ivan>은?	The survivors would probably be sent somewhere else too. And <ivan>?
+	소란스러운 우주항 복도를 달리며 <katrina>는 생각한다.	<katrina> thought of what was to come as she ran through the spaceport's corridors.
+	자신에게 돌아갈 곳이 아직 남아 있을까?	Would they even let her back home?
+	이런 엄청난 실수를 저지른 자신에게?	How would they welcome her after a failure on that scale?
+	돌아갈 곳──	Home...
+	그렇게 생각하자 어째서인지 머릿속에 <ivan>의 얼굴이 떠올랐다.	As she thought of that word, <ivan>'s face popped up in her mind.
+@story	우주선 티켓	Spaceship Ticket
+	상사와 단둘이 있는 방에는 커피 향이 났다.	The only things that seemed to matter in the room were her, her boss, and the smell of coffee.
+	그 행성의 커피보다 훨씬 초라하고 탁한 향이었다.	It smelled like a pale, sad imitation of the coffee she used to have on that planet.
+man	보고서, 감사합니다.	Thank you for the report.
+	상사는 <katrina>의 얼굴도 보지 않은 채 말했다.	The boss didn't even look <katrina> in the face.
+man	피곤하지 않으십니까. 첫 부임이라 여러모로 힘드셨겠지요.	I imagine you must be tired. First assignments are never easy.
+man	게다가 그런 일까지 벌어졌으니.	And this must have been particularly horrible.
+	그런 일──<katrina>는 목구멍 안쪽에서 그 말을 되씹는다.	Horrible. The word echoed all the way down<katrina>'s throat.
+###@selection-token	バイオテロ/戦闘/交通事故/惑星/病院	Bio-terrorism/War/Traffic Accident/Planet/Hospital
+	<katrina>가 부임한 행성에서 일어난 바이오 테러는 수도 인구 절반의 정신을 파괴했다.	The bio-terrorism attack on the capital of the planet had destroyed the brains of half of its population.
+	지금도 그 행성은 세균에 오염되어 있다. 수도권은 한동안 사람이 살 수 없는 땅이 될 것이다.	Even now, the weaponized bacteria were still spreading. People wouldn't be able to live in or around the capital for a while.
+	<katrina>는 실패했다. 최악의 형태로.	<katrina> had failed, and in the worst way possible.
+	이제 상사가 무슨 말을 하려는지 <katrina>도 대강 짐작할 수 있었다.	She could imagine what her boss was going to tell her.
+man	어떻습니까. 잠시 휴가를 가지시는 건.	You should probably take some time to rest.
+	그렇게 말하며 상사가 화면에 띄운 것은 먼 행성이었다.	As he said that, he showed her a distant planet on his screen.
+	아공간을 항행하는 우주선으로도 여기서 수십 년이 걸린다.	Even for a spaceship that can travel through the very fabric of dimensions, it would take decades to reach it.
+	항행 중에는 냉동 수면으로 몸이 늙지 않는다 해도 수십 년의 공백은 그 자체로 경력에 타격이 된다.	Passengers would be put in cryosleep and could not age, but it would still leave a decades-long gap in her resume.
+	그런 행성으로 가서 휴가를 보내라──그 말이 무엇을 뜻하는지는 분명했다.	The suggestion of a vacation on that far-away a planet could only mean one thing.
+	<katrina>에게 선택의 여지는 없었다.	<katrina> didn't actually have any say in it.
+	분함이나 자신에 대한 실망은 이상하리만치 느껴지지 않았다.	Strangely, she didn't feel angry or sad at herself.
+	확실히 지쳐 있었다. 그날 이후 제대로 잠든 밤이 없었다.	It was true that she felt tired. She still hadn't slept properly once after the incident.
+	<katrina>는 말없이 상사가 내민 우주선 티켓을 받아 들었다.	Without saying a word, she took the spaceship ticket her boss was handing her.
+@story	축복	Congratulations
+	어느 아침, 심한 구역질에 잠에서 깼다.	One morning, she woke to a terrible bout of nausea.
+	화장실로 달려가다 토해 바닥을 더럽혔다.	She tried running to the bathroom, but she ended up throwing up on the floor on her way there.
+	전날 거의 먹지 않았기에 쏟아진 것은 대부분 액체뿐이었다.	As she'd been barely eating in the past few days, she was mostly vomiting stomach acid.
+	몽롱한 상태로 병원에 갔다.	Barely conscious, she made her way to the hospital.
+	검사 결과를 기다리는 동안 <katrina>는 그저 가만히 시계를 바라봤다.	As she waited for the results, she kept glancing at her watch.
+	계속 엉망으로 생활했다. 몸이 상해도 이상할 게 없었다.	With the way she'd been treating herself, it was no surprise that she'd get sick.
+doctor	축하드립니다.	Congratulations.
+	하지만 단말기로 검사 결과를 확인한 의사는 그렇게 말하며 웃었다.	For some reason, the doctor was smiling at her.
+	<katrina>는 손가락 하나 움직일 수 없게 되었다.	<katrina> froze in place.
+	뒤늦게 의사가 무슨 말을 하는지 이해했다.	It took her a few seconds to understand what the doctor was getting at.
+	<katrina>는 아이를 가진 상태였다.	She had conceived a child.
+	어째서, 하고 생각했다. 생식 기능은 이미 사라진 줄 알았다.	She didn't understand. She thought she'd lost all reproductive abilities.
+###@selection-token	妊娠	Pregnant
+	자신이 임신할 리가 없다.	It should have been impossible for her to get pregnant.
+	그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어, 그럴 리 없어,	Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible. Impossible.
+	의사의 미소가 시야 한가운데 멈춰 있었다.	Her vision locked onto the doctor's smile.
+	어떻게 집에 돌아왔는지는 기억나지 않는다.	She didn't even remember her route home.
+	정신을 차리자 <katrina>는 침대 위에서 밝아 오기 시작한 하늘을 바라보고 있었다.	When she came to, she was looking at the morning sky from her bed.
+	머릿속에 안개가 낀 것처럼 아무 생각도 할 수 없었다.	Her brain was too foggy for her to construct a single coherent thought.
+	며칠이 지나서야 비로소 뱃속에 아이가 있다는 사실이 실감났다.	After a few days, she finally accepted reality: she was bearing a child.
+	그리고 아이의 아버지를 생각했다.	And she thought about the child's father.
+	그는 지금 어떻게 지내고 있을까.	What had happened to him?
+	살아 있다고 생각하는 건 너무 자기 편한 기대일까.	Could she wish for him to have survived, or would that be too optimistic?
+	상담할 사람은 아무도 없었다. 가족도 버렸다. 태어난 행성도 버렸다.	She had nobody to talk about this to. She'd long cut ties with her family, and even her whole native planet.
+	지금까지의 과거는 전부 그곳에 두고 왔다.	She'd left her whole past there.
+	심한 무기력감 속에서 <katrina>는 다시 잠들었다.	Feeling exhausted, <katrina> went back to sleep.
+@story	낯선 곳으로	An Unknown Place
+	<katrina>는 홀로 우주선에 올라탔다.	<katrina> boarded the spaceship all alone.
+	상사에게 받은 티켓은 버렸다.	She'd thrown away the ticket her boss had given her.
+	정규 목록에도 없는 민간 합승 우주선을 찾아 <katrina>는 그 배에 탔다.	Instead, she'd chosen an unauthorized spaceship, one that didn't show up in any list.
+	딱히 계획이 있는 것은 아니었다.	She didn't really have a plan.
+###@selection-token	終着点	Last Stop
+	비정규 민간선에는 종착지가 없다. 돈만 내면 어디든 간다.	This kind of spaceship didn't have a last stop. If you paid enough, it could take you wherever you wanted.
+	여러 사정으로 정규 우주선을 탈 수 없는 사람들이 돈을 모아 운항하는 배였다.	It was financed by people who, for one reason or another, couldn't ride on normal, authorized spaceships.
+	<katrina>는 보통의 세 배나 되는 운임을 내고 목적지는 상관없다고 했다.	<katrina> paid three times the normal fare and didn't even specify a destination.
+	어디서 내리든, 내리지 않든 자유였다.	She was free to get off at any stop she wanted, if at all.
+	이 배가 앞으로 어디로 가는지조차 <katrina>는 몰랐다.	She didn't even know where the ship was headed.
+	지금은 행선지 같은 걸 생각할 수 없었다.	She couldn't bring herself to think about that.
+	시계가 다음 행성에 도착할 시간을 알려 주고 있었다.	On her watch, she saw how long it'd take until they'd reach their next stop.
+	기댈 사람은 어디에도 없다. 그렇다면 적어도 먼 곳으로 가자고 생각했다.	If she didn't have anyone she could count on, she thought she'd just go as far away as possible.
+	자신을 아는 사람이 아무도 없는 먼 곳으로.	Far away, where nobody knew her.
+	냉동 수면 장치에 들어가 다음에 눈을 뜨면, 자신은 완전히 낯선 곳에 있을 것이다.	She would enter the cryosleep pod, and when she next woke up, she'd find herself in an unknown place.
+	그때의 자신에게 모든 것을 맡기고 <katrina>는 잠들었다.	And so <katrina> went to sleep, leaving everything in the hands of her future self.

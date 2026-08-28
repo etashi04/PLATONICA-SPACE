@@ -1,0 +1,29 @@
+@story	메인 스토리 대화	Main Story Conversation
+elara	저거, 『삽』이라고 해?	Is that a shovel?
+elara	아니면 『모종삽』?	Or is it more like a trowel?
+@story	메인 스토리 대화	Main Story Conversation
+elara	아, 맞다.	Oh, right.
+elara	그 삽.	That shovel.
+elara	그거 이 테이블 위에 올려 봐.	Try putting it on the table.
+elara	뭔가 보일 테니까.	You'll see... something.
+elara	……아마도.	Maybe.
+@story	기억 판정	Memory Judgement
+elara	있잖아.	So...
+elara	이거…… 누구 기억인 것 같아?	This memory... Whose memory could it be?
+elara	……그럴까?	Are you sure?
+elara	응……	Hmmm...
+elara	나도 그렇게 생각해.	That's what I thought too.
+elara	다행이다. 같은 생각이네.	I'm glad we agree.
+@story	일반 대화	General Conversation
+elara	오늘도 날씨 좋네.	The weather's nice today too.
+elara	밖은 안 보이지만.	Well, we can't see outside...
+@story	일반 대화	General Conversation
+elara	배가 안 고프다는 거, 생각보다 좋네.	Not getting hungry is better than I imagined.
+elara	맛있는 걸 먹는 기쁨보다, 식욕 자체가 없는 쪽이 오히려 평온해서 좋아.	Not being able to enjoy food is a bit sad, but it's much better than hunger.
+elara	이런 평평한 느낌, 난 좋아.	There's a strange sense of peace to it. And I like it.
+@story	일반 대화	General Conversation
+elara	심심할 때 뭐 해?	What do you do when you feel bored?
+elara	나는 머릿속으로 양을 세어. 양이 울타리를 뛰어넘는 걸 상상하는 거야.	I count sheep in my head. I imagine them jumping over a fence.
+elara	가끔 못 넘고 울타리에 부딪혀.	Sometimes they don't quite make it and crash into the fence too.
+elara	내가 직접 상상하는 건데도 그게 언제 일어날지는 모르겠어.	Even if I'm the one imagining them, I can't predict when they'll crash.
+elara	그래서 재밌어.	That's what makes it fun.

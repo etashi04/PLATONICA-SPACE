@@ -1,0 +1,18 @@
+	흙 속에 뭔가 묻혀 있을지도 모른다.	There could be something buried in the soil.
+@selection-item	掘る	Dig
+@selection	그만둔다	Do nothing
+	모르는 언어로 쓰인 서류가 있다.	There are papers written in a language you don't know.
+@selection-item	読む	Read
+@selection	그만둔다	Do nothing
+	안에 뭔가 있을지도 모른다.	There could be something inside.
+@selection-item	あさる	Look inside
+@selection	그만둔다	Do nothing
+	커피를 내릴 수 있을 것 같다.	You could make coffee with this.
+@selection-item	淹れる	Make coffee
+@selection	그만둔다	Do nothing
+	뭔가 단서를 얻을 수 있지 않을까.	There could be a hint here.
+@selection-item	調べる	Search
+@selection	그만둔다	Do nothing
+	뭔가 단서를 얻을 수 있지 않을까.	There could be a hint here.
+@selection-item	調べる	Search
+@selection	그만둔다	Do nothing
