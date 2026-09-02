@@ -1,0 +1,40 @@
+name: Release asset labels
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Release tag to update
+        required: true
+        default: v1.0.0
+
+permissions:
+  contents: write
+
+jobs:
+  label-assets:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      TAG: ${{ github.event.release.tag_name || inputs.tag }}
+    steps:
+      - name: Apply stable filenames and Korean labels
+        shell: bash
+        run: |
+          set -euo pipefail
+          assets="$(gh api "repos/$GITHUB_REPOSITORY/releases/tags/$TAG" --jq '.assets[] | [.id,.name] | @tsv')"
+          while IFS=$'\t' read -r id name; do
+            case "$name" in
+              *Auto*)
+                gh api --method PATCH "repos/$GITHUB_REPOSITORY/releases/assets/$id" -f name="PLATONICA_SPACE_Korean_Patch_${TAG}.zip" -f label='PLATONICA SPACE 한국어 패치 (Auto)'
+                ;;
+              *Manual*)
+                gh api --method PATCH "repos/$GITHUB_REPOSITORY/releases/assets/$id" -f name="PLATONICA_SPACE_Korean_Patch_Manual_${TAG}.zip" -f label='PLATONICA SPACE 한국어 패치 (Manual)'
+                ;;
+              *SHA-256*|*SHA256*)
+                gh api --method PATCH "repos/$GITHUB_REPOSITORY/releases/assets/$id" -f name='SHA256SUMS.txt' -f label='SHA-256 체크섬'
+                ;;
+            esac
+          done <<< "$assets"
