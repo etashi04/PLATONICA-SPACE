@@ -5,4 +5,9 @@ obj/
 *.tmp
 .vs/
 .idea/
-
+src/output/
+src/**/bin/
+src/**/obj/
+src/KR.LanguageFontPoc/lib/
+dist/
+tools/_packages/

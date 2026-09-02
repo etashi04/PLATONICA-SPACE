@@ -41,7 +41,7 @@
 	막다른 현실과 희미한 체념이 이 행성을 가득 메우고 있다.	There was no hope or ambition to be found on the planet anymore.
 @story	가벼운 목숨	Cheap Lives
 	일을 마치고 돌아오자 복도 구석에 작은 그림자가 드리워져 있었다.	As she was coming back from work, she saw a shadow on the floor of the hallway.
-###@selection-token	倒れて/寝息を立てて/座って/父/飼っていた犬	Lying/Sleeping/Sitting/Father/Pet dog
+###@selection-token	쓰러져/숨소리를 내며 자고/앉아/아버지/키우던 개	Lying/Sleeping/Sitting/Father/Pet dog
 	사람이 쓰러져 있었다. 막내 여동생──<kaya>였다.	It was a human body. Her youngest sister, <kaya>, was lying there.
 	녹초가 된 몸으로 <zoe>는 동생을 일으켜 안았다.	<zoe> forced her tired body to pick up her little sister.
 	얼마나 오래 여기 있었던 걸까.	How long had she been lying there?
@@ -126,7 +126,7 @@ man	보통은 대기를 전부 정화하잖아. 왜 이 행성은 그렇게 안 
 <kushana>	글쎄. 뭐, 괜찮지 않을까?	I'm not sure, but, heh, it's probably fine.
 	이럴 때 보이는 <kushana>의 낙천적인 태도가 <zoe>는 무섭다.	<zoe> was genuinely scared of how optimistic <kushana> could be.
 <zoe>	……게다가 아마 이 행성에서는 자라지 않을 거야.	Well... They probably won't grow here anyway.
-###@selection-token	ドーム	Domes
+###@selection-token	돔	Domes
 	돔 밖은 물론이고 돔 안이라 해도 이 행성의 대기는 식물이 자라기에 적합하지 않다.	The atmosphere outside the domes was highly toxic, but even inside of them, it wasn't really conducive to growing plants.
 	게다가 돔 안의 토양도 오염되어 있다.	And it wasn't just the atmosphere. The soil inside the domes was contaminated too.
 	이 행성에서 살아갈 수 있는 식물은 거의 없다.	There barely were any plants growing on the planet.
@@ -165,7 +165,7 @@ man	보통은 대기를 전부 정화하잖아. 왜 이 행성은 그렇게 안 
 <kushana>	오래 밖에 있으면 위험하다거나?	Is it dangerous if you breathe in the air for too long, or...?
 <zoe>	<kushana>는 괜찮아? 밖에서……	Are you... fine? Just breathing outside?
 <kushana>	괜찮아.	Yeah, I'm fine.
-###@selection-token	適応処置	Adaptation Procedure
+###@selection-token	적응 처치	Adaptation Procedure
 <kushana>	이 행성에 내려오기 전에 적응 처치를 받았으니까.	I did that whole adaptation procedure before entering the planet.
 <zoe>	적응 처치……?	Adaptation procedure?
 <kushana>	응. 행성 밖에서 오는 우리는 어느 행성에 가든 반드시 받아.	Yup. We always do that before going to a new planet.
@@ -182,9 +182,9 @@ man	보통은 대기를 전부 정화하잖아. 왜 이 행성은 그렇게 안 
 <zoe>	여기서…… 뭐 하려고?	So... what did you want to do here?
 <kushana>	일단 저기 앉자.	For starters, sit down.
 	두 사람은 빛바랜 의자에 앉았다. 끼익, 하고 불쾌한 소리가 났다.	The old, discolored chairs squeaked as <zoe> and <kushana> sat on them.
-###@selection-token	ポケット/引き出し/天井裏/コンピュータ/ロケット	Pocket/Drawer/Attic/Computer/Rocket
+###@selection-token	주머니/서랍/천장 위/컴퓨터/로켓	Pocket/Drawer/Attic/Computer/Rocket
 	<kushana>가 주머니에서 꺼낸 것은──은색 주사기였다.	Then, <kushana> took something out of his pocket. It was a silver-colored syringe.
-<zoe>	……그거 뭐야?	What's this?
+<zoe>	이게 뭐야?	What's this?
 <kushana>	보면 알잖아.	Exactly what it looks like.
 	<kushana>는 설명하지 않았다.	<kushana> didn't give her any explanation.
 	그는 셔츠 소매를 걷고 자신의 팔에 바늘을 찔러 넣었다.	He rolled up his sleeve and pushed the needle into his arm.
@@ -261,7 +261,7 @@ man	보통은 대기를 전부 정화하잖아. 왜 이 행성은 그렇게 안 
 	<kushana>의 말대로 테이블마다 먼지가 쌓여 있었다. 오랫동안 사용하지 않은 모양이다.	The dust on the table lent credibility to <kushana>'s words. The room looked like it hadn't been used in a long while.
 <kushana>	<zoe>, 오늘은 평소랑 다른 냄새가 나네. 흙냄새인가?	You smell different, <zoe>. What is it? Soil?
 	그가 얼굴을 가까이 가져온다. <zoe>는 왠지 모르게 몸을 피한다.	He brought his face closer, and she instinctively flinched back.
-@selection-token	叔母さん/飼い猫/死体/仕事/夢	Aunt/Cat/Corpse/Job/Dream
+@selection-token	이모/기르던 고양이/시체/일/꿈	Aunt/Cat/Corpse/Job/Dream
 <zoe>	아까까지 이모 장례식이었어.	I was attending my aunt's funeral.
 <zoe>	다 같이 묻어 드렸으니까, 그때 묻은 냄새일지도.	It must be from when we all dug up her grave together.
 <kushana>	그렇구나. 이런 때 불러내서 미안한 짓을 했나.	I see. I'm sorry. I shouldn't have invited you at a time like this.
@@ -312,7 +312,7 @@ man	보통은 대기를 전부 정화하잖아. 왜 이 행성은 그렇게 안 
 	<kushana> 일행이 이미 이 행성을 떠났다는 것을 알게 되었다.	And she found out that <kushana> and his family had already left the planet.
 	의문은 없었다. 화도 슬픔도 솟아오르지 않았다.	There was no question in her mind, no anger, not even sadness.
 	처음부터 그들과는 사는 세계가 달랐다.	They'd always belonged to different worlds.
-###@selection-token	暇つぶし	A way to kill time
+###@selection-token	시간 때우기	A way to kill time
 	자신은 잠깐의 심심풀이 상대였을 뿐이라는 걸 <zoe>는 깨달았다.	<zoe> realized she'd never been anything more than a way to kill time to him.
 	태어나서 처음으로 이야기를 나눈 남자아이였다.	She'd never talked to a boy before meeting him.
 	이제 두 번 다시 만날 일은 없을 것이다.	And most likely, she'd never talk to another one thereafter.
@@ -330,7 +330,7 @@ man	보통은 대기를 전부 정화하잖아. 왜 이 행성은 그렇게 안 
 	<zoe>는 아무도 없는 방에서 임신약 카트리지를 쥐고 있었다.	<zoe> was alone in an empty room, a pregnancy cartridge in her hand.
 	이걸 배꼽 아래에 주입하면 아이가 생긴다.	She just needed to inject it under her navel, and she'd have a baby.
 	여자밖에 없는 이 행성에서는 이것이 임신할 수 있는 유일한 방법이었다.	In this planet of only women, it was the only way to become pregnant.
-###@selection-token	年齢/料理/ガスマスク/時代/素材	Old/Cooking/Respirator/Era/Ingredient
+###@selection-token	나이/요리/방독면/시대/소재	Old/Cooking/Respirator/Era/Ingredient
 	이제 아이를 가져도 될 나이일 텐데. 하지만 어머니는 아무것도 가르쳐 주지 않는다.	She believed she was more than old enough to have a baby, but her mother wouldn't tell her anything about it.
 	이 약으로 남자아이가 태어나는 일은 없는 걸까. 그렇다면 왜?	She wondered whether the cartridge could produce male babies. And if so, why.
 	얼마나 그렇게 있었을까.	She also wondered how much it had cost.
@@ -358,7 +358,7 @@ mother	이제 지긋지긋해…… 이런 건.	I don't want this to go on any l
 	메인 플랫폼이 아니라 그 옆의 낡은 시설로 향했다.	Instead of the port's main platform, she walked to a structure by the side, old and battered.
 mother	<zoe>, 자. 이거……	<zoe>, come on. Here...
 	<zoe>는 무언가를 건네받았다.	She gave <zoe> something.
-###@selection-token	IDカード	I.D. Card
+###@selection-token	신분증	I.D. Card
 	ID 카드였다.	It was an I.D. card.
 mother	가렴. 적어도 너만이라도.	Go now. At least you...
 	어머니가 무슨 말을 하는지 <zoe>도 알았다.	<zoe> realized what her mother meant.

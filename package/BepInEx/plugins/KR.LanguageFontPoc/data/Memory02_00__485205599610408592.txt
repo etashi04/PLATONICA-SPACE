@@ -141,7 +141,7 @@ man	그래?	Do you?
 <ivan>	……당신들, 역시 조금 오해하고 있어.	You people got the wrong idea.
 <ivan>	우린 딱히 서로 미워하는 게 아니야. 물론 눈엣가시처럼 여기는 사람도 있겠지만.	We don't hate each other. I mean, sure, there are individual people who do.
 	<ivan>이 이야기하는 동안 <katrina>는 눈을 감고 듣는다. 낮은 목소리가 편안하다.	<katrina> listened to <ivan> with her eyes closed. His deep voice was comforting.
-###@selection-token	コーヒー	Coffee
+###@selection-token	커피	Coffee
 	커피 향.	The smell of coffee filled her nose.
 	이 행성의 음식은 그다지 입에 맞지 않았지만, 커피만큼은 각별했다.	She didn't really like the food on this planet, but the coffee was amazing.
 <ivan>	나처럼 평범하게 사는 평범한 사람들은 그렇게 관심 없어.	People like me who are just living normal lives don't care all that much.
@@ -284,7 +284,7 @@ man	그래?	Do you?
 	따뜻한 날씨인데도 긴 코트를 입고 있다는 것 말고는 이상한 점이 없었다.	Apart from wearing a coat on this hot day, he was doing nothing weird.
 	그래도 <katrina>의 눈에는 보였다.	But that was enough for <katrina> to tell.
 	아마 무장하고 있다──	He was probably armed.
-@selection-token	スキャン/盗聴/ハッキング/義足/カメラ	Scanned/Eavesdropped/Hacked/Prosthetic leg/Camera
+@selection-token	스캔/도청/해킹/의족/카메라	Scanned/Eavesdropped/Hacked/Prosthetic leg/Camera
 	눈치채지 못하게 <katrina>는 의안으로 그를 스캔했다.	She secretly scanned him with her prosthetic eye, making sure he couldn't tell.
 	데이터와 대조해 컴퓨터에 계산시킨다.	She let the computer analyze him and compare it with its data.
 	1초 뒤, 무장했을 확률 80퍼센트라는 결과가 돌아왔다.	After a single second, she got the result: 80% probability that he's armed.
@@ -308,7 +308,7 @@ man	그래?	Do you?
 <katrina>	<ivan>……	<ivan>...
 	마스크 안에서 <katrina>는 자신도 모르게 그의 이름을 부른다.	<katrina> found herself calling out to him through the respirator.
 	그는 무사할까. 어딘가로 대피했으면 좋겠다. 그렇게 바란다.	Was he safe? Had he managed to escape? She could only wish he had.
-###@selection-token	テロ	Terrorist
+###@selection-token	테러	Terrorist
 	두 시간 전──수도의 인구 밀집 지역에서 테러가 발생했다.	Two hours earlier, a terrorist attack had taken place in the most populated area of the capital.
 	<katrina>도 마침 그 근처에 있었다. 단말기가 경보를 울리며 대피 명령을 알렸다.	That is exactly where <katrina> was at the time. Her computer started issuing warnings and instructing her to evacuate immediately.
 	방호 마스크를 착용하라는 지시도 있었다.	The warning also said to put on a respirator.
@@ -339,7 +339,7 @@ man	보고서, 감사합니다.	Thank you for the report.
 man	피곤하지 않으십니까. 첫 부임이라 여러모로 힘드셨겠지요.	I imagine you must be tired. First assignments are never easy.
 man	게다가 그런 일까지 벌어졌으니.	And this must have been particularly horrible.
 	그런 일──<katrina>는 목구멍 안쪽에서 그 말을 되씹는다.	Horrible. The word echoed all the way down<katrina>'s throat.
-###@selection-token	バイオテロ/戦闘/交通事故/惑星/病院	Bio-terrorism/War/Traffic Accident/Planet/Hospital
+###@selection-token	바이오 테러/전투/교통사고/행성/병원	Bio-terrorism/War/Traffic Accident/Planet/Hospital
 	<katrina>가 부임한 행성에서 일어난 바이오 테러는 수도 인구 절반의 정신을 파괴했다.	The bio-terrorism attack on the capital of the planet had destroyed the brains of half of its population.
 	지금도 그 행성은 세균에 오염되어 있다. 수도권은 한동안 사람이 살 수 없는 땅이 될 것이다.	Even now, the weaponized bacteria were still spreading. People wouldn't be able to live in or around the capital for a while.
 	<katrina>는 실패했다. 최악의 형태로.	<katrina> had failed, and in the worst way possible.

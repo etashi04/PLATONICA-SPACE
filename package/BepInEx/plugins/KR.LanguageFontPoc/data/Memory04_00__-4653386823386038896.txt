@@ -132,7 +132,7 @@ woman	그 우주선에도.	On that old ship.
 <liam>	……실례지만, 승객이신가요? 그 배의?	Excuse me, but... were you a passenger there?
 woman	그럼, 그렇지.	Of course I am.
 woman	당신이 여기까지 데려다준 거잖아?	You brought me all the way here.
-<liam>	그랬던가요.	Is that so?
+<liam>	……그런가요.	Is that so?
 <liam>	……그랬을지도 모르겠네요.	I guess I did...
 woman	그럼.	You definitely did.
 woman	고마워. 와 볼 수 있어서 좋았어.	And thank you. I'm glad I could come.
@@ -146,9 +146,9 @@ woman	이제 슬슬 돌아갈까.	Should we go back now?
 	멍하니 있는 모습에 잠이 덜 깬 건가 하고 <liam>은 생각했다.	<liam> looked at her, thinking she still looked half-asleep.
 <liam>	……저기.	Excuse me...
 <liam>	여기는 출입 금지입니다.	This room is off-limits.
-###@selection-token	コックピット	Cockpit
+###@selection-token	조종석	Cockpit
 	당연히 승객을 조종실에 들일 수는 없다.	Obviously, passengers couldn't enter the cockpit.
-woman	아……	Oh...
+woman	……아.	Oh...
 woman	죄송합니다.	Sorry.
 	그렇게 말하면서도 그녀는 떠나지 않았다.	Despite her answer, she didn't leave.
 woman	……물어봐도 될까요?	Can I ask you something?
@@ -263,7 +263,7 @@ woman	어머, 고마워.	Oh, my. Thank you.
 	이 우주선에는 온갖 사람들이 올라탄다.	The ship really had all kinds of passengers in it.
 	다른 행성으로 향하는 이유도 목적지도 제각각인 사람들.	They were all traveling to different places, for wildly different reasons.
 	아공간 항행에 들어갈 수 있는 우주 영역까지 나아가는 며칠 동안 그들도 선내에서 저마다 시간을 보낸다.	You could see them spend the few days until their next cryosleep period in a variety of ways.
-###@selection-token	チケット	Ticket
+###@selection-token	티켓	Ticket
 	이 우주선은 그들이 조금씩 낸 티켓값으로 운용된다.	Each one, with what they paid for their ticket, managed to keep the spaceship running.
 	정식 행성 간 항행선보다 훨씬 싸다.	The fare was much cheaper than on a proper, officially authorized ship.
 	대신 선내는 늘 빽빽하게 붐비고, 각자의 목적지를 경유하느라 그만큼 시간이 더 걸린다.	However, you had to put up with a constantly crowded ship and a longer journey, as they'd be stopping several times along the way.
@@ -331,11 +331,11 @@ woman	어머, 고마워.	Oh, my. Thank you.
 	어머니 행성. 인류의 고향.	Mother Earth, the cradle of humanity.
 	사람들이 우주로 진출한 뒤에도 지구에는 많은 주민이 남아 있었다.	Even after mankind moved into space, many opted to remain on their home planet.
 	낡은 체제의 국가들은 해체되고 작은 콜로니로 나뉘어 살아갔다.	Old nations were disbanded, and people organized themselves in small colonies.
-###@selection-token	テロ	Terrorist
+###@selection-token	테러	Terrorist
 	그 지구에서 과거 테러가 일어났다.	But a terrorist attack changed everything.
 	유전자 조작 세균을 이용한 무차별 테러.	It was an indiscriminate attack, unleashing genetically modified bacteria upon the whole of the planet.
 	사람의 뇌에 자리 잡아 의식을 파괴하는 세균이 지구 곳곳에 살포되었다.	Every corner of Earth was taken over by them. They ate their way into people's brains, destroying their consciousness.
-	세균은 사람에서 사람으로 전염되고 동물이 옮기며 바람을 타고 지구 전역으로 퍼졌다.	They spread quickly from person to person, carried by animals and the wind, until no place was safe anymore.
+	테러리스트의 사전 경고로 대부분의 사람은 지구를 탈출했지만, 수천 명이 미처 빠져나오지 못했다고 한다.	Most people evacuated right after the terrorists announced what they were going to do, but thousands remained.
 	겉모습은 변하지 않은 채 지구는 사람이 살 수 없는 행성이 되었다.	Earth still looked exactly the same, but humans couldn't live on it any longer.
 	현대 기술로도 지구를 정화해 다시 사람이 살 수 있게 되려면 얼마나 걸릴지 알 수 없다.	Even with state-of-the-art technology, it was anyone's guess how long it would take to make the planet safe again.
 	물론 방독면과 전용 장비를 착용하면 지구에 내려갈 수는 있다.	Of course, assuming you had a respirator and a space suit, you could technically walk on Earth's surface.
@@ -378,7 +378,7 @@ man	머릿속에 있는 기억에 접근하지 못하게 막는 것뿐이지. �
 man	약을 주사하면 언제든 원래대로 돌아와.	All it takes to get them back is a single syringe's worth of drugs.
 <liam>	쉽게 말하네.	You make it sound so simple.
 	<liam>은 어깨를 으쓱하고 남자에게 건네받은 주사기를 바라본다.	<liam> shrugged doubtfully and looked at the syringe the man had handed him.
-@story	지구의 씨앗	Earth's Seeds
+@story	지구로 가는 노파	The Old Woman Going to Earth
 	우주선은 곧 아공간 항행에 들어간다.	The ship would soon enter an interdimensional pocket.
 	승객들에게 냉동 수면 장치에 들어가라는 안내 방송이 흘렀다.	The loudspeakers instructed the passengers to enter their cryosleep pods.
 	<liam>은 노파가 장치 안 침대에 들어가는 데 애를 먹는 것을 발견했다.	<liam> found an old lady who was having some trouble climbing inside hers.
@@ -394,7 +394,7 @@ oldwoman	그럼. 그리고 이제 다시 지구로 갈 거야.	I sure did. And t
 <liam>	지구로요?	On Earth...?
 oldwoman	그렇고말고.	Yes, sirree.
 	그녀는 힘차게 고개를 끄덕였지만 <liam>은 노파의 허튼소리라고 생각하기로 했다.	She nodded with conviction, but <liam> was just as convinced that the old lady was insane.
-###@selection-token	立ち入り禁止	Forbidden
+###@selection-token	출입 금지	Forbidden
 	테러로 오염된 뒤 지구와 그 주변 우주 영역은 출입 금지 구역이 되었다.	After the terrorist attack, entry on Earth and all the surrounding area had been forbidden.
 	이 우주선이 비인가 선박이라 해도, 아무리 그래도 지구까지 갈 수는 없다.	Even an unauthorized spaceship like this wouldn't risk so much.
 	억지로 접근하려 하면 경비선에 쫓기게 될 것이다.	If they got too close, they'd instantly get chased out by patrol ships.
@@ -410,11 +410,11 @@ oldwoman	글쎄다.	Who knows?
 	혹시 그녀는 진심으로 말하고 있는 걸까.	Could it be that this old woman was actually serious?
 	그러고 나서 <liam>은 자신이 왜 그녀에게 말을 걸었을까 생각한다.	Moreover, <liam> wondered why he'd felt the impulse to chat with that lady.
 	평소라면 승객에게 먼저 말을 거는 일은 절대 없었을 텐데.	He'd never been much the type for conversations with passengers.
-@story	가짜	Counterfeit
+@story	偽物	Counterfeit
 	주사를 맞고 침대에 눕는다.	<liam> injected the drug and lay down on the bed.
 	처음에는 아무렇지도 않았지만 점점 의식이 흐릿해진다.	It took a while, but then things started getting hazy.
 	이대로 곧 의식을 잃겠지 생각하며 <liam>은 멍하니 생각한다.	<liam> expected to lose consciousness very soon.
-@selection-token	ナノロボット/細菌/ワクチン/細胞/心臓	Nanobots/Bacteria/Vaccines/Cells/Hearts
+@selection-token	나노로봇/세균/백신/세포/심장	Nanobots/Bacteria/Vaccines/Cells/Hearts
 	주입된 나노로봇이 혈류를 타고 뇌로 침입한다.	The nanobots in the drug would swim through the arteries, eventually reaching the brain.
 	로봇은 신경에 달라붙어 기억을 지운다──정확히는 기억에 대한 접근을 차단한다.	They attached themselves to various nerves to delete, or rather block, all memories.
 	그리고 <liam>은 동시에 가짜 기억을 심기 위한 시술을 받는다.	At the same time, they were implanting fake memories inside <liam>'s brain.

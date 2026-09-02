@@ -4,7 +4,7 @@
 <elara>	역 앞에 있는 데?	The one in front of the station?
 <sana>	응. 최근에 생겼다던데?	Yeah. It just opened, right?
 <elara>	음, 좋아.	Sure, sounds good.
-###@selection-token	ドーナツ	Donuts
+###@selection-token	도넛	Donuts
 <sana>	좋았어. 도넛이 맛있대.	Great. I heard their donuts are delicious.
 <elara>	도넛?	Donuts?
 <sana>	설마, 몰라?	What, you've never heard of donuts?
@@ -139,7 +139,7 @@ grandmother	……글쎄, 어떨까.	That's hard to say.
 	대부분은 검역 과정에서 발견되어 미리 약물이나 수술을 통한 적응 처치를 받거나, 최악의 경우 강제 송환된다.	Usually they are discovered during the mandatory quarantine. Usually they are cured or, if that is impossible, sent back to their planet.
 	그래도 가끔 검역에서 놓친 세균이나 바이러스가 지구로 유입되어 퍼지는 일이 있다.	But sometimes, bacteria and viruses can slip through the cracks and start multiplying on Earth.
 	그때마다 지구에 사는 사람들에게 백신 접종이 이루어진다.	When that happens, Earth natives protect themselves with vaccines.
-###@selection-token	学生/教師/スパイ/基地/宇宙船	Students/Teachers/Spies/Bases/Spaceships
+###@selection-token	학생/교사/스파이/기지/우주선	Students/Teachers/Spies/Bases/Spaceships
 	<elara> 같은 학생들은 학교에서 단체로 접종을 받는다.	Students such as <elara> get all of their vaccines at school.
 <sana>	지구에 매력을 느껴서 돌아와 주는 건 왠지 기쁘긴 한데.	It's nice that they like Earth so much that they come all the way here though.
 <elara>	……그런가.	I'm not so sure...
@@ -163,7 +163,7 @@ grandmother	……글쎄, 어떨까.	That's hard to say.
 <sana>	우리 가족 모두 다른 행성으로 가게 됐어.	We're all moving to another planet.
 <elara>	뭐……?	What...?
 	<elara>는 놀란 표정을 지었다. 하지만 마음 한구석에서는 어렴풋이 알고 있었다.	<elara> looked surprised, but deep down, she knew this was coming.
-###@selection-token	クラスター	Clusters
+###@selection-token	클러스터	Clusters
 	<sana>네 가족은 <elara>와 다른 클러스터에 속해 있었고, 최근 그들 사이에 내부 갈등이 있었다.	<sana>'s and <elara>'s families belonged to different "clusters," the relationship between which had recently started to turn sour.
 	서로 타협할 수 없다면 함께 살아갈 수 없다. 어느 한쪽이 떠나야 한다.	If there is no harmony, people cannot live together. Someone has to leave.
 	이곳을 떠나도 갈 곳은 얼마든지 있다. 이 광대한 우주에는 말 그대로 별의 수만큼이나.	Thankfully, there was always space to live apart. Space, with a capital S.
@@ -205,16 +205,24 @@ grandmother	……글쎄, 어떨까.	That's hard to say.
 	푸르고 아름다운 행성.	What a beautiful blue planet it was.
 	그래도 수백 년 전──아직 전 인류가 지구에서 살던 시절과 비교하면 모습이 달라졌을까.	But had it always looked like this? Even centuries ago, when everyone still lived there?
 	급격한 사막화가 진행되었다고 한다. 인구가 줄어도 사람들의 경제 활동은 달라지지 않는다.	They said deserts had grown exponentially larger since then. There were fewer people, but still the same economic activity.
-###@selection-token	資源	Resources
-	예전과 같은 양의 자원과 에너지를 적은 수의 사람들이 물 쓰듯 소비하고 있다.	Energy and resources were still being exploited, even by a reduced population.
-	그래도 부족해서 다른 행성에서 자원을 수입하고 있다.	They weren't enough. The people of Earth had to rely on imports from other planets.
-	그런 짓을 하는 곳은 지구뿐이다.	No other planet had to resort to measures like those.
-	행성의 자원이 고갈되면 다른 행성으로 옮기면 그만이다. 수입하는 것보다 훨씬 싸게 먹힌다.	Why stay on a planet where resources have dried up, when it's so easy and cheap to move to a new one?
-	<elara> 일행을 태운 우주선은 천천히 지구에서 멀어지며 아공간 항행이 가능한 지점을 향하고 있다.	The spaceship with <elara>'s family on it slowly left Earth behind, heading toward a point where they could enter interdimensional space.
-	멀어져 가는 지구를 바라보며 <elara>는 우주의 광대함을 생각한다.	As Earth grew smaller in her field of view, she started realizing just how immense space was.
-	우주는 너무나도 넓다.	Space was just that large.
-	어쩌면 사람들은 언젠가 자기 행성 밖에도 인류가 살고 있다는 사실을 잊어버릴지도 모른다.	Maybe, one day, people would even come to forget that other planets, with other people on them, existed at all.
-	이 지구도 언젠가는 잊어버릴지도 모른다.	And maybe, they would even forget about Earth.
+	<elara>는 예전에 자신들이 살던 곳을 찾았다.	<elara> was looking for the place where they once lived.
+	하지만 이 하늘 위에서는 분간할 수 없었다.	However, it was impossible to find it from here, up in the sky.
+	그리고 그곳에는 이제 <elara>가 알던 풍경이 남아 있지 않을 것이다.	And anyway, it probably didn't look anything like the place they remembered anymore.
+	<elara> 일행은 지구를 떠나기로 한 뒤 한동안 고향을 떠나 대피소에서 살았다. 우주선을 기다려야 했기 때문이다.	When they decided they'd leave Earth, <elara>'s family moved to a shelter far away from their hometown. It would be a while before their spaceship arrived.
+	그동안 <elara>는 딱 한 번 몰래 예전에 살던 집을 찾아갔다.	Just once, <elara> snuck out to go and visit their old home.
+	하지만──	But she couldn't find it.
+	그곳은 더 이상 그녀가 알던 장소가 아니었다.	The place she once knew just wasn't there anymore.
+	땅을 사들인 사람들이 집을 허물고 밭을 밀어 다른 무언가로 바꾸려 하고 있었다.	Someone had bought the land, torn down their house, and built something on the fields.
+	그것이 무엇인지는 <elara>도 알 수 없었다. 그들은 지구 밖에서 돌아온 사람들이었고, <elara> 일행과는 조금 다른 방식으로 살았다.	<elara> didn't even know what that "something" was. People who had come back to Earth lived in strange ways.
+	<elara>가 태어나 자란 곳은 사라지고 말았다.	All she knew was that the place she called home didn't exist anymore.
+	그때 느꼈던 깊은 고독을 <elara>는 또렷이 기억한다.	She still remembered the grief she felt back then.
+	불과 며칠 전까지 소중했던 곳인데, 이제는 아무런 애착도 느끼지 못했다.	The home she loved so much was gone, turned into something she didn't feel anything for.
+	충격에 모든 것이 아무래도 좋아졌다. 눈물조차 나오지 않았다.	She was too shocked to care, let alone cry.
+	지금은 내려다보이는 이 푸른 행성을 고향이라 여길 수 있다.	Right now, the blue planet she saw from the window was her home.
+	하지만 언젠가는 그렇지 않게 되는 걸까.	But would it stay like that forever?
+	지구를 떠난 사람들은 모두 이런 고독 속에서 살아가는 걸까.	Did all the people who'd left Earth live with this same grief in their hearts?
+	언젠가 지구가 더 이상 지구가 아니게 된다면──	What if Earth were turned into something entirely different?
+	그때의 일을 <elara>는 상상조차 할 수 없다.	<elara> couldn't even imagine how she'd feel if that were to happen.
 @story	지구의 씨앗	Earth's Seeds
 	돌아가신 어머니가 관리하던 창고에서 식물 씨앗을 발견했다.	She found some seeds in the warehouse her late mother had once looked after.
 	병으로 돌아가셨다.	Her life had been cut short by illness.
@@ -236,7 +244,7 @@ grandmother	……글쎄, 어떨까.	That's hard to say.
 	<nora>와는 이 행성에서 만났다. 그녀는 지구에 가 본 적이 없다.	The two had met on this planet. <nora> had never even been to Earth. 
 <elara>	이 행성이 싫은 건 아니야.	I do like this place.
 <elara>	하지만…… 지구가 그리워. 언제나.	But... I miss Earth. I always do.
-<nora>	그렇구나아.	Oh...
+<nora>	……그렇구나.	Oh...
 <nora>	……가자. 언젠가.	Then... let's go there sometime.
 	그녀가 손을 잡아 준다.	She took <elara>'s hands in her own.
 	<elara>는 상상한다. 기억 속 지구의 모습을 떠올린다.	<elara> thought about Earth, in the way it still existed in her memory.
@@ -323,10 +331,12 @@ grandmother	……글쎄, 어떨까.	That's hard to say.
 	수 세기에 걸쳐, 혹은 영원히 지구는 사람이 살 수 없는 행성이 된다.	Mankind wouldn't be able to live on Earth for centuries, if not forever.
 	우주항 복도에는 화약 냄새가 감돌고 있었다.	The smell of gunpowder already filled the spaceport's corridor.
 	<elara>의 손에는 권총이 들려 있다.	<elara> had a gun in her hand.
-	복도 구석에는 직원 몇 명이 피를 흘리며 쓰러져 있다.	A few of the port's staff were lying in a corner, bleeding.
-	여기까지 오는 동안 몇 명이나 죽였을까.	How many people did she kill to get here?
-	앞으로 얼마나 많은 사람이 미처 탈출하지 못해 뇌를 갉아먹힐까.	And how many more people would fail to escape in time and have their brains destroyed by the bacteria?
-	그래도 해야만 했다.	Those were necessary sacrifices.
+	복도 구석에는 직원 한 명이 피를 흘리며 쓰러져 있다.	A member of the ship's crew was lying down on the floor, bleeding.
+	<elara>가 사람을 쏜 것은 처음이었다.	<elara> had never shot a person before.
+	앞으로 얼마나 많은 사람이 목숨을 잃게 될까.	But their plans involved killing many more people.
+	성명과 사전 경고 덕분에 대부분의 사람은 지구를 탈출했다.	When they announced what they would do, many left Earth to save themselves.
+	하지만 경고를 믿지 않은 사람도 있었다. 늦기 전에 앞으로 얼마나 더 많은 사람이 지구를 탈출할 수 있을까.	But some didn't believe their threats. There was little time left to escape now.
+	그래도 해야만 했다.	Unfortunately, those were necessary sacrifices.
 	지구가 앞으로도 지구로 남기 위해.	They would make sure that Earth remained Earth.
 	사람들이 앞으로도 하나의 인류로 함께 나아가기 위해.	They would make sure that mankind could forever stay as one.
 @story	새로운 생명	New Life
@@ -335,7 +345,7 @@ grandmother	……글쎄, 어떨까.	That's hard to say.
 	가족들이 지켜보는 가운데 아기를 품에 안고 있다.	Surrounded by her family, she was holding a baby in her arms.
 	첫딸. 꿈에도 바라지 못했던 행복.	Her first daughter. A joy she had never imagined she could feel.
 	창문으로 따뜻한 햇살이 들어온다.	Warm sunrays trickled in through the window.
-###@selection-token	地球/風/匂い/海/宇宙	Earth/Wind/Smell/Sea/Space
+###@selection-token	지구/바람/냄새/바다/우주	Earth/Wind/Smell/Sea/Space
 	하지만 이 빛은 지구의 햇빛과는 다를 것이다.	But that light wasn't the same as the light you got on Earth.
 	이 아이가 언젠가 지구를 볼 날이 올까.	She wondered if her baby would ever get to see Earth.
 <nora>	퇴원하면 뭐 하고 싶어?	What do you want to do when you leave the hospital?

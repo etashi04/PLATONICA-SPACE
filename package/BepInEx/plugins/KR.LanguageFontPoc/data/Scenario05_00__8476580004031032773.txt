@@ -224,14 +224,14 @@ zoe	다시는 만나지 못할 것 같아.	I'm sure we'll never be able to meet 
 zoe	우주는 넓고…… 우리는 그렇게 자유롭지 않으니까.	Space is so big... and we're not as free as we'd like to think.
 zoe	…………	...
 zoe	이걸로 대답이 됐어?	Does that answer your question?
-###@story	エララの捜索1	Investigating Elara, 1
-###@text-move	彼女はどうして、あんなことをしたのだろう？	Why would she do such a thing?
-###@text-move	そう考えて、しかし自分はその答えを知っている。	I was supposed to ask myself that question, but I already knew the answer.
-###@text-move	彼女は憂いていた。	She was scared.
-###@text-move	宇宙に散り散りになった人類のゆく先を。	Scared of the future of humanity, divided as it was among the stars.
-###@text-move	だから、地球から人々を隔離した。	Which is why she made sure people had to keep their distance.
-###@text-move	地球が、そのままの姿を保てるように。	So that it could remain as it was.
-###@text-move	それが、これからを生きる人々を繋ぎ留めてくれると信じて。	So that it could become an eternal cornerstone for humanity.
+###@story	엘라라 수색 1	Investigating Elara, 1
+###@text-move	그녀는 왜 그런 일을 저질렀을까?	Why would she do such a thing?
+###@text-move	그렇게 자문했지만, 나는 이미 답을 알고 있었다.	I was supposed to ask myself that question, but I already knew the answer.
+###@text-move	그녀는 두려워하고 있었다.	She was scared.
+###@text-move	우주 곳곳으로 흩어진 인류의 미래를.	Scared of the future of humanity, divided as it was among the stars.
+###@text-move	그래서 지구로부터 사람들을 떼어 놓았다.	Which is why she made sure people had to keep their distance.
+###@text-move	지구가 본래 모습을 그대로 간직할 수 있도록.	So that it could remain as it was.
+###@text-move	그것이 앞으로 살아갈 사람들을 하나로 이어 줄 영원한 초석이 되리라 믿으며.	So that it could become an eternal cornerstone for humanity.
 @story	카트리나의 그 후	Katrina's Future
 katrina	엘라라라면 지금도 냉동 수면실에 있을 텐데?	If you're looking for Elara, she should still be in the cryosleep room
 katrina	……리암?	Liam...?
@@ -262,24 +262,24 @@ katrina	하지만 예전에 모든 인류가 지구에서 살던 때보다는 �
 katrina	서로 미워하면서까지 함께 살 필요는 없어.	Why would we want to live our days fighting among ourselves?
 katrina	만약 그 결과 인류가 멸망한다면,	And if this leads to humanity going extinct...
 katrina	그게 인간의 한계라는 거겠지.	I guess we'll know the limits of humanity.
-###@story	エララの捜索2	Investigating Elara, 2
-###@text-move	エララを拘束しなければならない。	I need to apprehend Elara.
-###@text-move	彼女の記憶を盗み見るために、自分はこの宇宙船に乗り込み、意図的に冷凍睡眠装置に細工をした。	I got on this ship and tampered with the crysoleep pods just so I could peer into her memories.
-###@text-move	そして確かに、彼女の記憶を見た。	And peer I did.
-###@text-move	疑いようがない。彼女は首謀者だった。	Beyond any doubt, she was the leader of the terrorist organization.
-###@text-move	本当に、彼女は裁きを受けるべきだろうか？	Should she really be punished?
-###@text-move	エララがかつて地球でしたことは、許されることではない。	Obviously, what she did to Earth is unforgivable.
-###@text-move	しかし、彼女には正義がある。	But she did it out of her own sense of justice.
-###@text-move	あの空間で、記憶を共有したからこそ、それがわかる。	That is what I'd gathered after seeing her memories.
-###@text-move	記憶を消すことだってできただろう。	Memories that she could have easily erased, had she wanted to.
-###@text-move	彼女が本当に捜査から逃れたいなら、当時の記憶を消す方が安全だった。	If she really wanted to escape, it would've been safer to erase it all.
-###@text-move	それなのに、エララはそうしなかった。	But she hadn't done that.
-###@text-move	その理由が、今はわかる。	And now, I understood why.
-###@text-move	彼女は忘れたくなかった。	She didn't want to forget.
-###@text-move	自分がしたことを。	She wanted to remember what she did.
-###@text-move	そんな彼女を、どんな罪に問えるだろう。	What exactly could she be blamed for?
-###@text-move	今、私がすべきなのは──	I didn't know what I should do.
-###@text-move	彼女を逃がすことなのではないか？	Shouldn't I just let her escape?
+###@story	엘라라 수색 2	Investigating Elara, 2
+###@text-move	엘라라를 체포해야 한다.	I need to apprehend Elara.
+###@text-move	그녀의 기억을 엿보기 위해 이 우주선에 올라타 의도적으로 동면 장치를 손봤다.	I got on this ship and tampered with the crysoleep pods just so I could peer into her memories.
+###@text-move	그리고 실제로 그녀의 기억을 보았다.	And peer I did.
+###@text-move	의심할 여지가 없다. 그녀가 테러 조직의 주모자였다.	Beyond any doubt, she was the leader of the terrorist organization.
+###@text-move	정말 그녀가 심판받아야 할까?	Should she really be punished?
+###@text-move	엘라라가 과거 지구에서 한 일은 용서받을 수 없다.	Obviously, what she did to Earth is unforgivable.
+###@text-move	하지만 그녀에게도 나름의 정의가 있었다.	But she did it out of her own sense of justice.
+###@text-move	그 공간에서 기억을 공유했기에 알 수 있었다.	That is what I'd gathered after seeing her memories.
+###@text-move	마음만 먹었다면 기억을 지울 수도 있었을 것이다.	Memories that she could have easily erased, had she wanted to.
+###@text-move	정말 수사망에서 벗어나고 싶었다면 당시의 기억을 지우는 편이 안전했다.	If she really wanted to escape, it would've been safer to erase it all.
+###@text-move	그런데도 엘라라는 그러지 않았다.	But she hadn't done that.
+###@text-move	이제 그 이유를 알겠다.	And now, I understood why.
+###@text-move	그녀는 잊고 싶지 않았던 것이다.	She didn't want to forget.
+###@text-move	자신이 저지른 일을.	She wanted to remember what she did.
+###@text-move	그런 그녀에게 과연 어떤 죄를 물을 수 있을까.	What exactly could she be blamed for?
+###@text-move	지금 내가 해야 할 일은──	I didn't know what I should do.
+###@text-move	그녀를 놓아주는 게 아닐까?	Shouldn't I just let her escape?
 @story	월터의 그 후	Walter's Future
 walter	엘라라?	Elara?
 walter	아직 냉동 수면실에 있겠지.	She should still be in the cryosleep room.
@@ -311,16 +311,16 @@ walter	누구나 그렇겠지.	That probably applies to everyone.
 walter	사람은 애초에 서로를 완전히 이해할 수 없는 법이야.	People can't really, truly understand each other.
 walter	……아닌가?	Am I wrong?
 @story	엘라라 수색 3	Investigating Elara, 3
-@text-move	エララの記憶を思い出す。	I thought back to Elara's memories.
-@text-move	彼女は確かに、テロリストだった。	She was the terrorist. There was no doubt left about that.
-@text-move	仲間を集めて、地球に細菌をばら撒き、人の住めない星にした。	She gathered allies, spread genetically modified bacteria on Earth, and made it uninhabitable.
-@text-move	それから八十年の間、逃げ続けている。	After doing so, she had been on the run for some eighty years.
-@text-move	私は捜査官であり、彼女の罪を明らかにし、拘束しなければならない立場にある。	As an investigator, I'm supposed to prove her crimes and arrest her for it.
-@text-move	偽の記憶は薄れ、本当の自分を取り戻していた。	I finally remember my mission, now that my fake memories have faded away.
-@text-move	覚醒後、医務室で打たれた注射のせいだろう。	It must be that injection I received in the infirmary.
-@text-move	あれは記憶を取り戻すための薬であり、打ったのは医師ではなく潜入していた仲間だった。	That was probably the drug meant to give me back my original memories, administered by an undercover colleague.
-@text-move	しかし──、と思う。	However...
-@text-move	本当に、彼女を捕らえるべきだろうか？	Should I really arrest her?
+@text-move	엘라라의 기억을 떠올렸다.	I thought back to Elara's memories.
+@text-move	그녀가 테러리스트였다는 사실에는 의심의 여지가 없다.	She was the terrorist. There was no doubt left about that.
+@text-move	동료들을 모아 지구에 유전자 변형 세균을 퍼뜨리고 사람이 살 수 없는 별로 만들었다.	She gathered allies, spread genetically modified bacteria on Earth, and made it uninhabitable.
+@text-move	그 뒤로 80년 동안 계속 도망쳐 왔다.	After doing so, she had been on the run for some eighty years.
+@text-move	나는 수사관으로서 그녀의 죄를 밝히고 체포해야 할 입장이다.	As an investigator, I'm supposed to prove her crimes and arrest her for it.
+@text-move	가짜 기억이 희미해지면서 본래의 나와 임무를 되찾았다.	I finally remember my mission, now that my fake memories have faded away.
+@text-move	깨어난 뒤 의무실에서 맞은 주사 때문일 것이다.	It must be that injection I received in the infirmary.
+@text-move	그것은 기억을 되찾게 하는 약이었고, 주사를 놓은 사람도 의사가 아니라 잠입해 있던 동료였다.	That was probably the drug meant to give me back my original memories, administered by an undercover colleague.
+@text-move	하지만…….	However...
+@text-move	정말 그녀를 체포해야 할까?	Should I really arrest her?
 @story	엘라라와의 재회	Elara Again
 elara	…………	...
 elara	……리암?	Liam...?

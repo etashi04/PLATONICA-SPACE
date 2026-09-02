@@ -3,6 +3,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>disable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <AssemblyName>KR.LanguageFontPoc</AssemblyName>
     <OutputPath>../output/</OutputPath>
   </PropertyGroup>
@@ -11,10 +12,12 @@
     <Reference Include="BepInEx.Unity.IL2CPP"><HintPath>../../../../../BepInEx/core/BepInEx.Unity.IL2CPP.dll</HintPath></Reference>
     <Reference Include="0Harmony"><HintPath>../../../../../BepInEx/core/0Harmony.dll</HintPath></Reference>
     <Reference Include="Il2CppInterop.Runtime"><HintPath>../../../../../BepInEx/core/Il2CppInterop.Runtime.dll</HintPath></Reference>
+    <Reference Include="Il2Cppmscorlib"><HintPath>../../../../../BepInEx/interop/Il2Cppmscorlib.dll</HintPath></Reference>
     <Reference Include="Assembly-CSharp"><HintPath>../../../../../BepInEx/interop/Assembly-CSharp.dll</HintPath></Reference>
-    <Reference Include="UnityEngine.CoreModule"><HintPath>../output/UnityEngine.CoreModule.fixed.dll</HintPath></Reference>
-    <Reference Include="UnityEngine.AssetBundleModule"><HintPath>../output/UnityEngine.AssetBundleModule.fixed.dll</HintPath></Reference>
+    <Reference Include="UnityEngine.CoreModule"><HintPath>lib/UnityEngine.CoreModule.fixed.dll</HintPath></Reference>
+    <Reference Include="UnityEngine.AssetBundleModule"><HintPath>lib/UnityEngine.AssetBundleModule.fixed.dll</HintPath></Reference>
     <Reference Include="UnityEngine.TextCoreTextEngineModule"><HintPath>../../../../../BepInEx/interop/UnityEngine.TextCoreTextEngineModule.dll</HintPath></Reference>
+    <Reference Include="UnityEngine.TextRenderingModule"><HintPath>../../../../../BepInEx/interop/UnityEngine.TextRenderingModule.dll</HintPath></Reference>
     <Reference Include="UnityEngine.UIElementsModule"><HintPath>../../../../../BepInEx/interop/UnityEngine.UIElementsModule.dll</HintPath></Reference>
   </ItemGroup>
 </Project>

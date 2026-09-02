@@ -64,7 +64,7 @@ girl	내 이름은──	I'm...
 <walter>	아니……	No...
 <chesca>	괜찮아요. 나도 그렇게 생각하니까.	It's fine. I think I'm childish too.
 	<chesca>는 <walter>도 잘 볼 수 있도록 인형을 들어 올렸다.	She held up the stuffed animal for <walter> to see.
-###@selection-token	お父さん	Dad
+###@selection-token	아버지	Dad
 <chesca>	……이건 집을 나간 아빠가 준 거예요. 내 다섯 살 생일에.	My dad gave this to me before he left, for my fifth birthday.
 <walter>	아버지는 지금 어디에?	Where is he now?
 <chesca>	……저쪽. 엄마랑 싸우고 나가 버렸어요.	On the other side. He had an argument with Mom... and left.
@@ -180,7 +180,7 @@ girl	내 이름은──	I'm...
 <chesca>	좀 더 대충 해도 된다니까요!	Just relax and wing it!
 <walter>	미안…… 원래 이런 성격이라.	Sorry... That's just the way I'm made.
 	이날 <walter>는 <chesca>의 부탁을 받고 그녀의 방에 와 있었다.	<chesca> had asked <walter> to come to her room.
-###@selection-token	鉢植え	Potting
+###@selection-token	화분	Potting
 	새 모종을 샀으니 화분에 옮겨 심는 걸 도와 달라고 했다.	She wanted help with potting some seedlings she had bought.
 <walter>	그런데 이런 건 보통 밖에서 하는 거 아니야?	By the way, isn't this something you normally do outdoors?
 <chesca>	그렇긴 한데.	Yeah.
@@ -204,7 +204,7 @@ girl	내 이름은──	I'm...
 	그런 지시와 부품은 본부에서 암호문으로 보내온다.	Both the parts and instructions came from headquarters, in encrypted messages.
 	하지만 아침부터 밤까지 일이 있는 날은 거의 없다.	However, dealing with those things almost never took up his whole working day.
 	평소에는 이 아파트를 빌려 사는 평범한 시민을 연기해야 한다.	Most of the time, he simply had to play the role of an everyday citizen living in his rented apartment.
-###@selection-token	チャイム	Doorbell
+###@selection-token	초인종	Doorbell
 	조립을 마치자 초인종이 울렸다.	Just as he was done with assembling the bugs, the doorbell rang.
 	이어서 현관문을 두드리는 소리가 났다. 작게 두 번.	Then, there were two faint knocks on the door.
 	그 소리에 <walter>는 경계를 풀었다.	Those knocks relieved all of <walter>'s tension.
@@ -290,7 +290,7 @@ girl	내 이름은──	I'm...
 	<chesca>는 <walter>에게 등을 돌리고 선반을 뒤진다.	With her back turned to <walter>, she started rummaging through the shelves.
 	<walter>는 카드를 정리하다 문득 그녀의 책상 위를 바라봤다.	As he picked up the cards, his eyes fell on something on her desk.
 	학교에서 쓰는 교재와 노트 아래에 카드 한 장이 끼어 있다.	Between the textbooks and notebooks, there was a peculiar card.
-###@selection-token	IDカード	I.D. Card
+###@selection-token	신분증	I.D. Card
 	플레잉 카드가 아니다──그녀의 ID 카드였다.	Not a playing card. It was an I.D. card.
 	신분을 증명하는 물건이니 제대로 보관해 둬야지──	"This is important. Don't keep it lying around."
 	그렇게 말하려다 <walter>는 입을 다물었다.	<walter> almost said those words, but stopped.
@@ -344,7 +344,7 @@ girl	내 이름은──	I'm...
 	몇 분이 지나자 문을 두드리는 소리가 났다.	A few minutes later, he heard a knock on the door.
 	조심스러운 노크였다. 우편배달부라면 훨씬 거칠게 두드린다.	It was a gentle, quiet knock. Nothing like a postman's rough rapping.
 	<walter>는 품속에 권총을 숨긴 채 문으로 다가갔다.	Holding onto the gun inside his jacket, <walter> approached the door.
-###@selection-token	音/空気/テーブル/記憶/瞳	Sound/Breeze/Table/Memory/Eye
+###@selection-token	소리/공기/탁자/기억/눈동자	Sound/Breeze/Table/Memory/Eye
 	소리를 내지 않도록 잠금을 풀고 천천히 문을 연다──	He unlocked it without making a sound and slowly opened it.
 	그곳에 있던 건 <chesca>였다. 봉제인형을 안고 있었다.	On the other side, he found <chesca>, hugging her stuffed animal.
 <chesca>	아, <walter> 씨…… 깨어 있었어요?	Uhm, <walter>... did I wake you up?
