@@ -19,7 +19,7 @@ using app;
 
 namespace KR.LanguageFontPoc
 {
-    [BepInPlugin("kr.platonicaspace.languagefontpoc", "PLATONICA SPACE Korean Runtime Patch", "0.2.0")]
+    [BepInPlugin("kr.platonicaspace.languagefontpoc", "PLATONICA SPACE Korean Runtime Patch", "1.0.1")]
     public sealed class Plugin : BasePlugin
     {
         internal static FontAsset KoreanFont;

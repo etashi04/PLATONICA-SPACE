@@ -1,5 +1,5 @@
 param(
-    [string]$Version = '1.0.0',
+    [string]$Version = '1.0.1',
     [string]$GameBuild = '24960315',
     [Parameter(Mandatory)]
     [string]$BepInExZip
@@ -25,7 +25,7 @@ foreach ($file in @($autoZip,$manualZip,$checksums)) { if (Test-Path -LiteralPat
 New-Item -ItemType Directory -Force -Path $payload,$auto,$manual | Out-Null
 
 Expand-Archive -LiteralPath $BepInExZip -DestinationPath $payload -Force
-Copy-Item -LiteralPath (Join-Path $repo 'package\BepInEx\plugins\KR.LanguageFontPoc') -Destination (Join-Path $payload 'BepInEx\plugins') -Recurse -Force
+Copy-Item -Path (Join-Path $repo 'package\BepInEx\*') -Destination (Join-Path $payload 'BepInEx') -Recurse -Force
 Compress-Archive -Path (Join-Path $payload '*') -DestinationPath $payloadZip -CompressionLevel Optimal -Force
 
 $framework = Join-Path $env:WINDIR 'Microsoft.NET\Framework64\v4.0.30319'

@@ -22,7 +22,7 @@ internal static class Installer
     {
         readonly TextBox path=new TextBox();
         public MainForm(){
-            Text=Title+" v1.0.0"; ClientSize=new Size(620,235); FormBorderStyle=FormBorderStyle.FixedDialog; MaximizeBox=false; StartPosition=FormStartPosition.CenterScreen; Font=new Font("Segoe UI",9);
+            Text=Title+" v1.0.1"; ClientSize=new Size(620,235); FormBorderStyle=FormBorderStyle.FixedDialog; MaximizeBox=false; StartPosition=FormStartPosition.CenterScreen; Font=new Font("Segoe UI",9);
             var h=new Label{Text="PLATONICA SPACE 비공식 한국어 패치",AutoSize=true,Font=new Font("Segoe UI",17,FontStyle.Bold),Location=new Point(28,22)};
             var s=new Label{Text="지원 게임: Steam 24960315 · 원본과 현재 패치 상태를 설치 전에 검증합니다.",AutoSize=true,Location=new Point(29,63)};
             var l=new Label{Text="게임 설치 폴더",AutoSize=true,Location=new Point(29,101)};
@@ -41,7 +41,10 @@ internal static class Installer
 
     static void Install(string root){
         string state=Path.Combine(root,StateName),manifest=Path.Combine(state,"manifest.tsv"),temp=Path.Combine(Path.GetTempPath(),"PLATONICA_KR_"+Guid.NewGuid().ToString("N"));var items=new List<Item>();
-        if(File.Exists(manifest)){ValidateCurrent(root,state,Read(manifest));return;}
+        if(File.Exists(manifest)){
+            ValidateCurrent(root,state,Read(manifest));
+            throw new InvalidOperationException("기존 패치가 설치되어 있습니다. 먼저 [원본 복구]를 실행한 뒤 새 버전을 설치하세요.");
+        }
         try{
             Directory.CreateDirectory(temp);Stream payload=Assembly.GetExecutingAssembly().GetManifestResourceStream("payload.zip");if(payload==null)throw new InvalidDataException("내장 설치 데이터를 찾지 못했습니다.");
             using(payload)using(var zip=new ZipArchive(payload,ZipArchiveMode.Read))foreach(var e in zip.Entries){if(string.IsNullOrEmpty(e.Name))continue;string rel=e.FullName.Replace('/',Path.DirectorySeparatorChar),dst=Safe(root,rel),src=Path.Combine(temp,"new",rel);Directory.CreateDirectory(Path.GetDirectoryName(src));using(var a=e.Open())using(var z=new FileStream(src,FileMode.Create,FileAccess.Write))a.CopyTo(z);items.Add(new Item{Path=rel,Existed=File.Exists(dst),OldHash=File.Exists(dst)?Hash(dst):"-",NewHash=Hash(src)});}
