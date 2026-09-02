@@ -2,7 +2,7 @@
 
 PLATONICA SPACE 비공식 한국어 패치 작업 저장소입니다.
 
-현재 배포 후보는 `0.2.0-rc1`입니다. Steam 앱 ID `3846480`, 게임 빌드 `24960315`, Windows x64 환경에서 확인했습니다.
+현재 정식 배포 버전은 `1.0.0`입니다. Steam 앱 ID `3846480`, 게임 빌드 `24960315`, Windows x64 환경에서 확인했습니다.
 
 ## 저장소 구성
 
@@ -11,9 +11,9 @@ PLATONICA SPACE 비공식 한국어 패치 작업 저장소입니다.
 
 ## 배포본
 
-- `PLATONICA_SPACE_Korean_Patch_*.zip` (자동 설치판): ZIP 안의 EXE를 실행합니다.
-- `PLATONICA_SPACE_Korean_Patch_Manual_*.zip` (수동 설치판): 실행 파일 없이 게임 폴더에 직접 복사합니다.
-- `SHA256SUMS.txt`: 두 배포 ZIP의 무결성 확인용 체크섬입니다.
+- `PLATONICA SPACE 한국어 패치 (Auto).zip`: ZIP 안의 GUI 설치기를 실행합니다.
+- `PLATONICA SPACE 한국어 패치 (Manual).zip`: 실행 파일 없이 게임 폴더에 직접 복사합니다.
+- `SHA-256 체크섬.txt`: 두 배포 ZIP의 무결성 확인용 체크섬입니다.
 
 게임을 종료한 상태에서 설치하세요. 두 배포본 모두 게임 원본 파일과 세이브 파일을 수정하지 않습니다.
 

@@ -2,12 +2,14 @@ PLATONICA SPACE 비공식 한국어 패치 {{VERSION}}
 
 사용 방법
 1. PLATONICA SPACE와 Steam을 종료합니다.
-2. PLATONICA_SPACE_Korean_Patch_v{{VERSION}}.exe를 실행합니다.
+2. PLATONICA SPACE 한국어 패치 v{{VERSION}}.exe를 실행합니다.
 3. 자동으로 찾은 게임 폴더를 확인합니다. 찾지 못하면 platonica-space.exe가 있는 폴더를 선택합니다.
-4. 설치 완료 메시지를 확인하고 게임을 실행합니다.
+4. [한국어 패치 설치]를 누르고 완료 메시지를 확인한 뒤 게임을 실행합니다.
 5. BepInEx 콘솔에 KR_PATCH_READY가 표시되면 정상입니다.
 
-패치를 제거하려면 게임을 종료한 뒤 BepInEx\plugins\KR.LanguageFontPoc 폴더를 삭제합니다.
+패치를 제거하려면 같은 EXE를 실행하고 [원본 복구]를 누릅니다.
+
+설치기는 지원 원본 및 현재 패치 상태와 백업 해시를 먼저 검사합니다. 게임 업데이트나 외부 수정을 감지하면 작업하지 않으며, 설치 또는 복구 도중 실패하면 직전 상태로 자동 롤백합니다.
 
 주의
 - Steam 앱 ID 3846480, 게임 빌드 24960315, Windows x64 기준입니다.
