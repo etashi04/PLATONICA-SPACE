@@ -1,9 +1,6 @@
 name: Release asset labels
 
 on:
-  push:
-    paths:
-      - .github/workflows/release-asset-labels.yml
   release:
     types: [published]
   workflow_dispatch:
@@ -21,9 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ github.token }}
-      # A workflow-file update also labels the currently maintained release once.
-      # Normal releases still use their own published tag.
-      TAG: ${{ github.event.release.tag_name || inputs.tag || 'v1.0.1' }}
+      TAG: ${{ github.event.release.tag_name || inputs.tag }}
     steps:
       - name: Apply stable filenames and Korean labels
         shell: bash
