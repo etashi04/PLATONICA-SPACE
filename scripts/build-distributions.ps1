@@ -9,26 +9,39 @@ $ErrorActionPreference = 'Stop'
 $repo = Split-Path -Parent $PSScriptRoot
 $dist = Join-Path $repo 'dist'
 $work = Join-Path $dist '_build'
-$portable = Join-Path $work 'portable'
-$baseName = "PLATONICA_SPACE_KR_${Version}_build${GameBuild}"
-$portableZip = Join-Path $dist ($baseName + '_portable.zip')
-$installerExe = Join-Path $dist ($baseName + '_setup.exe')
+$payload = Join-Path $work 'payload'
+$auto = Join-Path $work 'auto'
+$manual = Join-Path $work 'manual'
+$baseName = "PLATONICA_SPACE_Korean_Patch_v${Version}"
+$autoZip = Join-Path $dist ($baseName + '.zip')
+$manualZip = Join-Path $dist ("PLATONICA_SPACE_Korean_Patch_Manual_v${Version}.zip")
+$installerExe = Join-Path $auto ($baseName + '.exe')
+$payloadZip = Join-Path $work 'payload.zip'
+$checksums = Join-Path $dist 'SHA256SUMS.txt'
 
 if (-not (Test-Path -LiteralPath $BepInExZip)) { throw "BepInEx ZIP not found: $BepInExZip" }
 if (Test-Path -LiteralPath $work) { Remove-Item -LiteralPath $work -Recurse -Force }
-if (Test-Path -LiteralPath $portableZip) { Remove-Item -LiteralPath $portableZip -Force }
-if (Test-Path -LiteralPath $installerExe) { Remove-Item -LiteralPath $installerExe -Force }
-New-Item -ItemType Directory -Force -Path $portable | Out-Null
+foreach ($file in @($autoZip,$manualZip,$checksums)) { if (Test-Path -LiteralPath $file) { Remove-Item -LiteralPath $file -Force } }
+New-Item -ItemType Directory -Force -Path $payload,$auto,$manual | Out-Null
 
-Expand-Archive -LiteralPath $BepInExZip -DestinationPath $portable -Force
-Copy-Item -LiteralPath (Join-Path $repo 'package\BepInEx\plugins\KR.LanguageFontPoc') -Destination (Join-Path $portable 'BepInEx\plugins') -Recurse -Force
-Copy-Item -LiteralPath (Join-Path $repo 'README.md') -Destination $portable -Force
-Compress-Archive -Path (Join-Path $portable '*') -DestinationPath $portableZip -CompressionLevel Optimal -Force
+Expand-Archive -LiteralPath $BepInExZip -DestinationPath $payload -Force
+Copy-Item -LiteralPath (Join-Path $repo 'package\BepInEx\plugins\KR.LanguageFontPoc') -Destination (Join-Path $payload 'BepInEx\plugins') -Recurse -Force
+Compress-Archive -Path (Join-Path $payload '*') -DestinationPath $payloadZip -CompressionLevel Optimal -Force
 
 $framework = Join-Path $env:WINDIR 'Microsoft.NET\Framework64\v4.0.30319'
 $csc = Join-Path $framework 'csc.exe'
 if (-not (Test-Path -LiteralPath $csc)) { throw "C# compiler not found: $csc" }
-& $csc /nologo /target:winexe /optimize+ "/out:$installerExe" "/win32manifest:$repo\installer\app.manifest" "/resource:$portableZip,payload.zip" "/reference:$framework\System.IO.Compression.dll" "/reference:$framework\System.IO.Compression.FileSystem.dll" /reference:System.Windows.Forms.dll (Join-Path $repo 'installer\Installer.cs')
+& $csc /nologo /target:winexe /optimize+ "/out:$installerExe" "/win32manifest:$repo\installer\app.manifest" "/resource:$payloadZip,payload.zip" "/reference:$framework\System.IO.Compression.dll" "/reference:$framework\System.IO.Compression.FileSystem.dll" /reference:System.Windows.Forms.dll (Join-Path $repo 'installer\Installer.cs')
 if ($LASTEXITCODE -ne 0 -or -not (Test-Path -LiteralPath $installerExe)) { throw 'Installer compilation failed.' }
 
-Get-FileHash -Algorithm SHA256 -LiteralPath $portableZip,$installerExe
+$autoReadme = (Get-Content -LiteralPath (Join-Path $repo 'distribution\README_Auto.txt') -Raw -Encoding UTF8).Replace('{{VERSION}}',$Version)
+$manualReadme = (Get-Content -LiteralPath (Join-Path $repo 'distribution\README_Manual.txt') -Raw -Encoding UTF8).Replace('{{VERSION}}',$Version)
+[IO.File]::WriteAllText((Join-Path $auto 'README.txt'),$autoReadme,[Text.UTF8Encoding]::new($false))
+Copy-Item -Path (Join-Path $payload '*') -Destination $manual -Recurse -Force
+[IO.File]::WriteAllText((Join-Path $manual 'README.txt'),$manualReadme,[Text.UTF8Encoding]::new($false))
+Compress-Archive -Path (Join-Path $auto '*') -DestinationPath $autoZip -CompressionLevel Optimal -Force
+Compress-Archive -Path (Join-Path $manual '*') -DestinationPath $manualZip -CompressionLevel Optimal -Force
+
+$hashLines = Get-FileHash -Algorithm SHA256 -LiteralPath $autoZip,$manualZip | ForEach-Object { $_.Hash.ToLowerInvariant() + ' *' + (Split-Path -Leaf $_.Path) }
+[IO.File]::WriteAllLines($checksums,$hashLines,[Text.UTF8Encoding]::new($false))
+Get-FileHash -Algorithm SHA256 -LiteralPath $autoZip,$manualZip,$checksums
