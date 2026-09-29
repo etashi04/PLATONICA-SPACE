@@ -4,13 +4,9 @@ Steam판 **PLATONICA SPACE** 비공식 한국어 패치 저장소입니다.
 
 현재 정식 배포 버전은 `v1.0.1`이며 Steam 앱 ID `3846480`, 게임 빌드 `24960315`, Windows x64 환경에서 확인했습니다.
 
-## 저장소 구성
+<img width="850" height="478" alt="image" src="https://github.com/user-attachments/assets/bf2a6947-8cf4-4ed4-b56b-e7f03f53bce3" />
+<img width="850" height="478" alt="image" src="https://github.com/user-attachments/assets/dc3ed09c-4b05-4a15-8c5f-951abd24bcc3" />
 
-- `src/KR.LanguageFontPoc`: BepInEx IL2CPP 런타임 패치 소스
-- `package/BepInEx/plugins/KR.LanguageFontPoc`: 플러그인, 한글 폰트 번들, 번역 데이터
-- `installer/`: 자동 패치 GUI 설치기 소스
-- `distribution/`: 자동·수동 설치 안내문
-- `scripts/`: 배포본 생성 스크립트
 
 ## 배포본
 
@@ -22,13 +18,6 @@ Steam판 **PLATONICA SPACE** 비공식 한국어 패치 저장소입니다.
 
 게임과 Steam을 종료한 상태에서 설치하세요. 두 배포본 모두 게임 원본 파일과 저장 데이터를 수정하지 않습니다.
 
-## 확인된 범위
-
-- 본편 대사 및 선택지 한국어 출력
-- 옵션과 인벤토리 UI 한국어 출력
-- 기억의 조각·인물 상세 설명 한국어 출력
-- 아이템·키워드 목록의 잔여 일본어 보정
-- 한국어 FontAsset 런타임 적용
 
 ## 자동 설치
 
