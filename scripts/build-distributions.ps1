@@ -1,6 +1,6 @@
 param(
-    [string]$Version = '1.0.1',
-    [string]$GameBuild = '24960315',
+    [string]$Version = '1.0.2',
+    [string]$GameBuild = '25608431',
     [Parameter(Mandatory)]
     [string]$BepInExZip
 )

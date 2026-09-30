@@ -380,7 +380,7 @@ confirm-no-item	아이템이 놓여 있지 않습니다.<br>이대로 기억의 
 confirm-trash-title	아이템 버리기	Discard Item
 confirm-trash	{0}을(를) 버립니다.<br>계속하시겠습니까?	You are going to discard "{0}".<br>Are you sure?
 confirm-sleep-title	하루 끝내기	End Day
-confirm-sleep	의식이 0이 되어 하루를 끝냅니다.<br>계속하시겠습니까?	Your Vigor will drop to zero and the day will end.<br>Are you sure?
+confirm-sleep	하루를 마칩니다.<br>계속하시겠습니까?	The day will end.<br>Are you sure?
 dialog-yes	예	Yes
 dialog-no	아니요	No
 dialog-next	다음	Next
@@ -404,21 +404,9 @@ guide-move00-pad	[L 스틱]으로 걷기 + [L 버튼]으로 달리기	[L Stick] 
 guide-talk00	소녀와 이야기하기	Talk with the girl
 guide-item00	「삽」 찾기	Look for the shovel
 guide-memory00	「삽」을 테이블에 놓기 / 기억의 조각 보기	Put down the shovel / Watch memory
-tutorial-item-title	아이템	Items
-tutorial-item-text	실내에는 다양한 아이템이 떨어져 있습니다.<br>아이템은 최대 3개까지 주울 수 있습니다.<br><br>이 공간에서는 주운 아이템을 어딘가에 놓으면 무언가가 일어나는 것 같습니다.	You will find several items lying around.<br>You can keep up to 3 with you.<br><br>Strange things may happen when you put down items in specific places.
 tutorial-remember-title	기억의 조각	Memory Fragments
-tutorial-remember-text	방에는 기억의 조각을 재생할 수 있는 스폿이 있습니다.<br>재생하려면 기억과 관련된 아이템을 놓아야 합니다.<br><br>또한 기억을 보는 등 특정 행동을 하면 「의식」을 소비합니다.<br>「의식」이 0이 되면 강한 졸음에 휩싸여 하루가 종료됩니다.	There are certain spots in the rooms where you can watch "memory fragments."<br>To play them, you need to put down an item related to that memory.<br><br>Watching those memories, along with other actions, consumes your "Vigor."<br>When your Vigor drops to zero, you will become too tired to continue for the day.
-tutorial-quest-title	기억 3개 재생하기	Playing Three Memory Fragments
-tutorial-quest-text	기억의 조각 3개를 재생하면 탐색 성공이 됩니다.<br><br>탐색에 성공하면 출구가 나타나 다음 층으로 진행할 수 있습니다.<br>의식이 0이 되기 전에 가능한 한 깊은 층까지 진행해 봅시다.	If you manage to play three memory fragments, that day's exploration will count as a success.<br>Try finding three different fragments before your Vigor drops to zero.<br><br>On a day after a successful exploration, you'll get to keep some active bonuses.<br>Sometimes, the story will only progress after a successful exploration.
-tutorial-result-title	하루의 끝	A Day's End
-tutorial-result-text	「의식」이 0이 되면 강한 졸음에 휩싸여 하루가 종료됩니다.<br><br>다음 날 다시 눈을 뜨지만 방의 모습은 달라져 있습니다.<br>또 그날 획득한 아이템 등은 사라집니다.<br><br>방을 탐색하고 「기억」을 떠올려 진실을 밝혀내세요.	When your Vigor drops to zero, the day ends.<br><br>When you wake up the next day, the rooms may have changed.<br>You will also lose items you picked up on the previous day.<br><br>Look around the place to see as many memories as you can and find out the truth.
-tutorial-token-title	키워드	Keywords
-tutorial-token-text	기억의 조각 중에는 「키워드」를 사용해 문장을 완성해야 계속 읽을 수 있는 것이 있습니다.<br><br>키워드는 특정 기억의 조각 안에서 획득할 수 있습니다.<br>필요한 키워드가 부족하다면 다른 기억의 조각을 재생해 키워드를 얻으세요.	In order to progress through certain memories, you'll need to use "Keywords" to fill in incomplete sentences.<br><br>You'll find Keywords by watching other memory fragments.<br>If you find a sentence you can't complete, try looking at other memories to get more Keywords.
-tutorial-replay-title	재생한 기억의 조각	Replaying Memory Fragments
-tutorial-replay-text	평소와 다른 색의 스폿에서는 이미 재생한 기억의 조각을 다시 재생할 수 있습니다.<br>기억의 내용은 달라지지 않지만 보너스를 다시 획득할 수 있습니다.<br><br>특정 아이템을 찾지 못할 때는 보너스에 의지해 보는 것도 좋습니다.	Spots with a peculiar color allow you to rewatch memory fragments you've already seen.<br>The memory itself will be the same as the last time you watched it, but you can use it to get more bonuses.<br><br>If you're struggling to find a specific item, try relying on those bonuses.
-tutorial-anomaly-title	공간의 왜곡	Spacial Distortions
-tutorial-anomaly-text	이 공간의 일부 방에는 「왜곡」이 발생합니다.<br><br>「왜곡」이 발생한 방에서는 기억을 재생할 수 없는 등 평소와 다른 현상이 일어납니다.<br><br>「왜곡」을 발견했다면 빠르게 방을 나가는 편이 현명합니다.<br>오랫동안 머무르면 더 큰 위협이 발생할 수도 있는 것 같습니다.	Sometimes, spacial distortions may happen within rooms.<br><br>Spacially distorted rooms behave in strange ways. For example, you may be unable to watch memories inside them.<br><br>If you find a spacial distortion, it would be wise to leave as soon as possible, before anything dangerous happens.
-tutorial-tile-title	인자	Figments
-tutorial-tile-text	보너스 등으로 획득할 수 있는 「인자」는 탐색에 도움이 됩니다.<br><br>문을 열 때 보유 중인 인자 가운데 하나가 무작위로 선택되어 효과가 발동합니다.<br>유용한 인자를 모으며 탐색을 진행하세요.<br><br>※보유 중인 인자는 하루가 끝나도 사라지지 않습니다.	You can get useful "Figments" through bonuses and other means.<br><br>Whenever you open a door, one of the Figments you have on you will be chosen at random, and its effects will activate.<br>Try to find the best Figments to aid your exploration.<br><br>Note that you won't lose your Figments at the end of each day.
+tutorial-remember-text	방에는 기억의 조각을 재생할 수 있는 스폿이 있습니다.<br>재생하려면 기억과 관련된 아이템을 놓아야 합니다.<br><br>기억을 중간까지 재생해 보면 어떤 아이템이 필요한지 알 수 있을 때도 있습니다.	There are certain spots in the rooms where you can watch "memory fragments."<br>To play them, you need to put down an item related to that memory.<br><br>Watching parts of those memories might help you figure out which specific items you need.
+tutorial-result-title	기억 5개 재생하기	Playing Five Memories
+tutorial-result-text	기억의 조각 5개를 재생하면 강한 졸음에 휩싸여 하루가 종료됩니다.<br><br>다음 날 다시 눈을 뜨지만 방의 모습은 달라져 있습니다.<br>※획득한 아이템은 하루가 지나도 사라지지 않습니다.<br><br>방을 탐색하고 「기억」을 떠올려 진실을 밝혀내세요.	After playing five memory fragments, you'll be overwhelmed by sleepiness and the day will end.<br><br>When you wake up the next day, the rooms may have changed.<br>However, you will keep the items in your possession.<br><br>Look around the place to see as many memories as you can and find out the truth.
 tutorial-endless-title	회상하기	Reminiscing
 tutorial-endless-text	메인 에피소드를 완료했습니다.<br><br>그들의 이야기는 끝났지만 그 시절을 「회상」하듯 기억의 공간을 계속 탐색할 수 있습니다.<br>아직 보지 못한 「기억의 조각」을 모으거나 캐릭터들과 대화를 즐길 수 있습니다.	You have completed the game's main episode.<br><br>The characters' stories are over, but you can Reminisce about your time in that strange place to explore it some more.<br>You can look for more memory fragments and talk to the others.

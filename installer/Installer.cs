@@ -22,9 +22,9 @@ internal static class Installer
     {
         readonly TextBox path=new TextBox();
         public MainForm(){
-            Text=Title+" v1.0.1"; ClientSize=new Size(620,235); FormBorderStyle=FormBorderStyle.FixedDialog; MaximizeBox=false; StartPosition=FormStartPosition.CenterScreen; Font=new Font("Segoe UI",9);
+            Text=Title+" v1.0.2"; ClientSize=new Size(620,235); FormBorderStyle=FormBorderStyle.FixedDialog; MaximizeBox=false; StartPosition=FormStartPosition.CenterScreen; Font=new Font("Segoe UI",9);
             var h=new Label{Text="PLATONICA SPACE 비공식 한국어 패치",AutoSize=true,Font=new Font("Segoe UI",17,FontStyle.Bold),Location=new Point(28,22)};
-            var s=new Label{Text="지원 게임: Steam 24960315 · 원본과 현재 패치 상태를 설치 전에 검증합니다.",AutoSize=true,Location=new Point(29,63)};
+            var s=new Label{Text="지원 게임: Steam 25608431 · 원본과 현재 패치 상태를 설치 전에 검증합니다.",AutoSize=true,Location=new Point(29,63)};
             var l=new Label{Text="게임 설치 폴더",AutoSize=true,Location=new Point(29,101)};
             path.Location=new Point(29,123); path.Size=new Size(474,25); path.Text=FindGame()??"";
             var b=new Button{Text="찾아보기",Location=new Point(513,121),Size=new Size(80,29)};

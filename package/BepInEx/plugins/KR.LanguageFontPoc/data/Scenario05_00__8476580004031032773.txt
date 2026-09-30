@@ -336,7 +336,7 @@ elara	어쩌면 내가 가장 소중하게 여기는 내 모습이었던 걸까.
 elara	아직…… 지구에 살던 시절의 내 모습.	The image of myself... when I still lived on Earth.
 elara	……현실의 나는,	But here, in reality...
 elara	벌써 백 살이 넘은 할머니인데 말이야.	I'm an old hag, over a hundred years old.
-elara	있잖아…… 리암.	Liam...
+elara	리암.	Liam...
 elara	눈 감아 줄래?	Can you close your eyes for me?
 elara	이런 모습을 보여 주는 건 부끄러우니까.	I don't want you to see me like this.
 elara	거기서 만났던…… 어린 나를 떠올려 줘.	Please... Remember me as you saw me there. As a child.
@@ -359,8 +359,8 @@ elara	…………	...
 elara	……나를 다정하다거나,	If you thought I was kind...
 elara	그런 식으로 생각한다면,	If you really thought that...
 elara	그건 아니야, 리암.	You were wrong, Liam.
-elara	나는 수많은 사람을 죽인 테러리스트야.	I'm a terrorist. I murdered countless people.
-elara	그냥 살인자야.	That's what I am. A murderer.
+elara	나는 지구에서 사람이 살 수 없게 만들었어.	I made Earth uninhabitable.
+elara	그저 테러리스트일 뿐이야.	I'm just a terrorist.
 @story	엘라라와의 대화 2	Conversation with Elara, 2
 elara	계기는…… 일하던 연구 시설에서 우연히 생겨난 세균이었어.	Those bacteria... They were created by coincidence.
 elara	그 우연이 없었다면 나는 분명 지금도 평범하게 살고 있었겠지.	Hadn't it been for that, I would still be living a normal, peaceful life.
@@ -378,31 +378,22 @@ elara	그만큼…… 나처럼 지구가 문화적으로 오염되는 걸 싫�
 elara	놀랄 틈도 없을 만큼 일이 일사천리로 진행됐지.	Everything went so smoothly I didn't even have the time to be surprised about it.
 elara	정신을 차리고 보니 그 세균을 배양해서,	Before I noticed, I'd cultivated a huge amount of that bacteria...
 elara	지구에 퍼뜨리고 있었어.	And I spread it all on Earth.
-elara	수많은 사람이 죽었고,	Lots of people died.
-elara	동료들도 죽었고,	Many of my allies got killed.
-elara	나는…… 지구를 빠져나와 멀리 도망쳤어.	And... I ran away from Earth. Far away.
+elara	수많은 사람이 지구에서 쫓겨났고,	A lot of people were forced to leave the planet.
+elara	우리도 멀리 도망쳤어.	And we ran far, far away too.
 @story	엘라라와의 대화 3	Conversation with Elara, 3
 elara	지구를 떠나 먼 별에 사는 동료에게 몸을 의탁한 뒤의 생활은 조용했어.	Some allies on a faraway planet took me in. Thanks to them, I got to enjoy peace and quiet.
 elara	한동안은 집 밖으로 나가지 않고 숨어 지냈지.	I barely left the house, as I was still in hiding.
 elara	그러다 몇 년이 지나 아이가 생겼고,	After a few years, I had a child...
 elara	그 뒤로는…… 정말 평범하게 살았어.	And after that... I really went on having a normal life.
 elara	테러 같은 건 없었던 것처럼.	As if I'd never committed a worldwide terrorist attack.
-elara	아이들과 행복한 시간을 보냈어.	Blissful years passed with my children.
 elara	……물론,	Now, to be clear...
 elara	내가 한 일을 잊은 적은 없어.	I never forgot for one second about what I'd done.
 elara	80년 전 그날…… 마지막으로 본 지구의 모습을,	That last look I had at Earth...
 elara	지금도 선명하게 기억해.	I still remember it even now, eighty years later.
 elara	그리고 시간은 순식간에 흘렀어.	But time passes so fast.
-elara	아이들은 훌쩍 자라 독립했고,	My children grew up and left.
 elara	그때의 동료들도 하나둘 먼저 세상을 떠났어.	My allies died before me, one after the other.
-elara	이웃에 사는 사람들 중에는,	Eventually, things changed.
-elara	내가 누군지도 모르는 사람이 많아.	Most people in the neighborhood didn't even know who I was.
-elara	나 자신도 이제 숨어 지낸다는 자각조차 없어.	I didn't feel like a fugitive terrorist anymore.
 elara	그리고 지금……	And now...
 elara	80년 만에 그 별을 떠나 우주선에 타고 있어.	Here I am on a spaceship, having left that planet for the first time in eighty years.
-elara	이제 내게 남은 시간도 길지 않아.	I don't have long left to live.
-elara	마지막으로 한 번만 더──	And I only have one wish left.
-elara	지구를 보고 싶어졌어.	I want to see Earth one last time.
 @story	엘라라와의 대화 4	Conversation with Elara, 4
 elara	우리가 왜 그런 짓을 했는지……	Why we did what we did...
 elara	내 기억을 본 리암한테는 설명할 필요도 없을지 모르지만,	Since you've seen my memories, I probably don't even need to explain this to you.
@@ -426,6 +417,10 @@ elara	그래서──	That's why...
 elara	우리는 지구에서 사람을 떼어 냈어.	We had to remove people from the equation.
 elara	아무도 살 수 없는 곳으로 만들었어.	We made it uninhabitable to all humans.
 elara	모두의 마음속에 있는 지구를 그 모습 그대로 남겨 두기 위해서.	So that Earth would always be as people remembered it in their hearts.
+@selection	정말, 그것 때문에 그런 짓까지 한 거야……?	That was really your only reason?
+elara	……응.	It was.
+elara	리암은 이해하지 못할지도 모르지만,	I don't expect you to get it.
+elara	그게 우리가 마지막으로 택한 수단이었어.	But it was our only option.
 @story	엘라라와의 대화 5	Conversation with Elara, 5
 elara	그 공간에서의 나는 사실 굉장히 불안정했어.	When I was inside that dream space, my form was very unstable.
 elara	가끔은 지금 나이의── 할머니가 된 모습으로 눈을 뜨기도 했어.	On some days, I'd wake up in my real body... aged like I am right now.
@@ -469,8 +464,9 @@ elara	너희와 함께 갈게.	I'll come with you.
 elara	…………	...
 elara	내가 저지른 죄를 전부 갚을 수 있다고는 생각하지 않아.	I know that I'll never be able to atone for this.
 elara	그만큼 끔찍한 짓을 했으니까.	What I've done is simply unforgivable.
-elara	셀 수도 없을 만큼 많은 사람을 죽였어.	I've killed too many people to even count.
-elara	전혀 부족하겠지만……	But... I'll at least try.
+elara	셀 수도 없이 많은 사람의 고향을 빼앗았어.	More people than I can count have lost their home because of me.
+elara	그때 미처 도망치지 못해 죽은 사람도 많이 있어.	And those who couldn't run away ended up dying.
+elara	전혀 부족하겠지만……	But... I need to at least try to atone.
 elara	내게 남은 시간을 전부 써서 벌을 받을게.	I'll spend what little time I have left doing penance.
 elara	이 우주선에 있는 내 동료들에게도 투항하라고 전할게.	I'll talk with the other members of my group who are on the ship. I'll tell them to surrender.
 elara	우주 곳곳에 흩어져 있는 동료들에게도 전할 거야.	I'll try to tell the same to all the others out there.
@@ -480,12 +476,8 @@ elara	미안해.	Sorry...
 elara	가능한 한 모두가 받아들이도록 노력할게.	I can only promise you that I'll do my best.
 elara	당연한 말이지만,	This goes without saying, but...
 elara	내가 한 일이 옳았다고는 생각하지 않아.	I'm not deluded enough to think I did the right thing.
-elara	사람을 죽이는 일이 정당화될 수는 없고,	There's no excuse for killing people.
-elara	게다가……	And that's not even all...
 elara	지구는 사람이 살 수 없는 별이 됐지만,	I rendered Earth completely uninhabitable.
 elara	그 결과 세상이 더 좋아졌는지도 모르겠어.	Did that make the universe a better place? I'm not so sure.
-elara	내가 한 일은,	I changed things forever.
-elara	처음부터 전부 잘못된 거였겠지.	And I'm not sure I changed them for the better.
 elara	……그렇구나.	Oh.
 elara	그건 왜?	And why would that be?
 elara	동정해서?	You feel for me?
@@ -523,7 +515,7 @@ elara	결코 용서받을 수는 없겠지만,	I know I can never be forgiven.
 elara	이 목숨이 다할 때까지 벌을 받을게.	But I'll spend the rest of my life repenting.
 elara	……자, 리암.	Now... Liam.
 elara	너희의 별로…… 나를 데려가 줘.	Bring me with you... to your planet.
-elara	있잖아, 리암.	Liam...
+elara	리암.	Liam...
 elara	마지막 부탁이야.	This is my last wish.
 elara	나에게 한 번만 더,	I want to see it one last time.
 elara	지구를 보여 줘.	I want to see Earth.
