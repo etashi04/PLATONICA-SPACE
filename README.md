@@ -12,9 +12,9 @@ Steam판 **PLATONICA SPACE** 비공식 한국어 패치 저장소입니다.
 
 [최신 릴리스](https://github.com/etashi04/PLATONICA-SPACE/releases/latest)에서 다운로드할 수 있습니다.
 
-- `PLATONICA SPACE 한국어 패치 (Auto).zip`: GUI 설치기를 통한 자동 설치·원본 복구
-- `PLATONICA SPACE 한국어 패치 (Manual).zip`: 게임 실행 파일이 있는 폴더에 직접 복사
-- `SHA-256 체크섬.txt`: 배포 ZIP 무결성 확인용 체크섬
+- `PLATONICA_SPACE_Korean_Patch_v1.0.2.zip`: GUI 설치기를 통한 자동 설치·원본 복구
+- `PLATONICA_SPACE_Korean_Patch_Manual_v1.0.2.zip`: 게임 실행 파일이 있는 폴더에 직접 복사
+- `SHA256SUMS.txt`: 배포 ZIP 무결성 확인용 체크섬
 
 게임과 Steam을 종료한 상태에서 설치하세요. 두 배포본 모두 게임 원본 파일과 저장 데이터를 수정하지 않습니다.
 
@@ -45,4 +45,3 @@ Steam판 **PLATONICA SPACE** 비공식 한국어 패치 저장소입니다.
 - 게임 원본 자산과 실행 파일은 저장소에 포함하지 않습니다.
 - 게임 업데이트 후 호환되지 않거나 일부 문장이 원문으로 표시될 수 있습니다.
 - 한국어 폰트 자산은 Noto Sans KR을 기반으로 하며 SIL Open Font License 1.1을 따릅니다. `OFL-1.1.txt`를 확인하세요.
-
